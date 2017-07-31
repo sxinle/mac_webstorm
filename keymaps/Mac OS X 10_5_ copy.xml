@@ -30,6 +30,9 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
+  <action id="MergeSettings">
+    <keyboard-shortcut first-keystroke="shift meta alt m" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
