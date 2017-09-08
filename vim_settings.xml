@@ -28,8 +28,8 @@
       <file name="/JavaScript Console" timestamp="1501511966816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" timestamp="1504851612405">
-        <mark key="'" line="9442" column="33" />
+      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" timestamp="1504859648772">
+        <mark key="'" line="3556" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/demo/react-demos/demo10/index.html" timestamp="1501570247612">
         <mark key="'" line="45" column="0" />
@@ -99,13 +99,21 @@
       <jump line="6" column="8" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/test.html" />
       <jump line="9306" column="0" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
       <jump line="9442" column="33" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="12" column="25" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="2819" column="30" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3183" column="46" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3187" column="33" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3189" column="46" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3520" column="31" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3521" column="18" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="3556" column="32" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>#cavans</text>
       </register>
       <register name="/" type="4">
-        <text>two-column</text>
+        <text>input</text>
       </register>
       <register name="0" type="4">
         <text>triggerTwoColumn</text>
@@ -142,9 +150,9 @@
       </register>
     </registers>
     <search>
-      <last-search>two-column</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>two-column</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -153,6 +161,7 @@
         <entry encoding="base64">XDx0b2dnbGVTZWxlY3Rvclw+</entry>
         <entry>toggle</entry>
         <entry>two-column</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -161,8 +170,11 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
