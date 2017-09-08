@@ -3,20 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" timestamp="1504862956996">
-        <mark key="'" line="311" column="5" />
-        <mark key="[" line="32451" column="18" />
-        <mark key="]" line="32451" column="33" />
+      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" timestamp="1504864881464">
+        <mark key="'" line="32193" column="15" />
+        <mark key="[" line="24871" column="20" />
+        <mark key="]" line="24871" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1501511568514">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/test.html" timestamp="1504863338427">
+      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/test.html" timestamp="1504865569370">
         <mark key="'" line="6" column="8" />
-        <mark key="[" line="36" column="0" />
+        <mark key="[" line="38" column="26" />
         <mark key="l" line="29" column="21" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="/fragment.js" timestamp="1501511891356">
         <mark key="[" line="0" column="0" />
@@ -27,8 +28,8 @@
       <file name="/JavaScript Console" timestamp="1504861722248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" timestamp="1504860307967">
-        <mark key="'" line="376" column="24" />
+      <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" timestamp="1504865576108">
+        <mark key="'" line="10715" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/demo/react-demos/demo10/index.html" timestamp="1501570247612">
         <mark key="'" line="45" column="0" />
@@ -61,13 +62,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45248" column="39" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45250" column="8" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45252" column="3" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45259" column="41" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45312" column="29" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45314" column="37" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
-      <jump line="45316" column="3" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
       <jump line="5038" column="47" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
       <jump line="5393" column="28" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
       <jump line="5613" column="35" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
@@ -161,61 +155,64 @@
       <jump line="282" column="47" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
       <jump line="313" column="34" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
       <jump line="311" column="5" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="4423" column="20" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="24845" column="15" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="24868" column="21" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="25193" column="15" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="32193" column="15" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-modeler.js" />
+      <jump line="10165" column="18" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
+      <jump line="10715" column="24" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.label = 'sdf';</text>
+        <text>update();</text>
       </register>
       <register name="/" type="4">
-        <text>BpmnView</text>
+        <text>factory</text>
       </register>
       <register name="0" type="4">
-        <text>triggerTwoColumn</text>
+        <text>graphicsFactory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbCA9IG5ldyBDcmVhdGVMYWJlbEhhbmRsZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50QnVzLnVwZGF0ZUNvbnRhaW5tZW50cyhlLmVsZW1lbnQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbC5zZXRMYWJlbChlLmVsZW1lbnQsICJzYWRmIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld2VyLmdldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExhYmVsVXRpbC5zZXRMYWJlbChlLmVsZW1lbnQsICJhc2RmIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBCcG1uVmlld2VyID0gd2luZG93LkJwbW5KUzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbCA9IG5ldyBDcmVhdGVMYWJlbEhhbmRsZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5zZXRMYWJlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbC5zZXRMYWJlbChlLmVsZW1lbnQsICJzYWRmIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbC5sYWJlbCA9ICdzZGZzYWRmJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExhYmVsVXRpbC5zZXRMYWJlbChlLmVsZW1lbnQsICJhc2RmIiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBCcG1uVmlld2VyID0gd2luZG93LkJwbW5KUzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld2VyLmdldCgnY2FudmFzJykucmVtbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5zZXRMYWJlbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImNhbnZhcyIpLnJlbW92ZSgidHdvLWNvbHVtbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuZWxlbWVudC5sYWJlbC5sYWJlbCA9ICdzZGZzYWRmJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BpmnView</last-search>
+      <last-search>factory</last-search>
       <last-offset />
-      <last-pattern>BpmnView</last-pattern>
+      <last-pattern>factory</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
-        <entry>once</entry>
-        <entry>input</entry>
-        <entry>name</entry>
         <entry>shape</entry>
         <entry>shape.cre</entry>
         <entry>value</entry>
@@ -232,6 +229,10 @@
         <entry>get</entry>
         <entry>viewer</entry>
         <entry>BpmnView</entry>
+        <entry>element.change</entry>
+        <entry>fire('change</entry>
+        <entry>fire</entry>
+        <entry>factory</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
