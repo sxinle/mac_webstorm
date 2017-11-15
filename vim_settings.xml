@@ -13,12 +13,6 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="26" />
       </file>
-      <file name="/fragment.js" timestamp="1501511891356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/buss.js" timestamp="1504932897061">
         <mark key="'" line="0" column="24" />
         <mark key="[" line="0" column="0" />
@@ -39,6 +33,9 @@
       <file name="$USER_HOME$/workspace/demo/react-demos/demo10/index.html" timestamp="1501570247612">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" timestamp="1509501769430">
+        <mark key="'" line="190" column="0" />
+      </file>
       <file name="/" timestamp="1501512081759">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,6 +46,9 @@
         <mark key="'" line="7221" column="31" />
         <mark key="[" line="24871" column="20" />
         <mark key="]" line="24871" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/parse-server/node_modules/mime/mime.js" timestamp="1509501601499">
+        <mark key="'" line="80" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/test.html" timestamp="1504968131611">
         <mark key="'" line="0" column="0" />
@@ -109,13 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10758" column="4" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="10900" column="73" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="10901" column="38" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="10912" column="9" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="11861" column="13" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="11912" column="5" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
-      <jump line="11947" column="10" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
       <jump line="152" column="28" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
       <jump line="12520" column="49" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
       <jump line="8415" column="28" filename="$USER_HOME$/workspace/demo/bower-bpmn-js-0.22.1/dist/bpmn-viewer.js" />
@@ -209,6 +202,13 @@
       <jump line="114" column="18" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_cloudservice_router/routes/router.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_cloudservice_router/routes/router.js" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_cloudservice_router/routes/router.js" />
+      <jump line="21" column="24" filename="$USER_HOME$/workspace/parse-server/node_modules/mime/mime.js" />
+      <jump line="20" column="39" filename="$USER_HOME$/workspace/parse-server/node_modules/mime/mime.js" />
+      <jump line="80" column="1" filename="$USER_HOME$/workspace/parse-server/node_modules/mime/mime.js" />
+      <jump line="39" column="55" filename="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" />
+      <jump line="129" column="36" filename="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
