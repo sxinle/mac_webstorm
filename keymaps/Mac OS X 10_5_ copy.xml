@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
