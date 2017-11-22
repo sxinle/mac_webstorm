@@ -59,12 +59,17 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" timestamp="1511268102831">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="35" column="13" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" timestamp="1511319499071">
+        <mark key="'" line="34" column="20" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/antdc.js" timestamp="1511318723446">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/antd-admin/src/components/DataTable/AnimTableBody.js" timestamp="1511235293868">
         <mark key="'" line="0" column="0" />
@@ -140,6 +145,13 @@
         <mark key="]" line="101" column="32" />
         <mark key="^" line="101" column="39" />
         <mark key="." line="101" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/antd/antdc.js" timestamp="1511319492435">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/parse-server/node_modules/parse/lib/node/Parse.js" timestamp="1509501769430">
         <mark key="'" line="190" column="0" />
@@ -224,10 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="26" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Menu.js" />
-      <jump line="2" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Sider.js" />
-      <jump line="14" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Sider.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Sider.js" />
       <jump line="7" column="74" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Sider.js" />
       <jump line="33" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Menu.js" />
       <jump line="36" column="22" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Menu.js" />
@@ -323,7 +331,11 @@
       <jump line="3" column="14" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/stylesheets/font-awesome.min.css" />
       <jump line="8" column="13" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
       <jump line="37" column="60" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
-      <jump line="35" column="1" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
+      <jump line="18" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/antd/antdc.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
+      <jump line="4" column="19" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
+      <jump line="35" column="20" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -333,37 +345,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>..</text>
       </register>
-      <register name="0" type="4">
-        <text>pt-breadcrumb</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEJyZWFkY3J1bWIgc2VwYXJhdG9yPSI+Ij4KICAgICAgICAgICAgICAgIDxCcmVhZGNydW1iLkl0ZW0+SG9tZTwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbSBocmVmPSIiPkFwcGxpY2F0aW9uIENlbnRlcjwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbSBocmVmPSIiPkFwcGxpY2F0aW9uIExpc3Q8L0JyZWFkY3J1bWIuSXRlbT4KICAgICAgICAgICAgICAgIDxCcmVhZGNydW1iLkl0ZW0+QW4gQXBwbGljYXRpb248L0JyZWFkY3J1bWIuSXRlbT4KICAgICAgICAgICAgPC9CcmVhZGNydW1iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCcmVhZGNydW1ifSBmcm9tICdhbnRkJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8QnJlYWRjcnVtYiBzZXBhcmF0b3I9Ij4iPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkhvbWU8L0JyZWFkY3J1bWIuSXRlbT4KICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbSBocmVmPSIiPkFwcGxpY2F0aW9uIENlbnRlcjwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtIGhyZWY9IiI+QXBwbGljYXRpb24gTGlzdDwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkFuIEFwcGxpY2F0aW9uPC9CcmVhZGNydW1iLkl0ZW0+CiAgICAgICAgPC9CcmVhZGNydW1iPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb2xsYXBzaWJsZUxpc3QsIEJyZWFkY3J1bWIsIE1lbnVJdGVtfSBmcm9tICJAYmx1ZXByaW50anMvY29yZSIK</text>
+        <text encoding="base64">ICAgICAgICA8QnJlYWRjcnVtYiBzZXBhcmF0b3I9Ij4iPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkhvbWU8L0JyZWFkY3J1bWIuSXRlbT4KICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbSBocmVmPSIiPkFwcGxpY2F0aW9uIENlbnRlcjwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtIGhyZWY9IiI+QXBwbGljYXRpb24gTGlzdDwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkFuIEFwcGxpY2F0aW9uPC9CcmVhZGNydW1iLkl0ZW0+CiAgICAgICAgPC9CcmVhZGNydW1iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NvbGxhcHNpYmxlTGlzdD4K</text>
+        <text encoding="base64">aW1wb3J0IEJyZWFkY3J1bWIgZnJvbSAnYW50ZCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sbGFwc2libGVMaXN0CiAgICAgICAgICAgIHsuLi50aGlzLnN0YXRlfQogICAgICAgICAgICBjbGFzc05hbWU9eyJwdC1icmVhZGNydW1iIn0KICAgICAgICAgICAgZHJvcGRvd25UYXJnZXQ9ezxzcGFuIGNsYXNzTmFtZT17InB0LWJyZWFkY3J1bWIifS8+fQogICAgICAgICAgICByZW5kZXJWaXNpYmxlSXRlbT17dGhpcy5yZW5kZXJCcmVhZGNydW1ifQogICAgICAgID4KICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkFsbCBmaWxlcyIgaHJlZj0iIyIvPgogICAgICAgICAgICA8TWVudUl0ZW0gaWNvbk5hbWU9ImZvbGRlci1jbG9zZSIgdGV4dD0iVXNlcnMiIGhyZWY9IiMiLz4KICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkphbmUgUGVyc29uIiBocmVmPSIjIi8+CiAgICAgICAgICAgIDxNZW51SXRlbSBpY29uTmFtZT0iZm9sZGVyLWNsb3NlIiB0ZXh0PSJNeSBkb2N1bWVudHMiIGhyZWY9IiMiLz4KICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkNsYXNzeSBkYXlqb2IiIGhyZWY9IiMiLz4KICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJkb2N1bWVudCIgdGV4dD0iSG93IHRvIGNydXNoIGl0Ii8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNaWFuQmFvWGllfSBmcm9tICIuL2NvbXBvbmVudHMvYW50ZC9hbnRkYyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbGxhcHNpYmxlTGlzdAogICAgICAgICAgICAgICAgey4uLnRoaXMuc3RhdGV9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e0NsYXNzZXMuQlJFQURDUlVNQlN9CiAgICAgICAgICAgICAgICBkcm9wZG93blRhcmdldD17PHNwYW4gY2xhc3NOYW1lPXtDbGFzc2VzLkJSRUFEQ1JVTUJTX0NPTExBUFNFRH0gLz59CiAgICAgICAgICAgICAgICByZW5kZXJWaXNpYmxlSXRlbT17dGhpcy5yZW5kZXJCcmVhZGNydW1ifQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8TWVudUl0ZW0gaWNvbk5hbWU9ImZvbGRlci1jbG9zZSIgdGV4dD0iQWxsIGZpbGVzIiBocmVmPSIjIiAvPgogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IlVzZXJzIiBocmVmPSIjIiAvPgogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkphbmUgUGVyc29uIiBocmVmPSIjIiAvPgogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9Ik15IGRvY3VtZW50cyIgaHJlZj0iIyIgLz4KICAgICAgICAgICAgICAgIDxNZW51SXRlbSBpY29uTmFtZT0iZm9sZGVyLWNsb3NlIiB0ZXh0PSJDbGFzc3kgZGF5am9iIiBocmVmPSIjIiAvPgogICAgICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJkb2N1bWVudCIgdGV4dD0iSG93IHRvIGNydXNoIGl0IiAvPgogICAgICAgICAgICA8L0NvbGxhcHNpYmxlTGlzdD4K</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8TWlhbkJhb1hpZS8+Ki99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sbGFwc2libGVMaXN0PgogICAgICAgICAgICA8QnJlYWRjcnVtYiB0ZXh0PSJnb29kIi8+CiAgICAgICAgICAgIDxCcmVhZGNydW1iIHRleHQ9Im5hbWUiLz4KICAgICAgICA8L0NvbGxhcHNpYmxlTGlzdD4K</text>
+        <text encoding="base64">aW1wb3J0IHtCcmVhZGNydW1ifSBmcm9tICdhbnRkJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkFsbCBmaWxlcyIgaHJlZj0iIyIvPgogICAgICAgICAgICA8TWVudUl0ZW0gaWNvbk5hbWU9ImZvbGRlci1jbG9zZSIgdGV4dD0iVXNlcnMiIGhyZWY9IiMiLz4KICAgICAgICAgICAgPE1lbnVJdGVtIGljb25OYW1lPSJmb2xkZXItY2xvc2UiIHRleHQ9IkphbmUgUGVyc29uIiBocmVmPSIjIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnJlYWRjcnVtYiBzZXBhcmF0b3I9Ij4iPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkhvbWU8L0JyZWFkY3J1bWIuSXRlbT4KICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbSBocmVmPSIiPkFwcGxpY2F0aW9uIENlbnRlcjwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtIGhyZWY9IiI+QXBwbGljYXRpb24gTGlzdDwvQnJlYWRjcnVtYi5JdGVtPgogICAgICAgICAgICA8QnJlYWRjcnVtYi5JdGVtPkFuIEFwcGxpY2F0aW9uPC9CcmVhZGNydW1iLkl0ZW0+CiAgICAgICAgPC9CcmVhZGNydW1iPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
