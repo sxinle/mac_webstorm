@@ -192,6 +192,13 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Desktop/tiexi/bind.html" timestamp="1511504262651">
+        <mark key="'" line="22" column="44" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_cloudservice_router/app.js" timestamp="1507710413294">
         <mark key="'" line="0" column="0" />
       </file>
@@ -314,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.js" />
       <jump line="23" column="18613" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/node_modules/react-adminlte-dash/dist/index.min.js" />
       <jump line="5" column="22476" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/node_modules/react-adminlte-dash/dist/index.min.js" />
       <jump line="20" column="12717" filename="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/node_modules/react-adminlte-dash/dist/index.min.js" />
@@ -414,6 +420,7 @@
       <jump line="50" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/table/examples/tableEditableExample.tsx" />
       <jump line="100" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/table/examples/tableEditableExample.tsx" />
       <jump line="108" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/table/examples/tableEditableExample.tsx" />
+      <jump line="17" column="44" filename="$USER_HOME$/Desktop/tiexi/bind.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -423,7 +430,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGFyc2VDZWxsRGF0YVw+</text>
@@ -432,31 +439,31 @@
         <text>rowIndex: number</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb250ZXh0TWVudVRhcmdldCwgTWVudSwgTWVudUl0ZW19IGZyb20gIkBibHVlcHJpbnRqcy9jb3JlIjsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2NvZGUuanF1ZXJ5LmNvbS9qcXVlcnktMy4yLjEuc2xpbS5taW4uanMiCiAgICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LUtKM28yREt0SWt2WUlLM1VFTnptTTdLQ2tSci9yRTkvUXBnNmFBWkdKd0ZETVZOQS9HcEdGRjkzaFhwRzVLa04iCiAgICAgICAgICAgIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9ImpzL2Jvb3RzdHJhcC5idW5kbGUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbnRleHRNZW51VGFyZ2V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvNC4wLjAtYmV0YS4yL2Nzcy9ib290c3RyYXAubWluLmNzcyIgaW50ZWdyaXR5PSJzaGEzODQtUHNIOFI3MkpRM1NPZGhWaTN1eGZ0bWFXNlZjNTFNS2IwcTVQMnJSVXBQdnJzenVFNFcxcG92SFlnVHBCZnNoYiIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyI+U3VjY2VzczwvYnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBoZWxsbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPGRpdj4KICAgICAgICAgICAgPEFudEJyZWFkY3J1bWIvPgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDogIiNmZmYiLCBtYXJnaW5Ub3A6IDEwfX0+CiAgICAgICAgICAgICAgICA8VGFibGUgbnVtUm93cz17MTB9PgogICAgICAgICAgICAgICAgICAgIDxDb2x1bW4gbmFtZT0iRG9sbGFycyIgcmVuZGVyQ2VsbD17cmVuZGVyQ2VsbH0vPgogICAgICAgICAgICAgICAgPC9UYWJsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25lIG9mIHRocmVlIGNvbHVtbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgICAgICAgICBPbmUgb2YgdGhyZWUgY29sdW1ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAvLyBPcHRpb25hbCBtZXRob2QgY2FsbGVkIG9uY2UgdGhlIGNvbnRleHQgbWVudSBpcyBjbG9zZWQuCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20iPgogICAgICAgICAgICBPbmUgb2YgdGhyZWUgY29sdW1ucwogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbSI+CiAgICAgICAgICAgIE9uZSBvZiB0aHJlZSBjb2x1bW5zCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -467,7 +474,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxzcGFyc2VDZWxsRGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
