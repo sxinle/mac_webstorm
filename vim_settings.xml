@@ -98,6 +98,13 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="46" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/untitled1/App.js" timestamp="1511857096676">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" timestamp="1511337643481">
         <mark key="'" line="1911" column="9" />
       </file>
@@ -269,6 +276,10 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="25" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/untitled1/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1511854885500">
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/gentelella/production/a_account.html" timestamp="1511834332126">
         <mark key="'" line="309" column="0" />
         <mark key="[" line="265" column="35" />
@@ -305,7 +316,7 @@
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/App.scss" timestamp="1511255592022">
         <mark key="'" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511852077311">
+      <file name="/Dummy.txt" timestamp="1511854616646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/table/examples/tableEditableExample.tsx" timestamp="1511344324544">
@@ -387,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1873" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1880" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
       <jump line="1889" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
       <jump line="1891" column="26" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
       <jump line="1894" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
@@ -487,6 +496,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/gentelella/production/a_account.html" />
       <jump line="255" column="0" filename="$USER_HOME$/Desktop/gentelella/production/a_account.html" />
       <jump line="309" column="0" filename="$USER_HOME$/Desktop/gentelella/production/a_account.html" />
+      <jump line="23" column="11" filename="$USER_HOME$/workspace/untitled1/App.js" />
+      <jump line="24" column="42" filename="$USER_HOME$/workspace/untitled1/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -496,40 +507,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Welcome</text>
+        <text>onPre</text>
       </register>
       <register name="/" type="4">
         <text>PNotify</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZGlzbWlzcz0ibW9kYWwiIGRhdGEtdG9nZ2xlPSJtb2RhbCIgZGF0YS10YXJnZXQ9Ii5tb2RpZnktbmFtZSI+Cg==</text>
+      <register name="0" type="4">
+        <text>onPressLearnMore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtIGNsYXNzPSJmb3JtLWhvcml6b250YWwgZm9ybS1sYWJlbC1sZWZ0IGlucHV0X21hc2siPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02IGNvbC1zbS02IGNvbC14cy0xMiBmb3JtLWdyb3VwIGhhcy1mZWVkYmFjayI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIGhhcy1mZWVkYmFjay1sZWZ0IiBpZD0iZ05ld05hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5paw55qE5YiG57uE5ZCN56ewIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImZhIGZhLWVkaXQgZm9ybS1jb250cm9sLWZlZWRiYWNrIGxlZnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Zvcm0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gbmFtZT0iaGVsbG8iPjwvQnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgICQoJyNkZWxHcm91cCcpLmNvbmZpcm1Nb2RhbCh7CiAgICAgICAgY29uZmlybVRpdGxlOiAnQ3VzdG9tIHBsZWFzZSBjb25maXJtJywKICAgICAgICBjb25maXJtTWVzc2FnZTogJ0N1c3RvbSBhcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gcGVyZm9ybSB0aGlzIGFjdGlvbiA/JywKICAgICAgICBjb25maXJtT2s6ICdDdXN0b20geWVzJywKICAgICAgICBjb25maXJtQ2FuY2VsOiAnQ3V0b20gY2FuY2VsJywKICAgICAgICBjb25maXJtRGlyZWN0aW9uOiAncnRsJywKICAgICAgICBjb25maXJtU3R5bGU6ICdwcmltYXJ5JywKICAgICAgICBjb25maXJtQ2FsbGJhY2s6IGRlZmF1bHRDYWxsYmFjaywKICAgICAgICBjb25maXJtRGlzbWlzczogdHJ1ZSwKICAgICAgICBjb25maXJtQXV0b09wZW46IGZhbHNlCiAgICB9KTsKPC9zY3JpcHQ+Cgo=</text>
+        <text encoding="base64">ICAgIFN0YXR1c0JhciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTdGF0dXNCYXI+aGVsbG88L1N0YXR1c0Jhcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaWQ9ImRlbEdyb3VwIj4K</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+5Yig6Zmk6K+l5YiG57uEPC9zcGFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtIGNsYXNzPSJmb3JtLWhvcml6b250YWwgZm9ybS1sYWJlbC1sZWZ0IGlucHV0X21hc2siPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02IGNvbC1zbS02IGNvbC14cy0xMiBmb3JtLWdyb3VwIGhhcy1mZWVkYmFjayI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIGhhcy1mZWVkYmFjay1sZWZ0IiBpZD0iZ05ld05hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5paw55qE5YiG57uE5ZCN56ewIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImZhIGZhLWVkaXQgZm9ybS1jb250cm9sLWZlZWRiYWNrIGxlZnQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Zvcm0+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
