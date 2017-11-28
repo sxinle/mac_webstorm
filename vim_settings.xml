@@ -76,11 +76,12 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Downloads/AwesomeProject/App.js" timestamp="1511869719679">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Downloads/AwesomeProject/App.js" timestamp="1511873048278">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="44" column="54" />
+        <mark key="]" line="44" column="56" />
+        <mark key="." line="44" column="56" />
+        <mark key="^" line="44" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/components/Menu.js" timestamp="1511248791570">
         <mark key="'" line="178" column="0" />
@@ -398,17 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1901" column="44" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1903" column="45" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1904" column="45" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1906" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1908" column="44" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1910" column="45" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="1911" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/@blueprintjs/core/dist/blueprint.css" />
-      <jump line="11" column="12" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/App.css" />
-      <jump line="1" column="41" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/App.css" />
-      <jump line="38" column="47" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/layout/BaseLayout.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react-scripts/template/src/App.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react-scripts/template/src/App.css" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react-scripts/template/src/App.css" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/User.js" />
@@ -498,16 +488,27 @@
       <jump line="26" column="16" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
       <jump line="17" column="2" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
       <jump line="24" column="15" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="19" column="27" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="47" column="45" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="35" column="40" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="37" column="17" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="7" column="18" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="33" column="17" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Downloads/AwesomeProject/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>gray</text>
       </register>
       <register name="/" type="4">
         <text>PNotify</text>
@@ -516,31 +517,31 @@
         <text>onPressLearnMore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHRJbnB1dC8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGVUYWJsZVBvbHlmaWxsKCkK</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>hello</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dElucHV0IC8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnaGVsbG8nOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBQbGF0Zm9ybSwKICBTdHlsZVNoZWV0LAogIFRleHQsCiAgVmlldwo=</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTdHlsZVNoZWV0Lz4K</text>
+      <register name="6" type="4">
+        <text>hello</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRhYkJhcklPUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
