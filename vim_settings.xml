@@ -227,6 +227,12 @@
         <mark key="^" line="142" column="49" />
         <mark key="." line="142" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/index.js" timestamp="1512988349352">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/sales_mng/src/index.js" timestamp="1511332141520">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="14" column="47" />
@@ -280,12 +286,11 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512984801948">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="30" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512987828462">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/User.js" timestamp="1511345763024">
         <mark key="[" line="5" column="0" />
@@ -335,11 +340,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" timestamp="1512985411090">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" timestamp="1512988127339">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/untitled1/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1511854885500">
         <mark key="[" line="47" column="6" />
@@ -372,7 +377,7 @@
         <mark key="." line="270" column="0" />
         <mark key="^" line="270" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512977124887">
+      <file name="/Dummy.txt" timestamp="1512988430332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/table.css" timestamp="1511341294225">
@@ -530,7 +535,7 @@
       <jump line="45" column="45" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
       <jump line="49" column="2" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" />
       <jump line="30" column="34" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
-      <jump line="4" column="22" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" />
+      <jump line="4" column="30" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -540,7 +545,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>HomePage</text>
+        <text>Message</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -549,31 +554,31 @@
         <text>react-native-tab-navigator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbExheW91dCA9IHsKICAgIGhlaWdodDogMCwKICAgIHdpZHRoOiBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGgsCn07Cgpjb25zdCBGaXJzdFJvdXRlID0gKCkgPT4gPFZpZXcgc3R5bGU9e1tzdHlsZXMuY29udGFpbmVyLCB7YmFja2dyb3VuZENvbG9yOiAnI2ZmNDA4MSd9XX0vPjsKY29uc3QgU2Vjb25kUm91dGUgPSAoKSA9PiA8VmlldyBzdHlsZT17W3N0eWxlcy5jb250YWluZXIsIHtiYWNrZ3JvdW5kQ29sb3I6ICcjNjczYWI3J31dfS8+OwoKZXhwb3J0IGRlZmF1bHQgY2xhc3MgVGFiVmlld0V4YW1wbGUgZXh0ZW5kcyBQdXJlQ29tcG9uZW50IHsKICAgIHN0YXRlID0gewogICAgICAgIGluZGV4OiAwLAogICAgICAgIHJvdXRlczogWwogICAgICAgICAgICB7a2V5OiAnZmlyc3QnLCB0aXRsZTogJ0ZpcnN0J30sCiAgICAgICAgICAgIHtrZXk6ICdzZWNvbmQnLCB0aXRsZTogJ1NlY29uZCd9LAogICAgICAgIF0sCiAgICB9OwoKICAgIF9oYW5kbGVJbmRleENoYW5nZSA9IGluZGV4ID0+IHRoaXMuc2V0U3RhdGUoe2luZGV4fSk7CgogICAgX3JlbmRlckhlYWRlciA9IHByb3BzID0+IDxUYWJCYXIgey4uLnByb3BzfSAvPjsKCiAgICBfcmVuZGVyU2NlbmUgPSBTY2VuZU1hcCh7CiAgICAgICAgZmlyc3Q6IEZpcnN0Um91dGUsCiAgICAgICAgc2Vjb25kOiBTZWNvbmRSb3V0ZSwKICAgIH0pOwoKICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8VGFiVmlld0FuaW1hdGVkCiAgICAgICAgICAgICAgICBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0KICAgICAgICAgICAgICAgIG5hdmlnYXRpb25TdGF0ZT17dGhpcy5zdGF0ZX0KICAgICAgICAgICAgICAgIHJlbmRlclNjZW5lPXt0aGlzLl9yZW5kZXJTY2VuZX0KICAgICAgICAgICAgICAgIHJlbmRlckhlYWRlcj17dGhpcy5fcmVuZGVySGVhZGVyfQogICAgICAgICAgICAgICAgb25JbmRleENoYW5nZT17dGhpcy5faGFuZGxlSW5kZXhDaGFuZ2V9CiAgICAgICAgICAgICAgICBpbml0aWFsTGF5b3V0PXtpbml0aWFsTGF5b3V0fQogICAgICAgICAgICAvPgogICAgICAgICk7CiAgICB9Cn0KCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICB9LAp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgICB9LAogICAgd2VsY29tZTogewogICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpbjogMTAsCiAgICB9LAogICAgaW5zdHJ1Y3Rpb25zOiB7CiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgICAgIG1hcmdpbkJvdHRvbTogNSwKICAgIH0sCiAgICB0YWI6IHsKICAgICAgICBoZWlnaHQ6IDUyLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmNGY1ZjYnLAogICAgfSwKICAgIHRhYkljb246IHsKICAgICAgICB3aWR0aDogMjUsCiAgICAgICAgaGVpZ2h0OiAyNSwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRhYlZpZXdBbmltYXRlZAogICAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9CiAgICAgICAgICAgICAgICBuYXZpZ2F0aW9uU3RhdGU9e3RoaXMuc3RhdGV9CiAgICAgICAgICAgICAgICByZW5kZXJTY2VuZT17dGhpcy5fcmVuZGVyU2NlbmV9CiAgICAgICAgICAgICAgICByZW5kZXJIZWFkZXI9e3RoaXMuX3JlbmRlckhlYWRlcn0KICAgICAgICAgICAgICAgIG9uSW5kZXhDaGFuZ2U9e3RoaXMuX2hhbmRsZUluZGV4Q2hhbmdlfQogICAgICAgICAgICAgICAgaW5pdGlhbExheW91dD17aW5pdGlhbExheW91dH0KICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogInJlZCJ9fQo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nVG9wOicxMCUnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MCUiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHtUYWJOYXZpZ2F0b3IsfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICB0aXRsZTogJ1dlbGNvbWUnLC8v5Zyo5a+86Iiq5Lit5pi+56S655qE5qCH6aKY5YaF5a65CiAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQmFzaWNBcHAgPSBUYWJOYXZpZ2F0b3IoewogICAgTWFpbjoge3NjcmVlbjogTWFpblNjcmVlbn0sCiAgICBTZXR1cDoge3NjcmVlbjogU2V0dXBTY3JlZW59LAp9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
