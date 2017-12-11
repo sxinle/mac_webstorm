@@ -280,12 +280,12 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512979628890">
-        <mark key="'" line="45" column="45" />
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="24" />
-        <mark key="." line="64" column="24" />
-        <mark key="^" line="64" column="23" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512984801948">
+        <mark key="'" line="30" column="34" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/User.js" timestamp="1511345763024">
         <mark key="[" line="5" column="0" />
@@ -334,6 +334,13 @@
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" timestamp="1512984766831">
+        <mark key="'" line="48" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="48" column="2" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/untitled1/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1511854885500">
         <mark key="[" line="47" column="6" />
@@ -425,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
-      <jump line="1172" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1180" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1189" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1200" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
@@ -525,6 +530,8 @@
       <jump line="52" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
       <jump line="1" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
       <jump line="45" column="45" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
+      <jump line="49" column="2" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Contacts.js" />
+      <jump line="30" column="34" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -534,7 +541,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>HomePage</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -543,22 +550,22 @@
         <text>react-native-tab-navigator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgICB9LAogICAgd2VsY29tZTogewogICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpbjogMTAsCiAgICB9LAogICAgaW5zdHJ1Y3Rpb25zOiB7CiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgICAgIG1hcmdpbkJvdHRvbTogNSwKICAgIH0sCiAgICB0YWI6IHsKICAgICAgICBoZWlnaHQ6IDUyLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmNGY1ZjYnLAogICAgfSwKICAgIHRhYkljb246IHsKICAgICAgICB3aWR0aDogMjUsCiAgICAgICAgaGVpZ2h0OiAyNSwKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogInJlZCJ9fQo=</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgICB9LAogICAgd2VsY29tZTogewogICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpbjogMTAsCiAgICB9LAogICAgaW5zdHJ1Y3Rpb25zOiB7CiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgICAgIG1hcmdpbkJvdHRvbTogNSwKICAgIH0sCiAgICB0YWI6IHsKICAgICAgICBoZWlnaHQ6IDUyLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmNGY1ZjYnLAogICAgfSwKICAgIHRhYkljb246IHsKICAgICAgICB3aWR0aDogMjUsCiAgICAgICAgaGVpZ2h0OiAyNSwKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogInJlZCJ9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nVG9wOicxMCUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MCUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nVG9wOicxMCUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MCUiLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
