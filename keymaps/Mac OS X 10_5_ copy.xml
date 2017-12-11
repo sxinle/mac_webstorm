@@ -118,6 +118,10 @@
   <action id="Tool_External Tools_mvim-log">
     <keyboard-shortcut first-keystroke="ctrl meta c" />
   </action>
+  <action id="TranslatePlugin.TranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
