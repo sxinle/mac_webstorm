@@ -280,12 +280,12 @@
         <mark key="." line="22" column="25" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512976430835">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="49" column="65" />
-        <mark key="^" line="49" column="65" />
-        <mark key="." line="49" column="65" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1512979307603">
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/User.js" timestamp="1511345763024">
         <mark key="[" line="5" column="0" />
@@ -425,9 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1130" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
-      <jump line="1136" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
-      <jump line="1143" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1154" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1163" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
       <jump line="1172" column="70" filename="$USER_HOME$/Desktop/gentelella/production/general_elements.html" />
@@ -525,6 +522,9 @@
       <jump line="52" column="43" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" />
       <jump line="51" column="36" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" />
       <jump line="57" column="75" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" />
+      <jump line="35" column="89" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
+      <jump line="1" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -534,28 +534,28 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>column</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUYWJOYXZpZ2F0b3IuSXRlbQogICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkPXt0aGlzLnN0YXRlLnNlbGVjdGVkVGFiID09PSAn6K6i5Y2VJ30KICAgICAgICAgICAgICAgICAgICB0aXRsZT0i6K6i5Y2VIgogICAgICAgICAgICAgICAgICAgIHJlbmRlckljb249eygpID0+IDxJY29uIG5hbWU9InNob3BwaW5nLWNhcnQiIHNpemU9ezIyfSBjb2xvcj0iIzY2NiIvPn0KICAgICAgICAgICAgICAgICAgICByZW5kZXJTZWxlY3RlZEljb249eygpID0+IDxJY29uIG5hbWU9InNob3BwaW5nLWNhcnQiIHNpemU9ezIyfSBjb2xvcj0iIzM0OTZmMCIvPn0KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnNldFN0YXRlKHtzZWxlY3RlZFRhYjogJ+iuouWNlSd9KX0+CiAgICAgICAgICAgICAgICAgICAgPEhvbWVQYWdlLz4KICAgICAgICAgICAgICAgIDwvVGFiTmF2aWdhdG9yLkl0ZW0+Cg==</text>
+      <register name="0" type="4">
+        <text>react-native-tab-navigator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nVG9wOicxMCUnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgICB9LAogICAgd2VsY29tZTogewogICAgICAgIGZvbnRTaXplOiAyMCwKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgIG1hcmdpbjogMTAsCiAgICB9LAogICAgaW5zdHJ1Y3Rpb25zOiB7CiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgICAgIG1hcmdpbkJvdHRvbTogNSwKICAgIH0sCiAgICB0YWI6IHsKICAgICAgICBoZWlnaHQ6IDUyLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmNGY1ZjYnLAogICAgfSwKICAgIHRhYkljb246IHsKICAgICAgICB3aWR0aDogMjUsCiAgICAgICAgaGVpZ2h0OiAyNSwKICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MCUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZFRpdGxlU3R5bGU9e3tjb2xvcjogInJlZCJ9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nVG9wOicxMCUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6ICI1MCUiLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -564,10 +564,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogICAgbWFpbkNvbnRhaW5lcjogewogICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywKICAgICAgICBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICJ3aGl0ZSIKICAgIH0sCiAgICBkZXNjVGV4dDogewogICAgICAgIGZvbnRTaXplOiAyNCwKICAgICAgICBmb250RmFtaWx5OiAn5b6u6L2v6ZuF6buRIEJvbGQnLAogICAgICAgIGNvbG9yOiAnIzAwMDAwMCcKICAgIH0sCiAgICBjaXJjbGVUZXh0OiB7CiAgICAgICAgcGFkZGluZ1RvcDogMTAsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1hcm91bmQnLAogICAgICAgIGhlaWdodDogJzM1JScsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAid2hpdGUiCiAgICB9Cgp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICog6aaW6aG1CiAqLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
