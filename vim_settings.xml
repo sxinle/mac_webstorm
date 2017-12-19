@@ -29,8 +29,8 @@
         <mark key="." line="74" column="65" />
         <mark key="^" line="74" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" timestamp="1513594473791">
-        <mark key="'" line="12" column="22" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" timestamp="1513668899614">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="13" column="41" />
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="41" />
@@ -310,11 +310,14 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1513656046834">
-        <mark key="'" line="72" column="38" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1513668841471">
+        <mark key="'" line="103" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="101" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Activity.js" timestamp="1513668981281">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/modules/users/User.js" timestamp="1511345763024">
         <mark key="[" line="5" column="0" />
@@ -450,11 +453,8 @@
         <mark key="^" line="127" column="11" />
         <mark key="." line="127" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1513668336511">
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1513668965820">
         <mark key="'" line="37" column="64" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/TitleBarFun.js" timestamp="1513656363510">
         <mark key="'" line="4" column="6" />
@@ -483,12 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="102" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/supervisor.js" />
-      <jump line="3" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/TextBottomCircleBtn.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/supervisor.js" />
-      <jump line="9" column="14" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/TextBottomCircleBtn.js" />
-      <jump line="39" column="55" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/supervisor.js" />
-      <jump line="32" column="22" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/supervisor.js" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/TextBottomCircleBtn.js" />
       <jump line="34" column="39" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/supervisor.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/index.js" />
@@ -583,6 +577,12 @@
       <jump line="15" column="13" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
       <jump line="7" column="31" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" />
       <jump line="37" column="64" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="17" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
+      <jump line="45" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Activity.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Activity.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Activity.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,7 +592,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>RNIMigration</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXZpZ2F0aW9uXD4=</text>
@@ -600,32 +600,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPEljb24gbmFtZT0nY2hldnJvbi1sZWZ0JwogICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRpb24uZ29CYWNrKCl9CiAgICAgICAgICAgICAgICAgIGNvbG9yPXsnI0ZGRkZGRid9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICBtYXJnaW5MZWZ0OiAxNSwKICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnI0ZGRkZGRicsCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6IDI4LAogICAgICAgICAgICAgICAgICB9fS8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICB0aXRsZTogJ+a2iOaBrycsCiAgICAgICAgICAgIGhlYWRlclN0eWxlOiB7YmFja2dyb3VuZENvbG9yOiAnIzAwMCd9LAogICAgICAgICAgICBoZWFkZXJUaXRsZVN0eWxlOiB7dGV4dEFsaWduOiAnY2VudGVyJywgYWxpZ25TZWxmOiAnY2VudGVyJywgY29sb3I6ICd3aGl0ZSd9LAogICAgICAgICAgICBoZWFkZXJSaWdodDogKDxWaWV3PjwvVmlldz4pLAogICAgICAgICAgICBoZWFkZXJMZWZ0OiA8VGl0bGVCYXJMZWZ0QnRuIG5hdmlnYXRpb249e25hdmlnYXRpb259Lz4KICAgICAgICB9</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICog6K6i5Y2VCiAqLwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFRpdGxlQmFyTGVmdEJ0biBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9UaXRsZUJhckxlZnRCdG4iOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICB0aXRsZTogJ+aXpeW4uOaLnOiuvycsCiAgICAgICAgICAgIGhlYWRlclN0eWxlOiB7YmFja2dyb3VuZENvbG9yOiAnIzAwMCd9LAogICAgICAgICAgICBoZWFkZXJUaXRsZVN0eWxlOiB7dGV4dEFsaWduOiAnY2VudGVyJywgYWxpZ25TZWxmOiAnY2VudGVyJywgY29sb3I6ICd3aGl0ZSd9LAogICAgICAgICAgICBoZWFkZXJSaWdodDogKDxWaWV3PjwvVmlldz4pLAogICAgICAgICAgICBoZWFkZXJMZWZ0OiA8VGl0bGVCYXJMZWZ0QnRuIG5hdmlnYXRpb249e25hdmlnYXRpb259Lz4KICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICB0aXRsZTogJ+a2iOaBrycsCiAgICAgICAgICAgIGhlYWRlclN0eWxlOiB7YmFja2dyb3VuZENvbG9yOiAnIzAwMCd9LAogICAgICAgICAgICBoZWFkZXJUaXRsZVN0eWxlOiB7dGV4dEFsaWduOiAnY2VudGVyJywgYWxpZ25TZWxmOiAnY2VudGVyJywgY29sb3I6ICd3aGl0ZSd9LAogICAgICAgICAgICBoZWFkZXJSaWdodDogKDxWaWV3PjwvVmlldz4pLAogICAgICAgICAgICBoZWFkZXJMZWZ0OiA8VGl0bGVCYXJMZWZ0QnRuIG5hdmlnYXRpb249e25hdmlnYXRpb259Lz4KICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PEljb24gbmFtZT0nY2hldnJvbi1sZWZ0JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiBuYXZpZ2F0aW9uLmdvQmFjaygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcj17JyNGRkZGRkYnfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luTGVmdDogMTUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJyNGRkZGRkYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAyOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0vPiw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICog6K6i5Y2VCiAqLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IFRpdGxlQmFyTGVmdEJ0biBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9UaXRsZUJhckxlZnRCdG4iOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICB0aXRsZTogJ+aXpeW4uOaLnOiuvycsCiAgICAgICAgICAgIGhlYWRlclN0eWxlOiB7YmFja2dyb3VuZENvbG9yOiAnIzAwMCd9LAogICAgICAgICAgICBoZWFkZXJUaXRsZVN0eWxlOiB7dGV4dEFsaWduOiAnY2VudGVyJywgYWxpZ25TZWxmOiAnY2VudGVyJywgY29sb3I6ICd3aGl0ZSd9LAogICAgICAgICAgICBoZWFkZXJSaWdodDogKDxWaWV3PjwvVmlldz4pLAogICAgICAgICAgICBoZWFkZXJMZWZ0OiA8VGl0bGVCYXJMZWZ0QnRuIG5hdmlnYXRpb249e25hdmlnYXRpb259Lz4KICAgICAgICB9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">PEljb24gbmFtZT0nY2hldnJvbi1sZWZ0JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiBuYXZpZ2F0aW9uLmdvQmFjaygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcj17JyNGRkZGRkYnfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luTGVmdDogMTUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJyNGRkZGRkYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAyOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0vPiw=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgX2Rpc3RhbmNlID0gMTA7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PEljb24gbmFtZT0nY2hldnJvbi1sZWZ0JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiBuYXZpZ2F0aW9uLmdvQmFjaygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcj17JyNGRkZGRkYnfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luTGVmdDogMTUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJyNGRkZGRkYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAyOCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0vPiw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
