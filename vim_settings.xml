@@ -46,6 +46,10 @@
         <mark key="[" line="144" column="35" />
         <mark key="]" line="144" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/list/list-thumbnail.js" timestamp="1513929845624">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="92" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/helper.js" timestamp="1513766868163">
         <mark key="'" line="10" column="43" />
         <mark key="[" line="7" column="40" />
@@ -60,11 +64,12 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" timestamp="1513929013480">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="55" column="32" />
-        <mark key="." line="55" column="32" />
-        <mark key="^" line="51" column="86" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" timestamp="1513930169232">
+        <mark key="'" line="47" column="74" />
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="49" column="68" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="49" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1513923388251">
         <mark key="[" line="0" column="0" />
@@ -75,10 +80,6 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HistoryData.js" timestamp="1513753620641">
         <mark key="'" line="58" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/native-base/src/theme/variables/material.js" timestamp="1513766854051">
-        <mark key="[" line="114" column="17" />
-        <mark key="]" line="114" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-easy-toast/index.js" timestamp="1513755648921">
         <mark key="'" line="66" column="40" />
@@ -131,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/ListItem.js" />
-      <jump line="208" column="6" filename="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/ListItem.js" />
       <jump line="221" column="38" filename="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/ListItem.js" />
       <jump line="234" column="43" filename="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/ListItem.js" />
       <jump line="246" column="40" filename="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/ListItem.js" />
@@ -231,6 +230,8 @@
       <jump line="43" column="56" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
       <jump line="85" column="19" filename="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/list/list-avatar.js" />
       <jump line="61" column="40" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
+      <jump line="47" column="74" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -240,40 +241,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SWNvbiBuYW1lPSJhcnJvdy1mb3J3YXJkIi8+Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dCBub3RlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ZGF0YS50aW1lfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVGV4dD4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB755So5oi35ZCN77yafQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9MaXN0SXRlbT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMaXN0SXRlbSA+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFNlcGFyYXRvci8+Cg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFNlcGFyYXRvciBib3JkZXJlZC8+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFNlcGFyYXRvciBib3JkZXJlZC8+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFNlcGFyYXRvci8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+VmlldzwvVGV4dD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9MaXN0SXRlbT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvUmlnaHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SWNvbiBuYW1lPSJhcnJvdy1mb3J3YXJkIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
