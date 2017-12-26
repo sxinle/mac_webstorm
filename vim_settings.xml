@@ -16,12 +16,6 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Activity.js" timestamp="1513668981281">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1514169296638">
-        <mark key="'" line="36" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Message.js" timestamp="1514189507423">
         <mark key="'" line="25" column="33" />
         <mark key="[" line="24" column="34" />
@@ -94,6 +88,12 @@
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ordersAll.js" timestamp="1514258280594">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/list/list-avatar.js" timestamp="1514186184433">
         <mark key="'" line="85" column="19" />
         <mark key="[" line="83" column="0" />
@@ -159,6 +159,10 @@
         <mark key="." line="126" column="42" />
         <mark key="^" line="126" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/tab/basicTab.js" timestamp="1514258177316">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="43" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/variables/commonColor.js" timestamp="1513765780215">
         <mark key="'" line="291" column="0" />
       </file>
@@ -166,11 +170,18 @@
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1514254794949">
-        <mark key="'" line="47" column="14" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1514258834269">
+        <mark key="'" line="57" column="14" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="43" column="43" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/OrdersInCheck.js" timestamp="1514258377170">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesReport.js" timestamp="1514183564748">
         <mark key="'" line="23" column="37" />
@@ -192,12 +203,6 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/Button.js" timestamp="1513770956386">
         <mark key="'" line="390" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ApplyCoupons.js" timestamp="1514169317724">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/boot/setup.js" timestamp="1513923579682">
         <mark key="[" line="1" column="0" />
@@ -314,40 +319,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuL0NvbnRhY3RzTGlzdCI7Cg==</text>
+      <register name="0" type="4">
+        <text>OrdersInCheck</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERpbWVuc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjonYmxhY2snCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9Db250YWN0c0xpc3QiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhYiBoZWFkaW5nPSJUYWIzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUYWJUaHJlZS8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFiPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtUYWJWaWV3QW5pbWF0ZWQsIFRhYkJhciwgU2NlbmVNYXB9IGZyb20gJ3JlYWN0LW5hdGl2ZS10YWItdmlldyc7Cg==</text>
+        <text encoding="base64">ICAgIERpbWVuc2lvbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbExheW91dCA9IHsKICAgIGhlaWdodDogMCwKICAgIHdpZHRoOiBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGgsCn07Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9Db250YWN0c0xpc3QiOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKICAgIH0KCiAgICBzdGF0ZSA9IHsKICAgICAgICBpbmRleDogMCwKICAgICAgICByb3V0ZXM6IFsKICAgICAgICAgICAge2tleTogJ2ZpcnN0JywgdGl0bGU6ICflrqLmiLcnfSwKICAgICAgICAgICAge2tleTogJ3NlY29uZCcsIHRpdGxlOiAn5ZCM5LqLJ30sCiAgICAgICAgXSwKICAgIH07CgogICAgX2hhbmRsZUluZGV4Q2hhbmdlID0gaW5kZXggPT4gdGhpcy5zZXRTdGF0ZSh7aW5kZXh9KTsKCiAgICBfcmVuZGVySGVhZGVyID0gKHByb3BzKSA9PiA8VGFiQmFyIHsuLi5wcm9wc30gc3R5bGU9e3N0eWxlLnRhYkJhcn0gbGFiZWxTdHlsZT17c3R5bGUubGFiZWxTdHlsZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kaWNhdG9yU3R5bGU9e3N0eWxlLmluZGljYXRvclN0eWxlfS8+OwoKICAgIF9yZW5kZXJTY2VuZSA9IFNjZW5lTWFwKHsKICAgICAgICBmaXJzdDogQ29udGFjdHNMaXN0LAogICAgICAgIHNlY29uZDogQ29udGFjdHNMaXN0LAogICAgfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtUYWJWaWV3QW5pbWF0ZWQsIFRhYkJhciwgU2NlbmVNYXB9IGZyb20gJ3JlYWN0LW5hdGl2ZS10YWItdmlldyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGFiVmlld0FuaW1hdGVkCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZS5jb250YWluZXJ9CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25TdGF0ZT17dGhpcy5zdGF0ZX0KICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyU2NlbmU9e3RoaXMuX3JlbmRlclNjZW5lfQogICAgICAgICAgICAgICAgICAgICAgICByZW5kZXJIZWFkZXI9e3RoaXMuX3JlbmRlckhlYWRlcn0KICAgICAgICAgICAgICAgICAgICAgICAgb25JbmRleENoYW5nZT17dGhpcy5faGFuZGxlSW5kZXhDaGFuZ2V9CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRpYWxMYXlvdXQ9e2luaXRpYWxMYXlvdXR9Lz4K</text>
+        <text encoding="base64">Y29uc3QgaW5pdGlhbExheW91dCA9IHsKICAgIGhlaWdodDogMCwKICAgIHdpZHRoOiBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGgsCn07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICB9LAogICAgdGFiQmFyOiB7CiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAogICAgfSwKICAgIGxhYmVsU3R5bGU6IHsKICAgICAgICBjb2xvcjogJ3JnYig0MCwxNjksMTg1KScKICAgIH0sCiAgICBpbmRpY2F0b3JTdHlsZTogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNDQ0NDQ0MnCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
