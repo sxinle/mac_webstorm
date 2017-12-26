@@ -23,6 +23,9 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1514260291205">
+        <mark key="'" line="114" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/city.json" timestamp="1513677012426">
         <mark key="'" line="1702" column="0" />
       </file>
@@ -166,16 +169,19 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/variables/commonColor.js" timestamp="1513765780215">
         <mark key="'" line="291" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/theme/variables/commonColor.js" timestamp="1514260307733">
+        <mark key="'" line="226" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/native-base/src/basic/Right.js" timestamp="1514187537062">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1514258834269">
-        <mark key="'" line="57" column="14" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1514260257373">
+        <mark key="'" line="59" column="14" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/OrdersInCheck.js" timestamp="1514258377170">
         <mark key="[" line="3" column="21" />
@@ -210,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="41" filename="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/list/list-icon.js" />
-      <jump line="43" column="56" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
-      <jump line="85" column="19" filename="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/list/list-avatar.js" />
       <jump line="61" column="40" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
       <jump line="144" column="55" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
@@ -310,6 +313,9 @@
       <jump line="37" column="39" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" />
       <jump line="2" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" />
       <jump line="85" column="14" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" />
+      <jump line="114" column="51" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/theme/variables/commonColor.js" />
+      <jump line="226" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/theme/variables/commonColor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -319,49 +325,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Content</text>
       </register>
       <register name="/" type="4">
-        <text>styles</text>
+        <text>Tabs</text>
       </register>
       <register name="0" type="4">
         <text>OrdersInCheck</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjonYmxhY2snCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGFiQmFyVGV4dFN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogJ2JsYWNrJwogICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgICB0YWJCYXJJbmFjdGl2ZVRleHRDb2xvcj0iYmxhY2siCiAgICAgICAgICAgICAgICAgICAgICAgIHRhYkJhckJhY2tncm91bmRDb2xvcj0id2hpdGUiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6J3doaXRlJwoKICAgICAgICAgICAgICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhYiBoZWFkaW5nPSJUYWIzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUYWJUaHJlZS8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFiPgo=</text>
+        <text encoding="base64">ICAgIHRhYnM6IHsKICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6J3doaXRlJywKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjonYmxhY2snCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERpbWVuc2lvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhYiBoZWFkaW5nPSJUYWIzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUYWJUaHJlZS8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9Db250YWN0c0xpc3QiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpbWVuc2lvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtUYWJWaWV3QW5pbWF0ZWQsIFRhYkJhciwgU2NlbmVNYXB9IGZyb20gJ3JlYWN0LW5hdGl2ZS10YWItdmlldyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuLi9zcmMvY29tcG9uZW50cy9Db250YWN0c0xpc3QiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbExheW91dCA9IHsKICAgIGhlaWdodDogMCwKICAgIHdpZHRoOiBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGgsCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtUYWJWaWV3QW5pbWF0ZWQsIFRhYkJhciwgU2NlbmVNYXB9IGZyb20gJ3JlYWN0LW5hdGl2ZS10YWItdmlldyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>styles</last-search>
+      <last-search>Tabs</last-search>
       <last-offset />
-      <last-pattern>styles</last-pattern>
+      <last-pattern>Tabs</last-pattern>
       <last-replace>style</last-replace>
       <last-substitute>styles</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>msg</entry>
         <entry>main</entry>
         <entry>mail</entry>
         <entry>noti</entry>
@@ -389,6 +394,7 @@
         <entry>订单</entry>
         <entry>费用申请</entry>
         <entry>styles</entry>
+        <entry>Tabs</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
