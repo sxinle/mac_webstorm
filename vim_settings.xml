@@ -99,6 +99,11 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/tt/jq-weui-demos/buttons.html" timestamp="1514370753846">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1513766959008">
         <mark key="'" line="16" column="38" />
         <mark key="[" line="39" column="34" />
@@ -178,10 +183,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/tt/pages/menus.html" timestamp="1514369712115">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/tt/pages/menus.html" timestamp="1514373076614">
+        <mark key="'" line="86" column="35" />
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="62" />
+        <mark key="^" line="30" column="63" />
       </file>
       <file name="/Dummy.txt" timestamp="1514351633219">
         <mark key="[" line="0" column="0" />
@@ -249,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="37" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesReport.js" />
-      <jump line="122" column="69" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/My.js" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/TemporaryVisit.js" />
       <jump line="119" column="88" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/TemporaryVisit.js" />
       <jump line="72" column="83" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/TemporaryVisit.js" />
@@ -349,6 +354,8 @@
       <jump line="47" column="15" filename="$USER_HOME$/workspace/tt/demos/cell.html" />
       <jump line="25" column="11" filename="$USER_HOME$/workspace/tt/demos/swiper.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/tt/demos/swiper.html" />
+      <jump line="81" column="34" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
+      <jump line="85" column="35" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -358,40 +365,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPuS/oeaBr+e7tOaKpDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9IndpZHRoOiAxMCU7cGFkZGluZy10b3A6IDhweCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPGRpdj4KICAgICAgICAgICAgPAogICAgICAgIDwvZGl2PgogICAgICAgIAogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4LXJlc29sdXRpb246IHJlczsK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImZsb2F0OmxlZnQiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgICQoJy5kZWxldGUtc3dpcGVvdXQnKS5jbGljayhmdW5jdGlvbiAoKSB7CiAgICAgICAgJCh0aGlzKS5wYXJlbnRzKCcud2V1aS1jZWxsJykucmVtb3ZlKCkKICAgIH0pCiAgICAkKCcuY2xvc2Utc3dpcGVvdXQnKS5jbGljayhmdW5jdGlvbiAoKSB7CiAgICAgICAgJCh0aGlzKS5wYXJlbnRzKCcud2V1aS1jZWxsJykuc3dpcGVvdXQoJ2Nsb3NlJykKICAgIH0pCjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9IndpZHRoOiAxMCU7cGFkZGluZy10b3A6IDhweCI+CiAgICAgICAgPGEgc3R5bGU9InZlcnRpY2FsLWFsaWduOiBtaWRkbGUiPgogICAgICAgICAgICA8aSBkYXRhLWZlYXRoZXI9ImNoZXZyb24tbGVmdCI+PC9pPgogICAgICAgIDwvYT4KICAgIDwvZGl2PgogICAgPGRpdiBzdHlsZT0id2lkdGg6IDgwJSI+PC9kaXY+CiAgICA8ZGl2IHN0eWxlPSJ3aWR0aDogMTAlO3BhZGRpbmctdG9wOiA4cHgiPgogICAgICAgIDxhPjxpIGRhdGEtZmVhdGhlcj0iaG9tZSI+PC9pPjwvYT4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3JjPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUM0QUFBQXVDQU1BQUFCZ1o5c0ZBQUFBVkZCTVZFWHg4ZkhNek16cjYrdm41K2Z2NysvdDdlM2QzZDIrdnI3VzF0Ykh4OGV5c3JLZG5aM3A2ZW5rNU9UUjBkRzd1N3UzdDdlam82UFkyTmpoNGVIZjM5L1QwOVBFeE1TdnI2K2dvS0NxcXFxbnA2ZTR1TGdjTFkvT0FBQUFua2xFUVZSSXgrM1JTUkxESUF4RTBRWWhBYkdaUE51NS96MHpyWEhpcWl6NVc3MkZxaHF0VnV1WEFsM2lPVjdpUFYvaVNzQXFaYTlCUzdZT21NWG5OTlg0VFdHeFJNbjNSNlN4Uk5neTBielhPVzhFQk84U0FDbHNQZEIzcHNxbHZHK0x3N09OWGcvcFRsZDUyQmpnU1NrQTNQVjJPT2VtaklEY1pRV2dWdk9OdzYwcTdzSXBSMzhFbkhQU01EUTRNakRqTFBvemhBa0dyVmJyL3owQU5qQUY0QWNiWG1ZQUFBQUFTVVZPUks1Q1lJST0iCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImZsb2F0OiByaWdodDtwYWRkaW5nLXRvcDogOHB4Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImFsaWduLWl0ZW1zOiBjZW50ZXIiPgoKICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+PGltZwogICAgICAgICAgICAgICAgICAgICAgICBzcmM9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBQzRBQUFBdUNBTUFBQUJnWjlzRkFBQUFWRkJNVkVYeDhmSE16TXpyNit2bjUrZnY3Ky90N2UzZDNkMit2cjdXMXRiSHg4ZXlzcktkblozcDZlbms1T1RSMGRHN3U3dTN0N2VqbzZQWTJOamg0ZUhmMzkvVDA5UEV4TVN2cjYrZ29LQ3FxcXFucDZlNHVMZ2NMWS9PQUFBQW5rbEVRVlJJeCszUlNSTERJQXhFMFFZaEFiR1pQTnU1L3owenJYSGlxaXo1VzcyRnFocXRWdXVYQWwzaU9WN2lQVi9pU3NBcVphOUJTN1lPbU1Ybk5OWDRUV0d4Uk1uM1I2U3hSTmd5MGJ6WE9XOEVCTzhTQUNsc1BkQjNwc3FsdkcrTHc3T05YZy9wVGxkNTJCamdTU2tBM1BWMk9PZW1qSURjWlFXZ1Z2T053NjBxN3NJcFIzOEVuSFBTTURRNE1qRGpMUG96aEFrR3JWYnIvejBBTmpBRjRBY2JYbVlBQUFBQVNVVk9SSzVDWUlJPSIKICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+PC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxfX2JkIj4KICAgICAgICAgICAgICAgICAgICA8cD5jZWxsIHN0YW5kYXJkPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxfX2Z0Ij48L2Rpdj4KICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxsbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9ImZsb2F0OnJpZ2h0Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -432,11 +439,11 @@
       <history-cmd>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zLzAuMy8wLjkvZw==</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">JXMvPEljb24vPEZvbnRBd2Vzb21lL2c=</entry>
         <entry>action $Redo</entry>
         <entry>%s/u12.png/user.jpg/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9zdHlsZS9n</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
