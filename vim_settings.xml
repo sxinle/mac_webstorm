@@ -99,12 +99,12 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/tt/pages/header.html" timestamp="1514427633635">
+      <file name="$USER_HOME$/workspace/tt/pages/header.html" timestamp="1514429943268">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tt/jq-weui-demos/buttons.html" timestamp="1514370753846">
         <mark key="[" line="11" column="41" />
@@ -190,12 +190,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/tt/pages/menus.html" timestamp="1514428007248">
+      <file name="$USER_HOME$/workspace/tt/pages/menus.html" timestamp="1514430338366">
         <mark key="'" line="27" column="16" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="27" column="22" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="17" />
+        <mark key="." line="107" column="17" />
+        <mark key="^" line="107" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1514351633219">
         <mark key="[" line="0" column="0" />
@@ -237,11 +237,11 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/tt/js/common.js" timestamp="1514427859336">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/workspace/tt/js/common.js" timestamp="1514429934666">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" timestamp="1514183105414">
         <mark key="'" line="62" column="0" />
@@ -257,6 +257,13 @@
         <mark key="^" line="1" column="107" />
         <mark key="." line="1" column="107" />
       </file>
+      <file name="$USER_HOME$/workspace/tt/pages/dock-realtime-info.html" timestamp="1514430468372">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/native-base-theme/components/Button.js" timestamp="1513770956386">
         <mark key="'" line="390" column="12" />
       </file>
@@ -269,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="43" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
       <jump line="55" column="45" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
       <jump line="68" column="53" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
       <jump line="69" column="50" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
@@ -369,6 +375,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/tt/pages/header.html" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
       <jump line="27" column="16" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
+      <jump line="20" column="8" filename="$USER_HOME$/workspace/tt/pages/dock-realtime-info.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,40 +385,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>验证信息处理</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2xpYi9qcXVlcnktMi4xLjQuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text>102原材料</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPueggeWktOWunuWGteS/oeaBrzwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJpbXBvcnQiIGhyZWY9ImhlYWRlci5odG1sIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9faGQiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi9pbWFnZXMvaWNvbl9uYXZfY2VsbC5wbmciIGFsdD0iIiBzdHlsZT0id2lkdGg6MjBweDttYXJnaW4tcmlnaHQ6NXB4O2Rpc3BsYXk6YmxvY2siPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPumqjOivgeS/oeaBr+WkhOeQhjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlYXRoZXIucmVwbGFjZSh7aGVpZ2h0OiAiMzRweCIsIHdpZHRoOiAiMzRweCIsIGNvbG9yOiAiIzE3OEJGQiJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9faGQiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuLi9pbWFnZXMvaWNvbl9uYXZfY2VsbC5wbmciIGFsdD0iIiBzdHlsZT0id2lkdGg6MjBweDttYXJnaW4tcmlnaHQ6NXB4O2Rpc3BsYXk6YmxvY2siPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIuLi9qcy9mZWF0aGVyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPuS4quS6uuS/oeaBr+e7tOaKpDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPuW8gOWni+eggeWktOaUtui0pzwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPuWujOaIkOeggeWktOaUtui0pzwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGhlYWRlciBzdHlsZT0iaGVpZ2h0OjUwcHg7YmFja2dyb3VuZC1jb2xvcjogd2hpdGU7dmVydGljYWwtYWxpZ246IGNlbnRlcjsiPgogICAgPGRpdiBzdHlsZT0id2lkdGg6IDEwJTtwYWRkaW5nLXRvcDogOHB4O2Zsb2F0OiBsZWZ0Ij4KICAgICAgICA8YSBzdHlsZT0idmVydGljYWwtYWxpZ246IG1pZGRsZSIgb25jbGljaz0iamF2YXNjcmlwdDpoaXN0b3J5LmdvKC0xKSI+CiAgICAgICAgICAgIDxpIGRhdGEtZmVhdGhlcj0iY2hldnJvbi1sZWZ0Ij48L2k+CiAgICAgICAgPC9hPgogICAgPC9kaXY+CiAgICA8ZGl2IHN0eWxlPSJ3aWR0aDogODAlO2hlaWdodDoxMDAlO2Zsb2F0OiBsZWZ0O3RleHQtYWxpZ246IGNlbnRlcjtsaW5lLWhlaWdodDogNTBweDtmb250LXNpemU6IDIwcHgiPgogICAgICAgIOmmlumhtQogICAgPC9kaXY+CiAgICA8ZGl2IHN0eWxlPSJ3aWR0aDogMTAlO3BhZGRpbmctdG9wOiA4cHg7ZmxvYXQ6IHJpZ2h0Ij4KICAgICAgICA8YSBocmVmPSJob21lLmh0bWwiPjxpIGRhdGEtZmVhdGhlcj0iaG9tZSI+PC9pPjwvYT4KICAgIDwvZGl2Pgo8L2hlYWRlcj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPuiuoeWIkuS/oeaBr+WPmOabtDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3ZXVpLWNlbGxzIj4KICAgICAgICAgICAgPGEgY2xhc3M9IndldWktY2VsbCB3ZXVpLWNlbGxfYWNjZXNzIiBocmVmPSJqYXZhc2NyaXB0OjsiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19oZCI+CiAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii4uL2ltYWdlcy9pY29uX25hdl9jZWxsLnBuZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDoyMHB4O21hcmdpbi1yaWdodDo1cHg7ZGlzcGxheTpibG9jayI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndldWktY2VsbF9fYmQiPgogICAgICAgICAgICAgICAgICAgIDxwPumqjOivgeS/oeaBr+WkhOeQhjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0id2V1aS1jZWxsX19mdCI+PC9kaXY+CiAgICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICDpppbpobUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
