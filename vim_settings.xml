@@ -39,12 +39,12 @@
         <mark key="." line="166" column="18" />
         <mark key="^" line="166" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" timestamp="1515030786121">
-        <mark key="'" line="54" column="52" />
-        <mark key="[" line="181" column="18" />
-        <mark key="]" line="181" column="17" />
-        <mark key="^" line="181" column="17" />
-        <mark key="." line="181" column="17" />
+      <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" timestamp="1515036636261">
+        <mark key="'" line="189" column="32" />
+        <mark key="[" line="189" column="29" />
+        <mark key="]" line="189" column="29" />
+        <mark key="." line="189" column="31" />
+        <mark key="^" line="189" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/TemporaryVisit.js" timestamp="1514351467164">
         <mark key="'" line="84" column="33" />
@@ -104,8 +104,10 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bosch/js/jquery-weui.js" timestamp="1515031101249">
-        <mark key="'" line="5996" column="7" />
+      <file name="$USER_HOME$/workspace/bosch/js/jquery-weui.js" timestamp="1515035587913">
+        <mark key="'" line="663" column="34" />
+        <mark key="[" line="5905" column="0" />
+        <mark key="]" line="5936" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/tt/pages/header.html" timestamp="1514443029334">
         <mark key="'" line="0" column="0" />
@@ -309,12 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="15" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="4" column="7" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/cust.json" />
-      <jump line="424" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/cust.json" />
-      <jump line="98" column="22" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="171" column="17" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="41" column="60" filename="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/thumbnail/index.js" />
       <jump line="106" column="32" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
       <jump line="101" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
       <jump line="90" column="33" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" />
@@ -409,6 +405,12 @@
       <jump line="54" column="52" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
       <jump line="6007" column="18" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="5996" column="7" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
+      <jump line="173" column="21" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="70" column="13" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="5934" column="45" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
+      <jump line="544" column="10" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
+      <jump line="663" column="34" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
+      <jump line="189" column="32" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -418,49 +420,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'06', '07'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRldGltZVBpY2tlclw+</text>
+        <text encoding="base64">XDxhcmd1bWVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOe+juWbvUFkb2Jl5YWs5Y+4LCDmmK/okZflkI3nmoTlm77lvaLlm77lg4/lkozmjpLniYjova/ku7bnmoTnlJ/kuqfllYbjgILluILlgLzovr7mlbDnmb7kur/nvo7lhYPnmoTova/ku7blhazlj7gg77yI57qz5pav6L6+5YWL6IKh56Wo5Luj56CB77yaQURCRe+8ie+8jDIwIOWkmuW5tOadpeS4gOebtOiHtOWKm+S6juW4ruWKqeeUqOaIt+WSjOS8geS4muS7peabtOWlveeahOaIkOacrOaViOebiu+8jOmAmui/h+abtOWlveeahOaWueW8j+ihqOi+vuWbvuWDj+OAgeS/oeaBr+WSjOaAneaDs+OAggo=</text>
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZTogZnVuY3Rpb24gKHBpY2tlciwgdmFsdWVzLCBkaXNwbGF5VmFsdWVzKSB7CiAgICAgICAgICB2YXIgY29scyA9IHBpY2tlci5jb2xzOwogICAgICAgICAgdmFyIGRheXMgPSBzZWxmLmdldERheXNCeU1vbnRoQW5kWWVhcih2YWx1ZXNbMV0sIHZhbHVlc1swXSk7CiAgICAgICAgICB2YXIgY3VycmVudFZhbHVlID0gdmFsdWVzWzJdOwogICAgICAgICAgaWYoY3VycmVudFZhbHVlID4gZGF5cy5sZW5ndGgpIGN1cnJlbnRWYWx1ZSA9IGRheXMubGVuZ3RoOwogICAgICAgICAgcGlja2VyLmNvbHNbNF0uc2V0VmFsdWUoY3VycmVudFZhbHVlKTsKCiAgICAgICAgICAvL2NoZWNrIG1pbiBhbmQgbWF4CiAgICAgICAgICB2YXIgY3VycmVudCA9IG5ldyBEYXRlKHZhbHVlc1swXSsnLScrdmFsdWVzWzFdKyctJyt2YWx1ZXNbMl0pOwogICAgICAgICAgdmFyIHZhbGlkID0gdHJ1ZTsKICAgICAgICAgIGlmKHBhcmFtcy5taW4pIHsKICAgICAgICAgICAgdmFyIG1pbiA9IG5ldyBEYXRlKHR5cGVvZiBwYXJhbXMubWluID09PSAiZnVuY3Rpb24iID8gcGFyYW1zLm1pbigpIDogcGFyYW1zLm1pbik7CgogICAgICAgICAgICBpZihjdXJyZW50IDwgK21pbikgewogICAgICAgICAgICAgIHBpY2tlci5zZXRWYWx1ZShsYXN0VmFsaWRWYWx1ZXMpOwogICAgICAgICAgICAgIHZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgIH0gCiAgICAgICAgICB9CiAgICAgICAgICBpZihwYXJhbXMubWF4KSB7CiAgICAgICAgICAgIHZhciBtYXggPSBuZXcgRGF0ZSh0eXBlb2YgcGFyYW1zLm1heCA9PT0gImZ1bmN0aW9uIiA/IHBhcmFtcy5tYXgoKSA6IHBhcmFtcy5tYXgpOwogICAgICAgICAgICBpZihjdXJyZW50ID4gK21heCkgewogICAgICAgICAgICAgIHBpY2tlci5zZXRWYWx1ZShsYXN0VmFsaWRWYWx1ZXMpOwogICAgICAgICAgICAgIHZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KCiAgICAgICAgICB2YWxpZCAmJiAobGFzdFZhbGlkVmFsdWVzID0gdmFsdWVzKTsKCiAgICAgICAgICBpZiAoc2VsZi5wYXJhbXMub25DaGFuZ2UpIHsKICAgICAgICAgICAgc2VsZi5wYXJhbXMub25DaGFuZ2UuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyczpmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoc3RyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLnNwbGljZSgwLCAxKTsKICAgICAgICAgICAgZGlzcGxheVZhbHVlcy5zcGxpY2UoMCwgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgcmV0dXJuICJtL2QiOwogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbHMgPSBwaWNrZXIuY29sczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyczpmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHJldHVybiB7fTsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRheXMgPSBzZWxmLmdldERheXNCeU1vbnRoQW5kWWVhcih2YWx1ZXNbMV0sIHZhbHVlc1swXSk7CiAgICAgICAgICAgIHZhciBjdXJyZW50VmFsdWUgPSB2YWx1ZXNbMl07CiAgICAgICAgICAgIGlmIChjdXJyZW50VmFsdWUgPiBkYXlzLmxlbmd0aCkgY3VycmVudFZhbHVlID0gZGF5cy5sZW5ndGg7CiAgICAgICAgICAgIHBpY2tlci5jb2xzWzRdLnNldFZhbHVlKGN1cnJlbnRWYWx1ZSk7CgogICAgICAgICAgICAvL2NoZWNrIG1pbiBhbmQgbWF4CiAgICAgICAgICAgIHZhciBjdXJyZW50ID0gbmV3IERhdGUodmFsdWVzWzBdICsgJy0nICsgdmFsdWVzWzFdICsgJy0nICsgdmFsdWVzWzJdKTsKICAgICAgICAgICAgdmFyIHZhbGlkID0gdHJ1ZTsKICAgICAgICAgICAgaWYgKHBhcmFtcy5taW4pIHsKICAgICAgICAgICAgICAgIHZhciBtaW4gPSBuZXcgRGF0ZSh0eXBlb2YgcGFyYW1zLm1pbiA9PT0gImZ1bmN0aW9uIiA/IHBhcmFtcy5taW4oKSA6IHBhcmFtcy5taW4pOwoKICAgICAgICAgICAgICAgIGlmIChjdXJyZW50IDwgK21pbikgewogICAgICAgICAgICAgICAgICAgIHBpY2tlci5zZXRWYWx1ZShsYXN0VmFsaWRWYWx1ZXMpOwogICAgICAgICAgICAgICAgICAgIHZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHBhcmFtcy5tYXgpIHsKICAgICAgICAgICAgICAgIHZhciBtYXggPSBuZXcgRGF0ZSh0eXBlb2YgcGFyYW1zLm1heCA9PT0gImZ1bmN0aW9uIiA/IHBhcmFtcy5tYXgoKSA6IHBhcmFtcy5tYXgpOwogICAgICAgICAgICAgICAgaWYgKGN1cnJlbnQgPiArbWF4KSB7CiAgICAgICAgICAgICAgICAgICAgcGlja2VyLnNldFZhbHVlKGxhc3RWYWxpZFZhbHVlcyk7CiAgICAgICAgICAgICAgICAgICAgdmFsaWQgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmFsaWQgJiYgKGxhc3RWYWxpZFZhbHVlcyA9IHZhbHVlcyk7CgogICAgICAgICAgICBpZiAoc2VsZi5wYXJhbXMub25DaGFuZ2UpIHsKICAgICAgICAgICAgICAgIHNlbGYucGFyYW1zLm9uQ2hhbmdlLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ6J20vZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyCg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZTogZnVuY3Rpb24gKHBpY2tlciwgdmFsdWVzLCBkaXNwbGF5VmFsdWVzKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQ6J20vZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5ZQo=</text>
+        <text encoding="base64">ICAgICAgICB5ZWFyczpmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRldGltZVBpY2tlclw+</last-search>
+      <last-search encoding="base64">XDxhcmd1bWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRldGltZVBpY2tlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcmd1bWVudHNcPg==</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -468,9 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Touch</entry>
-        <entry>backgroundColor: &quot;</entry>
-        <entry encoding="base64">XDxjaXR5XD4=</entry>
         <entry encoding="base64">XDxsZXR0ZXJzXD4=</entry>
         <entry>Terminal</entry>
         <entry>Termin</entry>
@@ -485,9 +484,12 @@
         <entry>职能</entry>
         <entry>weui-agree</entry>
         <entry>agree</entry>
-        <entry>datetime</entry>
         <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
         <entry encoding="base64">XDxkYXRldGltZVBpY2tlclw+</entry>
+        <entry>datetime</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry>time-container</entry>
+        <entry encoding="base64">XDxhcmd1bWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
