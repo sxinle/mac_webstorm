@@ -39,6 +39,13 @@
         <mark key="." line="166" column="18" />
         <mark key="^" line="166" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" timestamp="1515030786121">
+        <mark key="'" line="54" column="52" />
+        <mark key="[" line="181" column="18" />
+        <mark key="]" line="181" column="17" />
+        <mark key="^" line="181" column="17" />
+        <mark key="." line="181" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/TemporaryVisit.js" timestamp="1514351467164">
         <mark key="'" line="84" column="33" />
         <mark key="[" line="87" column="0" />
@@ -97,8 +104,8 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bosch/js/jquery-weui.js" timestamp="1514943471334">
-        <mark key="'" line="6003" column="13" />
+      <file name="$USER_HOME$/workspace/bosch/js/jquery-weui.js" timestamp="1515031101249">
+        <mark key="'" line="5996" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/tt/pages/header.html" timestamp="1514443029334">
         <mark key="'" line="0" column="0" />
@@ -302,12 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="36" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="102" column="27" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="126" column="29" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="145" column="36" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="146" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="165" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
       <jump line="14" column="15" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
       <jump line="4" column="7" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/cust.json" />
       <jump line="424" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/cust.json" />
@@ -393,7 +394,6 @@
       <jump line="5879" column="2" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="5901" column="19" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="5977" column="24" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
-      <jump line="5996" column="7" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="6001" column="33" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="6002" column="47" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="6003" column="13" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
@@ -402,6 +402,13 @@
       <jump line="288" column="30" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
       <jump line="307" column="0" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
+      <jump line="18" column="32" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="137" column="15" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="48" column="81" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="50" column="45" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="54" column="52" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
+      <jump line="6007" column="18" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
+      <jump line="5996" column="7" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -411,10 +418,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>hurry-demand.html</text>
+        <text>'06', '07'</text>
       </register>
       <register name="/" type="4">
-        <text>datetime</text>
+        <text encoding="base64">XDxkYXRldGltZVBpY2tlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIOe+juWbvUFkb2Jl5YWs5Y+4LCDmmK/okZflkI3nmoTlm77lvaLlm77lg4/lkozmjpLniYjova/ku7bnmoTnlJ/kuqfllYbjgILluILlgLzovr7mlbDnmb7kur/nvo7lhYPnmoTova/ku7blhazlj7gg77yI57qz5pav6L6+5YWL6IKh56Wo5Luj56CB77yaQURCRe+8ie+8jDIwIOWkmuW5tOadpeS4gOebtOiHtOWKm+S6juW4ruWKqeeUqOaIt+WSjOS8geS4muS7peabtOWlveeahOaIkOacrOaViOebiu+8jOmAmui/h+abtOWlveeahOaWueW8j+ihqOi+vuWbvuWDj+OAgeS/oeaBr+WSjOaAneaDs+OAggo=</text>
@@ -451,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>datetime</last-search>
+      <last-search encoding="base64">XDxkYXRldGltZVBpY2tlclw+</last-search>
       <last-offset />
-      <last-pattern>datetime</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRldGltZVBpY2tlclw+</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -461,8 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tabs</entry>
-        <entry>tabBg</entry>
         <entry>Touch</entry>
         <entry>backgroundColor: &quot;</entry>
         <entry encoding="base64">XDxjaXR5XD4=</entry>
@@ -481,6 +486,8 @@
         <entry>weui-agree</entry>
         <entry>agree</entry>
         <entry>datetime</entry>
+        <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
+        <entry encoding="base64">XDxkYXRldGltZVBpY2tlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
