@@ -148,12 +148,12 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/bosch/pages/regist.html" timestamp="1515568039718">
-        <mark key="'" line="199" column="28" />
-        <mark key="[" line="298" column="40" />
-        <mark key="]" line="298" column="40" />
-        <mark key="^" line="298" column="40" />
-        <mark key="." line="298" column="40" />
+      <file name="$USER_HOME$/workspace/bosch/pages/regist.html" timestamp="1515570195609">
+        <mark key="'" line="301" column="24" />
+        <mark key="[" line="300" column="56" />
+        <mark key="]" line="300" column="56" />
+        <mark key="^" line="300" column="56" />
+        <mark key="." line="300" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" timestamp="1514342674915">
         <mark key="'" line="19" column="4" />
@@ -239,7 +239,7 @@
         <mark key="." line="108" column="28" />
         <mark key="^" line="108" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515557492135">
+      <file name="/Dummy.txt" timestamp="1515570219623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/NativeBase-KitchenSink-2.4.5/src/screens/thumbnail/index.js" timestamp="1514341138217">
@@ -338,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/tt/pages/header.html" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
       <jump line="27" column="16" filename="$USER_HOME$/workspace/tt/pages/menus.html" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/tt/pages/dock-realtime-info.html" />
       <jump line="52" column="48" filename="$USER_HOME$/workspace/tt/pages/dock-realtime-info.html" />
@@ -438,6 +436,8 @@
       <jump line="7480" column="4" filename="$USER_HOME$/workspace/bosch/lib/jquery-2.1.4.js" />
       <jump line="4650" column="2" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
       <jump line="199" column="28" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
+      <jump line="293" column="12" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
+      <jump line="301" column="24" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,40 +447,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vR0VU</text>
+        <text>;'{&quot;op&quot;: &quot;getSupplierList&quot;}',</text>
       </register>
       <register name="/" type="4">
         <text>pick</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICQoJyNzdGFydERhdGUnKS50aW1lcGlja2VyKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>getSupplierList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVR5cGU6ICdqc29uJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICQoZnVuY3Rpb24gKCkgewogICAgfSkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICAgICJvcCI6ImdldEdvb2RzRGV0YWlsIgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkLmFqYXgoewogICAgICAgICAgICB1cmw6ICcvaG9tZS9nZXRTdXBwbGllckxpc3QnLAogICAgICAgICAgICB0eXBlOiAnUE9TVCcsCiAgICAgICAgICAgIGFzeW5jOiBmYWxzZSwKICAgICAgICAgICAgdGltZW91dDogNTAwMCwKICAgICAgICAgICAgZGF0YVR5cGU6ICdqc29uJywKICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEsIHRleHRTdGF0dXMsIGpxWEhSKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2codGV4dFN0YXR1cykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGpxWEhSKQogICAgICAgICAgICB9LAogICAgICAgICAgICBlcnJvcjogZnVuY3Rpb24gKHhociwgdGV4dFN0YXR1cykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coeGhyKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2codGV4dFN0YXR1cykKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8v5L6b5bqU5ZWG5YiX6KGoCiAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoKSB7CiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGxldGU6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfnu5PmnZ8nKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfplJnor68nKQo=</text>
+        <text encoding="base64">ICAgICAgICAkLmFqYXgoewogICAgICAgICAgICB0eXBlOiAnUE9TVCcsCiAgICAgICAgICAgIHVybDogJy9ob21lL1dlYkNoYXRJbnRlcmZhY2UnLAogICAgICAgICAgICBhc3luYzogZmFsc2UsCiAgICAgICAgICAgIHRpbWVvdXQ6IDUwMDAsCiAgICAgICAgICAgIGRhdGFUeXBlOiAnanNvbicsCiAgICAgICAgICAgIC8vIGRhdGE6ZGF0YSwKICAgICAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEsIHRleHRTdGF0dXMsIGpxWEhSKSB7CiAgICAgICAgICAgICAgICB2YXIgc3VwcGxpZXJzID0gbmV3IEFycmF5KCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmRhdGFzKQogICAgICAgICAgICAgICAgZGF0YT1kYXRhLmRhdGFzCiAgICAgICAgICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IGRhdGEubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICB2YXIgaW5mbyA9IHsgInRpdGxlIjogZGF0YVtpXS5uYW1lLCAidmFsdWUiOiBkYXRhW2ldLmlkIH07CiAgICAgICAgICAgICAgICAgICAgc3VwcGxpZXJzLnB1c2goaW5mbyk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJCgiI2RyaXZlci1zdXBwbGllciIpLnNlbGVjdCh7CiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICLkvpvlupTllYbpgInmi6kiLAogICAgICAgICAgICAgICAgICAgIGl0ZW1zOiBzdXBwbGllcnMKICAgICAgICAgICAgICAgICAgICAvLyBvbkNoYW5nZTogZnVuY3Rpb24gKGQpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgY29uc29sZS5sb2codGhpcyxkKTsKICAgICAgICAgICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAgICAgICAgIC8vIG9uQ2xvc2U6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgdmFyIGEgPSAkKCJkcml2ZXItc3VwcGxpZXIiKQogICAgICAgICAgICAgICAgICAgIC8vICAgICBjb25zb2xlLmxvZygiY2xvc2UiK2EpOwogICAgICAgICAgICAgICAgICAgIC8vCiAgICAgICAgICAgICAgICAgICAgLy8gfSwKICAgICAgICAgICAgICAgICAgICAvLyBvbk9wZW46IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgY29uc29sZS5sb2coIm9wZW4iKTsKICAgICAgICAgICAgICAgICAgICAvLyB9LAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGVycm9yOiBmdW5jdGlvbiAoeGhyLCB0ZXh0U3RhdHVzKSB7CiAgICAgICAgICAgICAgICBhbGVydCgi6I635Y+W5L6b5bqU5ZWG5YiX6KGo5aSx6LSlIikKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfplJnor68nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogJ1BPU1QnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCfplJnor68nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVR5cGU6ICdqc29uJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlU2VuZDogZnVuY3Rpb24gKHhocikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coeGhyKQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ+WPkemAgeWJjScpCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICQoZnVuY3Rpb24gKCkgewogICAgfSkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
