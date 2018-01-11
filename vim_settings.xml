@@ -133,10 +133,10 @@
         <mark key="[" line="5905" column="0" />
         <mark key="]" line="5936" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" timestamp="1515663401787">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" timestamp="1515664890991">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tt/pages/header.html" timestamp="1514443029334">
         <mark key="'" line="0" column="0" />
@@ -149,10 +149,11 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1515662147875">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1515664574017">
+        <mark key="'" line="20" column="74" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="26" />
         <mark key="^" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/NavBar.js" timestamp="1513766959008">
@@ -369,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/workspace/bosch/api.md" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/bosch/api.md" />
-      <jump line="23" column="11" filename="$USER_HOME$/workspace/bosch/api.md" />
-      <jump line="54" column="2" filename="$USER_HOME$/workspace/bosch/api.md" />
       <jump line="102" column="0" filename="$USER_HOME$/workspace/bosch/api.md" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/bosch/api.md" />
       <jump line="153" column="0" filename="$USER_HOME$/workspace/bosch/api.md" />
@@ -469,6 +466,10 @@
       <jump line="27" column="39" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" />
       <jump line="4" column="3" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/BaiduMap.js" />
+      <jump line="20" column="74" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
+      <jump line="87" column="42" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" />
+      <jump line="4" column="7" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -478,49 +479,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QnV0dG9uLCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>日常拜访</text>
+        <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>BaiduMapPackage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHt3aWR0aCwgaGVpZ2h0fSA9IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKTsK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGFjdGl2ZVRhYjogJ2ZpcnN0JwogICAgfQoKICAgIG9uVGFiUHJlc3ModGFiKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlVGFiOiB0YWJ9KTsKICAgIH0KCiAgICByZW5kZXIoKSB7CiAgICAgICAgY29uc3Qge25hdmlnYXRlfSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbjsKCiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPENvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDxJbWFnZSBzdHlsZT17e3dpZHRoOndpZHRoLGhlaWdodDpoZWlnaHR9fQogICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vc3JjL2ltYWdlcy92aXNpdC91MjI0LnBuZycpfS8+CiAgICAgICAgICAgIDwvQ29udGFpbmVyPgogICAgICAgICk7CiAgICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tJ3Byb3AtdHlwZXMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5L2c6ICF77yac3liaWwwNTIK6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC83MTkyZWIwMDY1YTAK5L6G5rqQ77ya566A5LmmCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">bGV0IHt3aWR0aCwgaGVpZ2h0fSA9IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGFjdGl2ZVRhYjogJ2ZpcnN0JwogICAgfQoKICAgIG9uVGFiUHJlc3ModGFiKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7YWN0aXZlVGFiOiB0YWJ9KTsKICAgIH0KCiAgICByZW5kZXIoKSB7CiAgICAgICAgY29uc3Qge25hdmlnYXRlfSA9IHRoaXMucHJvcHMubmF2aWdhdGlvbjsKCiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPENvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDxJbWFnZSBzdHlsZT17e3dpZHRoOndpZHRoLGhlaWdodDpoZWlnaHR9fQogICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vc3JjL2ltYWdlcy92aXNpdC91MjI0LnBuZycpfS8+CiAgICAgICAgICAgIDwvQ29udGFpbmVyPgogICAgICAgICk7CiAgICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWJhaWR1LW1hcCcpCg==</text>
+        <text encoding="base64">5L2c6ICF77yac3liaWwwNTIK6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC83MTkyZWIwMDY1YTAK5L6G5rqQ77ya566A5LmmCuiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CuS9nOiAhe+8mnN5YmlsMDUyCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvNzE5MmViMDA2NWEwCuS+hua6kO+8mueugOS5pgrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uIiwK</text>
+        <text encoding="base64">Y29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWJhaWR1LW1hcCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">CuS9nOiAhe+8mnN5YmlsMDUyCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvNzE5MmViMDA2NWEwCuS+hua6kO+8mueugOS5pgrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhID0gewogICAgICAgICJvcCI6ImdldEdvb2RzRGV0YWlsIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>日常拜访</last-search>
+      <last-search encoding="base64">XDxQcm9wVHlwZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>日常拜访</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wVHlwZXNcPg==</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -528,9 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>带跳转</entry>
-        <entry>images</entry>
-        <entry>token</entry>
         <entry>qq</entry>
         <entry>码头</entry>
         <entry>职能</entry>
@@ -548,6 +546,9 @@
         <entry>pick</entry>
         <entry>android</entry>
         <entry>日常拜访</entry>
+        <entry>Prot</entry>
+        <entry>Pro</entry>
+        <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
