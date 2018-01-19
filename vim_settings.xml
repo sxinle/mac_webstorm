@@ -101,8 +101,8 @@
         <mark key="." line="84" column="108" />
         <mark key="^" line="84" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" timestamp="1514341116104">
-        <mark key="'" line="171" column="17" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" timestamp="1516341039850">
+        <mark key="'" line="37" column="4" />
         <mark key="[" line="173" column="25" />
         <mark key="]" line="173" column="36" />
         <mark key="." line="173" column="36" />
@@ -172,11 +172,12 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1516339573831">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1516340826389">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="140" column="37" />
+        <mark key="]" line="140" column="36" />
+        <mark key="." line="140" column="36" />
+        <mark key="^" line="140" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/tt/jq-weui-demos/toast.html" timestamp="1514443728698">
         <mark key="[" line="40" column="0" />
@@ -313,6 +314,9 @@
         <mark key="^" line="10" column="66" />
         <mark key="." line="10" column="68" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/react-native/index.d.ts" timestamp="1516341128839">
+        <mark key="'" line="8296" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Order.js" timestamp="1514274048507">
         <mark key="'" line="177" column="26" />
         <mark key="[" line="63" column="61" />
@@ -378,10 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="17" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
-      <jump line="50" column="105" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
-      <jump line="139" column="38" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
-      <jump line="161" column="58" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
       <jump line="190" column="38" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
       <jump line="171" column="41" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
       <jump line="11" column="61" filename="$USER_HOME$/workspace/bosch/pages/regist.html" />
@@ -478,6 +478,10 @@
       <jump line="26" column="28" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
       <jump line="24" column="38" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
       <jump line="139" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="140" column="13" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
+      <jump line="8296" column="11" filename="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/react-native/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,57 +491,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
+        <text encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$('#menuContent')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2xvYmFsLnVybD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChnbG9iYWwuYSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2xvYmFsLmEgPSAiMSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2xvYmFsLnVybFByZWZpeCA9ICIiCg==</text>
+        <text encoding="base64">Z2xvYmFsLnVybD0iIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwudXJsUHJlZml4ID0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbC51cmxQcmVmaXggPSAiIgo=</text>
+        <text encoding="base64">Z2xvYmFsLnVybFByZWZpeCA9ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwudXJsUHJlZml4ID0gIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gJCgnI21lbnVDb250ZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbC51cmxQcmVmaXggPSAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gJCgnI21lbnVDb250ZW50Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9wVHlwZXNcPg==</last-search>
+      <last-search encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9wVHlwZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qq</entry>
         <entry>码头</entry>
         <entry>职能</entry>
         <entry>weui-agree</entry>
@@ -557,6 +560,7 @@
         <entry>Prot</entry>
         <entry>Pro</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
