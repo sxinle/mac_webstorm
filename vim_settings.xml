@@ -79,12 +79,12 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1514342482840">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="84" column="100" />
-        <mark key="]" line="84" column="108" />
-        <mark key="." line="84" column="108" />
-        <mark key="^" line="84" column="108" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1516870036313">
+        <mark key="'" line="6" column="22" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" timestamp="1516355095451">
         <mark key="'" line="47" column="0" />
@@ -113,12 +113,6 @@
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" timestamp="1515661245704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitMap.js" timestamp="1516338917120">
         <mark key="'" line="89" column="2" />
@@ -355,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="663" column="34" filename="$USER_HOME$/workspace/bosch/js/jquery-weui.js" />
-      <jump line="189" column="32" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
       <jump line="185" column="29" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
       <jump line="194" column="0" filename="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" />
@@ -455,6 +447,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Customers.js" />
       <jump line="128" column="20" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Customers.js" />
       <jump line="135" column="33" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Colleagues.js" />
+      <jump line="5" column="37" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" />
+      <jump line="6" column="22" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,7 +458,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>getManufacturer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZXR0ZXJzXD4=</text>
@@ -472,32 +466,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3toZWlnaHQ6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQgKyBTRUNUSU9OSEVJR0hUICogNSwgbWFyZ2luQm90dG9tOiAxMH19Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3toZWlnaHQ6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQsIG1hcmdpbkJvdHRvbTogMTB9fT4K</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChpbmRleCk7Cg==</text>
+      <register name="2" type="4">
+        <text>react-native-device-info</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChpbmRleCk7Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChpbmRleCk7Cg==</text>
+      <register name="4" type="4">
+        <text>native-base</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEN1c3RvbWVycyAK</text>
+      <register name="6" type="4">
+        <text>native-base</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnRhY3RzTGlzdCBmcm9tICIuL0NvbnRhY3RzTGlzdCI7Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkYXRhU291cmNlOiB0aGlzLnN0YXRlLmRhdGFTb3VyY2UuY2xvbmVXaXRoUm93c0FuZFNlY3Rpb25zKGRhdGFCbG9iLCBzZWN0aW9uSURzLCByb3dJRHMpCg==</text>
+      <register name="8" type="4">
+        <text>native-base</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlbmd0aCA9IGpzb25EYXRhLmRhdGEuY250Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3toZWlnaHQ6IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQsIG1hcmdpbkJvdHRvbTogMTB9fT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -510,7 +504,7 @@
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -543,8 +537,8 @@
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9zdHlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL+eggeWktC/kvpvlupTllYYvZw==</entry>
         <entry encoding="base64">JzwsJz5zL+iBjOiDvS/pg6jpl6gvZw==</entry>
-        <entry>action AceAction</entry>
         <entry>action $Redo</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
