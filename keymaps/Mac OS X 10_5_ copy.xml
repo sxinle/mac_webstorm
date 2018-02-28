@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
@@ -20,6 +24,9 @@
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
