@@ -48,7 +48,7 @@
       <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/popup.html" timestamp="1515051052369">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519797055806">
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519803671998">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="21" />
@@ -172,6 +172,11 @@
         <mark key="." line="128" column="27" />
         <mark key="^" line="128" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/chart.js" timestamp="1519806163486">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesOrder.js" timestamp="1514342674915">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="41" column="0" />
@@ -179,12 +184,12 @@
         <mark key="." line="125" column="87" />
         <mark key="^" line="125" column="101" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" timestamp="1519801358524">
-        <mark key="'" line="261" column="47" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="217" column="13" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" timestamp="1519806491634">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="253" column="62" />
+        <mark key="]" line="253" column="66" />
+        <mark key="." line="253" column="66" />
+        <mark key="^" line="253" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-paho-mqtt/src/Client.js" timestamp="1516879246710">
         <mark key="[" line="182" column="8" />
@@ -290,6 +295,11 @@
         <mark key="^" line="73" column="90" />
         <mark key="." line="73" column="90" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" timestamp="1519804075584">
+        <mark key="'" line="96" column="24" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/bosch/pages/new-delivery-booking.html" timestamp="1515050686746">
         <mark key="'" line="30" column="52" />
         <mark key="[" line="116" column="29" />
@@ -354,26 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/workspace/bosch/pages/menus.html" />
-      <jump line="7" column="65" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="15" column="38" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="26" column="28" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="24" column="38" filename="$USER_HOME$/workspace/bosch/js/menus.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
-      <jump line="140" column="13" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="8296" column="11" filename="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/react-native/index.d.ts" />
-      <jump line="12" column="16" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="41" column="32" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="42" column="34" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="55" column="37" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="56" column="33" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
       <jump line="48" column="30" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
       <jump line="54" column="35" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
       <jump line="70" column="20" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/ContactsList.js" />
@@ -447,13 +437,33 @@
       <jump line="87" column="64" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
       <jump line="73" column="39" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
       <jump line="477" column="50" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="25" column="10" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="262" column="26" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="43" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="66" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/BasicLayout.js" />
       <jump line="221" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/SiderMenu/SiderMenu.js" />
       <jump line="285" column="47" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="324" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="238" column="44" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="325" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="327" column="38" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="398" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="332" column="60" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="355" column="60" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="86" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="96" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
+      <jump line="266" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="177" column="10" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="179" column="31" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="264" column="55" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="190" column="32" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="191" column="40" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="284" column="29" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="240" column="42" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="21" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,56 +473,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>100%</text>
       </register>
       <register name="/" type="4">
-        <text>backgound</text>
+        <text>fake</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-      xs: 20,
-      sm: 10,
-      md: 10,
-      lg: 10,
-      xl: 5,
-      style: { marginBottom: 24 },
-    };</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9IHN0eWxlPXt7IHBhZGRpbmdMZWZ0OiAwIH19Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb2ZmbGluZURhdGEsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNhbGVzRXh0cmEgPSAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2FsZXNFeHRyYVdyYXB9PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuc2FsZXNFeHRyYX0+CiAgICAgICAgICA8YSBjbGFzc05hbWU9e3RoaXMuaXNBY3RpdmUoJ3RvZGF5Jyl9IG9uQ2xpY2s9eygpID0+IHRoaXMuc2VsZWN0RGF0ZSgndG9kYXknKX0+CiAgICAgICAgICAgIOS7iuaXpQogICAgICAgICAgPC9hPgogICAgICAgICAgPGEgY2xhc3NOYW1lPXt0aGlzLmlzQWN0aXZlKCd3ZWVrJyl9IG9uQ2xpY2s9eygpID0+IHRoaXMuc2VsZWN0RGF0ZSgnd2VlaycpfT4KICAgICAgICAgICAg5pys5ZGoCiAgICAgICAgICA8L2E+CiAgICAgICAgICA8YSBjbGFzc05hbWU9e3RoaXMuaXNBY3RpdmUoJ21vbnRoJyl9IG9uQ2xpY2s9eygpID0+IHRoaXMuc2VsZWN0RGF0ZSgnbW9udGgnKX0+CiAgICAgICAgICAgIOacrOaciAogICAgICAgICAgPC9hPgogICAgICAgICAgPGEgY2xhc3NOYW1lPXt0aGlzLmlzQWN0aXZlKCd5ZWFyJyl9IG9uQ2xpY2s9eygpID0+IHRoaXMuc2VsZWN0RGF0ZSgneWVhcicpfT4KICAgICAgICAgICAg5YWo5bm0CiAgICAgICAgICA8L2E+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPFJhbmdlUGlja2VyCiAgICAgICAgICB2YWx1ZT17cmFuZ2VQaWNrZXJWYWx1ZX0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVJhbmdlUGlja2VyQ2hhbmdlfQogICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IDI1NiB9fQogICAgICAgIC8+CiAgICAgIDwvZGl2PgogICAgKTsK</text>
+        <text encoding="base64">ICBEYXRlUGlja2VyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb2ZmbGluZUNoYXJ0RGF0YSwK</text>
+        <text encoding="base64">Y29uc3QgeyBSYW5nZVBpY2tlciB9ID0gRGF0ZVBpY2tlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2FsZXNEYXRhLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBUaW1lbGluZUNoYXJ0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q2FyZCBsb2FkaW5nPXtsb2FkaW5nfSBib3JkZXJlZD17ZmFsc2V9IGJvZHlTdHlsZT17eyBwYWRkaW5nOiAwIH19PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zYWxlc0NhcmR9PgogICAgICAgICAgICAgICAgICA8VGFicyBzaXplPSJsYXJnZSIgdGFiQmFyU3R5bGU9e3sgbWFyZ2luQm90dG9tOiAyNCB9fT4KICAgICAgICAgICAgICAgICAgICA8VGFiUGFuZSB0YWI9IumUgOWUruminSIga2V5PSJzYWxlcyI+CiAgICAgICAgICAgICAgICAgICAgICA8Um93PgogICAgICAgICAgICAgICAgICAgICAgICA8Q29sIHhsPXsyNH0gbGc9ezEyfSBtZD17MTJ9IHNtPXsyNH0geHM9ezI0fT4KICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnNhbGVzQmFyfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCYXIgaGVpZ2h0PXsyOTV9IHRpdGxlPSLplIDllK7pop3otovlir8iIGRhdGE9e3NhbGVzRGF0YX0gLz4KICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICAgICAgICAgICAgICA8L1Jvdz4KICAgICAgICAgICAgICAgICAgICA8L1RhYlBhbmU+CiAgICAgICAgICAgICAgICAgIDwvVGFicz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBCYXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9IHN0eWxlPXt7IHBhZGRpbmc6IDAgfX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9IHN0eWxlPXt7IHBhZGRpbmc6IDAgfX0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb2wgey4uLnRvcENvbFJlc3BvbnNpdmVQcm9wc30+CiAgICAgICAgICAgIDxDaGFydENhcmQKICAgICAgICAgICAgICBib3JkZXJlZD17ZmFsc2V9CiAgICAgICAgICAgICAgdGl0bGU9IuacrOaciOmUgOWUruminS/lhYMiCiAgICAgICAgICAgICAgYWN0aW9uPXsKICAgICAgICAgICAgICAgIDxUb29sdGlwIHRpdGxlPSLmjIfmoIfor7TmmI4iPgogICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpbmZvLWNpcmNsZS1vIiAvPgogICAgICAgICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbD17eXVhbigxMjY1NjApfQogICAgICAgICAgICAgIGZvb3Rlcj17PEZpZWxkIGxhYmVsPSLml6XlnYfplIDllK7pop0iIHZhbHVlPXtg77+lJHtudW1lcmFsKDEyNDIzKS5mb3JtYXQoJzAsMCcpfWB9IC8+fQogICAgICAgICAgICAgIGNvbnRlbnRIZWlnaHQ9ezQ2fQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9PgogICAgICAgICAgICA8Q2hhcnRDYXJkCiAgICAgICAgICAgICAgYm9yZGVyZWQ9e2ZhbHNlfQogICAgICAgICAgICAgIHRpdGxlPSLmnKzmnIjorqLljZXmlbAiCiAgICAgICAgICAgICAgYWN0aW9uPXsKICAgICAgICAgICAgICAgIDxUb29sdGlwIHRpdGxlPSLmjIfmoIfor7TmmI4iPgogICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpbmZvLWNpcmNsZS1vIiAvPgogICAgICAgICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbD17bnVtZXJhbCg4ODQ2KS5mb3JtYXQoJzAsMCcpfQogICAgICAgICAgICAgIGZvb3Rlcj17PEZpZWxkIGxhYmVsPSLml6Xorr/pl67ph48iIHZhbHVlPXtudW1lcmFsKDEyMzQpLmZvcm1hdCgnMCwwJyl9IC8+fQogICAgICAgICAgICAgIGNvbnRlbnRIZWlnaHQ9ezQ2fQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9PgogICAgICAgICAgICA8Q2hhcnRDYXJkCiAgICAgICAgICAgICAgYm9yZGVyZWQ9e2ZhbHNlfQogICAgICAgICAgICAgIHRpdGxlPSLmnKzmnIjmi5zorr/mrKHmlbAiCiAgICAgICAgICAgICAgYWN0aW9uPXsKICAgICAgICAgICAgICAgIDxUb29sdGlwIHRpdGxlPSLmjIfmoIfor7TmmI4iPgogICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpbmZvLWNpcmNsZS1vIiAvPgogICAgICAgICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB0b3RhbD17bnVtZXJhbCg2NTYwKS5mb3JtYXQoJzAsMCcpfQogICAgICAgICAgICAgIGZvb3Rlcj17PEZpZWxkIGxhYmVsPSLovazljJbnjociIHZhbHVlPSI2MCUiIC8+fQogICAgICAgICAgICAgIGNvbnRlbnRIZWlnaHQ9ezQ2fQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Db2w+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3c+CiAgICAgICAgICA8L1Jvdz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHsuLi50b3BDb2xSZXNwb25zaXZlUHJvcHN9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>backgound</last-search>
+      <last-search>fake</last-search>
       <last-offset />
-      <last-pattern>backgound</last-pattern>
+      <last-pattern>fake</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -520,14 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDx0b3RhbGhlaWdodFw+</entry>
-        <entry>render</entry>
-        <entry encoding="base64">XDxyZW5kZXJMZXR0ZXJzXD4=</entry>
-        <entry>sections</entry>
-        <entry>length</entry>
-        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
-        <entry encoding="base64">XDxsZXR0ZXJzXD4=</entry>
         <entry>reco</entry>
         <entry>alert</entry>
         <entry>chart</entry>
@@ -540,6 +535,14 @@
         <entry>col</entry>
         <entry>Antd</entry>
         <entry>backgound</entry>
+        <entry>访问量</entry>
+        <entry>salesData</entry>
+        <entry>今日</entry>
+        <entry encoding="base64">XDxzYWxlc0V4dHJhXD4=</entry>
+        <entry>排名</entry>
+        <entry>Bar</entry>
+        <entry encoding="base64">XDxCYXJcPg==</entry>
+        <entry>fake</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
