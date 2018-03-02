@@ -139,12 +139,15 @@
         <mark key="." line="216" column="19" />
         <mark key="^" line="216" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" timestamp="1519987345782">
+        <mark key="'" line="62" column="7" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="249" column="12" />
+        <mark key="." line="249" column="12" />
+        <mark key="^" line="249" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="26" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
-      <jump line="43" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
-      <jump line="66" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/BasicLayout.js" />
-      <jump line="221" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/SiderMenu/SiderMenu.js" />
       <jump line="324" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="238" column="44" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="325" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
@@ -241,6 +244,10 @@
       <jump line="358" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="360" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="1313" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react/cjs/react.development.js" />
+      <jump line="165" column="36" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
+      <jump line="242" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
+      <jump line="62" column="7" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -250,19 +257,19 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>TableList</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>constru</text>
+        <text>setData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICcvZGFzaGJvYXJkL3N0YXRpc3RpYyc6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsnY2hhcnQnXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvRGFzaGJvYXJkL1N0YXRpc3RpYycpKSwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC8vbG9hZCBzYW1wbGUgZGF0YSBpbnRvIHRoZSB0YWJsZQogICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgJCgiI2RvY2stdGFibGUiKS50YWJ1bGF0b3IoInNldERhdGEiLCB0YWJsZWRhdGEpOwogICAgfSwgMTAwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbewogICAgICBuYW1lOiAn5Z+656GA6KGo5Y2VJywKICAgICAgcGF0aDogJ2Jhc2ljLWZvcm0nLAogICAgfSwgewogICAgICBuYW1lOiAn5YiG5q2l6KGo5Y2VJywKICAgICAgcGF0aDogJ3N0ZXAtZm9ybScsCiAgICB9LCB7CiAgICAgIG5hbWU6ICfpq5jnuqfooajljZUnLAogICAgICBhdXRob3JpdHk6ICdhZG1pbicsCiAgICAgIHBhdGg6ICdhZHZhbmNlZC1mb3JtJywKICAgIH1dLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAn6KGo5Y2V6aG1JywKICAgIGljb246ICdmb3JtJywKICAgIHBhdGg6ICdmb3JtJywKICAgIGNoaWxkcmVuOiBbewogICAgICBuYW1lOiAn5Z+656GA6KGo5Y2VJywKICAgICAgcGF0aDogJ2Jhc2ljLWZvcm0nLAogICAgfSwgewogICAgICBuYW1lOiAn5YiG5q2l6KGo5Y2VJywKICAgICAgcGF0aDogJ3N0ZXAtZm9ybScsCiAgICB9LCB7CiAgICAgIG5hbWU6ICfpq5jnuqfooajljZUnLAogICAgICBhdXRob3JpdHk6ICdhZG1pbicsCiAgICAgIHBhdGg6ICdhZHZhbmNlZC1mb3JtJywKICAgIH1dLAogIH0sCg==</text>
+        <text encoding="base64">ICAgICQoIiNkb2NrLXRhYmxlIikudGFidWxhdG9yKCJzZXREYXRhIiwgdGFibGVkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -271,28 +278,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBNZW51LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBEYXRlUGlja2VyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb2ZmbGluZUNoYXJ0RGF0YSwK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8ge2RvY2s6ICLnoIHlpLQxIiwgc3RhcnQ6ICIwOjAwIiwgZW5kOiAiMTozMCIsIGNvbXA6ICLnlLPlpKciICxzdGF0ZToi5q2j5bi4In0sCiAgICAgICAgICAgICAgICAvLyB7ZG9jazogIueggeWktDIiLCBzdGFydDogIjM6MzAiLCBlbmQ6ICI1OjAwIiwgY29tcDogIuS4remCriIgLHN0YXRlOiLlu7bov58ifSwKICAgICAgICAgICAgICAgIC8vIHtkb2NrOiAi56CB5aS0MyIsIHN0YXJ0OiAiMjo0MCIsIGVuZDogIjM6MDAiLCBjb21wOiAi5a6J5ZCJIiAsc3RhdGU6Iuato+W4uCJ9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoIiNkb2NrLXRhYmxlIikudGFidWxhdG9yKCJzZXREYXRhIiwgdGFibGVkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>constru</last-search>
+      <last-search>setData</last-search>
       <last-offset />
-      <last-pattern>constru</last-pattern>
+      <last-pattern>setData</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>total</entry>
         <entry>费用申请</entry>
         <entry>data[0].x</entry>
         <entry>Pie</entry>
@@ -320,6 +326,7 @@
         <entry>查询表格</entry>
         <entry>cons</entry>
         <entry>constru</entry>
+        <entry>setData</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
