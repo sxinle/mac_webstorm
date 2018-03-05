@@ -69,6 +69,12 @@
       <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/popup.html" timestamp="1515051052369">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" timestamp="1520226807431">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" timestamp="1519896477855">
         <mark key="'" line="7" column="7" />
       </file>
@@ -105,12 +111,9 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1519954368356">
-        <mark key="'" line="360" column="4" />
-        <mark key="[" line="110" column="21" />
-        <mark key="]" line="110" column="25" />
-        <mark key="." line="110" column="25" />
-        <mark key="^" line="110" column="25" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1520227147206">
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" timestamp="1519897625547">
         <mark key="'" line="226" column="4" />
@@ -148,14 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="44" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
-      <jump line="325" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="398" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
-      <jump line="332" column="60" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="355" column="60" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="86" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="96" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="266" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="177" column="10" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="179" column="31" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="190" column="32" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
@@ -248,6 +243,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
       <jump line="62" column="7" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
       <jump line="231" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
+      <jump line="223" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="244" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="280" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="352" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="353" column="68" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="106" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="107" column="25" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="65" column="12" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,22 +260,22 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>setData</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vbG9hZCBzYW1wbGUgZGF0YSBpbnRvIHRoZSB0YWJsZQogICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgJCgiI2RvY2stdGFibGUiKS50YWJ1bGF0b3IoInNldERhdGEiLCB0YWJsZWRhdGEpOwogICAgfSwgMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcnVsZTogeyBkYXRhIH0sIGxvYWRpbmcgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHNpemU9InNtYWxsIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICQoIiNkb2NrLXRhYmxlIikudGFidWxhdG9yKCJzZXREYXRhIiwgdGFibGVkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoIiNkb2NrLXRhYmxlIikudGFidWxhdG9yKCJzZXREYXRhIiwgdGFibGVkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -287,28 +290,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8ge2RvY2s6ICLnoIHlpLQxIiwgc3RhcnQ6ICIwOjAwIiwgZW5kOiAiMTozMCIsIGNvbXA6ICLnlLPlpKciICxzdGF0ZToi5q2j5bi4In0sCiAgICAgICAgICAgICAgICAvLyB7ZG9jazogIueggeWktDIiLCBzdGFydDogIjM6MzAiLCBlbmQ6ICI1OjAwIiwgY29tcDogIuS4remCriIgLHN0YXRlOiLlu7bov58ifSwKICAgICAgICAgICAgICAgIC8vIHtkb2NrOiAi56CB5aS0MyIsIHN0YXJ0OiAiMjo0MCIsIGVuZDogIjM6MDAiLCBjb21wOiAi5a6J5ZCJIiAsc3RhdGU6Iuato+W4uCJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICQoIiNkb2NrLXRhYmxlIikudGFidWxhdG9yKCJzZXREYXRhIiwgdGFibGVkYXRhKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLwogICAgICAgICAgICAgICAgLy8ge2RvY2s6ICLnoIHlpLQxIiwgc3RhcnQ6ICIwOjAwIiwgZW5kOiAiMTozMCIsIGNvbXA6ICLnlLPlpKciICxzdGF0ZToi5q2j5bi4In0sCiAgICAgICAgICAgICAgICAvLyB7ZG9jazogIueggeWktDIiLCBzdGFydDogIjM6MzAiLCBlbmQ6ICI1OjAwIiwgY29tcDogIuS4remCriIgLHN0YXRlOiLlu7bov58ifSwKICAgICAgICAgICAgICAgIC8vIHtkb2NrOiAi56CB5aS0MyIsIHN0YXJ0OiAiMjo0MCIsIGVuZDogIjM6MDAiLCBjb21wOiAi5a6J5ZCJIiAsc3RhdGU6Iuato+W4uCJ9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setData</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>setData</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>费用申请</entry>
-        <entry>data[0].x</entry>
         <entry>Pie</entry>
         <entry>TypeData</entry>
         <entry>销售额</entry>
@@ -327,6 +328,8 @@
         <entry>cons</entry>
         <entry>constru</entry>
         <entry>setData</entry>
+        <entry>render</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
