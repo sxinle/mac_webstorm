@@ -28,9 +28,13 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl m" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="EditorSplitLine" />
   <action id="FindUsages">
