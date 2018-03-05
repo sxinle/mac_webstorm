@@ -59,12 +59,6 @@
         <mark key="[" line="380" column="0" />
         <mark key="]" line="382" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.less" timestamp="1519813560287">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="151" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/.gitignore" timestamp="1515661262981">
         <mark key="'" line="51" column="2" />
       </file>
@@ -81,7 +75,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" timestamp="1519896477855">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520236552996">
+      <file name="/Dummy.txt" timestamp="1520238586389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519898255842">
@@ -91,24 +85,15 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" timestamp="1520238805310">
+        <mark key="'" line="23" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1519898342398">
         <mark key="'" line="73" column="39" />
         <mark key="[" line="76" column="77" />
         <mark key="]" line="76" column="81" />
         <mark key="^" line="76" column="81" />
         <mark key="." line="76" column="81" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/index.ejs" timestamp="1519800569912">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/Charts/TimelineChart/index.js" timestamp="1519889879480">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1520236552451">
         <mark key="'" line="94" column="10" />
@@ -156,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="12" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="247" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="248" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="255" column="38" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
@@ -256,6 +240,7 @@
       <jump line="86" column="14" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
       <jump line="106" column="27" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
       <jump line="16" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="23" column="39" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -268,7 +253,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rule</text>
+        <text>dva</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIGljb249InBsdXMiIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlTW9kYWxWaXNpYmxlKHRydWUpfT4KICAgICAgICAgICAgICAgIOaWsOW7ugogICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
@@ -305,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rule</last-search>
+      <last-search>dva</last-search>
       <last-offset />
-      <last-pattern>rule</last-pattern>
+      <last-pattern>dva</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>salesExtra</entry>
         <entry encoding="base64">XDxzYWxlc0V4dHJhXD4=</entry>
         <entry encoding="base64">XDxvZmZsaW5lQ2hhcnREYXRhXD4=</entry>
         <entry>search</entry>
@@ -335,6 +319,7 @@
         <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry>bord</entry>
         <entry>rule</entry>
+        <entry>dva</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
