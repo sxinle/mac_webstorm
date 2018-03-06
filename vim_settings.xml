@@ -26,6 +26,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react/cjs/react.development.js" timestamp="1519954376104">
         <mark key="'" line="1313" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/roadhog-api-doc/lib/utils.js" timestamp="1520314991988" />
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/chart.js" timestamp="1519896199887">
         <mark key="'" line="183" column="2" />
         <mark key="[" line="120" column="0" />
@@ -53,7 +54,6 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" timestamp="1515662601813">
         <mark key="'" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/index.js" timestamp="1520236348463" />
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/List/TableList.js" timestamp="1520235746608">
         <mark key="'" line="85" column="13" />
         <mark key="[" line="380" column="0" />
@@ -75,7 +75,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" timestamp="1519896477855">
         <mark key="'" line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520238586389">
+      <file name="/Dummy.txt" timestamp="1520314102849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519898255842">
@@ -85,8 +85,11 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" timestamp="1520238805310">
-        <mark key="'" line="23" column="39" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" timestamp="1520315188123">
+        <mark key="'" line="88" column="5" />
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1519898342398">
         <mark key="'" line="73" column="39" />
@@ -141,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="248" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="255" column="38" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="328" column="28" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="218" column="37" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
@@ -241,6 +242,8 @@
       <jump line="106" column="27" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
       <jump line="16" column="21" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
       <jump line="23" column="39" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" />
+      <jump line="22" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" />
+      <jump line="88" column="5" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -250,49 +253,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Org</text>
       </register>
       <register name="/" type="4">
-        <text>dva</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIGljb249InBsdXMiIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9eygpID0+IHRoaXMuaGFuZGxlTW9kYWxWaXNpYmxlKHRydWUpfT4KICAgICAgICAgICAgICAgIOaWsOW7ugogICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICJzdGFydE9yZyI6ICJjcm9zcy1lbnYgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIGRldiIsCiAgICAic3RhcnRPcmc6bm8tcHJveHkiOiAiY3Jvc3MtZW52IE5PX1BST1hZPXRydWUgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIGRldiIsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjcm9zcy1lbnYgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIHNlcnZlciIsCiAgICAic3RhcnQ6bm8tcHJveHkiOiAiY3Jvc3MtZW52IE5PX1BST1hZPXRydWUgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIHNlcnZlciIsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>params</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJyb2FkaG9nIHNlcnZlciIsCiAgICAic3RhcnQ6bm8tcHJveHkiOiAiTk9fUFJPWFk9dHJ1ZSByb2FkaG9nIHNlcnZlciIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGFsVmlzaWJsZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjcm9zcy1lbnYgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIGRldiIsCiAgICAic3RhcnQ6bm8tcHJveHkiOiAiY3Jvc3MtZW52IE5PX1BST1hZPXRydWUgRElTQUJMRV9FU0xJTlQ9dHJ1ZSByb2FkaG9nIGRldiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgInN0YXJ0IjogImNyb3NzLWVudiBESVNBQkxFX0VTTElOVD10cnVlIHJvYWRob2cgZGV2IiwKLy8gICAgInN0YXJ0Om5vLXByb3h5IjogImNyb3NzLWVudiBOT19QUk9YWT10cnVlIERJU0FCTEVfRVNMSU5UPXRydWUgcm9hZGhvZyBkZXYiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBoYW5kbGVNb2RhbFZpc2libGUgPSAoZmxhZykgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVmlzaWJsZTogISFmbGFnLAogICAgfSk7CiAgfQo=</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>params</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudE1ldGhvZHMgPSB7CiAgICAgIGhhbmRsZUFkZDogdGhpcy5oYW5kbGVBZGQsCiAgICAgIGhhbmRsZU1vZGFsVmlzaWJsZTogdGhpcy5oYW5kbGVNb2RhbFZpc2libGUsCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIG1vZGFsVmlzaWJsZTogZmFsc2UsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYW5kbGVBZGQgPSAoZmllbGRzKSA9PiB7CiAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvYWRkJywKICAgICAgcGF5bG9hZDogewogICAgICAgIGRlc2NyaXB0aW9uOiBmaWVsZHMuZGVzYywKICAgICAgfSwKICAgIH0pOwoKICAgIG1lc3NhZ2Uuc3VjY2Vzcygn5re75Yqg5oiQ5YqfJyk7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgbW9kYWxWaXNpYmxlOiBmYWxzZSwKICAgIH0pOwogIH0K</text>
+        <text encoding="base64">ICBoYW5kbGVNb2RhbFZpc2libGUgPSAoZmxhZykgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIG1vZGFsVmlzaWJsZTogISFmbGFnLAogICAgfSk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dva</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>dva</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -300,8 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYWxlc0V4dHJhXD4=</entry>
-        <entry encoding="base64">XDxvZmZsaW5lQ2hhcnREYXRhXD4=</entry>
         <entry>search</entry>
         <entry encoding="base64">XDxIZWFkZXJTZWFyY2hcPg==</entry>
         <entry>current</entry>
@@ -320,6 +321,8 @@
         <entry>bord</entry>
         <entry>rule</entry>
         <entry>dva</entry>
+        <entry>no</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
