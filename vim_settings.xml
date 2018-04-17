@@ -17,8 +17,8 @@
         <mark key="." line="113" column="19" />
         <mark key="^" line="113" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1520237194649">
-        <mark key="'" line="16" column="21" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1523933647078">
+        <mark key="'" line="135" column="33" />
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
@@ -85,6 +85,9 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" timestamp="1519896477855">
         <mark key="'" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.webpackrc" timestamp="1523933639317">
+        <mark key="'" line="17" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520839956723">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +111,7 @@
         <mark key="^" line="76" column="81" />
         <mark key="." line="76" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1520236552451">
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1523933384117">
         <mark key="'" line="77" column="10" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -161,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
-      <jump line="123" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
       <jump line="122" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" />
       <jump line="19" column="10" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="112" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
@@ -261,6 +262,8 @@
       <jump line="10" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="17" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="66" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
+      <jump line="17" column="3" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.webpackrc" />
+      <jump line="135" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -273,7 +276,7 @@
         <text>23</text>
       </register>
       <register name="/" type="4">
-        <text>Form</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZldGNoKGdsb2JhbC5jb25zdC51cmxQcmVmaXggKyAnL2FwaS9taWNyb3MtZm9ybXMvdXBsb2FkRmlsZXMnLCB7Cg==</text>
@@ -310,13 +313,13 @@
       </register>
     </registers>
     <search>
-      <last-search>Form</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>Form</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -336,10 +339,10 @@
         <entry>rule</entry>
         <entry>dva</entry>
         <entry>no</entry>
-        <entry>proxy</entry>
         <entry encoding="base64">XDxUZXh0XD4=</entry>
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry>Form</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
