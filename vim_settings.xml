@@ -22,12 +22,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1523950534792">
-        <mark key="'" line="135" column="33" />
-        <mark key="[" line="135" column="58" />
-        <mark key="]" line="135" column="61" />
-        <mark key="." line="135" column="61" />
-        <mark key="^" line="135" column="61" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1523956218878">
+        <mark key="'" line="130" column="34" />
+        <mark key="[" line="137" column="5" />
+        <mark key="]" line="137" column="8" />
+        <mark key="." line="137" column="8" />
+        <mark key="^" line="137" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/Charts/Pie/index.js" timestamp="1519817072189">
         <mark key="'" line="219" column="26" />
@@ -184,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="360" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="1313" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react/cjs/react.development.js" />
       <jump line="165" column="36" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
       <jump line="242" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
@@ -284,6 +281,9 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
       <jump line="63" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
       <jump line="64" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
+      <jump line="118" column="19" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="137" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="130" column="34" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -293,13 +293,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>AuthorizedRoute</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAnR0VUIC9hcGkvKic6ICdodHRwOi8vbG9jYWxob3N0Ojg3ODcvJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
