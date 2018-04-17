@@ -52,12 +52,12 @@
         <mark key="^" line="131" column="0" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" timestamp="1523936805320">
-        <mark key="'" line="43" column="38" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" timestamp="1523954676560">
+        <mark key="'" line="64" column="23" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="34" />
+        <mark key="^" line="64" column="34" />
+        <mark key="." line="64" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/UserLayout.js" timestamp="1523953401583">
         <mark key="[" line="45" column="49" />
@@ -77,7 +77,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/Login/LoginItem.js" timestamp="1523952753864">
         <mark key="'" line="83" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" timestamp="1523953275001">
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" timestamp="1523954611136">
         <mark key="[" line="66" column="51" />
         <mark key="]" line="66" column="52" />
         <mark key="." line="66" column="52" />
@@ -85,6 +85,12 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/.gitignore" timestamp="1515661262981">
         <mark key="'" line="51" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" timestamp="1523954731777">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SignIn.js" timestamp="1521185866024">
         <mark key="'" line="116" column="21" />
@@ -119,14 +125,8 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/package.json" timestamp="1520315188123">
-        <mark key="'" line="88" column="5" />
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1523949223481">
-        <mark key="'" line="114" column="32" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1523954436367">
+        <mark key="'" line="203" column="0" />
         <mark key="[" line="76" column="77" />
         <mark key="]" line="76" column="81" />
         <mark key="^" line="76" column="81" />
@@ -184,15 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="11" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
-      <jump line="7" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
-      <jump line="10" column="11" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" />
-      <jump line="81" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" />
-      <jump line="11" column="57" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="81" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="373" column="31" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="331" column="46" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="357" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="358" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="360" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="1313" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react/cjs/react.development.js" />
@@ -284,6 +275,15 @@
       <jump line="110" column="17" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
       <jump line="90" column="17" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
+      <jump line="162" column="79" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="201" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="203" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
+      <jump line="63" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
+      <jump line="64" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -293,10 +293,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Ant Design</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
         <text>AuthorizedRoute</text>
@@ -333,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>服务调用</entry>
         <entry>新建</entry>
@@ -363,6 +362,7 @@
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
         <entry>console.log</entry>
         <entry>console</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
