@@ -10,6 +10,12 @@
         <mark key="." line="285" column="34" />
         <mark key="^" line="285" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/authority.js" timestamp="1523958556726">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/BasicLayout.js" timestamp="1523949368365">
         <mark key="'" line="105" column="31" />
         <mark key="[" line="111" column="25" />
@@ -86,11 +92,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/.gitignore" timestamp="1515661262981">
         <mark key="'" line="51" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" timestamp="1523957107205">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" timestamp="1523958761899">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SignIn.js" timestamp="1521185866024">
         <mark key="'" line="116" column="21" />
@@ -102,8 +108,8 @@
       <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/popup.html" timestamp="1515051052369">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" timestamp="1520236802314">
-        <mark key="'" line="106" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" timestamp="1523958968633">
+        <mark key="'" line="102" column="12" />
         <mark key="[" line="106" column="24" />
         <mark key="]" line="106" column="24" />
         <mark key="." line="106" column="24" />
@@ -114,9 +120,6 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.webpackrc" timestamp="1523933639317">
         <mark key="'" line="17" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520839956723">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519898255842">
         <mark key="'" line="184" column="7" />
@@ -184,12 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="36" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
-      <jump line="242" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
-      <jump line="62" column="7" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
-      <jump line="231" column="0" filename="$USER_HOME$/workspace/bosch/pages/dock-detail-table.html" />
-      <jump line="223" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="244" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="280" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="352" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
@@ -284,6 +281,12 @@
       <jump line="118" column="19" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
       <jump line="137" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
       <jump line="130" column="34" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="84" column="11" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="68" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="69" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
+      <jump line="102" column="12" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/StandardTable/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -293,49 +296,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>word</text>
+        <text>&quot;msg&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAnR0VUIC9hcGkvKic6ICdodHRwOi8vbG9jYWxob3N0Ojg3ODcvJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy53cmFwcGVyfT4KICAgICAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgICAgIDxHZW5lcmF0ZUZvcm0KICAgICAgICAgICAgICAgICAgICAgICAgcmVmPXsoYykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5mb3JtR2VuZXJhdG9yID0gYzsKICAgICAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgZmllbGRzPXtmaWVsZHN9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuc3VibWl0QnV0dG9ufT4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGJsb2NrIG9uUHJlc3M9eygpID0+IHRoaXMubG9naW4oKX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PkxvZ2luPC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2luKCkgewogICAgICAgIGNvbnN0IGZvcm1WYWx1ZXMgPSB0aGlzLmZvcm1HZW5lcmF0b3IuZ2V0VmFsdWVzKCk7CiAgICAgICAgY29uc29sZS5sb2coJ0ZPUk0gVkFMVUVTJywgZm9ybVZhbHVlcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy53cmFwcGVyfT4KICAgICAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgICAgIDxHZW5lcmF0ZUZvcm0KICAgICAgICAgICAgICAgICAgICAgICAgcmVmPXsoYykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5mb3JtR2VuZXJhdG9yID0gYzsKICAgICAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgZmllbGRzPXtmaWVsZHN9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuc3VibWl0QnV0dG9ufT4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGJsb2NrIG9uUHJlc3M9eygpID0+IHRoaXMubG9naW4oKX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PkxvZ2luPC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZmllbGRzID0gWwogICAgewogICAgICAgIHR5cGU6ICd0ZXh0JywKICAgICAgICBuYW1lOiAndXNlcl9uYW1lJywKICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICBpY29uOiAnaW9zLXBlcnNvbicsCiAgICAgICAgbGFiZWw6ICdVc2VybmFtZScsCiAgICB9LAogICAgewogICAgICAgIHR5cGU6ICdwYXNzd29yZCcsCiAgICAgICAgbmFtZTogJ3Bhc3N3b3JkJywKICAgICAgICBpY29uOiAnaW9zLWxvY2snLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICAgIGxhYmVsOiAnUGFzc3dvcmQnLAogICAgfSwKICAgIHsKICAgICAgICB0eXBlOiAncGlja2VyJywKICAgICAgICBuYW1lOiAnY291bnRyeScsCiAgICAgICAgbW9kZTogJ2RpYWxvZycsCiAgICAgICAgbGFiZWw6ICdTZWxlY3QgQ291bnRyeScsCiAgICAgICAgZGVmYXVsdFZhbHVlOiAnSU5ESUEnLAogICAgICAgIG9wdGlvbnM6IFsnVVMnLCAnSU5ESUEnLCAnVUsnLCAnQ0hJTkEnLCAnRlJBTkNFJ10sCiAgICB9LApdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEdlbmVyYXRlRm9ybSBmcm9tICdyZWFjdC1uYXRpdmUtZm9ybS1idWlsZGVyJzsK</text>
+        <text encoding="base64">ICAgIGxvZ2luKCkgewogICAgICAgIGNvbnN0IGZvcm1WYWx1ZXMgPSB0aGlzLmZvcm1HZW5lcmF0b3IuZ2V0VmFsdWVzKCk7CiAgICAgICAgY29uc29sZS5sb2coJ0ZPUk0gVkFMVUVTJywgZm9ybVZhbHVlcyk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Nyb2xsVmlld30gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">Y29uc3QgZmllbGRzID0gWwogICAgewogICAgICAgIHR5cGU6ICd0ZXh0JywKICAgICAgICBuYW1lOiAndXNlcl9uYW1lJywKICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICBpY29uOiAnaW9zLXBlcnNvbicsCiAgICAgICAgbGFiZWw6ICdVc2VybmFtZScsCiAgICB9LAogICAgewogICAgICAgIHR5cGU6ICdwYXNzd29yZCcsCiAgICAgICAgbmFtZTogJ3Bhc3N3b3JkJywKICAgICAgICBpY29uOiAnaW9zLWxvY2snLAogICAgICAgIHJlcXVpcmVkOiB0cnVlLAogICAgICAgIGxhYmVsOiAnUGFzc3dvcmQnLAogICAgfSwKICAgIHsKICAgICAgICB0eXBlOiAncGlja2VyJywKICAgICAgICBuYW1lOiAnY291bnRyeScsCiAgICAgICAgbW9kZTogJ2RpYWxvZycsCiAgICAgICAgbGFiZWw6ICdTZWxlY3QgQ291bnRyeScsCiAgICAgICAgZGVmYXVsdFZhbHVlOiAnSU5ESUEnLAogICAgICAgIG9wdGlvbnM6IFsnVVMnLCAnSU5ESUEnLCAnVUsnLCAnQ0hJTkEnLCAnRlJBTkNFJ10sCiAgICB9LApdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ0Zvcm1HZW5lcmF0b3InLCAoKSA9PiBGb3JtR2VuZXJhdG9yKTsK</text>
+        <text encoding="base64">aW1wb3J0IEdlbmVyYXRlRm9ybSBmcm9tICdyZWFjdC1uYXRpdmUtZm9ybS1idWlsZGVyJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -343,8 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry>服务调用</entry>
         <entry>新建</entry>
         <entry encoding="base64">XDxtb2RhbFZpc2libGVcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
@@ -363,6 +364,8 @@
         <entry>console.log</entry>
         <entry>console</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxBbGVydFw+</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
