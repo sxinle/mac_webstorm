@@ -47,8 +47,8 @@
         <mark key="^" line="131" column="0" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" timestamp="1523935005576">
-        <mark key="'" line="12" column="21" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" timestamp="1523936805320">
+        <mark key="'" line="43" column="38" />
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="22" />
         <mark key="^" line="12" column="32" />
@@ -56,6 +56,10 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" timestamp="1515662601813">
         <mark key="'" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/router.js" timestamp="1523937520608">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/List/TableList.js" timestamp="1520235746608">
         <mark key="'" line="85" column="13" />
@@ -164,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" />
       <jump line="19" column="10" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="112" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Analysis.js" />
       <jump line="109" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Dashboard/Statistic.js" />
@@ -264,6 +267,7 @@
       <jump line="66" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="17" column="3" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.webpackrc" />
       <jump line="135" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="43" column="38" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,8 +282,8 @@
       <register name="/" type="4">
         <text>proxy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZldGNoKGdsb2JhbC5jb25zdC51cmxQcmVmaXggKyAnL2FwaS9taWNyb3MtZm9ybXMvdXBsb2FkRmlsZXMnLCB7Cg==</text>
+      <register name="0" type="4">
+        <text>AuthorizedRoute</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy53cmFwcGVyfT4KICAgICAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgICAgIDxHZW5lcmF0ZUZvcm0KICAgICAgICAgICAgICAgICAgICAgICAgcmVmPXsoYykgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5mb3JtR2VuZXJhdG9yID0gYzsKICAgICAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgZmllbGRzPXtmaWVsZHN9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuc3VibWl0QnV0dG9ufT4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGJsb2NrIG9uUHJlc3M9eygpID0+IHRoaXMubG9naW4oKX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PkxvZ2luPC9UZXh0PgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICA8L1ZpZXc+Cg==</text>
