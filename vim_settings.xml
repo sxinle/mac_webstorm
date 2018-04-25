@@ -85,12 +85,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" timestamp="1523949060382">
         <mark key="'" line="80" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" timestamp="1524628087449">
-        <mark key="'" line="55" column="31" />
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-        <mark key="^" line="2" column="44" />
+      <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" timestamp="1524632760277">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-paho-mqtt/src/ClientImplementation.js" timestamp="1516946023295">
         <mark key="'" line="717" column="65" />
@@ -145,11 +144,10 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/router.js" timestamp="1524625255820">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-        <mark key="^" line="9" column="44" />
+      <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/router.js" timestamp="1524632663564">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/chart.js" timestamp="1519896199887">
         <mark key="'" line="183" column="2" />
@@ -248,13 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SignIn.js" />
-      <jump line="44" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
-      <jump line="31" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
-      <jump line="54" column="17" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
-      <jump line="36" column="15" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="17" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="66" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
@@ -342,12 +333,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="164" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="9" column="27" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="15" column="2" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="112" column="18" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="82" column="18" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="54" column="31" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="13" column="25" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/index.js" />
+      <jump line="27" column="35" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="38" column="10" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="33" column="24" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
+      <jump line="34" column="28" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,49 +355,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>routerRedux</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</text>
+        <text>click</text>
       </register>
-      <register name="0" type="4">
-        <text>https://zos.alipayobjects.com/rmsportal/IIRLrXXrFAhXVdhMWgUI.svg</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyLCBSb3V0ZSB9IGZyb20gJ2R2YS9yb3V0ZXInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkLW1vYmlsZS9kaXN0L2FudGQtbW9iaWxlLmNzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVyUmVkdXggfSBmcm9tICdkdmEvcm91dGVyJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkLW1vYmlsZS5jc3MnCg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9yb3V0ZXInOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj17CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ3VybChodHRwczovL2d3LmFsaXBheW9iamVjdHMuY29tL3pvcy9ybXNwb3J0YWwvQlRTc21Ia1BzUVNQVGt0Y1h5VFYuc3ZnKSBjZW50ZXIgY2VudGVyIC8gIDIxcHggMjFweCBuby1yZXBlYXQnLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICB9CiAgICAgICAgICAgIHNlbGVjdGVkSWNvbj17CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgd2lkdGg6ICcyMnB4JywKICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAnMjJweCcsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICd1cmwoaHR0cHM6Ly9ndy5hbGlwYXlvYmplY3RzLmNvbS96b3Mvcm1zcG9ydGFsL2VrTGVjdktCblJhelZMWGJXT25FLnN2ZykgY2VudGVyIGNlbnRlciAvICAyMXB4IDIxcHggbm8tcmVwZWF0JywKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVyUmVkdXggfSBmcm9tICdkdmEvcm91dGVyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJCYXIuSXRlbQogICAgICAgICAgICB0aXRsZT0iTGlmZSIKICAgICAgICAgICAga2V5PSJMaWZlIgogICAgICAgICAgICBpY29uPXs8ZGl2CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHdpZHRoOiAnMjJweCcsCiAgICAgICAgICAgICAgICBoZWlnaHQ6ICcyMnB4JywKICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICd1cmwoaHR0cHM6Ly96b3MuYWxpcGF5b2JqZWN0cy5jb20vcm1zcG9ydGFsL3NpZnVvRFVRZEFGS0FWY0ZHUk9DLnN2ZykgY2VudGVyIGNlbnRlciAvICAyMXB4IDIxcHggbm8tcmVwZWF0JywKICAgICAgICAgICAgICB9fQogICAgICAgICAgICAvPgogICAgICAgICAgICB9CiAgICAgICAgICAgIHNlbGVjdGVkSWNvbj17PGRpdgogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICB3aWR0aDogJzIycHgnLAogICAgICAgICAgICAgICAgaGVpZ2h0OiAnMjJweCcsCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAndXJsKGh0dHBzOi8vem9zLmFsaXBheW9iamVjdHMuY29tL3Jtc3BvcnRhbC9pU3JsT1RxcktkZHFiT21sdlVmcS5zdmcpIGNlbnRlciBjZW50ZXIgLyAgMjFweCAyMXB4IG5vLXJlcGVhdCcsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgLz4KICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxlY3RlZD17dGhpcy5zdGF0ZS5zZWxlY3RlZFRhYiA9PT0gJ2JsdWVUYWInfQogICAgICAgICAgICBiYWRnZT17MX0KICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgc2VsZWN0ZWRUYWI6ICdibHVlVGFiJywKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfX0KICAgICAgICAgICAgZGF0YS1zZWVkPSJsb2dJZCIKICAgICAgICAgID4KICAgICAgICAgICAge3RoaXMucmVuZGVyQ29udGVudCgnTGlmZScpfQogICAgICAgICAgPC9UYWJCYXIuSXRlbT4K</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyLCBSb3V0ZSB9IGZyb20gJ2R2YS9yb3V0ZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm91dGVyQ29uZmlnLnB1c2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkLW1vYmlsZS9kaXN0L2FudGQtbW9iaWxlLmNzcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGUucHVzaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRJY29uPXsKICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICB3aWR0aDogJzIycHgnLAogICAgICAgICAgICAgICAgICBoZWlnaHQ6ICcyMnB4JywKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ3VybChodHRwczovL3pvcy5hbGlwYXlvYmplY3RzLmNvbS9ybXNwb3J0YWwvSUlSTHJYWHJGQWhYVmRoTVdnVUkuc3ZnKSBjZW50ZXIgY2VudGVyIC8gIDIxcHggMjFweCBuby1yZXBlYXQnLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGlzdG9yeS5wdXNoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2hvbWUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no</entry>
         <entry encoding="base64">XDxUZXh0XD4=</entry>
         <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry>Form</entry>
@@ -427,6 +424,7 @@
         <entry encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
