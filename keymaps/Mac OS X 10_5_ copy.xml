@@ -37,6 +37,10 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="ExpandTreeNode">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="1" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta 7" />
@@ -46,10 +50,6 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift alt l" />
-  </action>
-  <action id="FullyExpandTreeNode">
-    <keyboard-shortcut first-keystroke="multiply" />
-    <keyboard-shortcut first-keystroke="1" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
