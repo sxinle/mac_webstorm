@@ -28,12 +28,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" timestamp="1515662601813">
         <mark key="'" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" timestamp="1524709688641">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" timestamp="1524710385693">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="70" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" timestamp="1524709361136">
         <mark key="'" line="48" column="30" />
@@ -216,11 +216,11 @@
         <mark key="^" line="76" column="81" />
         <mark key="." line="76" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1524658030754">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="5" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1524710697145">
+        <mark key="'" line="76" column="30" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/rule.js" timestamp="1523949078231">
         <mark key="'" line="67" column="31" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="32" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/router.js" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/router.js" />
       <jump line="26" column="24" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
       <jump line="136" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
@@ -362,6 +361,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" />
       <jump line="48" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" />
       <jump line="32" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" />
+      <jump line="76" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -371,40 +371,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Submit</text>
+        <text>load</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ2NoYW5nZUxvZ2luU3RhdHVzJywKICAgICAgICAgIHBheWxvYWQ6IHsKICAgICAgICAgICAgc3RhdHVzOiBmYWxzZSwKICAgICAgICAgICAgdG9rZW46IG51bGwsCiAgICAgICAgICB9LAogICAgICAgIH0pOwogICAgICAgIHJlbG9hZEF1dGhvcml6ZWQoKTsKICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucHVzaCgnL3VzZXIvbG9naW4nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCh7CiAgICAgICAgICB0eXBlOiAnbG9naW4vbG9nb3V0JywKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdsb2dpbi9sb2dvdXQnLAogICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXNwb25zZSkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnY2hhbmdlTG9naW5TdGF0dXMnLAogICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICBzdGF0dXM6IGZhbHNlLAogICAgICAgICAgICB0b2tlbjogbnVsbCwKICAgICAgICAgIH0sCiAgICAgICAgfSk7CiAgICAgICAgcmVsb2FkQXV0aG9yaXplZCgpOwogICAgICAgIHlpZWxkIHB1dChyb3V0ZXJSZWR1eC5wdXNoKCcvdXNlci9sb2dpbicpKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cuaGlzdG9yeS5yZXBsYWNlU3RhdGUobnVsbCwgJ2xvZ2luJywgdXJsUGFyYW1zLmhyZWYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm90aGVyfT4gKi99CiAgICAgICAgICB7Lyog5YW25LuW55m75b2V5pa55byPICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9ImFsaXBheS1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9InRhb2Jhby1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9IndlaWJvLWNpcmNsZSIgLz4gKi99CiAgICAgICAgICB7LyogPExpbmsgY2xhc3NOYW1lPXtzdHlsZXMucmVnaXN0ZXJ9IHRvPSIvdXNlci9yZWdpc3RlciI+5rOo5YaM6LSm5oi3PC9MaW5rPiAqL30KICAgICAgICAgIHsvKiA8L2Rpdj4gKi99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnYScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKiA8VGFiIGtleT0ibW9iaWxlIiB0YWI9IuaJi+acuuWPt+eZu+W9lSI+ICovfQogICAgICAgICAgey8qIHsgKi99CiAgICAgICAgICB7LyogbG9naW4uc3RhdHVzID09PSAnZXJyb3InICYmICovfQogICAgICAgICAgey8qIGxvZ2luLnR5cGUgPT09ICdtb2JpbGUnICYmICovfQogICAgICAgICAgey8qISBsb2dpbi5zdWJtaXR0aW5nICYmICovfQogICAgICAgICAgey8qIHRoaXMucmVuZGVyTWVzc2FnZSgn6aqM6K+B56CB6ZSZ6K+vJykgKi99CiAgICAgICAgICB7LyogfSAqL30KICAgICAgICAgIHsvKiA8TW9iaWxlIG5hbWU9Im1vYmlsZSIgLz4gKi99CiAgICAgICAgICB7LyogPENhcHRjaGEgbmFtZT0iY2FwdGNoYSIgLz4gKi99CiAgICAgICAgICB7LyogPC9UYWI+ICovfQogICAgICAgICAgey8qIDxkaXY+ICovfQogICAgICAgICAgey8qIDxDaGVja2JveCBjaGVja2VkPXt0aGlzLnN0YXRlLmF1dG9Mb2dpbn0gb25DaGFuZ2U9e3RoaXMuY2hhbmdlQXV0b0xvZ2lufT7oh6rliqjnmbvlvZU8L0NoZWNrYm94PiAqL30KICAgICAgICAgIHsvKiA8YSBzdHlsZT17eyBmbG9hdDogJ3JpZ2h0JyB9fSBocmVmPSIiPuW/mOiusOWvhueggTwvYT4gKi99CiAgICAgICAgICB7LyogPC9kaXY+ICovfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ2NoYW5nZUxvZ2luU3RhdHVzJywKICAgICAgICAgIHBheWxvYWQ6IHsKICAgICAgICAgICAgCiAgICAgICAgICB9LAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbm5lY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWl0dGluZzogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCFyZXNwb25zZSkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnY2hhbmdlTG9naW5TdGF0dXMnLAogICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICBzdGF0dXM6IGZhbHNlLAogICAgICAgICAgICB0b2tlbjogbnVsbCwKICAgICAgICAgIH0sCiAgICAgICAgfSk7CiAgICAgICAgcmVsb2FkQXV0aG9yaXplZCgpOwogICAgICAgIHlpZWxkIHB1dChyb3V0ZXJSZWR1eC5wdXNoKCcvdXNlci9sb2dpbicpKTsKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Ym1pdHRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
