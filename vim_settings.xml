@@ -67,12 +67,12 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1524719021990">
-        <mark key="'" line="371" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="225" column="30" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1524719420010">
+        <mark key="'" line="192" column="33" />
+        <mark key="[" line="113" column="6" />
+        <mark key="]" line="113" column="9" />
+        <mark key="^" line="113" column="9" />
+        <mark key="." line="113" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" timestamp="1523949060382">
         <mark key="'" line="80" column="12" />
@@ -270,9 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
-      <jump line="16" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/demo/umi-dva-user-dashboard/src/pages/users/services/users.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/umi-dva-user-dashboard/src/pages/users/services/users.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/demo/umi-dva-user-dashboard/src/pages/users/services/users.js" />
       <jump line="7" column="47" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/user.js" />
@@ -370,6 +367,9 @@
       <jump line="76" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" />
       <jump line="96" column="19" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="371" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="112" column="5" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="165" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="192" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -382,7 +382,7 @@
         <text>人员选择</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkaW5nXD4=</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
@@ -419,17 +419,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkaW5nXD4=</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkaW5nXD4=</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>currentUser</entry>
         <entry>console.log</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxBbGVydFw+</entry>
@@ -449,6 +448,7 @@
         <entry encoding="base64">XDxzdWJtaXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxMb2dpblw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
