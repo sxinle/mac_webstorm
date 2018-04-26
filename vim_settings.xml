@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/jinhui/jh_shop/src/routes/HomePage.js" timestamp="1524740926176">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1524657581079">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="81" />
@@ -21,6 +26,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/react/cjs/react.development.js" timestamp="1519954376104">
         <mark key="'" line="1313" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/jh_shop/themes/default.less" timestamp="1524741059904">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/datetime-picker.html" timestamp="1515056897600">
         <mark key="'" line="188" column="0" />
       </file>
@@ -33,6 +44,9 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/DailyVisit.js" timestamp="1515662601813">
         <mark key="'" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" timestamp="1524740905936">
+        <mark key="'" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/User/Login.js" timestamp="1524710385693">
         <mark key="'" line="34" column="8" />
@@ -270,14 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/umi-dva-user-dashboard/src/pages/users/services/users.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/demo/umi-dva-user-dashboard/src/pages/users/services/users.js" />
-      <jump line="7" column="47" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/user.js" />
-      <jump line="23" column="37" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/login.js" />
-      <jump line="21" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/user.js" />
-      <jump line="150" column="8" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="8" column="18" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/IndexPage.js" />
       <jump line="119" column="29" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="154" column="13" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="52" column="15" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/IndexPage.js" />
@@ -370,6 +376,14 @@
       <jump line="112" column="5" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="165" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="192" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="156" column="1" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="157" column="1" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="158" column="1" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="159" column="35" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="154" column="3" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="155" column="1" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
+      <jump line="6" column="5" filename="$USER_HOME$/workspace/jinhui/jh_shop/node_modules/antd-mobile/lib/style/themes/default.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,49 +393,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>人员选择</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>brand</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi90aGVtZS5jb25maWcnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdsb2dpbi9sb2dvdXQnLAogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdsb2dpbi9sb2dvdXQnLAogICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm90aGVyfT4gKi99CiAgICAgICAgICB7Lyog5YW25LuW55m75b2V5pa55byPICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9ImFsaXBheS1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9InRhb2Jhby1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9IndlaWJvLWNpcmNsZSIgLz4gKi99CiAgICAgICAgICB7LyogPExpbmsgY2xhc3NOYW1lPXtzdHlsZXMucmVnaXN0ZXJ9IHRvPSIvdXNlci9yZWdpc3RlciI+5rOo5YaM6LSm5oi3PC9MaW5rPiAqL30KICAgICAgICAgIHsvKiA8L2Rpdj4gKi99Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKiA8VGFiIGtleT0ibW9iaWxlIiB0YWI9IuaJi+acuuWPt+eZu+W9lSI+ICovfQogICAgICAgICAgey8qIHsgKi99CiAgICAgICAgICB7LyogbG9naW4uc3RhdHVzID09PSAnZXJyb3InICYmICovfQogICAgICAgICAgey8qIGxvZ2luLnR5cGUgPT09ICdtb2JpbGUnICYmICovfQogICAgICAgICAgey8qISBsb2dpbi5zdWJtaXR0aW5nICYmICovfQogICAgICAgICAgey8qIHRoaXMucmVuZGVyTWVzc2FnZSgn6aqM6K+B56CB6ZSZ6K+vJykgKi99CiAgICAgICAgICB7LyogfSAqL30KICAgICAgICAgIHsvKiA8TW9iaWxlIG5hbWU9Im1vYmlsZSIgLz4gKi99CiAgICAgICAgICB7LyogPENhcHRjaGEgbmFtZT0iY2FwdGNoYSIgLz4gKi99CiAgICAgICAgICB7LyogPC9UYWI+ICovfQogICAgICAgICAgey8qIDxkaXY+ICovfQogICAgICAgICAgey8qIDxDaGVja2JveCBjaGVja2VkPXt0aGlzLnN0YXRlLmF1dG9Mb2dpbn0gb25DaGFuZ2U9e3RoaXMuY2hhbmdlQXV0b0xvZ2lufT7oh6rliqjnmbvlvZU8L0NoZWNrYm94PiAqL30KICAgICAgICAgIHsvKiA8YSBzdHlsZT17eyBmbG9hdDogJ3JpZ2h0JyB9fSBocmVmPSIiPuW/mOiusOWvhueggTwvYT4gKi99CiAgICAgICAgICB7LyogPC9kaXY+ICovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKiA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm90aGVyfT4gKi99CiAgICAgICAgICB7Lyog5YW25LuW55m75b2V5pa55byPICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9ImFsaXBheS1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9InRhb2Jhby1jaXJjbGUiIC8+ICovfQogICAgICAgICAgey8qIDxJY29uIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHR5cGU9IndlaWJvLWNpcmNsZSIgLz4gKi99CiAgICAgICAgICB7LyogPExpbmsgY2xhc3NOYW1lPXtzdHlsZXMucmVnaXN0ZXJ9IHRvPSIvdXNlci9yZWdpc3RlciI+5rOo5YaM6LSm5oi3PC9MaW5rPiAqL30KICAgICAgICAgIHsvKiA8L2Rpdj4gKi99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3QK</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKiA8VGFiIGtleT0ibW9iaWxlIiB0YWI9IuaJi+acuuWPt+eZu+W9lSI+ICovfQogICAgICAgICAgey8qIHsgKi99CiAgICAgICAgICB7LyogbG9naW4uc3RhdHVzID09PSAnZXJyb3InICYmICovfQogICAgICAgICAgey8qIGxvZ2luLnR5cGUgPT09ICdtb2JpbGUnICYmICovfQogICAgICAgICAgey8qISBsb2dpbi5zdWJtaXR0aW5nICYmICovfQogICAgICAgICAgey8qIHRoaXMucmVuZGVyTWVzc2FnZSgn6aqM6K+B56CB6ZSZ6K+vJykgKi99CiAgICAgICAgICB7LyogfSAqL30KICAgICAgICAgIHsvKiA8TW9iaWxlIG5hbWU9Im1vYmlsZSIgLz4gKi99CiAgICAgICAgICB7LyogPENhcHRjaGEgbmFtZT0iY2FwdGNoYSIgLz4gKi99CiAgICAgICAgICB7LyogPC9UYWI+ICovfQogICAgICAgICAgey8qIDxkaXY+ICovfQogICAgICAgICAgey8qIDxDaGVja2JveCBjaGVja2VkPXt0aGlzLnN0YXRlLmF1dG9Mb2dpbn0gb25DaGFuZ2U9e3RoaXMuY2hhbmdlQXV0b0xvZ2lufT7oh6rliqjnmbvlvZU8L0NoZWNrYm94PiAqL30KICAgICAgICAgIHsvKiA8YSBzdHlsZT17eyBmbG9hdDogJ3JpZ2h0JyB9fSBocmVmPSIiPuW/mOiusOWvhueggTwvYT4gKi99CiAgICAgICAgICB7LyogPC9kaXY+ICovfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFyZXNwb25zZSkgewogICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICB0eXBlOiAnY2hhbmdlTG9naW5TdGF0dXMnLAogICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICBzdGF0dXM6IGZhbHNlLAogICAgICAgICAgICB0b2tlbjogbnVsbCwKICAgICAgICAgIH0sCiAgICAgICAgfSk7CiAgICAgICAgcmVsb2FkQXV0aG9yaXplZCgpOwogICAgICAgIHlpZWxkIHB1dChyb3V0ZXJSZWR1eC5wdXNoKCcvdXNlci9sb2dpbicpKTsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>brand</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>brand</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -429,10 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>console</entry>
-        <entry encoding="base64">XDxBbGVydFw+</entry>
-        <entry>show</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJNZXNzYWdlXD4=</entry>
         <entry>Auth</entry>
@@ -449,6 +459,10 @@
         <entry encoding="base64">XDxMb2dpblw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry>search</entry>
+        <entry>nav-bar</entry>
+        <entry>navbar</entry>
+        <entry>navi</entry>
+        <entry>brand</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
