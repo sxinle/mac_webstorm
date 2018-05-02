@@ -285,8 +285,8 @@
       <file name="$USER_HOME$/workspace/bosch/lib/jquery-2.1.4.js" timestamp="1515557000888">
         <mark key="'" line="7480" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" timestamp="1521185590729">
-        <mark key="'" line="66" column="12" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" timestamp="1525250846932">
+        <mark key="'" line="438" column="24" />
         <mark key="[" line="64" column="1" />
         <mark key="]" line="92" column="2" />
         <mark key="." line="92" column="2" />
@@ -312,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="82" column="18" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="54" column="31" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="13" column="25" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/index.js" />
       <jump line="27" column="35" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="31" column="12" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="38" column="10" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
@@ -412,6 +408,10 @@
       <jump line="90" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="150" column="42" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
       <jump line="36" column="19" filename="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Contacts.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
+      <jump line="409" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
+      <jump line="429" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
+      <jump line="438" column="24" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,7 +424,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>Customers</text>
+        <text encoding="base64">XDxmb3JtTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
@@ -461,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Customers</last-search>
+      <last-search encoding="base64">XDxmb3JtTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>Customers</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtTmFtZVw+</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Auth</entry>
         <entry encoding="base64">XDxBdXRob3JpemVkXD4=</entry>
         <entry encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</entry>
         <entry>login</entry>
@@ -491,6 +490,7 @@
         <entry>brand</entry>
         <entry encoding="base64">XDxoYW5kbGVTdGFuZGFyZFRhYmxlQ2hhbmdlXD4=</entry>
         <entry>Customers</entry>
+        <entry encoding="base64">XDxmb3JtTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
