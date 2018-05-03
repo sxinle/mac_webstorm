@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/jinhui/jh_shop/src/routes/HomePage.js" timestamp="1524740926176">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1524657581079">
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="81" />
@@ -76,12 +71,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SignIn.js" timestamp="1521185866024">
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SignIn.js" timestamp="1525344829938">
         <mark key="'" line="116" column="21" />
-        <mark key="[" line="347" column="35" />
-        <mark key="]" line="347" column="60" />
-        <mark key="." line="347" column="60" />
-        <mark key="^" line="347" column="60" />
+        <mark key="[" line="332" column="59" />
+        <mark key="]" line="332" column="66" />
+        <mark key="." line="332" column="66" />
+        <mark key="^" line="332" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/bosch/jq-weui-demos/popup.html" timestamp="1515051052369">
         <mark key="'" line="0" column="0" />
@@ -221,7 +216,7 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525341150314">
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525345625643">
         <mark key="[" line="198" column="69" />
         <mark key="]" line="198" column="87" />
         <mark key="." line="199" column="47" />
@@ -277,7 +272,7 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525341284630">
+      <file name="/Dummy.txt" timestamp="1525344989681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1524713538999">
@@ -287,9 +282,9 @@
         <mark key="^" line="76" column="81" />
         <mark key="." line="76" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionDetail.js" timestamp="1525341242253">
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="89" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionDetail.js" timestamp="1525345367862">
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="59" column="67" />
         <mark key="." line="59" column="89" />
         <mark key="^" line="59" column="89" />
       </file>
@@ -448,13 +443,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>submit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtTmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>smng-misc/promotion?_id=' + global.itemId</text>
+        <text>promotion</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IGpzb25EYXRhIGZyb20gIi4vY3VzdG9tZXIuanNvbiI7CmltcG9ydCBOYXZpZ2F0aW9uU2VydmljZSBmcm9tICcuLi8uLi9OYXZpZ2F0aW9uU2VydmljZS5qcycK</text>
