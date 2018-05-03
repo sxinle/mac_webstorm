@@ -89,6 +89,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.webpackrc" timestamp="1523933639317">
         <mark key="'" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/MyApplication.js" timestamp="1525341222558">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/menu.js" timestamp="1519898255842">
         <mark key="'" line="184" column="7" />
         <mark key="[" line="34" column="13" />
@@ -108,6 +114,12 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" timestamp="1525339140994">
         <mark key="'" line="173" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionDetail2.js" timestamp="1525341259862">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" timestamp="1524637624838">
         <mark key="'" line="9" column="29" />
@@ -209,11 +221,11 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525339531531">
-        <mark key="[" line="173" column="53" />
-        <mark key="]" line="173" column="62" />
-        <mark key="." line="173" column="53" />
-        <mark key="^" line="173" column="61" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525341150314">
+        <mark key="[" line="198" column="69" />
+        <mark key="]" line="198" column="87" />
+        <mark key="." line="199" column="47" />
+        <mark key="^" line="199" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Contacts.js" timestamp="1525231212760">
         <mark key="'" line="40" column="19" />
@@ -265,7 +277,7 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525339763054">
+      <file name="/Dummy.txt" timestamp="1525341284630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1524713538999">
@@ -274,6 +286,12 @@
         <mark key="]" line="76" column="81" />
         <mark key="^" line="76" column="81" />
         <mark key="." line="76" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionDetail.js" timestamp="1525341242253">
+        <mark key="[" line="59" column="49" />
+        <mark key="]" line="59" column="89" />
+        <mark key="." line="59" column="89" />
+        <mark key="^" line="59" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1525078335362">
         <mark key="'" line="76" column="30" />
@@ -430,13 +448,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>smng_misc</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtTmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>promotion_collect</text>
+        <text>smng-misc/promotion?_id=' + global.itemId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IGpzb25EYXRhIGZyb20gIi4vY3VzdG9tZXIuanNvbiI7CmltcG9ydCBOYXZpZ2F0aW9uU2VydmljZSBmcm9tICcuLi8uLi9OYXZpZ2F0aW9uU2VydmljZS5qcycK</text>
