@@ -106,6 +106,9 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/mock/api.js" timestamp="1523949060382">
         <mark key="'" line="80" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" timestamp="1525339140994">
+        <mark key="'" line="173" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" timestamp="1524637624838">
         <mark key="'" line="9" column="29" />
         <mark key="[" line="27" column="29" />
@@ -206,6 +209,12 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="45" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525339531531">
+        <mark key="[" line="173" column="53" />
+        <mark key="]" line="173" column="62" />
+        <mark key="." line="173" column="53" />
+        <mark key="^" line="173" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/src/components/Contacts.js" timestamp="1525231212760">
         <mark key="'" line="40" column="19" />
         <mark key="[" line="5" column="0" />
@@ -256,7 +265,7 @@
         <mark key="." line="22" column="47" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525233229393">
+      <file name="/Dummy.txt" timestamp="1525339763054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/common/router.js" timestamp="1524713538999">
@@ -312,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="35" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="31" column="12" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="38" column="10" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="33" column="24" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
@@ -412,6 +420,7 @@
       <jump line="409" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="429" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
       <jump line="438" column="24" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CostApplication.js" />
+      <jump line="173" column="9" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,13 +430,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>smng_misc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtTmFtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAogICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>promotion_collect</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IGpzb25EYXRhIGZyb20gIi4vY3VzdG9tZXIuanNvbiI7CmltcG9ydCBOYXZpZ2F0aW9uU2VydmljZSBmcm9tICcuLi8uLi9OYXZpZ2F0aW9uU2VydmljZS5qcycK</text>
@@ -467,7 +476,7 @@
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
