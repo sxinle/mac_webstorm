@@ -9,6 +9,12 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1525506737370">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Collection.js" timestamp="1525410944422">
         <mark key="[" line="156" column="84" />
         <mark key="]" line="156" column="99" />
@@ -32,6 +38,12 @@
         <mark key="]" line="334" column="46" />
         <mark key="." line="448" column="51" />
         <mark key="^" line="448" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/services/visit.js" timestamp="1525506613594">
+        <mark key="[" line="3" column="90" />
+        <mark key="]" line="3" column="118" />
+        <mark key="^" line="3" column="118" />
+        <mark key="." line="3" column="118" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionCollect.js" timestamp="1525429067671">
         <mark key="[" line="181" column="0" />
@@ -86,14 +98,33 @@
         <mark key="." line="52" column="27" />
         <mark key="^" line="52" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525423432759">
+      <file name="/Dummy.txt" timestamp="1525508450607">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" timestamp="1525507760764">
+        <mark key="'" line="42" column="7" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/SalesPromotionDetail.js" timestamp="1525345367862">
         <mark key="[" line="59" column="59" />
         <mark key="]" line="59" column="67" />
         <mark key="." line="59" column="89" />
         <mark key="^" line="59" column="89" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1525507056523">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="48" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" timestamp="1525508647101">
+        <mark key="'" line="272" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" timestamp="1525431120312">
         <mark key="'" line="173" column="9" />
@@ -147,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="24" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="34" column="28" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
-      <jump line="35" column="22" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="41" column="11" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="108" column="32" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="105" column="5" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
@@ -247,6 +275,9 @@
       <jump line="173" column="9" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" />
       <jump line="104" column="81" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/WorkLog.js" />
       <jump line="293" column="57" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/WorkLogWrite.js" />
+      <jump line="43" column="7" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
+      <jump line="272" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -256,40 +287,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// 销售下单没实现呢, 不用micros-forms微服务</text>
+        <text>操作</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtTmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImdvb2RzTmFtZSI6Z29vZHNOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAiYWN0aXZpdHlOYW1lIjphY3Rpdml0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICJzdGFydFRpbWUiOnN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICAgICAgICAgImVuZFRpbWUiOmVuZFRpbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICJkZXNjcmliZSI6IGRlc2NyaWJlLAogICAgICAgICAgICAgICAgICAgICAgICAiY3VzdGlkIjogZ2xvYmFsLmN1c3RJZAo=</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+WunumZheaLnOiuvycsCiAgICBkYXRhSW5kZXg6ICdmYWN0JywKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2goZ2xvYmFsLmNvbnN0LnVybFByZWZpeCArICcvYXBpL21pY3Jvcy1mb3Jtcy9xdWVyeScsIHsK</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+WbvueJhycsCiAgICBkYXRhSW5kZXg6ICdpbWdzJywKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmV0Y2goZ2xvYmFsLmNvbnN0LnVybFByZWZpeCArICcvYXBpL21pY3Jvcy1mb3Jtcy9xdWVyeScsIHsK</text>
+        <text encoding="base64">ICAgICAgICA8RGl2aWRlciB0eXBlPSJ2ZXJ0aWNhbCIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmV0Y2goZ2xvYmFsLmNvbnN0LnVybFByZWZpeCArICcvYXBpL21pY3Jvcy1mb3Jtcy9xdWVyeScsIHsK</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSIiPuiuoumYheitpuaKpTwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmV0Y2goZ2xvYmFsLmNvbnN0LnVybFByZWZpeCArICcvYXBpL21pY3Jvcy1mb3Jtcy9xdWVyeScsIHsK</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+WunumZheaLnOiuvycsCiAgICBkYXRhSW5kZXg6ICdmYWN0JywKICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2goZ2xvYmFsLmNvbnN0LnVybFByZWZpeCArICcvYXBpL21pY3Jvcy1mb3Jtcy9xdWVyeScsIHsK</text>
+        <text encoding="base64">Y29uc3Qgc3RhdHVzTWFwID0gWydkZWZhdWx0JywgJ3Byb2Nlc3NpbmcnLCAnc3VjY2VzcycsICdlcnJvciddOwpjb25zdCBzdGF0dXMgPSBbJ+W3suWujOaIkCcsICfov5vooYzkuK0nLCAn5pyq5a6M5oiQJ107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGpzb25EYXRhIGZyb20gIi4vY3VzdG9tZXIuanNvbiI7CmltcG9ydCBOYXZpZ2F0aW9uU2VydmljZSBmcm9tICcuLi8uLi9OYXZpZ2F0aW9uU2VydmljZS5qcycK</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+i/m+W6picsCiAgICBkYXRhSW5kZXg6ICdwcm9ncmVzcycsCiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLm5hdmlnYXRpb24pCg==</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+eKtuaAgScsCiAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgZmlsdGVyczogWwogICAgICB7CiAgICAgICAgdGV4dDogc3RhdHVzWzBdLAogICAgICAgIHZhbHVlOiAwLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogc3RhdHVzWzFdLAogICAgICAgIHZhbHVlOiAxLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGV4dDogc3RhdHVzWzJdLAogICAgICAgIHZhbHVlOiAyLAogICAgICB9LAogICAgXSwKICAgIHJlbmRlcih2YWwpIHsKICAgICAgcmV0dXJuIDxCYWRnZSBzdGF0dXM9e3N0YXR1c01hcFt2YWxdfSB0ZXh0PXtzdGF0dXNbdmFsXX0gLz47CiAgICB9LAogIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+eJh+WMuicsCiAgICBkYXRhSW5kZXg6ICdkZXNjcmlwdGlvbicsCiAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5uYXZpZ2F0aW9uKQo=</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogJ+W6j+WPtycsCiAgICBkYXRhSW5kZXg6ICdfaWQnLAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
