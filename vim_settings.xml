@@ -12,12 +12,12 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1527576798144">
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" timestamp="1527592933413">
         <mark key="'" line="149" column="13" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Collection.js" timestamp="1525410944422">
         <mark key="[" line="156" column="84" />
@@ -125,7 +125,8 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1527055618281">
         <mark key="'" line="100" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1527315550193">
+      <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" timestamp="1527678097267">
+        <mark key="'" line="66" column="30" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="48" />
         <mark key="." line="66" column="0" />
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="29" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
@@ -289,6 +289,7 @@
       <jump line="130" column="14" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
       <jump line="260" column="20" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="23" column="37" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
+      <jump line="66" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -298,10 +299,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>allCustomers</text>
       </register>
       <register name="/" type="4">
-        <text>data.list</text>
+        <text encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3Zpc2l0L2dldERlcHQnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgY29taWQ6IDAsCiAgICAgIH0sCiAgICB9Cg==</text>
@@ -341,17 +342,16 @@
       </register>
     </registers>
     <search>
-      <last-search>data.list</last-search>
+      <last-search encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</last-search>
       <last-offset />
-      <last-pattern>data.list</last-pattern>
+      <last-pattern encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</entry>
         <entry>click</entry>
         <entry>koubei</entry>
@@ -371,6 +371,7 @@
         <entry encoding="base64">XDxmb3JtTmFtZVw+</entry>
         <entry encoding="base64">XDxyb3V0ZXJSZWR1eFw+</entry>
         <entry>data.list</entry>
+        <entry encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
