@@ -144,6 +144,9 @@
         <mark key="." line="150" column="24" />
         <mark key="^" line="148" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/jh_shop/.roadhogrc.js" timestamp="1527753637298">
+        <mark key="'" line="13" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/ContractManagement.js" timestamp="1525431120312">
         <mark key="'" line="173" column="9" />
         <mark key="[" line="217" column="0" />
@@ -196,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/routes/HomePage.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
       <jump line="40" column="18" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
@@ -296,6 +298,7 @@
       <jump line="260" column="20" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="23" column="37" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
       <jump line="66" column="30" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/utils/request.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Desktop/jh_shop/.roadhogrc.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +311,7 @@
         <text>server</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</text>
+        <text>env</text>
       </register>
       <register name="0" type="4">
         <text>roadhog</text>
@@ -348,17 +351,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>部门</last-replace>
       <last-substitute>职能</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJDb250ZW50XD4=</entry>
         <entry>click</entry>
         <entry>koubei</entry>
         <entry>line</entry>
@@ -378,6 +380,7 @@
         <entry encoding="base64">XDxyb3V0ZXJSZWR1eFw+</entry>
         <entry>data.list</entry>
         <entry encoding="base64">XDxjYzJmOWE2Yzg1MjM4YjJiXD4=</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
