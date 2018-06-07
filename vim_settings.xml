@@ -112,8 +112,11 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528370918155">
-        <mark key="'" line="73" column="4" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528371979383">
+        <mark key="'" line="239" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CheckProducts.js" timestamp="1525406164267">
         <mark key="[" line="83" column="69" />
@@ -181,7 +184,7 @@
         <mark key="." line="58" column="88" />
         <mark key="^" line="58" column="88" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528370555743">
+      <file name="/JavaScript Console" timestamp="1528371707404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Register.js" timestamp="1527055594312">
@@ -248,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/Home.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/Home.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/Home.js" />
       <jump line="12" column="11" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/My.js" />
       <jump line="20" column="23" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/Home.js" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/antd-mobile-samples/web-roadhog/src/components/Home.js" />
@@ -339,8 +339,6 @@
       <jump line="291" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="465" column="69" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="456" column="6" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
-      <jump line="36" column="54" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
-      <jump line="94" column="22" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="268" column="27" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="148" column="20" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -348,6 +346,11 @@
       <jump line="39" column="3" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="71" column="11" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="73" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="32" column="63" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="36" column="60" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="94" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="239" column="8" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,10 +360,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
-        <text>Object.keys</text>
+        <text>Modal</text>
       </register>
       <register name="0" type="4">
         <text>handleModalVisible</text>
@@ -369,40 +372,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5pbmZvKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyggcHJvcHN9YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25maWfkv6Hmga/pqozor4HlpLHotKXkvJrmiafooYxlcnJvcuWHveaVsO+8jOWmguetvuWQjei/h+acn+WvvOiHtOmqjOivgeWksei0pe+8jOWFt+S9k+mUmeivr+S/oeaBr+WPr+S7peaJk+W8gGNvbmZpZ+eahGRlYnVn5qih5byP5p+l55yL77yM5Lmf5Y+v5Lul5Zyo6L+U5Zue55qEcmVz5Y+C5pWw5Lit5p+l55yL77yM5a+55LqOU1BB5Y+v5Lul5Zyo6L+Z6YeM5pu05paw562+5ZCN44CCCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzZXRzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuYSA9ICdhJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDogewogICAgICAgIGNvbWlkOiAwLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyggcHJvcHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3Zpc2l0L3Rlc3QnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgY29taWQ6IDAsCiAgICAgIH0sCiAgICB9KTsK</text>
+        <text encoding="base64">ICBwcm9wcy4K</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      headers: {token: localStorage.getItem('token')},
-      method: 'GET',
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygneHh4eHh4eCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Object.keys</last-search>
+      <last-search>Modal</last-search>
       <last-offset />
-      <last-pattern>Object.keys</last-pattern>
+      <last-pattern>Modal</last-pattern>
       <last-replace>192.168.1.122</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -410,8 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
-        <entry>search</entry>
         <entry>nav-bar</entry>
         <entry>navbar</entry>
         <entry>navi</entry>
@@ -430,6 +428,8 @@
         <entry>修改</entry>
         <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry>Object.keys</entry>
+        <entry encoding="base64">XDxDcmVhdGVGb3JtXD4=</entry>
+        <entry>Modal</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
