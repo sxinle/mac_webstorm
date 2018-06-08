@@ -124,7 +124,7 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528096708558">
+      <file name="/Dummy.txt" timestamp="1528451880419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" timestamp="1527576818440">
@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1528369394172">
         <mark key="'" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528449251670">
-        <mark key="'" line="453" column="29" />
-        <mark key="[" line="293" column="93" />
-        <mark key="]" line="294" column="54" />
-        <mark key="." line="294" column="54" />
-        <mark key="^" line="294" column="54" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528452428059">
+        <mark key="'" line="413" column="19" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1527055618281">
         <mark key="'" line="100" column="61" />
@@ -222,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="52" column="23" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
-      <jump line="169" column="33" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="165" column="43" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="0" column="9" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/form.js" />
       <jump line="117" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="399" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
@@ -322,6 +318,10 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/rule.js" />
       <jump line="17" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/rule.js" />
       <jump line="15" column="43" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="411" column="11" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="414" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="413" column="19" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,10 +334,10 @@
         <text>params.</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text>columns</text>
       </register>
       <register name="0" type="4">
-        <text>handleRmRet</text>
+        <text>Divider</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgcm91dGVyUmVkdXggfSBmcm9tICdkdmEvcm91dGVyJzsK</text>
@@ -371,9 +371,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search>columns</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern>columns</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveFormRef</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q2hlY2tlZExpc3RcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry>this.handleModal</entry>
@@ -395,12 +394,13 @@
         <entry encoding="base64">XDxoYW5kbGVBZGRcPg==</entry>
         <entry>loading</entry>
         <entry>console.lo</entry>
-        <entry>columns</entry>
         <entry>查询</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVTdGFuZGFyZFRhYmxlQ2hhbmdlXD4=</entry>
         <entry>fetch</entry>
+        <entry>colmns</entry>
+        <entry>columns</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
