@@ -130,12 +130,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1528369394172">
         <mark key="'" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528430293487">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="94" column="5" />
-        <mark key="]" line="95" column="5" />
-        <mark key="." line="95" column="5" />
-        <mark key="^" line="95" column="5" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528433217861">
+        <mark key="'" line="95" column="26" />
+        <mark key="[" line="169" column="3" />
+        <mark key="]" line="169" column="3" />
+        <mark key="." line="169" column="3" />
+        <mark key="^" line="151" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1527055618281">
         <mark key="'" line="100" column="61" />
@@ -202,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/workspace/jinhui/jh_shop/package.json" />
-      <jump line="228" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/BasicLayout.js" />
       <jump line="88" column="14" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/layouts/BasicLayout.js" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
       <jump line="108" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/components/GlobalHeader/index.js" />
@@ -302,6 +300,8 @@
       <jump line="278" column="3" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="276" column="7" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="95" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,57 +311,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>te()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>saveFormRef</text>
+        <text encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEZvcm0uY3JlYXRlKCkK</text>
+      <register name="0" type="4">
+        <text>modalVisible</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGVGb3JtUmVmID0gKGZvcm1SZWYpID0+IHsKICAgIHRoaXMuZm9ybVJlZiA9IGZvcm1SZWY7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhdHVzTWFwID0gWydkZWZhdWx0JywgJ3Byb2Nlc3NpbmcnLCAnc3VjY2VzcycsICdlcnJvciddOwpsZXQgZGlnaXRzID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBCYWRnZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBEcm9wZG93biwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJY29uLAo=</text>
+        <text encoding="base64">ICBjb25zdCB7bW9kYWxWaXNpYmxlLCBmb3JtLCBoYW5kbGVBZGQsIGhhbmRsZU1vZGFsVmlzaWJsZX0gPSBwcm9wczsKCiAgY29uc3QgZGVmYXVsdENoZWNrZWRMaXN0ID0gWydBcHBsZScsICdPcmFuZ2UnXTsKCiAgY29uc3Qgb2tIYW5kbGUgPSAoKSA9PiB7CiAgICBmb3JtLnZhbGlkYXRlRmllbGRzKChlcnIsIGZpZWxkc1ZhbHVlKSA9PiB7CiAgICAgIGlmIChlcnIpIHJldHVybjsKICAgICAgZm9ybS5yZXNldEZpZWxkcygpOwogICAgICBoYW5kbGVBZGQoZmllbGRzVmFsdWUpOwogICAgfSk7CiAgfTsKCiAgY29uc3QgY2hlY2tDaGFuZ2UgPSAoKSA9PiB7CiAgfTsKCiAgY29uc3QgY2hlY2tEaWdpdHNDaGFuZ2UgPSAoKSA9PiB7CiAgICBkaWdpdHMgPSAhZGlnaXRzOwogIH07CgogIGNvbnN0IGNoZWNrTG93ZXJDaGFyQ2hhbmdlID0gKCkgPT4gewogICAgbG93ZXJDaGFyID0gIWxvd2VyQ2hhcjsKICB9OwoKICBjb25zdCBjaGVja1VwcGVyQ2hhckNoYW5nZSA9ICgpID0+IHsKICAgIHVwcGVyQ2hhciA9ICF1cHBlckNoYXI7CiAgfTsKCiAgY29uc3QgY2hlY2tXaXRob3V0SU9DaGFuZ2UgPSAoKSA9PiB7CiAgICB3aXRob3V0SU8gPSAhd2l0aG91dElPOwogIH07CgogIGNvbnN0IGNoZWNrUHJlZml4Q2hhbmdlID0gKCkgPT4gewogICAgcHJlZml4ID0gIXByZWZpeDsKICB9OwoKICBjb25zdCBjaGVja0xldmVsQ2hhbmdlID0gKCkgPT4gewogICAgd2l0aG91dElPID0gIXdpdGhvdXRJTzsKICB9OwoKICBjb25zdCBjaGVja0NoZWNrc3VtQ2hhbmdlID0gKCkgPT4gewogICAgd2l0aG91dElPID0gIXdpdGhvdXRJTzsKICB9OwoKICBjb25zdCBwcmVmaXhBcnIgPSBbJ+W5tOS7vScsICfmibnmrKEnXTsKCiAgcmV0dXJuICgKICAgIDxNb2RhbAogICAgICB0aXRsZT0i5paw5bu66KeE5YiZIgogICAgICB2aXNpYmxlPXttb2RhbFZpc2libGV9CiAgICAgIG9uT2s9e29rSGFuZGxlfQogICAgICBvbkNhbmNlbD17KCkgPT4gaGFuZGxlTW9kYWxWaXNpYmxlKCl9CiAgICAgIGRlc3Ryb3lPbkNsb3NlCiAgICA+CgogICAgICA8Rm9ybUl0ZW0gbGFiZWxDb2w9e3tzcGFuOiA1fX0gd3JhcHBlckNvbD17e3NwYW46IDE1fX0gbGFiZWw9IuWQjeensCI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ25hbWUnLCB7CiAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpeinhOWImeWQjeensC4uLid9XSwKICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQogICAgICA8L0Zvcm1JdGVtPgoKICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7c3BhbjogNX19IHdyYXBwZXJDb2w9e3tzcGFuOiAxNX19IGxhYmVsPSLmj4/ov7AiPgogICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdyZW1hcmsnLCB7CiAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpeinhOWImeeUqOmAlOaPj+i/sC4uLid9XSwKICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQogICAgICA8L0Zvcm1JdGVtPgoKICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7c3BhbjogNX19IHdyYXBwZXJDb2w9e3tzcGFuOiAxNX19IGxhYmVsPSLlrZfnrKbojIPlm7QiPgogICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdkcmFuZXNjJywgewogICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fpgInmi6nlrZfnrKbojIPlm7QuLi4nfV0sCiAgICAgICAgfSkoCiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8Q2hlY2tib3ggb25DaGFuZ2U9e2NoZWNrRGlnaXRzQ2hhbmdlfT4wfjk8L0NoZWNrYm94PgogICAgICAgICAgICA8Q2hlY2tib3ggb25DaGFuZ2U9e2NoZWNrTG93ZXJDaGFyQ2hhbmdlfT5hfno8L0NoZWNrYm94PgogICAgICAgICAgICA8Q2hlY2tib3ggb25DaGFuZ2U9e2NoZWNrVXBwZXJDaGFyQ2hhbmdlfT5Bflo8L0NoZWNrYm94PgogICAgICAgICAgICA8Q2hlY2tib3ggb25DaGFuZ2U9e2NoZWNrV2l0aG91dElPQ2hhbmdlfT7ljrtJTzwvQ2hlY2tib3g+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L0Zvcm1JdGVtPgoKICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7c3BhbjogNX19IHdyYXBwZXJDb2w9e3tzcGFuOiAxNX19IGxhYmVsPSLliY3nvIAiPgogICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCdwcmVmaXhfZGVzYycsIHsKICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5a2X56ym6IyD5Zu0Li4uJ31dLAogICAgICAgIH0pKAogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPENoZWNrYm94IG9uQ2hhbmdlPXtjaGVja1ByZWZpeENoYW5nZX0+5bm05Lu9PC9DaGVja2JveD4KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CiAgICAgIDwvRm9ybUl0ZW0+CgogICAgICA8Rm9ybUl0ZW0gbGFiZWxDb2w9e3tzcGFuOiA1fX0gd3JhcHBlckNvbD17e3NwYW46IDE1fX0gbGFiZWw9IumVv+W6piI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2NvZGVMZW4nLCB7CiAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+mAieaLqeWtl+espuiMg+WbtC4uLid9XSwKICAgICAgICB9KSg8SW5wdXROdW1iZXIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgbWluPXswfSBtYXg9ezMwfSAvPil9CiAgICAgIDwvRm9ybUl0ZW0+CgogICAgICA8Rm9ybUl0ZW0gbGFiZWxDb2w9e3tzcGFuOiA1fX0gd3JhcHBlckNvbD17e3NwYW46IDE1fX0gbGFiZWw9IuWQjue8gCI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2FwcGVuZGZpeCcsIHsKICAgICAgICAgIHJ1bGVzOiBbe3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oup5a2X56ym6IyD5Zu0Li4uJ31dLAogICAgICAgIH0pKAogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPENoZWNrYm94IG9uQ2hhbmdlPXtjaGVja0xldmVsQ2hhbmdlfT7nuqfliKs8L0NoZWNrYm94PgoKICAgICAgICAgICAgPENoZWNrYm94IG9uQ2hhbmdlPXtjaGVja0NoZWNrc3VtQ2hhbmdlKCl9PuagoemqjOWSjDwvQ2hlY2tib3g+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L0Zvcm1JdGVtPgoKICAgICAgPEZvcm0uSXRlbSBsYWJlbENvbD17e3NwYW46IDV9fSB3cmFwcGVyQ29sPXt7c3BhbjogMTV9fSBsYWJlbD0i56S65L6LIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcigndXJsJywgewogICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IGZhbHNlfV0sCiAgICAgICAgfSkoCiAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgc3R5bGU9e3t3aWR0aDogJzEwMCUnfX0KICAgICAgICAgICAgYWRkb25CZWZvcmU9IjE4V0ZLIgogICAgICAgICAgICBhZGRvbkFmdGVyPSI5SyIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjEyMzQ1NjdieCIKICAgICAgICAgIC8+CiAgICAgICAgKX0KICAgICAgPC9Gb3JtLkl0ZW0+CgogICAgPC9Nb2RhbD4KICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsZWFyRm9ybSA9ICAoKT0+ewoKICB9Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9wcyA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveFormRef</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</last-search>
       <last-offset />
-      <last-pattern>saveFormRef</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>brand</entry>
         <entry encoding="base64">XDxoYW5kbGVTdGFuZGFyZFRhYmxlQ2hhbmdlXD4=</entry>
         <entry>Customers</entry>
         <entry encoding="base64">XDxmb3JtTmFtZVw+</entry>
@@ -374,13 +373,14 @@
         <entry>新增供应</entry>
         <entry>新增</entry>
         <entry>修改</entry>
-        <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry>Object.keys</entry>
         <entry encoding="base64">XDxDcmVhdGVGb3JtXD4=</entry>
         <entry>Modal</entry>
         <entry>refs</entry>
         <entry>this.refs.addFrm</entry>
         <entry>saveFormRef</entry>
+        <entry encoding="base64">XDxkZWZhdWx0Q2hlY2tlZExpc3RcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
