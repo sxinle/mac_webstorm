@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Create" />
+      <item value="false" />
+      <item value="create" />
       <item value="build" />
       <item value="prise" />
       <item value="falsify checkin" />
@@ -16,5 +19,11 @@
   </component>
   <component name="Settings">
     <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="656393bd0e37ebed" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
