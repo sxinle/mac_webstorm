@@ -23,12 +23,13 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/button/button.js" timestamp="1528370588013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1528519528086">
-        <mark key="'" line="399" column="9" />
-        <mark key="[" line="466" column="20" />
-        <mark key="]" line="466" column="25" />
-        <mark key="." line="466" column="25" />
-        <mark key="^" line="466" column="25" />
+      <file name="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/BasicList.js" timestamp="1528521870044">
+        <mark key="'" line="38" column="2" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="102" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1528522871281">
+        <mark key="'" line="531" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Collection.js" timestamp="1525410944422">
         <mark key="[" line="156" column="84" />
@@ -109,11 +110,11 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528511223036">
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528522952093">
         <mark key="'" line="199" column="48" />
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="438" column="0" />
-        <mark key="." line="438" column="0" />
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CheckProducts.js" timestamp="1525406164267">
         <mark key="[" line="83" column="69" />
@@ -249,12 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="5" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/common/router.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/User/Login.js" />
-      <jump line="16" column="17" filename="$USER_HOME$/workspace/micro-service/jhshopAll/jh_shop/.roadhogrc.js" />
-      <jump line="33" column="38" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" />
-      <jump line="43" column="31" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
-      <jump line="442" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="91" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="465" column="69" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="268" column="27" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -349,6 +344,12 @@
       <jump line="456" column="16" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="542" column="16" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/o.js" />
       <jump line="399" column="9" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="38" column="2" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/BasicList.js" />
+      <jump line="176" column="17" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="502" column="24" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="278" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="531" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -358,58 +359,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>codestatus</text>
+        <text>删除</text>
       </register>
       <register name="/" type="4">
-        <text>编码数量</text>
+        <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IGAke3JlY29yZC5yZWFsQ250fS8keyByZWNvcmQuY29kZXNDb3VudH1gIH0K</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCh7CiAgICAgICAgICB0eXBlOiAncnVsZS9yZW1vdmUnLAogICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICBubzogc2VsZWN0ZWRSb3dzLm1hcChyb3cgPT4gcm93Lm5vKS5qb2luKCcsJyksCiAgICAgICAgICB9LAogICAgICAgICAgY2FsbGJhY2s6ICgpID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9LAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAyMDAwIC8ge2NvbHVtbnZhcn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Y29sdW1udmFyfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OgogICAgICAgICAgcmV0dXJuIDxzcGFuPjwvc3Bhbj47Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">KCgpPT57CiAgICAgICAgICAgIH0p</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzd2l0Y2ggKHZhbCkgewogICAgICAgICAgICAgICAgY2FzZSAwOnJldHVybiA8c3Bhbj7mnKrnlJ/miJA8L3NwYW4+OwogICAgICAgICAgICAgICAgY2FzZSAxOnJldHVybiA8c3Bhbj7nlJ/miJDkuK08L3NwYW4+OwogICAgICAgICAgICAgICAgY2FzZSAyOnJldHVybiA8c3Bhbj7miZPljIXlrozmiJA8L3NwYW4+OwogICAgICAgICAgICAgICAgY2FzZSAzOnJldHVybiA8c3Bhbj7lt7LkuIvovb08L3NwYW4+OwogICAgICAgICAgICAgICAgZGVmYXVsdDogcmV0dXJuICcnOwogICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>'
-'
-'
-'</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>'
-'
-'
-'</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9yZGVyT3BNZW51ID0gKAogICAgICA8TWVudT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+57yW6L6RPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgIDxNZW51Lkl0ZW0+CiAgICAgICAgICA8YT7liKDpmaQ8L2E+CiAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgIDwvTWVudT4KICAgICk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9GcmFnbWVudD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBjb25zdCBvcmRlck9wTWVudSA9KGlkKT0+ICgKICAgICAgPE1lbnU+CiAgICAgICAgPE1lbnUuSXRlbT4KICAgICAgICAgIDxhPue8lui+kTwvYT4KICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+5Yig6ZmkPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICA8L01lbnU+CiAgICApOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPG9yZGVyT3BNZW51Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>编码数量</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVcPg==</last-search>
       <last-offset />
-      <last-pattern>编码数量</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVcPg==</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -417,9 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVBZGRcPg==</entry>
-        <entry>loading</entry>
-        <entry>console.lo</entry>
         <entry>查询</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
@@ -437,6 +429,9 @@
         <entry>编码状态</entry>
         <entry encoding="base64">XDxyZW5kZXJTdGF0dXNcPg==</entry>
         <entry>编码数量</entry>
+        <entry>更多</entry>
+        <entry>操作</entry>
+        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
