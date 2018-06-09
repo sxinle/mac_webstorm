@@ -140,6 +140,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/ant-design-pro/src/common/router.js" timestamp="1528455069415">
+        <mark key="'" line="79" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1528369394172">
         <mark key="'" line="33" column="38" />
       </file>
@@ -164,6 +167,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/jh_shop/.roadhogrc.js" timestamp="1527753637298">
         <mark key="'" line="13" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ant-design-pro/package.json" timestamp="1528455008294">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/Login/index.js" timestamp="1528161299047">
         <mark key="'" line="9" column="6" />
@@ -222,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="399" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
       <jump line="372" column="49" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Register.js" />
       <jump line="175" column="28" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
@@ -322,6 +330,7 @@
       <jump line="414" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="413" column="19" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="79" column="5" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/common/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,10 +340,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Fragement</text>
+        <text encoding="base64">c2V0IHBvcnQ9ODAwOCAmJiA=</text>
       </register>
       <register name="/" type="4">
-        <text>Fragement</text>
+        <text>table-list</text>
       </register>
       <register name="0" type="4">
         <text>Divider</text>
@@ -371,9 +380,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Fragement</last-search>
+      <last-search>table-list</last-search>
       <last-offset />
-      <last-pattern>Fragement</last-pattern>
+      <last-pattern>table-list</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry>this.handleModal</entry>
         <entry encoding="base64">XDxtb2RhbFZpc2libGVcPg==</entry>
         <entry>新建</entry>
@@ -401,6 +409,7 @@
         <entry>colmns</entry>
         <entry>columns</entry>
         <entry>Fragement</entry>
+        <entry>table-list</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
