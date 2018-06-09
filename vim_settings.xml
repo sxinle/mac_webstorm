@@ -18,7 +18,7 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
       </file>
-      <file name="/fragment.js" timestamp="1528448298597">
+      <file name="/fragment.js" timestamp="1528510947213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshopAll/jh_shop/.roadhogrc.js" timestamp="1528367225596">
@@ -149,12 +149,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1528369394172">
         <mark key="'" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528510732211">
-        <mark key="'" line="417" column="23" />
-        <mark key="[" line="446" column="26" />
-        <mark key="]" line="447" column="23" />
-        <mark key="^" line="447" column="23" />
-        <mark key="." line="447" column="23" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528511781882">
+        <mark key="'" line="386" column="16" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1527055618281">
         <mark key="'" line="100" column="61" />
@@ -192,8 +191,11 @@
         <mark key="." line="692" column="105" />
         <mark key="^" line="692" column="105" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528510547231">
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528511223036">
         <mark key="'" line="199" column="48" />
+        <mark key="[" line="438" column="0" />
+        <mark key="]" line="438" column="0" />
+        <mark key="." line="438" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CheckProducts.js" timestamp="1525406164267">
         <mark key="[" line="83" column="69" />
@@ -237,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="177" column="2" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Visit.js" />
-      <jump line="148" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
       <jump line="83" column="14" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
       <jump line="25" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
       <jump line="130" column="14" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/visit.js" />
@@ -337,6 +336,9 @@
       <jump line="335" column="6" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/TableList.js" />
       <jump line="199" column="48" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="65" column="40" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
+      <jump line="384" column="19" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="461" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
+      <jump line="386" column="16" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,10 +348,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>.form</text>
       </register>
       <register name="/" type="4">
-        <text>rowKey</text>
+        <text encoding="base64">XDx2aXNpYmxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>selectedRows</text>
@@ -358,45 +360,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuc2VsZWN0ZWRSb3dzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybVJlZi5wcm9wcy5mb3JtKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkUm93cykK</text>
+        <text encoding="base64">ICAgIGZvcm0uc2V0dmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvLmxlbmd0aGprCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybVJlZi5wcm9wcy5mb3JtID09PSB0aGlzLnByb3BzLmZvcm0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZm9ybSB9ID0gdGhpcy5wcm9wcy5mb3JtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBGcmFnbWVudCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm0gPSB0aGlzLmNyZWF0ZUZvcm1SZWY7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91dGVyUmVkdXggfSBmcm9tICdkdmEvcm91dGVyJzsK</text>
+        <text encoding="base64">ICAgIGZvcm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rowKey</last-search>
+      <last-search encoding="base64">XDx2aXNpYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern>rowKey</last-pattern>
+      <last-pattern encoding="base64">XDx2aXNpYmxlXD4=</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja3N1bVw+</entry>
         <entry>column</entry>
         <entry>浅醉</entry>
         <entry>前缀</entry>
@@ -416,6 +417,7 @@
         <entry>配置</entry>
         <entry>columns</entry>
         <entry>rowKey</entry>
+        <entry encoding="base64">XDx2aXNpYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
