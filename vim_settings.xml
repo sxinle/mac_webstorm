@@ -110,11 +110,11 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528522952093">
-        <mark key="'" line="199" column="48" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1528524164000">
+        <mark key="'" line="288" column="8" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CheckProducts.js" timestamp="1525406164267">
         <mark key="[" line="83" column="69" />
@@ -184,7 +184,7 @@
         <mark key="." line="58" column="88" />
         <mark key="^" line="58" column="88" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528510736037">
+      <file name="/JavaScript Console" timestamp="1528524176040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/regenerator-runtime/runtime.js" timestamp="1528444973673">
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="465" column="69" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="268" column="27" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -350,6 +349,7 @@
       <jump line="278" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="531" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="288" column="8" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,19 +362,19 @@
         <text>删除</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVcPg==</text>
+        <text>查询</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwYXRjaCh7CiAgICAgICAgICB0eXBlOiAncnVsZS9yZW1vdmUnLAogICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICBubzogc2VsZWN0ZWRSb3dzLm1hcChyb3cgPT4gcm93Lm5vKS5qb2luKCcsJyksCiAgICAgICAgICB9LAogICAgICAgICAgY2FsbGJhY2s6ICgpID0+IHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgc2VsZWN0ZWRSb3dzOiBbXSwKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9LAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -383,28 +383,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yZGVyT3BNZW51ID0gKAogICAgICA8TWVudT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+57yW6L6RPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgIDxNZW51Lkl0ZW0+CiAgICAgICAgICA8YT7liKDpmaQ8L2E+CiAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgIDwvTWVudT4KICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9GcmFnbWVudD4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9yZGVyT3BNZW51ID0gKAogICAgICA8TWVudT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+57yW6L6RPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgIDxNZW51Lkl0ZW0+CiAgICAgICAgICA8YT7liKDpmaQ8L2E+CiAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgIDwvTWVudT4KICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBvcmRlck9wTWVudSA9KGlkKT0+ICgKICAgICAgPE1lbnU+CiAgICAgICAgPE1lbnUuSXRlbT4KICAgICAgICAgIDxhPue8lui+kTwvYT4KICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+5Yig6ZmkPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICA8L01lbnU+CiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9GcmFnbWVudD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9yZGVyT3BNZW51Pgo=</text>
+        <text encoding="base64">CiAgICBjb25zdCBvcmRlck9wTWVudSA9KGlkKT0+ICgKICAgICAgPE1lbnU+CiAgICAgICAgPE1lbnUuSXRlbT4KICAgICAgICAgIDxhPue8lui+kTwvYT4KICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICA8TWVudS5JdGVtPgogICAgICAgICAgPGE+5Yig6ZmkPC9hPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICA8L01lbnU+CiAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9yZGVyT3BNZW51Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVcPg==</last-search>
+      <last-search>查询</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVcPg==</last-pattern>
+      <last-pattern>查询</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -412,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>查询</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVTdGFuZGFyZFRhYmxlQ2hhbmdlXD4=</entry>
@@ -432,6 +431,7 @@
         <entry>更多</entry>
         <entry>操作</entry>
         <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
+        <entry>查询</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
