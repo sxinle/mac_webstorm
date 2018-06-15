@@ -93,11 +93,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1528890256074">
-        <mark key="'" line="33" column="38" />
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1529036098961">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/HomePage.js" timestamp="1527055618281">
         <mark key="'" line="100" column="61" />
@@ -138,12 +138,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1528525014220">
-        <mark key="'" line="15" column="43" />
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1529035580741">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/VisitPlan.js" timestamp="1525403485099">
         <mark key="[" line="88" column="25" />
@@ -154,7 +153,6 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/CheckProducts.js" timestamp="1528891360682" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1528096600833">
         <mark key="[" line="488" column="13" />
         <mark key="]" line="488" column="13" />
@@ -261,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="25" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="44" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="187" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="315" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -306,7 +303,6 @@
       <jump line="452" column="29" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/rule.js" />
       <jump line="17" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/rule.js" />
-      <jump line="15" column="43" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
       <jump line="159" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="411" column="11" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="414" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -361,6 +357,8 @@
       <jump line="399" column="11" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="398" column="42" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="183" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
+      <jump line="15" column="44" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -370,61 +368,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'http://localhost:8070'</text>
       </register>
       <register name="/" type="4">
-        <text>Descri</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9PuinhOWImeWQjeensO+8mjwvQ29sPjxDb2wgc3Bhbj17MTZ9PntydWxlLm5hbWV9PC9Db2w+PC9Sb3c+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtwcm9wKCLop4TliJnlkI3np7DvvJoiLCBydWxlLm5hbWUpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">PFJvdz48Q29sIHN0eWxlPXtzdHlsZX0gc3Bhbj17OH0+CjxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9Pgo8Um93PjxDb2wgc3R5bGU9e3N0eWxlfSBzcGFuPXs4fT4KPFJvdz48Q29sIHN0eWxlPXtzdHlsZX0gc3Bhbj17OH0+CjxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9Pgo8Um93PjxDb2wgc3R5bGU9e3N0eWxlfSBzcGFuPXs4fT4KPFJvdz48Q29sIHN0eWxlPXtzdHlsZX0gc3Bhbj17OH0+CjxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9Pgo8Um93PjxDb2wgc3R5bGU9e3N0eWxlfSBzcGFuPXs4fT4KPFJvdz48Q29sIHN0eWxlPXtzdHlsZX0gc3Bhbj17OH0+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3AoIuinhOWImeWQjeensDoiLCBydWxlLm5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgYmFzZSA9ICcvYXBpL2NjJzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtwcm9wKCLop4TliJnlkI3np7DvvJoiLCBydWxlLm5hbWUpfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Descri</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>Descri</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rowKey</entry>
-        <entry encoding="base64">XDx2aXNpYmxlXD4=</entry>
         <entry>columns</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>编码状态</entry>
@@ -443,6 +439,8 @@
         <entry>moment</entry>
         <entry>用户信息</entry>
         <entry>Descri</entry>
+        <entry>api</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
