@@ -41,8 +41,8 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529378906708">
-        <mark key="'" line="163" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529385057876">
+        <mark key="'" line="20" column="2" />
         <mark key="[" line="551" column="50" />
         <mark key="]" line="551" column="51" />
         <mark key="^" line="551" column="49" />
@@ -270,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
-      <jump line="18" column="40" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="29" column="52" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="110" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="427" column="21" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -370,6 +368,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="551" column="50" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -382,7 +382,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>订单编号</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9PuinhOWImeWQjeensO+8mjwvQ29sPjxDb2wgc3Bhbj17MTZ9PntydWxlLm5hbWV9PC9Db2w+PC9Sb3c+Cg==</text>
@@ -422,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>订单编号</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>订单编号</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxxdWVyeUZpbHRlclw+</entry>
         <entry>操作</entry>
         <entry>修改</entry>
@@ -452,6 +451,7 @@
         <entry>name</entry>
         <entry>新建批次</entry>
         <entry>订单编号</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
