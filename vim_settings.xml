@@ -41,12 +41,12 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529377498837">
-        <mark key="'" line="329" column="33" />
-        <mark key="[" line="98" column="25" />
-        <mark key="]" line="98" column="31" />
-        <mark key="^" line="98" column="31" />
-        <mark key="." line="98" column="31" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529378906708">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="551" column="50" />
+        <mark key="]" line="551" column="51" />
+        <mark key="^" line="551" column="49" />
+        <mark key="." line="551" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Collection.js" timestamp="1525410944422">
         <mark key="[" line="156" column="84" />
@@ -270,10 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
-      <jump line="426" column="20" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
-      <jump line="7" column="8" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
-      <jump line="8" column="26" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="17" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="18" column="40" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
       <jump line="29" column="52" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
@@ -370,6 +366,10 @@
       <jump line="192" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="196" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="329" column="33" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="170" column="21" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="51" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,10 +379,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>8070</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>supplier</text>
+        <text>订单编号</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9PuinhOWImeWQjeensO+8mjwvQ29sPjxDb2wgc3Bhbj17MTZ9PntydWxlLm5hbWV9PC9Db2w+PC9Sb3c+Cg==</text>
@@ -422,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>supplier</last-search>
+      <last-search>订单编号</last-search>
       <last-offset />
-      <last-pattern>supplier</last-pattern>
+      <last-pattern>订单编号</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -432,9 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
-        <entry>查询</entry>
-        <entry>handleSearch</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxxdWVyeUZpbHRlclw+</entry>
         <entry>操作</entry>
@@ -452,6 +449,9 @@
         <entry>新建</entry>
         <entry>current</entry>
         <entry>supplier</entry>
+        <entry>name</entry>
+        <entry>新建批次</entry>
+        <entry>订单编号</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
