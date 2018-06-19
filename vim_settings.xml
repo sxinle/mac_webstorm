@@ -41,8 +41,8 @@
         <mark key="." line="59" column="26" />
         <mark key="^" line="59" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529385057876">
-        <mark key="'" line="20" column="2" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1529388107787">
+        <mark key="'" line="480" column="51" />
         <mark key="[" line="551" column="50" />
         <mark key="]" line="551" column="51" />
         <mark key="^" line="551" column="49" />
@@ -130,12 +130,19 @@
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1529376963691">
-        <mark key="'" line="123" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1529388371017">
+        <mark key="'" line="76" column="27" />
         <mark key="[" line="432" column="24" />
         <mark key="]" line="432" column="30" />
         <mark key="." line="432" column="30" />
         <mark key="^" line="432" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SupplierOrdersPage.js" timestamp="1529388427281">
+        <mark key="'" line="165" column="21" />
+        <mark key="[" line="463" column="63" />
+        <mark key="]" line="463" column="63" />
+        <mark key="." line="463" column="63" />
+        <mark key="^" line="463" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CheckProducts.js" timestamp="1525406164267">
         <mark key="[" line="83" column="69" />
@@ -270,9 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="52" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
-      <jump line="110" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/StandardTable/index.js" />
-      <jump line="427" column="21" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="94" column="46" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="312" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="448" column="25" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -369,7 +373,10 @@
       <jump line="51" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="551" column="50" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="20" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="480" column="51" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
+      <jump line="76" column="27" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="165" column="21" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SupplierOrdersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -382,7 +389,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>columns</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxSb3c+PENvbCBzdHlsZT17c3R5bGV9IHNwYW49ezh9PuinhOWImeWQjeensO+8mjwvQ29sPjxDb2wgc3Bhbj17MTZ9PntydWxlLm5hbWV9PC9Db2w+PC9Sb3c+Cg==</text>
@@ -422,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>columns</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>columns</last-pattern>
       <last-replace>formRef</last-replace>
       <last-substitute>saveFormRef</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeUZpbHRlclw+</entry>
         <entry>操作</entry>
         <entry>修改</entry>
         <entry>rowkey</entry>
@@ -444,7 +450,6 @@
         <entry>login</entry>
         <entry>header</entry>
         <entry>batch</entry>
-        <entry>columns</entry>
         <entry>新建</entry>
         <entry>current</entry>
         <entry>supplier</entry>
@@ -452,6 +457,8 @@
         <entry>新建批次</entry>
         <entry>订单编号</entry>
         <entry>check</entry>
+        <entry>下载</entry>
+        <entry>columns</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
