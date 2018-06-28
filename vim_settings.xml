@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/common/router.js" timestamp="1528161333350">
         <mark key="'" line="81" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529376929683">
+      <file name="/Dummy.txt" timestamp="1530166429772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/rule.js" timestamp="1528449578571">
@@ -129,8 +129,8 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/components/Login/index.js" timestamp="1528161299047">
         <mark key="'" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1529394227537">
-        <mark key="'" line="331" column="24" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" timestamp="1530164232657">
+        <mark key="'" line="361" column="15" />
         <mark key="[" line="432" column="24" />
         <mark key="]" line="432" column="30" />
         <mark key="." line="432" column="30" />
@@ -150,8 +150,14 @@
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" timestamp="1530163802045">
-        <mark key="'" line="20" column="2" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" timestamp="1530163917645">
+        <mark key="'" line="15" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/mock/chart.js" timestamp="1530164136124">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/encoding.js" timestamp="1529985139805">
         <mark key="'" line="52" column="49" />
@@ -166,21 +172,17 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1529394298535">
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1530164207094">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="109" column="36" />
-        <mark key="]" line="109" column="36" />
-        <mark key="." line="109" column="36" />
-        <mark key="^" line="122" column="23" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="5" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/common/router.js" />
-      <jump line="161" column="22" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
-      <jump line="413" column="23" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="305" column="12" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/TableList.js" />
       <jump line="335" column="6" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/TableList.js" />
       <jump line="199" column="48" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -278,6 +280,9 @@
       <jump line="52" column="49" filename="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/encoding.js" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
+      <jump line="356" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="361" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -290,34 +295,34 @@
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNhYmxlRHluYW1pY0ltcG9ydFw+</text>
+        <text encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsLmFkZEV2ZW50TGlzdGVuZXIoJ2tleXVwJywgcmVuZGVyUVIsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdHh0ICBVUkwgICAgNDEyNO+8mmF1dGhDb2RlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHR4dCA9IHVybC52YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdHh0ICBVUkwgICAgNDEyNO+8mmF1dGhDb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHR4dCA9IHVybC52YWx1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3JnYignICsgciArICcsJyArIGcgKyAnLCcgKyBiICsgJyknOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ3JnYignICsgciArICcsJyArIGcgKyAnLCcgKyBiICsgJyknOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -330,18 +335,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNhYmxlRHluYW1pY0ltcG9ydFw+</last-search>
+      <last-search encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNhYmxlRHluYW1pY0ltcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>current</entry>
-        <entry>name</entry>
         <entry>新建批次</entry>
         <entry>订单编号</entry>
         <entry>check</entry>
@@ -360,6 +363,8 @@
         <entry>cmyk</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDxkaXNhYmxlRHluYW1pY0ltcG9ydFw+</entry>
+        <entry encoding="base64">XDxpZ25vcmVNb21lbnRMb2NhbGVcPg==</entry>
+        <entry encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
