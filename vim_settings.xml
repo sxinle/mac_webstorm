@@ -100,8 +100,8 @@
       <file name="$USER_HOME$/workspace/demo/ant-design-pro/src/common/router.js" timestamp="1528455069415">
         <mark key="'" line="79" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1529461102377">
-        <mark key="'" line="27" column="21" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1530174999269">
+        <mark key="'" line="25" column="16" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="27" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="12" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/TableList.js" />
       <jump line="335" column="6" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/List/TableList.js" />
       <jump line="199" column="48" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="384" column="19" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -283,6 +282,7 @@
       <jump line="15" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
       <jump line="356" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
       <jump line="361" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
+      <jump line="25" column="16" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +295,7 @@
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsLmFkZEV2ZW50TGlzdGVuZXIoJ2tleXVwJywgcmVuZGVyUVIsIGZhbHNlKTsK</text>
@@ -335,17 +335,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>新建批次</entry>
         <entry>订单编号</entry>
         <entry>check</entry>
         <entry>下载</entry>
@@ -365,6 +364,7 @@
         <entry encoding="base64">XDxkaXNhYmxlRHluYW1pY0ltcG9ydFw+</entry>
         <entry encoding="base64">XDxpZ25vcmVNb21lbnRMb2NhbGVcPg==</entry>
         <entry encoding="base64">XDxnZXRGaWVsZERlY29yYXRvclw+</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
