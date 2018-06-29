@@ -117,8 +117,8 @@
         <mark key="^" line="33" column="62" />
         <mark key="." line="33" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1530176352510">
-        <mark key="'" line="133" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" timestamp="1530266398202">
+        <mark key="'" line="15" column="12" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="27" />
@@ -213,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="24" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
-      <jump line="278" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="531" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" />
       <jump line="288" column="8" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -313,6 +311,8 @@
       <jump line="30" column="17" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/js/MapView.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
       <jump line="61" column="28" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" />
+      <jump line="15" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.roadhogrc.mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,7 +325,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>currentU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
@@ -365,17 +365,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>currentU</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>currentU</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVQdXRcPg==</entry>
         <entry>suppliers</entry>
         <entry>删除</entry>
         <entry>remove</entry>
@@ -395,6 +394,7 @@
         <entry>PropTypes</entry>
         <entry>立即登录</entry>
         <entry>login</entry>
+        <entry>currentU</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
