@@ -115,10 +115,10 @@
         <mark key="^" line="149" column="3" />
         <mark key="." line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1530164207094">
+      <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1530670203253">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="45" />
         <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/utils/authority.js" timestamp="1530668048736">
@@ -170,6 +170,13 @@
       </file>
       <file name="/JavaScript Console" timestamp="1529460174153">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1530670205850">
+        <mark key="'" line="72" column="9" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/layouts/UserLayout.js" timestamp="1530668440757">
         <mark key="[" line="62" column="49" />
@@ -245,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="29" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
-      <jump line="105" column="14" filename="$USER_HOME$/workspace/demo/ant-design-pro/src/routes/Profile/AdvancedProfile.js" />
-      <jump line="20" column="52" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="77" column="24" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="399" column="11" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
       <jump line="398" column="42" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" />
@@ -345,6 +348,10 @@
       <jump line="142" column="48" filename="$USER_HOME$/workspace/micro-service/front/codz_prize/src/layouts/BasicLayout.js" />
       <jump line="185" column="17" filename="$USER_HOME$/workspace/micro-service/front/codz_prize/src/layouts/BasicLayout.js" />
       <jump line="187" column="21" filename="$USER_HOME$/workspace/micro-service/front/codz_prize/src/layouts/BasicLayout.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="63" column="23" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="62" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="68" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,49 +364,49 @@
         <text>jk</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb3B5cmlnaHQ9ewogICAgICAgICAgICAgICAgPEZyYWdtZW50PgogICAgICAgICAgICAgICAgICBDb3B5cmlnaHQgPEljb24gdHlwZT0iY29weXJpZ2h0IiAvPiAyMDE4IOmHkeW+vemFkuiCoeS7veaciemZkOWFrOWPuAogICAgICAgICAgICAgICAgPC9GcmFnbWVudD4KICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0VG9rZW4gfSBmcm9tICcuLi91dGlscy9hdXRob3JpdHknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcvdXNlci9sb2dpbic6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsnbG9naW4nXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvUHJpemUvTG9naW4nKSksCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldEF1dGhvcml0eSgpIHsKICAvLyByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FudGQtcHJvLWF1dGhvcml0eScpIHx8IFsnYWRtaW4nLCAndXNlciddOwogIHJldHVybiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYW50ZC1wcm8tYXV0aG9yaXR5JykgfHwgJ2FkbWluJzsKfQoKZXhwb3J0IGZ1bmN0aW9uIHNldEF1dGhvcml0eShhdXRob3JpdHkpIHsKICByZXR1cm4gbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2FudGQtcHJvLWF1dGhvcml0eScsIGF1dGhvcml0eSk7Cn0K</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3QgZnJvbSAnLi4vdXRpbHMvcmVxdWVzdCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAnJywKICAgICAgICBwYXRoOiAnc2NhbmxvZycsCiAgICAgIH0sCiAgICBdLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICfokKXplIDmtLvliqgnLAogICAgICAgIHBhdGg6ICdhY3Rpdml0eScsCiAgICAgIH0sCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICflt6XkvZzlj7AnLAogICAgICAgIHBhdGg6ICd3b3JrcGxhY2UnLAogICAgICAgIC8vIGhpZGVJbkJyZWFkY3J1bWI6IHRydWUsCiAgICAgICAgLy8gaGlkZUluTWVudTogdHJ1ZSwKICAgICAgfSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHsvKiA8YSBzdHlsZT17eyBmbG9hdDogJ3JpZ2h0JyB9fSBocmVmPSIiPgogICAgICAgICAgICAgIOW/mOiusOWvhueggQogICAgICAgICAgICA8L2E+ICovfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGZha2VBY2NvdW50TG9naW4ocGFyYW1zKSB7CiAgcmV0dXJuIHJlcXVlc3QoJy9hcGkvbG9naW4vYWNjb3VudCcsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogcGFyYW1zLAogIH0pOwp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICcvdXNlci9sb2dpbic6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsnbG9naW4nXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvUHJpemUvTG9naW4nKSksCiAgICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldEF1dGhvcml0eSgpIHsKICAvLyByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2FudGQtcHJvLWF1dGhvcml0eScpIHx8IFsnYWRtaW4nLCAndXNlciddOwogIHJldHVybiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYW50ZC1wcm8tYXV0aG9yaXR5JykgfHwgJ2FkbWluJzsKfQoKZXhwb3J0IGZ1bmN0aW9uIHNldEF1dGhvcml0eShhdXRob3JpdHkpIHsKICByZXR1cm4gbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2FudGQtcHJvLWF1dGhvcml0eScsIGF1dGhvcml0eSk7Cn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNoaWxkcmVuOiBbCiAgICAgIHsKICAgICAgICBuYW1lOiAnJywKICAgICAgICBwYXRoOiAnc2NhbmxvZycsCiAgICAgIH0sCiAgICBdLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qIDxDaGVja2JveCBjaGVja2VkPXt0aGlzLnN0YXRlLmF1dG9Mb2dpbn0gb25DaGFuZ2U9e3RoaXMuY2hhbmdlQXV0b0xvZ2lufT4KICAgICAgICAgICAgICDnrqHnkIblkZjnmbvlvZUKICAgICAgICAgICAgPC9DaGVja2JveD4gKi99Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICfokKXplIDmtLvliqgnLAogICAgICAgIHBhdGg6ICdhY3Rpdml0eScsCiAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKiA8L1RhYj4gKi99CiAgICAgICAgICB7LyogPFRhYiBrZXk9Im1vYmlsZSIgdGFiPSLmiYvmnLrlj7fnmbvlvZUiPgogICAgICAgICAgICB7bG9naW4uc3RhdHVzID09PSAnZXJyb3InICYmCiAgICAgICAgICAgICAgbG9naW4udHlwZSA9PT0gJ21vYmlsZScgJiYKICAgICAgICAgICAgICAhbG9naW4uc3VibWl0dGluZyAmJgogICAgICAgICAgICAgIHRoaXMucmVuZGVyTWVzc2FnZSgn6aqM6K+B56CB6ZSZ6K+vJyl9CiAgICAgICAgICAgIDxNb2JpbGUgbmFtZT0ibW9iaWxlIiAvPgogICAgICAgICAgICA8Q2FwdGNoYSBuYW1lPSJjYXB0Y2hhIiAvPgogICAgICAgICAgPC9UYWI+ICovfQo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICflt6XkvZzlj7AnLAogICAgICAgIHBhdGg6ICd3b3JrcGxhY2UnLAogICAgICAgIC8vIGhpZGVJbkJyZWFkY3J1bWI6IHRydWUsCiAgICAgICAgLy8gaGlkZUluTWVudTogdHJ1ZSwKICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -422,11 +429,11 @@
         <entry>PropTypes</entry>
         <entry>立即登录</entry>
         <entry>currentU</entry>
-        <entry>login</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry>footer</entry>
         <entry encoding="base64">XDxHbG9iYWxGb290ZXJcPg==</entry>
         <entry>logo</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
