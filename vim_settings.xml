@@ -58,11 +58,6 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/routes/Prize/Login.js" timestamp="1530667588388">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SupplierOrdersPage.js" timestamp="1529388427281">
         <mark key="'" line="165" column="21" />
         <mark key="[" line="463" column="63" />
@@ -110,6 +105,12 @@
         <mark key="." line="81" column="32" />
         <mark key="^" line="81" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/user.js" timestamp="1530685822685">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshopAll/jh_shop/.roadhogrc.js" timestamp="1528367225596">
         <mark key="'" line="16" column="17" />
         <mark key="[" line="28" column="28" />
@@ -142,6 +143,11 @@
         <mark key="]" line="48" column="5" />
         <mark key="." line="48" column="5" />
         <mark key="^" line="48" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1530685277270">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1530670205850">
         <mark key="'" line="72" column="9" />
@@ -181,6 +187,9 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/user.js" timestamp="1530685791992">
+        <mark key="'" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/RulesPage.js" timestamp="1528531196009">
         <mark key="'" line="398" column="42" />
@@ -225,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/.roadhogrc.mock.js" />
-      <jump line="15" column="44" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
       <jump line="101" column="16" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
       <jump line="5" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
       <jump line="505" column="10" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -325,6 +331,9 @@
       <jump line="72" column="12" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/models/login.js" />
       <jump line="27" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" />
       <jump line="28" column="15" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/user.js" />
+      <jump line="18" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,10 +346,10 @@
         <text>Ant Design Pro</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>current</text>
       </register>
-      <register name="0" type="4">
-        <text>response.data.token</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0geyBkb21haW46ICdodHRwOi8vcS5qaW5odWlqaXUuY29tLmNuOjk3MDEnLCBwcm9kOiB0cnVlIH07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0b2tlbiA9IHJlc3BvbnNlLmRhdGEudG9rZW47Cg==</text>
@@ -377,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -387,8 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRVUlFVF9aT05FX1NJWkVcPg==</entry>
-        <entry>for</entry>
         <entry>grap</entry>
         <entry>&quot;</entry>
         <entry>cmyk</entry>
@@ -407,6 +414,8 @@
         <entry encoding="base64">XDxHbG9iYWxGb290ZXJcPg==</entry>
         <entry>logo</entry>
         <entry>login</entry>
+        <entry>prod</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
