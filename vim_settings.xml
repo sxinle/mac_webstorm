@@ -51,12 +51,12 @@
         <mark key="." line="83" column="102" />
         <mark key="^" line="83" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1530858328433">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1530859288567">
         <mark key="'" line="47" column="36" />
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/modal/Modal.js" timestamp="1528370743361">
         <mark key="[" line="0" column="0" />
@@ -215,6 +215,13 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1530859354891">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/regenerator-runtime/runtime.js" timestamp="1529394867129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="50" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-camera/index.js" />
       <jump line="28" column="37" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/js/MapView.js" />
       <jump line="29" column="29" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/js/MapView.js" />
       <jump line="30" column="17" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/js/MapView.js" />
@@ -430,6 +436,7 @@
       <jump line="30" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/PageHeader/index.js" />
       <jump line="34" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="21" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,10 +446,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>template/add</text>
+        <text>step-form</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>上一步</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fSwgewogIHRpdGxlOiAn5rS75Yqo5qih5p2/JywKICBocmVmOicvdGVtcGxhdGUvYWRkJywKfV07Cg==</text>
@@ -482,9 +489,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>上一步</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>上一步</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ava</entry>
         <entry>规则编号</entry>
         <entry>展开</entry>
         <entry>选择</entry>
@@ -512,6 +518,7 @@
         <entry>hideIn</entry>
         <entry encoding="base64">XDxCcmVhZGNydW1iXD4=</entry>
         <entry>console</entry>
+        <entry>上一步</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
