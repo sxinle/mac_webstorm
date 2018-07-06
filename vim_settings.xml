@@ -37,6 +37,13 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/BasicForm.js" timestamp="1530853879950">
+        <mark key="'" line="174" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/StandardTable/index.js" timestamp="1530854023654">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="24" column="2" />
+      </file>
       <file name="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/renderer.js" timestamp="1529984697310">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="83" column="101" />
@@ -44,11 +51,10 @@
         <mark key="." line="83" column="102" />
         <mark key="^" line="83" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1530848863681">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1530854029663">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/modal/Modal.js" timestamp="1528370743361">
         <mark key="[" line="0" column="0" />
@@ -120,11 +126,12 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1530849508342">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="39" column="56" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1530854074425">
+        <mark key="'" line="56" column="19" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/common/menu.js" timestamp="1530668960509">
         <mark key="[" line="24" column="15" />
@@ -307,10 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="47" filename="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/canvasdrawable.js" />
-      <jump line="20" column="34" filename="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/canvasdrawable.js" />
-      <jump line="52" column="49" filename="$USER_HOME$/Desktop/barcode.js-master/src/w69b/qr/encoding.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
       <jump line="15" column="2" filename="$USER_HOME$/workspace/micro-service/front/codz_front/.webpackrc.js" />
       <jump line="356" column="15" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/SuppliersPage.js" />
@@ -407,6 +410,10 @@
       <jump line="2" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template.js" />
       <jump line="75" column="82" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
       <jump line="29" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
+      <jump line="166" column="46" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/BasicForm.js" />
+      <jump line="172" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/BasicForm.js" />
+      <jump line="174" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/BasicForm.js" />
+      <jump line="53" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,52 +423,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>户</text>
+        <text>请输入收款人姓名</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>公开给</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaXmlLbmrL7kurrlp5PlkI0iIC8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgY29uc3QgeyBjb2x1bW5zIH0gPSBwcm9wczsKICAgIGNvbnN0IG5lZWRUb3RhbExpc3QgPSBpbml0VG90YWxMaXN0KGNvbHVtbnMpOwoKICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHNlbGVjdGVkUm93S2V5czogW10sCiAgICAgIG5lZWRUb3RhbExpc3QsCiAgICB9OwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5pS25qy+6LSm5oi3Ij4KICAgICAgICAgICAgPElucHV0Lkdyb3VwIGNvbXBhY3Q+CiAgICAgICAgICAgICAgPFNlbGVjdCBkZWZhdWx0VmFsdWU9ImFsaXBheSIgc3R5bGU9e3sgd2lkdGg6IDEwMCB9fT4KICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImFsaXBheSI+5pSv5LuY5a6dPC9PcHRpb24+CiAgICAgICAgICAgICAgICA8T3B0aW9uIHZhbHVlPSJiYW5rIj7pk7booYzotKbmiLc8L09wdGlvbj4KICAgICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoJ3JlY2VpdmVyQWNjb3VudCcsIHsKICAgICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogZGF0YS5yZWNlaXZlckFjY291bnQsCiAgICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5pS25qy+5Lq66LSm5oi3JyB9LAogICAgICAgICAgICAgICAgICB7IHR5cGU6ICdlbWFpbCcsIG1lc3NhZ2U6ICfotKbmiLflkI3lupTkuLrpgq7nrrHmoLzlvI8nIH0sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgIH0pKDxJbnB1dCBzdHlsZT17eyB3aWR0aDogJ2NhbGMoMTAwJSAtIDEwMHB4KScgfX0gcGxhY2Vob2xkZXI9InRlc3RAZXhhbXBsZS5jb20iLz4pfQogICAgICAgICAgICA8L0lucHV0Lkdyb3VwPgogICAgICAgICAgPC9Gb3JtLkl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRSb3dLZXlzOiBbXSwKICAgICAgbmVlZFRvdGFsTGlzdCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5pS25qy+5Lq65aeT5ZCNIj4KICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdyZWNlaXZlck5hbWUnLCB7CiAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiBkYXRhLnJlY2VpdmVyTmFtZSwKICAgICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7fovpPlhaXmlLbmrL7kurrlp5PlkI0nIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeaUtuasvuS6uuWnk+WQjSIvPil9CiAgICAgICAgICA8L0Zvcm0uSXRlbT4KICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i6L2s6LSm6YeR6aKdIj4KICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdhbW91bnQnLCB7CiAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiBkYXRhLmFtb3VudCwKICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+i+k+WFpei9rOi0pumHkeminScgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgcGF0dGVybjogL14oXGQrKSgoPzpcLlxkKyk/KSQvLAogICAgICAgICAgICAgICAgICBtZXNzYWdlOiAn6K+36L6T5YWl5ZCI5rOV6YeR6aKd5pWw5a2XJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgfSkoPElucHV0IHByZWZpeD0i77+lIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl6YeR6aKdIi8+KX0KICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29sdW1ucyB9ID0gcHJvcHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U2VsZWN0IHBsYWNlaG9sZGVyPSJ0ZXN0QGV4YW1wbGUuY29tIj4KICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImFudC1kZXNpZ25AYWxpcGF5LmNvbSI+YW50LWRlc2lnbkBhbGlwYXkuY29tPC9PcHRpb24+CiAgICAgICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5lZWRUb3RhbExpc3QgPSBpbml0VG90YWxMaXN0KGNvbHVtbnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8RGl2aWRlciBzdHlsZT17eyBtYXJnaW46ICc0MHB4IDAgMjRweCcgfX0gLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmRlc2N9PgogICAgICAgICAgPGgzPuivtOaYjjwvaDM+CiAgICAgICAgICA8aDQ+6L2s6LSm5Yiw5pSv5LuY5a6d6LSm5oi3PC9oND4KICAgICAgICAgIDxwPgogICAgICAgICAgICDlpoLmnpzpnIDopoHvvIzov5nph4zlj6/ku6XmlL7kuIDkupvlhbPkuo7kuqflk4HnmoTluLjop4Hpl67popjor7TmmI7jgILlpoLmnpzpnIDopoHvvIzov5nph4zlj6/ku6XmlL7kuIDkupvlhbPkuo7kuqflk4HnmoTluLjop4Hpl67popjor7TmmI7jgILlpoLmnpzpnIDopoHvvIzov5nph4zlj6/ku6XmlL7kuIDkupvlhbPkuo7kuqflk4HnmoTluLjop4Hpl67popjor7TmmI7jgIIKICAgICAgICAgIDwvcD4KICAgICAgICAgIDxoND7ovazotKbliLDpk7booYzljaE8L2g0PgogICAgICAgICAgPHA+CiAgICAgICAgICAgIOWmguaenOmcgOimge+8jOi/memHjOWPr+S7peaUvuS4gOS6m+WFs+S6juS6p+WTgeeahOW4uOingemXrumimOivtOaYjuOAguWmguaenOmcgOimge+8jOi/memHjOWPr+S7peaUvuS4gOS6m+WFs+S6juS6p+WTgeeahOW4uOingemXrumimOivtOaYjuOAguWmguaenOmcgOimge+8jOi/memHjOWPr+S7peaUvuS4gOS6m+WFs+S6juS6p+WTgeeahOW4uOingemXrumimOivtOaYjuOAggogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWF0Y2gpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hdGNoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzdGF0ZSB7CiAgICAKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgKICAgICAgICAgICAgICAgIDxSb3V0ZQogICAgICAgICAgICAgICAgICBrZXk9e2l0ZW0ua2V5fQogICAgICAgICAgICAgICAgICBwYXRoPXtpdGVtLnBhdGh9CiAgICAgICAgICAgICAgICAgIGNvbXBvbmVudD17aXRlbS5jb21wb25lbnR9CiAgICAgICAgICAgICAgICAgIGV4YWN0PXtpdGVtLmV4YWN0fQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApKX0K</text>
+        <text encoding="base64">ICBjaGFuZ2VDdXN0VG1wbCA9ICgpID0+IHsKICAgCiAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICBjb25zdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGlsZHJlbjogWwogICAgICAgIC8vICAgewogICAgICAgIC8vICAgICBuYW1lOiAn5re75Yqg5qih5p2/JywKICAgICAgICAvLyAgICAgcGF0aDogJ2FkZCcsCiAgICAgICAgLy8gICAgIGhpZGVJbk1lbnU6IHRydWUsCiAgICAgICAgLy8gICB9LAogICAgICAgIC8vIF0sCg==</text>
+        <text encoding="base64">ICBjb25zdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>公开给</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>公开给</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -469,8 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
-        <entry>currentUser</entry>
         <entry encoding="base64">XDxHbG9iYWxIZWFkZXJcPg==</entry>
         <entry>current</entry>
         <entry>avatar</entry>
@@ -489,6 +494,8 @@
         <entry>添加</entry>
         <entry>step</entry>
         <entry>form</entry>
+        <entry>state</entry>
+        <entry>公开给</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
