@@ -138,12 +138,13 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1530935540231">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="174" column="26" />
-        <mark key="]" line="174" column="34" />
-        <mark key="." line="174" column="34" />
-        <mark key="^" line="174" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1530940589379">
+        <mark key="'" line="177" column="109" />
+        <mark key="[" line="177" column="105" />
+        <mark key="k" line="191" column="17" />
+        <mark key="]" line="177" column="104" />
+        <mark key="." line="177" column="104" />
+        <mark key="^" line="177" column="104" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Profile/AdvancedProfile.js" timestamp="1530860697180">
         <mark key="[" line="165" column="38" />
@@ -214,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/PageHeader/index.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/PageHeader/index.js" />
       <jump line="34" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="21" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
@@ -256,7 +255,6 @@
       <jump line="46" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="146" column="30" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="73" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="89" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="105" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="117" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="128" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -314,6 +312,9 @@
       <jump line="70" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="88" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="89" column="29" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="187" column="17" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="173" column="109" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,52 +324,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>record.type === 1 ? '红包' : '话费'</text>
+        <text encoding="base64">ID09PSAxID8gJ+e6ouWMhScgOiAn6K+d6LS5Jw==</text>
       </register>
       <register name="/" type="4">
-        <text>typeChange</text>
+        <text>this.getType</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGF0YSB9ID0gdGhpcy5zdGF0ZTsKICAgIGNvbnN0IG5ld0RhdGEgPSBkYXRhLm1hcChpdGVtID0+ICh7IC4uLml0ZW0gfSkpOwogICAgY29uc3QgdGFyZ2V0ID0gdGhpcy5nZXRSb3dCeUtleShrZXksIG5ld0RhdGEpOwogICAgaWYgKHRhcmdldCkgewogICAgICB0YXJnZXRbZmllbGROYW1lXSA9IHZhbDsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IGRhdGE6IG5ld0RhdGEgfSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0W2ZpZWxkTmFtZV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0W2ZpZWxkTmFtZV0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0W2ZpZWxkTmFtZV0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLT4nLCB0YXJnZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">CiAgZ2V0VHlwZSh2YWwpIHsKICAgIHJldHVybiB2YWwgPT09IDEgPyAn57qi5YyFJyA6ICfor53otLknOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRleHQgPT09ICcxJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXRUeXBlKHZhbCkgewogICAgcmV0dXJuIHZhbCA9PT0gMSA/ICfnuqLljIUnIDogJ+ivnei0uSc7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRUeXBlKHZhbCkgewogICAgcmV0dXJuIHZhbCA9PT0gMSA/ICfnuqLljIUnIDogJ+ivnei0uSc7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>typeChange</last-search>
+      <last-search>this.getType</last-search>
       <last-offset />
-      <last-pattern>typeChange</last-pattern>
+      <last-pattern>this.getType</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
         <entry>record.key</entry>
         <entry>setState</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
@@ -396,6 +396,7 @@
         <entry>红包</entry>
         <entry>console</entry>
         <entry>typeChange</entry>
+        <entry>this.getType</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
