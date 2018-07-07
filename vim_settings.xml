@@ -65,8 +65,8 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1530934136126">
-        <mark key="'" line="71" column="19" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1530942224722">
+        <mark key="'" line="52" column="23" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
@@ -200,8 +200,8 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1530874830685">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1530942246649">
+        <mark key="'" line="102" column="0" />
         <mark key="[" line="46" column="47" />
         <mark key="]" line="46" column="50" />
         <mark key="." line="46" column="50" />
@@ -215,10 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="21" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
-      <jump line="42" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="43" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="61" column="85" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="72" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
@@ -315,6 +311,10 @@
       <jump line="89" column="29" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="187" column="17" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="173" column="109" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="52" column="23" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
+      <jump line="45" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,7 +363,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -415,6 +415,7 @@
         <entry encoding="base64">JzwsJz5zL2NteWsvcmdiL2c=</entry>
         <entry>action $Redo</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -446,6 +447,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
