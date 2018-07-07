@@ -65,12 +65,18 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1530926824236">
-        <mark key="'" line="32" column="6" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1530930310505">
+        <mark key="'" line="27" column="40" />
         <mark key="[" line="32" column="43" />
         <mark key="]" line="32" column="46" />
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/form.js" timestamp="1530930357861">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/modal/Modal.js" timestamp="1528370743361">
         <mark key="[" line="0" column="0" />
@@ -89,7 +95,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530926776308">
+      <file name="/Dummy.txt" timestamp="1530930596575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_antd@3.6.4@antd/lib/table/Table.d.ts" timestamp="1530861024198">
@@ -107,9 +113,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/PageHeader/index.js" timestamp="1530857667620">
-        <mark key="'" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/SiderMenu/SiderMenu.js" timestamp="1530929066905">
         <mark key="[" line="58" column="0" />
@@ -179,6 +182,12 @@
         <mark key="^" line="156" column="123" />
         <mark key="." line="156" column="123" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step3.js" timestamp="1530930513784">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template.js" timestamp="1530844506819">
         <mark key="'" line="2" column="20" />
         <mark key="[" line="2" column="20" />
@@ -204,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="37" column="33" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="34" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="62" column="45" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
@@ -304,6 +312,7 @@
       <jump line="32" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" />
       <jump line="187" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
+      <jump line="27" column="40" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -313,52 +322,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>tmpl/add</text>
       </register>
       <register name="/" type="4">
-        <text>上一步</text>
+        <text>提交</text>
       </register>
       <register name="0" type="4">
         <text>activity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIOWGjei9rOS4gOeslAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUub3BlbktleXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHRyYT17aW5mb3JtYXRpb259Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmxhdE1lbnVLZXlzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZm9ybWF0aW9uID0gKAogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmluZm9ybWF0aW9ufT4KICAgICAgICA8Um93PgogICAgICAgICAgPENvbCB4cz17MjR9IHNtPXs4fSBjbGFzc05hbWU9e3N0eWxlcy5sYWJlbH0+CiAgICAgICAgICAgIOS7mOasvui0puaIt++8mgogICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8Q29sIHhzPXsyNH0gc209ezE2fT4KICAgICAgICAgICAge2RhdGEucGF5QWNjb3VudH0KICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvUm93PgogICAgICAgIDxSb3c+CiAgICAgICAgICA8Q29sIHhzPXsyNH0gc209ezh9IGNsYXNzTmFtZT17c3R5bGVzLmxhYmVsfT4KICAgICAgICAgICAg5pS25qy+6LSm5oi377yaCiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgeHM9ezI0fSBzbT17MTZ9PgogICAgICAgICAgICB7ZGF0YS5yZWNlaXZlckFjY291bnR9CiAgICAgICAgICA8L0NvbD4KICAgICAgICA8L1Jvdz4KICAgICAgICA8Um93PgogICAgICAgICAgPENvbCB4cz17MjR9IHNtPXs4fSBjbGFzc05hbWU9e3N0eWxlcy5sYWJlbH0+CiAgICAgICAgICAgIOaUtuasvuS6uuWnk+WQje+8mgogICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8Q29sIHhzPXsyNH0gc209ezE2fT4KICAgICAgICAgICAge2RhdGEucmVjZWl2ZXJOYW1lfQogICAgICAgICAgPC9Db2w+CiAgICAgICAgPC9Sb3c+CiAgICAgICAgPFJvdz4KICAgICAgICAgIDxDb2wgeHM9ezI0fSBzbT17OH0gY2xhc3NOYW1lPXtzdHlsZXMubGFiZWx9PgogICAgICAgICAgICDovazotKbph5Hpop3vvJoKICAgICAgICAgIDwvQ29sPgogICAgICAgICAgPENvbCB4cz17MjR9IHNtPXsxNn0+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLm1vbmV5fT57ZGF0YS5hbW91bnR9PC9zcGFuPiDlhYMKICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvUm93PgogICAgICA8L2Rpdj4KICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAn6K+m5oOF6aG1JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUub3BlbktleXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tPmNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMnKTsKICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmxhdE1lbnVLZXlzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgdi5lZGl0YWJsZTsK</text>
+        <text encoding="base64">ICB7CiAgICBuYW1lOiAn6K+m5oOF6aG1JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBuZXdEYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3RGF0YSA9IG5leHRQcm9wcy52YWx1ZS5tYXAoaXRlbSA9PiAoeyAuLi5kZWxldGUgaXRlbS5lZGl0YWJsZSB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tPmNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMnKTsKICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>上一步</last-search>
+      <last-search>提交</last-search>
       <last-offset />
-      <last-pattern>上一步</last-pattern>
+      <last-pattern>提交</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>k'k</entry>
         <entry>新增</entry>
         <entry>Number</entry>
         <entry encoding="base64">XDxTZWxlY3RcPg==</entry>
@@ -384,8 +392,9 @@
         <entry>members</entry>
         <entry encoding="base64">XDxjYWNoZU9yaWdpbkRhdGFcPg==</entry>
         <entry>map</entry>
-        <entry>console</entry>
         <entry>上一步</entry>
+        <entry>console</entry>
+        <entry>提交</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
