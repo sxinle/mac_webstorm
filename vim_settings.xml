@@ -28,6 +28,12 @@
         <mark key="." line="387" column="0" />
         <mark key="^" line="380" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1531112775994">
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="61" column="22" />
+        <mark key="^" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+      </file>
       <file name="/JavaScript Console" timestamp="1530872455286">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,12 +49,12 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531109267261">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531114879881">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="25" />
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1531103479869">
         <mark key="'" line="41" column="25" />
@@ -213,8 +219,8 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531109125364">
-        <mark key="'" line="25" column="6" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531114777904">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="35" column="6" />
         <mark key="." line="29" column="0" />
@@ -227,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="145" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="259" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="152" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -327,6 +332,7 @@
       <jump line="259" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
       <jump line="112" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
       <jump line="42" column="21" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -336,52 +342,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>重置</text>
+        <text>req</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7CiAgICBmaWxlTGlzdC5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgIGZvcm1EYXRhLmFwcGVuZCgnZmlsZXNbXScsIGZpbGUpOwogICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>originFileObj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLnRtcGxaaXAuZmlsZUxpc3RbMF0ub3JpZ2luRmlsZU9iago=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwogIHBhcmFtcy50bXBsWmlwLmZpbGVMaXN0LmZvckVhY2goKGZpbGUpID0+IHsKICAgIGZvcm1EYXRhLmFwcGVuZCgnZmlsZXNbXScsIGZpbGUpOwogIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXdlc3QgZnJvbSAncmVxd2VzdCc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwogIHBhcmFtcy50bXBsWmlwLmZpbGVMaXN0LmZvckVhY2goKGZpbGUpID0+IHsKICAgIGZvcm1EYXRhLmFwcGVuZCgnZmlsZXNbXScsIGZpbGUpOwogIH0pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>重置</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>重置</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Alert</entry>
         <entry>alert</entry>
         <entry>已选择</entry>
         <entry>jj</entry>
@@ -409,6 +414,7 @@
         <entry>multi</entry>
         <entry>充值</entry>
         <entry>重置</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
