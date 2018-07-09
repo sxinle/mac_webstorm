@@ -49,12 +49,12 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531114879881">
-        <mark key="'" line="42" column="21" />
-        <mark key="[" line="52" column="19" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531116327278">
+        <mark key="'" line="44" column="2" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1531103479869">
         <mark key="'" line="41" column="25" />
@@ -233,9 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="259" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="152" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="21" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="50" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="45" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -333,6 +330,9 @@
       <jump line="112" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
       <jump line="42" column="21" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="54" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,49 +345,49 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>req</text>
+        <text>console</text>
       </register>
       <register name="0" type="4">
         <text>originFileObj</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLnRtcGxaaXAuZmlsZUxpc3RbMF0ub3JpZ2luRmlsZU9iago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb3JtRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGspOwogICAgY29uc29sZS5sb2cocGFyYW1zW2tdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLnRtcGxaaXAuZmlsZUxpc3RbMF0ub3JpZ2luRmlsZU9iago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwogIHBhcmFtcy50bXBsWmlwLmZpbGVMaXN0LmZvckVhY2goKGZpbGUpID0+IHsKICAgIGZvcm1EYXRhLmFwcGVuZCgnZmlsZXNbXScsIGZpbGUpOwogIH0pOwo=</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>req</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>req</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alert</entry>
         <entry>已选择</entry>
         <entry>jj</entry>
         <entry>border</entry>
@@ -415,6 +414,7 @@
         <entry>充值</entry>
         <entry>重置</entry>
         <entry>req</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
