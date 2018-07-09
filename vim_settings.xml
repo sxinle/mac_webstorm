@@ -32,12 +32,12 @@
         <mark key="." line="119" column="19" />
         <mark key="^" line="119" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531120409337">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531121490966">
         <mark key="'" line="5" column="15" />
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="23" />
-        <mark key="." line="74" column="23" />
-        <mark key="^" line="74" column="23" />
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1531103479869">
         <mark key="'" line="41" column="25" />
@@ -154,15 +154,14 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531119411797">
-        <mark key="'" line="49" column="10" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531121151627">
+        <mark key="'" line="105" column="8" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="35" column="6" />
         <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="66" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="34" column="31" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="67" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -262,6 +261,7 @@
       <jump line="31" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="33" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="49" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="105" column="8" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +274,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlTGlzdFw+</text>
+        <text>Upload</text>
       </register>
       <register name="0" type="4">
         <text>https://github.com/ded/reqwest</text>
@@ -314,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlTGlzdFw+</last-search>
+      <last-search>Upload</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlTGlzdFw+</last-pattern>
+      <last-pattern>Upload</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rowSele</entry>
         <entry>关键字</entry>
         <entry>columns</entry>
         <entry>Prize</entry>
@@ -344,6 +343,7 @@
         <entry encoding="base64">XDxmYWtlU3VibWl0Rm9ybVw+</entry>
         <entry>reqwest</entry>
         <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
+        <entry>Upload</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
