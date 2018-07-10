@@ -105,12 +105,11 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531190746636">
-        <mark key="'" line="64" column="27" />
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531192028675">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="99" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/common/menu.js" timestamp="1530668960509">
         <mark key="[" line="24" column="15" />
@@ -168,12 +167,12 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/regenerator-runtime/runtime.js" timestamp="1529394867129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531190740429">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531191760029">
         <mark key="'" line="21" column="16" />
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-        <mark key="^" line="29" column="63" />
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/mock/api.js" timestamp="1530669433665">
         <mark key="[" line="6" column="3" />
@@ -349,47 +348,47 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>this.state.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3V0ZXJSZWR1eFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+      <register name="0" type="4">
+        <text>/activity/tmpl/add/info?edit=1</text>
       </register>
-      <register name="1" type="4">
-        <text>, {
-        data: { 'a': 1 },
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcm91dGVyUmVkdXgucHVzaCh7CiAgICAgICAgcGF0aG5hbWU6ICcvYWN0aXZpdHkvdG1wbC9hZGQvaW5mbycsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHBhZ2U6IDIsCiAgICAgICAgfSwKICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgewogIHBhdGhuYW1lOiAnL2xvZ291dCcsCiAgcXVlcnk6IHsKICAgIHBhZ2U6IDIsCiAgfSwKfQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>, {
+        data: { 'a': 1 },
+      }</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc3RhdGUpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>{
         data: {&quot;a&quot;: 1},
       }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZS5zdWNjZXNzKCfmj5DkuqTmiJDlip8nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8geWllbGQgY2FsbChmYWtlU3VibWl0Rm9ybSwgcGF5bG9hZCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKCl7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
