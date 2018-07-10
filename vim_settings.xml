@@ -105,12 +105,12 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531196858661">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="147" column="11" />
-        <mark key="]" line="147" column="14" />
-        <mark key="." line="147" column="14" />
-        <mark key="^" line="147" column="14" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531198333127">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="77" column="35" />
+        <mark key="]" line="77" column="35" />
+        <mark key="^" line="77" column="35" />
+        <mark key="." line="77" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/common/menu.js" timestamp="1530668960509">
         <mark key="[" line="24" column="15" />
@@ -158,12 +158,12 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531132813951">
-        <mark key="'" line="91" column="26" />
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="23" />
-        <mark key="^" line="43" column="23" />
-        <mark key="." line="43" column="23" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531198277355">
+        <mark key="'" line="92" column="26" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+        <mark key="." line="33" column="25" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/regenerator-runtime/runtime.js" timestamp="1529394867129">
         <mark key="[" line="0" column="0" />
@@ -349,43 +349,48 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>custTmpl</text>
+        <text>state</text>
       </register>
       <register name="/" type="4">
         <text>添加模板</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtjdXN0VG1wbCAmJiAoCg==</text>
+      <register name="0" type="4">
+        <text>{
+            uid: -2,
+            name: dbEntity.tmplZip,
+          },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2RvbmUnLAogICAgICAgICAgcmVzcG9uc2U6ICdTZXJ2ZXIgRXJyb3IgNTAwJywgLy8gY3VzdG9tIGVycm9yIG1lc3NhZ2UgdG8gc2hvdwogICAgICAgICAgdXJsOiAnaHR0cDovL3d3dy5iYWlkdS5jb20veHh4LnBuZycsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gZmlsZUxpc3Q6IFt7CiAgICAgIC8vICAgdWlkOiAtMiwKICAgICAgLy8gICBuYW1lOiAneHh4LmpwZycsCiAgICAgIC8vIH1dLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVpZDogMSwK</text>
+        <text encoding="base64">ICAgICAgLy8gZmlsZUxpc3Q6IFt7CiAgICAgIC8vICAgdWlkOiAtMiwKICAgICAgLy8gICBuYW1lOiAneHh4LmpwZycsCiAgICAgIC8vIH1dLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1aWQ6IC0yLAogICAgICAgIG5hbWU6ICd4eHguanBnJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5zdGF0ZS5jdXN0VG1wbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0RmlsZUxpc3Q6IGRiRW50aXR5LnRtcGxaaXAgPyBbCiAgICAgICAgLy8gICB7CiAgICAgICAgLy8gICAgIHVpZDogLTIsCiAgICAgICAgLy8gICAgIG5hbWU6IGRiRW50aXR5LnRtcGxaaXAsCiAgICAgICAgLy8gICB9LAogICAgICAgIC8vIF0gOiBbXSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{ uid: -2,
+        name: dbEntity.tmplZip,
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsZUxpc3Q6IFt7CiAgICAgICAgdWlkOiAtMiwKICAgICAgICBuYW1lOiBkYkVudGl0eS50bXBsWmlwLAogICAgICB9XSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogJ3l5eS5wbmcnLAogICAgICAgICAgICBzdGF0dXM6ICdkb25lJywKICAgICAgICAgICAgdXJsOiAnaHR0cHM6Ly96b3MuYWxpcGF5b2JqZWN0cy5jb20vcm1zcG9ydGFsL2pramdrRWZ2cFVQVnlSalVJbW5pVnNsWmZXUG5KdXVaLnBuZycsCiAgICAgICAgICAgIC8vIHRodW1iVXJsOiAnaHR0cHM6Ly96b3MuYWxpcGF5b2JqZWN0cy5jb20vcm1zcG9ydGFsL2pramdrRWZ2cFVQVnlSalVJbW5pVnNsWmZXUG5KdXVaLnBuZycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogZGJFbnRpdHkudG1wbFppcCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaWxlTGlzdCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
