@@ -105,11 +105,12 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531192028675">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="99" column="24" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531194306045">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="143" column="38" />
+        <mark key="]" line="143" column="41" />
+        <mark key="." line="143" column="41" />
+        <mark key="^" line="143" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/common/menu.js" timestamp="1530668960509">
         <mark key="[" line="24" column="15" />
@@ -202,8 +203,8 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/mock/api.js" timestamp="1531106583067">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531188726360">
-        <mark key="'" line="423" column="24" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531193428769">
+        <mark key="'" line="216" column="29" />
         <mark key="[" line="212" column="10" />
         <mark key="]" line="212" column="9" />
         <mark key="^" line="212" column="9" />
@@ -239,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="43" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="57" column="43" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="41" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
@@ -295,7 +295,6 @@
       <jump line="13" column="3" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="158" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="24" column="1" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="83" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/mock/api.js" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
@@ -339,6 +338,8 @@
       <jump line="115" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="64" column="27" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="21" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="216" column="29" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -348,56 +349,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3V0ZXJSZWR1eFw+</text>
+        <text>添加模板</text>
       </register>
       <register name="0" type="4">
         <text>/activity/tmpl/add/info?edit=1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2RvbmUnLAogICAgICAgICAgcmVzcG9uc2U6ICdTZXJ2ZXIgRXJyb3IgNTAwJywgLy8gY3VzdG9tIGVycm9yIG1lc3NhZ2UgdG8gc2hvdwogICAgICAgICAgdXJsOiAnaHR0cDovL3d3dy5iYWlkdS5jb20veHh4LnBuZycsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgIHVpZDogMSwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codGhpcy5zdGF0ZS5jdXN0VG1wbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVyUmVkdXgucHVzaCh7CiAgICAgICAgcGF0aG5hbWU6ICcvYWN0aXZpdHkvdG1wbC9hZGQvaW5mbycsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHBhZ2U6IDIsCiAgICAgICAgfSwKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogIHBhdGhuYW1lOiAnL2xvZ291dCcsCiAgcXVlcnk6IHsKICAgIHBhZ2U6IDIsCiAgfSwKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>, {
-        data: { 'a': 1 },
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc3RhdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        data: {&quot;a&quot;: 1},
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3V0ZXJSZWR1eFw+</last-search>
+      <last-search>添加模板</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3V0ZXJSZWR1eFw+</last-pattern>
+      <last-pattern>添加模板</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -405,8 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>custom</entry>
-        <entry>cust</entry>
         <entry>weight</entry>
         <entry>multiform</entry>
         <entry>multi</entry>
@@ -425,6 +420,8 @@
         <entry>remove</entry>
         <entry>下一步</entry>
         <entry encoding="base64">XDxyb3V0ZXJSZWR1eFw+</entry>
+        <entry encoding="base64">XDxkYkVudGl0eVw+</entry>
+        <entry>添加模板</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
