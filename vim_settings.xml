@@ -105,11 +105,11 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531207217345">
-        <mark key="'" line="81" column="38" />
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="79" column="16" />
-        <mark key="." line="79" column="16" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531208355009">
+        <mark key="'" line="16" column="40" />
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="79" column="20" />
+        <mark key="." line="79" column="9" />
         <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_prize/src/common/menu.js" timestamp="1530668960509">
@@ -168,8 +168,8 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/regenerator-runtime/runtime.js" timestamp="1529394867129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531207176427">
-        <mark key="'" line="32" column="6" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531208350365">
+        <mark key="'" line="33" column="36" />
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
@@ -181,7 +181,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531186752475">
+      <file name="/Dummy.txt" timestamp="1531207996460">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_reqwest@2.0.5@reqwest/reqwest.js" timestamp="1531119157424">
@@ -240,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="180" column="41" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="70" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="88" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="89" column="29" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -340,6 +338,8 @@
       <jump line="71" column="38" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="213" column="7" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
       <jump line="32" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="33" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="16" column="40" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,7 +349,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
