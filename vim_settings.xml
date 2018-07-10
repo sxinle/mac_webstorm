@@ -103,7 +103,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531132183953">
+      <file name="/Dummy.txt" timestamp="1531186752475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_reqwest@2.0.5@reqwest/reqwest.js" timestamp="1531119157424">
@@ -130,6 +130,13 @@
         <mark key="]" line="29" column="54" />
         <mark key="." line="29" column="54" />
         <mark key="^" line="29" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531187979771">
+        <mark key="'" line="412" column="24" />
+        <mark key="[" line="206" column="16" />
+        <mark key="]" line="206" column="17" />
+        <mark key="." line="206" column="17" />
+        <mark key="^" line="206" column="17" />
       </file>
       <file name="/api.js" timestamp="1531118896659">
         <mark key="[" line="41" column="0" />
@@ -230,9 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="23" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="200" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" />
       <jump line="32" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" />
       <jump line="187" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
@@ -330,6 +334,9 @@
       <jump line="107" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
       <jump line="94" column="5" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
+      <jump line="42" column="28" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
+      <jump line="355" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
+      <jump line="409" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,52 +346,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>redirect</text>
+        <text>编辑</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgcm91dGVyUmVkdXggfSBmcm9tICdkdmEvcm91dGVyJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIGNsbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCYWRnZSBzdGF0dXM9Indhcm5pbmciIHRleHQ9IuavjyIgLz4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6IHJlZGlyZWN0LAogICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExpbms+57yW6L6RPC9MaW5rPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCA9ICcvZXhjZXB0aW9uLzQwNCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCA9ICcvZXhjZXB0aW9uLzUwMCc7Cg==</text>
+        <text encoding="base64">ICBMaW5rLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCA9ICcvZXhjZXB0aW9uLzQwMyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlZGlyZWN0ID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCYWRnZSBzdGF0dXM9Indhcm5pbmciIHRleHQ9IuavjyIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCA9ICdsb2dpbi9sb2dvdXQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redirect</last-search>
+      <last-search>编辑</last-search>
       <last-offset />
-      <last-pattern>redirect</last-pattern>
+      <last-pattern>编辑</last-pattern>
       <last-replace>rgb</last-replace>
       <last-substitute>cmyk</last-substitute>
       <last-dir>1</last-dir>
@@ -392,8 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Prize</entry>
-        <entry>state</entry>
         <entry>提交</entry>
         <entry>submitStepForm</entry>
         <entry>form</entry>
@@ -412,6 +417,8 @@
         <entry>console</entry>
         <entry encoding="base64">XDx0bXBsWmlwXD4=</entry>
         <entry>redirect</entry>
+        <entry>Link</entry>
+        <entry>编辑</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
