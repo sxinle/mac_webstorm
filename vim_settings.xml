@@ -81,12 +81,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531289706978">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531291709784">
         <mark key="'" line="21" column="11" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
+        <mark key="[" line="104" column="34" />
+        <mark key="]" line="105" column="45" />
+        <mark key="." line="105" column="45" />
+        <mark key="^" line="105" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/mock/api.js" timestamp="1531208994205">
         <mark key="'" line="50" column="2" />
@@ -306,7 +306,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>payload.data</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
