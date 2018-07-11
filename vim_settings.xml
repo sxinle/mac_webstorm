@@ -63,12 +63,11 @@
         <mark key="." line="27" column="53" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531289473551">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531298905484">
         <mark key="'" line="87" column="30" />
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="61" column="62" />
-        <mark key="." line="61" column="62" />
-        <mark key="^" line="61" column="62" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/modal/Modal.js" timestamp="1528370743361">
         <mark key="[" line="0" column="0" />
@@ -111,12 +110,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531289141079">
-        <mark key="'" line="351" column="6" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="373" column="21" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531298990547">
+        <mark key="'" line="347" column="0" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+        <mark key="^" line="371" column="21" />
       </file>
       <file name="/api.js" timestamp="1531118896659">
         <mark key="[" line="41" column="0" />
@@ -188,16 +187,15 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531289718365">
-        <mark key="'" line="217" column="7" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="89" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531298930418">
+        <mark key="'" line="187" column="7" />
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="41" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="46" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="144" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
       <jump line="49" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
@@ -297,6 +295,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="87" column="30" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="21" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="347" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -306,13 +305,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>payload.data</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>search</text>
+        <text>添加模板</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB1cmwgPSBgJHtwcmVmaXhDcH0vdGVtcGxhdGU/JHtwYXJhbXN9YDsK</text>
+      <register name="0" type="4">
+        <text>bean</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,37 +320,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgZmlsZUxpc3Q6IFt7CiAgICAgICAgICB1aWQ6IC0yLAogICAgICAgICAgbmFtZTogZGJFbnRpdHkudG1wbFppcCwKICAgICAgICB9XSwKICAgICAgICBjdXN0VG1wbDogZGJFbnRpdHkuY3VzdFRtcGwsCiAgICAgIH0pOwoKICAgICAgaWYgKGRhdGEgJiYgZGF0YS50bXBsWmlwICYmIGRhdGEudG1wbFppcC5maWxlKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICBmaWxlTGlzdDogW2RhdGEudG1wbFppcC5maWxlXSwKICAgICAgICB9KTsKICAgICAgfQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYW5kbGVVcGxvYWQgPSAoKSA9PiB7CiAgICBjb25zdCB7IGZpbGVMaXN0IH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgZm9ybURhdGEgPSBuZXcgRm9ybURhdGEoKTsKICAgIGZpbGVMaXN0LmZvckVhY2goKGZpbGUpID0+IHsKICAgICAgZm9ybURhdGEuYXBwZW5kKCdmaWxlc1tdJywgZmlsZSk7CiAgICB9KTsKCiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgdXBsb2FkaW5nOiB0cnVlLAogICAgfSk7CgogICAgLy8gWW91IGNhbiB1c2UgYW55IEFKQVggbGlicmFyeSB5b3UgbGlrZQogICAgcmVxd2VzdCh7CiAgICAgIHVybDogJy8vanNvbnBsYWNlaG9sZGVyLnR5cGljb2RlLmNvbS9wb3N0cy8nLAogICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgcHJvY2Vzc0RhdGE6IGZhbHNlLAogICAgICBkYXRhOiBmb3JtRGF0YSwKICAgICAgc3VjY2VzczogKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgZmlsZUxpc3Q6IFtdLAogICAgICAgICAgdXBsb2FkaW5nOiBmYWxzZSwKICAgICAgICB9KTsKICAgICAgICBtZXNzYWdlLnN1Y2Nlc3MoJ3VwbG9hZCBzdWNjZXNzZnVsbHkuJyk7CiAgICAgIH0sCiAgICAgIGVycm9yOiAoKSA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICB1cGxvYWRpbmc6IGZhbHNlLAogICAgICAgIH0pOwogICAgICAgIG1lc3NhZ2UuZXJyb3IoJ3VwbG9hZCBmYWlsZWQuJyk7CiAgICAgIH0sCiAgICB9KTsKICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBkYXRhLCBkYXRhOiB7IGRiRW50aXR5IH0gfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgdXBsb2FkaW5nOiBmYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGJlYW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYmVhbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>search</last-search>
+      <last-search>添加模板</last-search>
       <last-offset />
-      <last-pattern>search</last-pattern>
+      <last-pattern>添加模板</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -359,7 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tmpl</entry>
         <entry>loading</entry>
         <entry>error</entry>
         <entry>params</entry>
@@ -379,6 +377,7 @@
         <entry>columns</entry>
         <entry>编辑</entry>
         <entry>search</entry>
+        <entry>添加模板</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
