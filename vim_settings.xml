@@ -80,11 +80,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531274824035">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="47" column="18" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531276450386">
+        <mark key="'" line="38" column="74" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="54" />
+        <mark key="." line="38" column="54" />
+        <mark key="^" line="38" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/mock/api.js" timestamp="1531208994205">
         <mark key="'" line="50" column="2" />
@@ -195,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="3" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="158" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="24" column="1" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="83" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
@@ -295,6 +295,7 @@
       <jump line="67" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="296" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="38" column="74" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,7 +305,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>功</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
@@ -313,34 +314,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2Uuc3VjY2Vzcygn5re75Yqg5oiQ5YqfLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIG1lc3NhZ2Uuc3VjY2Vzcygn5re75Yqg5oiQ5YqfLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+a3u+WKoOWksei0pS4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGZvcm1EYXRhLmFwcGVuZChrLCBwYXlsb2FkW2tdKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWVzc2FnZSB9IGZyb20gJ2FudGQnOwo=</text>
+      <register name="3" type="4">
+        <text>if (k == 'isUserdefine') {
+          formData.append()
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+a3u+WKoOWksei0pS4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG1lc3NhZ2Uuc3VjY2Vzcygn5re75Yqg5oiQ5YqfLicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocGF5bG9hZCwgJ3BheWxvYWQnKTsKICAgICAgLy8gaWYgKHRydWUpIHsKICAgICAgLy8gICByZXR1cm47CiAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+a3u+WKoOWksei0pS4nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ3BheWxvYWQnKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgbWVzc2FnZSB9IGZyb20gJ2FudGQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcywgJ25leHRQcm9wcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGUuc3RhdHVzLCAnPT09PT09PT09PT09PT0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+a3u+WKoOWksei0pS4nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
