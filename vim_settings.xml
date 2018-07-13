@@ -77,11 +77,12 @@
         <mark key="." line="27" column="53" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531298905484">
-        <mark key="'" line="87" column="30" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531466950316">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="53" column="14" />
+        <mark key="." line="53" column="14" />
+        <mark key="^" line="53" column="14" />
       </file>
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/antd/es/modal/Modal.js" timestamp="1528370743361">
         <mark key="[" line="0" column="0" />
@@ -184,20 +185,15 @@
       <file name="internal:////Users/hsong/workspace/micro-service/front/codz_front/node_modules/react-dom/cjs/react-dom.development.js" timestamp="1528448973777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531302696710">
-        <mark key="'" line="184" column="7" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="186" column="10" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531467006020">
+        <mark key="'" line="117" column="11" />
+        <mark key="[" line="143" column="36" />
+        <mark key="]" line="143" column="41" />
+        <mark key="." line="143" column="41" />
+        <mark key="^" line="143" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="49" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="105" column="8" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
-      <jump line="54" column="1" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="57" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="79" column="8" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="127" column="34" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="128" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
@@ -292,6 +288,12 @@
       <jump line="4" column="21" filename="$USER_HOME$/workspace/demo/redux/src/index.js" />
       <jump line="12" column="7" filename="$USER_HOME$/workspace/demo/redux/public/index.html" />
       <jump line="59" column="23" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" />
+      <jump line="86" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="146" column="90" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="133" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="117" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,52 +303,54 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Workplace</text>
+        <text>提交</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0i55yBIj7nnIE8L09wdGlvbj4K</text>
+      <register name="0" type="4">
+        <text>data.custTmpl ? data.custTmpl : (dbEntity.is_userdefine === 1)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA8Ym9keT4KICAgIDxub3NjcmlwdD4KICAgICAgWW91IG5lZWQgdG8gZW5hYmxlIEphdmFTY3JpcHQgdG8gcnVuIHRoaXMgYXBwLgogICAgPC9ub3NjcmlwdD4KICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2PgogICAgPCEtLQogICAgICBUaGlzIEhUTUwgZmlsZSBpcyBhIHRlbXBsYXRlLgogICAgICBJZiB5b3Ugb3BlbiBpdCBkaXJlY3RseSBpbiB0aGUgYnJvd3NlciwgeW91IHdpbGwgc2VlIGFuIGVtcHR5IHBhZ2UuCgogICAgICBZb3UgY2FuIGFkZCB3ZWJmb250cywgbWV0YSB0YWdzLCBvciBhbmFseXRpY3MgdG8gdGhpcyBmaWxlLgogICAgICBUaGUgYnVpbGQgc3RlcCB3aWxsIHBsYWNlIHRoZSBidW5kbGVkIHNjcmlwdHMgaW50byB0aGUgPGJvZHk+IHRhZy4KCiAgICAgIFRvIGJlZ2luIHRoZSBkZXZlbG9wbWVudCwgcnVuIGBucG0gc3RhcnRgIG9yIGB5YXJuIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAgb3IgYHlhcm4gYnVpbGRgLgogICAgLS0+CiAgPC9ib2R5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS50YXJnZXQpOwogICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICA8Ym9keT4KICAgIDxub3NjcmlwdD4KICAgICAgWW91IG5lZWQgdG8gZW5hYmxlIEphdmFTY3JpcHQgdG8gcnVuIHRoaXMgYXBwLgogICAgPC9ub3NjcmlwdD4KICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2PgogICAgPCEtLQogICAgICBUaGlzIEhUTUwgZmlsZSBpcyBhIHRlbXBsYXRlLgogICAgICBJZiB5b3Ugb3BlbiBpdCBkaXJlY3RseSBpbiB0aGUgYnJvd3NlciwgeW91IHdpbGwgc2VlIGFuIGVtcHR5IHBhZ2UuCgogICAgICBZb3UgY2FuIGFkZCB3ZWJmb250cywgbWV0YSB0YWdzLCBvciBhbmFseXRpY3MgdG8gdGhpcyBmaWxlLgogICAgICBUaGUgYnVpbGQgc3RlcCB3aWxsIHBsYWNlIHRoZSBidW5kbGVkIHNjcmlwdHMgaW50byB0aGUgPGJvZHk+IHRhZy4KCiAgICAgIFRvIGJlZ2luIHRoZSBkZXZlbG9wbWVudCwgcnVuIGBucG0gc3RhcnRgIG9yIGB5YXJuIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAgb3IgYHlhcm4gYnVpbGRgLgogICAgLS0+CiAgPC9ib2R5Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGF0YS5uYW1lIDogZGJFbnRpdHkubmFtZSwKICAgICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfor7floavlhpnmqKHmnb/lkI3np7AnIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeaooeadv+WQjeensCIgLz4pfQogICAgICAgICAgPC9Gb3JtLkl0ZW0+CiAgICAgICAgICA8Rm9ybS5JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuiHquWumuS5ieaooeadvyIgaGVscD0i5byA5ZCv5ZCO77yM5LiK5Lyg5qih5p2/5paH5Lu277yM5Liq5oCn5YyW6K6+572u5qih5p2/6aG16Z2iIj4KICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdpc1VzZXJkZWZpbmUnKSgKICAgICAgICAgICAgICA8U3dpdGNoIGNoZWNrZWQ9e3RoaXMuY3VzdFRtcGx9IG9uQ2hhbmdlPXtjaGFuZ2VDdXN0VG1wbH0gLz4sCiAgICAgICAgICAgICl9CiAgICAgICAgICA8L0Zvcm0uSXRlbT4KICAgICAgICAgIHtjdXN0VG1wbCAmJiAoCiAgICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5qih5p2/5Y6L57yp5YyFIiBzdHlsZT17eyBtYXJnaW5Ub3A6ICczMHB4JyB9fT4KICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoJ3RtcFppcCcsIHsKICAgICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogZGF0YS50bXBsWmlwID8g</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCAnLi9pbmRleC5jc3MnOwppbXBvcnQgQXBwIGZyb20gJy4vQXBwJzsKaW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7CgpSZWFjdERPTS5yZW5kZXIoPEFwcCAvPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKSk7CnJlZ2lzdGVyU2VydmljZVdvcmtlcigpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuY3VzdFRtcGwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyh2YWx1ZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiRW50aXR5KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>{
+              initialValue: true
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBpbml0aWFsVmFsdWU6IGRhdGEuY3VzdFRtcGwgPyBkYXRhLmN1c3RUbXBsIDogKGRiRW50aXR5LmlzX3VzZXJkZWZpbmUgPT09IDEpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Workplace</last-search>
+      <last-search>提交</last-search>
       <last-offset />
-      <last-pattern>Workplace</last-pattern>
+      <last-pattern>提交</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>params</last-substitute>
       <last-dir>1</last-dir>
@@ -354,12 +358,9 @@
     </search>
     <history>
       <history-search>
-        <entry>模板名称</entry>
         <entry>自定义模板</entry>
-        <entry encoding="base64">XDxjdXN0VG1wbFw+</entry>
         <entry>default</entry>
         <entry>defaultCheck</entry>
-        <entry>提交</entry>
         <entry>nextProp</entry>
         <entry>nextPro</entry>
         <entry>nextProps</entry>
@@ -374,6 +375,9 @@
         <entry>添加</entry>
         <entry>规则定义</entry>
         <entry>Workplace</entry>
+        <entry encoding="base64">XDxjdXN0VG1wbFw+</entry>
+        <entry>console.log</entry>
+        <entry>提交</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
