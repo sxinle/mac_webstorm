@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/rule.js" timestamp="1531279635141">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="8" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/.roadhogrc.mock.js" timestamp="1531447015579">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/redux/public/index.html" timestamp="1531455091577">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="8" />
       </file>
       <file name="/fragment.js" timestamp="1528510947213">
         <mark key="[" line="0" column="0" />
@@ -31,6 +33,12 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/redux/src/index.js" timestamp="1531455114183">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="52" />
+        <mark key="." line="43" column="52" />
+        <mark key="^" line="43" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1531446915929">
         <mark key="'" line="107" column="0" />
@@ -100,24 +108,12 @@
       <file name="/Dummy.txt" timestamp="1531446774387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_reqwest@2.0.5@reqwest/reqwest.js" timestamp="1531216935558">
-        <mark key="'" line="306" column="13" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/List/Applications.js" timestamp="1531445487661" />
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531302775786">
         <mark key="'" line="388" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
         <mark key="." line="389" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1531274790428">
-        <mark key="'" line="296" column="0" />
-        <mark key="k" line="190" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/TableList.js" timestamp="1530844380393">
         <mark key="'" line="22" column="15" />
@@ -187,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="15" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/form.js" />
       <jump line="13" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="31" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="33" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
@@ -287,6 +281,8 @@
       <jump line="60" column="40" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="165" column="51" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="59" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
+      <jump line="4" column="21" filename="$USER_HOME$/workspace/demo/redux/src/index.js" />
+      <jump line="12" column="7" filename="$USER_HOME$/workspace/demo/redux/public/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -296,7 +292,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>api/cp</text>
+        <text>blue</text>
       </register>
       <register name="/" type="4">
         <text>Workplace</text>
@@ -304,32 +300,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0i55yBIj7nnIE8L09wdGlvbj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICA8Ym9keT4KICAgIDxub3NjcmlwdD4KICAgICAgWW91IG5lZWQgdG8gZW5hYmxlIEphdmFTY3JpcHQgdG8gcnVuIHRoaXMgYXBwLgogICAgPC9ub3NjcmlwdD4KICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2PgogICAgPCEtLQogICAgICBUaGlzIEhUTUwgZmlsZSBpcyBhIHRlbXBsYXRlLgogICAgICBJZiB5b3Ugb3BlbiBpdCBkaXJlY3RseSBpbiB0aGUgYnJvd3NlciwgeW91IHdpbGwgc2VlIGFuIGVtcHR5IHBhZ2UuCgogICAgICBZb3UgY2FuIGFkZCB3ZWJmb250cywgbWV0YSB0YWdzLCBvciBhbmFseXRpY3MgdG8gdGhpcyBmaWxlLgogICAgICBUaGUgYnVpbGQgc3RlcCB3aWxsIHBsYWNlIHRoZSBidW5kbGVkIHNjcmlwdHMgaW50byB0aGUgPGJvZHk+IHRhZy4KCiAgICAgIFRvIGJlZ2luIHRoZSBkZXZlbG9wbWVudCwgcnVuIGBucG0gc3RhcnRgIG9yIGB5YXJuIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAgb3IgYHlhcm4gYnVpbGRgLgogICAgLS0+CiAgPC9ib2R5Pg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
+        <text encoding="base64">ICA8Ym9keT4KICAgIDxub3NjcmlwdD4KICAgICAgWW91IG5lZWQgdG8gZW5hYmxlIEphdmFTY3JpcHQgdG8gcnVuIHRoaXMgYXBwLgogICAgPC9ub3NjcmlwdD4KICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2PgogICAgPCEtLQogICAgICBUaGlzIEhUTUwgZmlsZSBpcyBhIHRlbXBsYXRlLgogICAgICBJZiB5b3Ugb3BlbiBpdCBkaXJlY3RseSBpbiB0aGUgYnJvd3NlciwgeW91IHdpbGwgc2VlIGFuIGVtcHR5IHBhZ2UuCgogICAgICBZb3UgY2FuIGFkZCB3ZWJmb250cywgbWV0YSB0YWdzLCBvciBhbmFseXRpY3MgdG8gdGhpcyBmaWxlLgogICAgICBUaGUgYnVpbGQgc3RlcCB3aWxsIHBsYWNlIHRoZSBidW5kbGVkIHNjcmlwdHMgaW50byB0aGUgPGJvZHk+IHRhZy4KCiAgICAgIFRvIGJlZ2luIHRoZSBkZXZlbG9wbWVudCwgcnVuIGBucG0gc3RhcnRgIG9yIGB5YXJuIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAgb3IgYHlhcm4gYnVpbGRgLgogICAgLS0+CiAgPC9ib2R5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9InJvb3QiPjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCAnLi9pbmRleC5jc3MnOwppbXBvcnQgQXBwIGZyb20gJy4vQXBwJzsKaW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7CgpSZWFjdERPTS5yZW5kZXIoPEFwcCAvPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKSk7CnJlZ2lzdGVyU2VydmljZVdvcmtlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZVByb3ZDaGFuZ2UodmFsKXsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
