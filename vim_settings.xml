@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" timestamp="1531731605650">
+        <mark key="'" line="491" column="1" />
+        <mark key="[" line="522" column="0" />
+        <mark key="]" line="522" column="0" />
+        <mark key="." line="522" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/.roadhogrc.mock.js" timestamp="1531447015579">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -109,10 +115,6 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="/user.js" timestamp="1531472806886">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" timestamp="1531460899830">
         <mark key="'" line="59" column="23" />
       </file>
@@ -136,16 +138,19 @@
         <mark key="^" line="105" column="34" />
         <mark key="." line="105" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" timestamp="1531731748542">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="92" column="41" />
+        <mark key="]" line="92" column="57" />
+        <mark key="." line="92" column="57" />
+        <mark key="^" line="92" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1531446703970">
         <mark key="'" line="59" column="26" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
         <mark key="^" line="63" column="19" />
-      </file>
-      <file name="/My.js" timestamp="1531472286659">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-barcodescanner/BarcodeScanner.js" timestamp="1531706174788">
         <mark key="[" line="4" column="0" />
@@ -175,10 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
-      <jump line="388" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
-      <jump line="83" column="1" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="22" column="5" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
       <jump line="23" column="32" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="88" column="33" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
@@ -275,6 +276,10 @@
       <jump line="105" column="104" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="109" column="50" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="104" column="47" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
+      <jump line="491" column="1" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
+      <jump line="151" column="28" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
+      <jump line="86" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,60 +289,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>this.state.apkUrl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{ uid: -2, name: current.tmp_zip }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdGl2ZU1vZHVsZXMudXBncmFkZS51cGdyYWRlKHRoaXMuc3RhdGUuYXBrVXJsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnYScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgndG9zJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRtcGwuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRtcGwuZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3RtcGwvZmV0Y2gnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgaWQsCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiAocmVzcCkgPT4gewogICAgICAgIGNvbnN0IGN1cnJlbnQgPSByZXNwLmRhdGEubGlzdFswXTsKICAgICAgICBpZiAoY3VycmVudCkgewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgIGZpbGVMaXN0OiBjdXJyZW50LnRtcF96aXAgPyBbeyB1aWQ6IC0yLCBuYW1lOiBjdXJyZW50LnRtcF96aXAgfV0gOiBbXSwKICAgICAgICAgICAgY3VzdFRtcGw6IGN1cnJlbnQuaXNfdXNlcmRlZmluZSA9PT0gMSwKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfSwKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rule</entry>
         <entry>columns</entry>
         <entry>规则定义</entry>
         <entry>Workplace</entry>
@@ -357,6 +361,7 @@
         <entry>console</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
