@@ -31,8 +31,8 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" timestamp="1531737284003">
-        <mark key="'" line="43" column="19" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" timestamp="1531737314475">
+        <mark key="'" line="19" column="3" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -56,11 +56,12 @@
         <mark key="." line="51" column="109" />
         <mark key="^" line="51" column="107" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1531446915929">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1531737637405">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="17" />
+        <mark key="^" line="98" column="17" />
+        <mark key="." line="98" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1531446975825">
         <mark key="'" line="19" column="39" />
@@ -89,6 +90,12 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/mock/api.js" timestamp="1531106583067">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" timestamp="1531737337567">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1531481213203">
         <mark key="'" line="213" column="12" />
@@ -163,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="32" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="88" column="33" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
       <jump line="50" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="214" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
@@ -263,6 +269,7 @@
       <jump line="86" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
       <jump line="9" column="2" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
       <jump line="43" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" />
+      <jump line="19" column="3" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,43 +279,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://baidu.com</text>
+        <text>response.json();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdGl2ZU1vZHVsZXMudXBncmFkZS51cGdyYWRlKHRoaXMuc3RhdGUuYXBrVXJsKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gc3RvcmU7CiAgICAgIGNvbnN0IHN0YXR1cyA9IGUubmFtZTsKICAgICAgaWYgKHN0YXR1cyA9PT0gNDAxKSB7CiAgICAgICAgZGlzcGF0Y2goewogICAgICAgICAgdHlwZTogJ2xvZ2luL2xvZ291dCcsCiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnVnc25hZwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdHVzID09PSA0MDEpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnYScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzdGF0dXMgPSBlLm5hbWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgndG9zJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
+        <text encoding="base64">ICAgICAgaWYocmVzcG9uc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
+        <text encoding="base64">YnVnc25hZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnYScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
