@@ -138,12 +138,12 @@
         <mark key="]" line="93" column="83" />
         <mark key="." line="93" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1531817627198">
-        <mark key="'" line="219" column="9" />
-        <mark key="[" line="209" column="26" />
-        <mark key="]" line="209" column="27" />
-        <mark key="." line="209" column="27" />
-        <mark key="^" line="192" column="22" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1531821012304">
+        <mark key="'" line="30" column="3" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1531106589467">
         <mark key="'" line="73" column="0" />
@@ -164,9 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" />
-      <jump line="63" column="33" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" />
-      <jump line="32" column="17" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/index.js" />
       <jump line="132" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="0" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="287" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
@@ -264,61 +261,64 @@
       <jump line="72" column="30" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" />
       <jump line="97" column="31" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" />
+      <jump line="92" column="18" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
+      <jump line="23" column="27" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
+      <jump line="29" column="3" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2Zmc2V0PXswfSA=</text>
+        <text>.borderStyle</text>
       </register>
       <register name="/" type="4">
-        <text>成员管理</text>
+        <text>选择规则</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uCiAgICAgICAgICBzdHlsZT17eyB3aWR0aDogJzEwMCUnLCBtYXJnaW5Ub3A6IDE2LCBtYXJnaW5Cb3R0b206IDggfX0KICAgICAgICAgIHR5cGU9ImRhc2hlZCIKICAgICAgICAgIG9uQ2xpY2s9e3RoaXMubmV3TWVtYmVyfQogICAgICAgICAgaWNvbj0icGx1cyIKICAgICAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHNwYW49ezZ9PgogICAgICAgICAgICAgICAgPEZvcm0uSXRlbSB7Li4uc3dpdGNoTGF5b3V0fSBsYWJlbD0i5byA5ZCv6Ziy5Lyq5rqv5rqQIiBzdHlsZT17Y2FyZC5zdHlsZX0+CiAgICAgICAgICAgICAgICAgIDxTd2l0Y2ggZGVmYXVsdENoZWNrZWQgLz4KICAgICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgogICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIGljb249InBsdXMiIHR5cGU9InByaW1hcnkiIGh0bWxUeXBlPSJzdWJtaXQiIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogMzIgfX0+CiAgICAgICAgICAgICAgICDmt7vliqDop4TliJkKICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3c+CiAgICAgICAgICAgIDxSb3c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3c+Cg==</text>
+        <text encoding="base64">ICAgIC8vIGJvcmRlci10b3Atc3R5bGU6IGRhc2hlZDsKICAgIC8vIGJvcmRlci1yaWdodC1zdHlsZTogZGFzaGVkOwogICAgLy8gYm9yZGVyLWJvdHRvbS1zdHlsZTogZGFzaGVkOwogICAgLy8gYm9yZGVyLWxlZnQtc3R5bGU6IGRhc2hlZDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Sb3c+CiAgICAgICAgICAgIDxSb3c+Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NvbD4K</text>
+      <register name="6" type="4">
+        <text>dashed</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHNwYW49e2NvbFNwYW5XaWR0aH0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybUl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5b+F6aG76L6T5YWl5omL5py65Y+3IiBzdHlsZT17Y2FyZC5zdHlsZX0gaGVscD0i55So5oi35b+F6aG76L6T5YWl5omL5py65Y+377yM5omN5Y+v6aKG5Y+W5aWW5ZOBIj4KICAgICAgICAgICAgICAgIDxTd2l0Y2ggZGVmYXVsdENoZWNrZWQgLz4KICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>成员管理</last-search>
+      <last-search>选择规则</last-search>
       <last-offset />
-      <last-pattern>成员管理</last-pattern>
+      <last-pattern>选择规则</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -326,7 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</entry>
         <entry>tmpZIp</entry>
         <entry>console</entry>
@@ -346,6 +345,7 @@
         <entry>添加</entry>
         <entry>新增成员</entry>
         <entry>成员管理</entry>
+        <entry>选择规则</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
