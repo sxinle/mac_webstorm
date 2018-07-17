@@ -83,10 +83,15 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531822782930">
+      <file name="/Dummy.txt" timestamp="1531828734766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" timestamp="1531828578360">
+        <mark key="'" line="62" column="61" />
+        <mark key="[" line="84" column="18" />
+        <mark key="]" line="84" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/mock/api.js" timestamp="1531106583067">
         <mark key="'" line="0" column="0" />
@@ -97,6 +102,9 @@
         <mark key="]" line="220" column="22" />
         <mark key="." line="271" column="26" />
         <mark key="^" line="271" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" timestamp="1531828583077">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" timestamp="1531807180913">
         <mark key="'" line="165" column="37" />
@@ -180,10 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="89" column="28" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="94" column="63" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="95" column="38" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="101" column="30" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="131" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="75" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
@@ -280,6 +284,10 @@
       <jump line="242" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="198" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="23" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
+      <jump line="63" column="52" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" />
+      <jump line="60" column="26" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" />
+      <jump line="62" column="61" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -292,10 +300,10 @@
         <text>区</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRSdWxlXD4=</text>
+        <text>getSignature</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3J1bGVTZXggJiYgKAogICAgICAgICAgICAgIDxSb3cgc3R5bGU9e3J1bGVTdHlsZS5ib3JkZXJTdHlsZX0+CiAgICAgICAgICAgICAgICA8Q29sIHNwYW49e2NvbFNwYW5XaWR0aH0+CiAgICAgICAgICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5oCn5YirIj4KICAgICAgICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoJ3NleCcsIHsgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlIH1dIH0pKAogICAgICAgICAgICAgICAgICAgICAgPFJhZGlvLkdyb3VwIG5hbWU9InJhZGlvZ3JvdXAiIGRlZmF1bHRWYWx1ZT17MH0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxSYWRpbyB2YWx1ZT17MX0+55S3PC9SYWRpbz4KICAgICAgICAgICAgICAgICAgICAgICAgPFJhZGlvIHZhbHVlPXsyfT7lpbM8L1JhZGlvPgogICAgICAgICAgICAgICAgICAgICAgPC9SYWRpby5Hcm91cD4sCiAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgPC9Gb3JtLkl0ZW0+CiAgICAgICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgb25DbGljaz17KGV2ZW50KSA9PiB0aGlzLnN3aXRjaFJ1bGUoZXZlbnQsIDIsIGZhbHNlKX0KICAgICAgICAgICAgICAgICAgdHlwZT0icHJpbWFyeSIKICAgICAgICAgICAgICAgICAgc2hhcGU9ImNpcmNsZSIKICAgICAgICAgICAgICAgICAgaWNvbj0iY2xvc2UiCiAgICAgICAgICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgICAgICAgICBzdHlsZT17eyBwb3NpdGlvbjogJ2Fic29sdXRlJywgbGVmdDogJy0xJScsIHRvcDogJy01JScgfX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9Sb3c+KX0K</text>
+      <register name="0" type="4">
+        <text>getSignature</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogJzVweCcsCg==</text>
@@ -332,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRSdWxlXD4=</last-search>
+      <last-search>getSignature</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRSdWxlXD4=</last-pattern>
+      <last-pattern>getSignature</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -342,10 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatch</entry>
-        <entry>delete</entry>
-        <entry>删除</entry>
-        <entry>查询</entry>
         <entry>updateAt</entry>
         <entry>updatedAt</entry>
         <entry>规则定义</entry>
@@ -362,6 +366,10 @@
         <entry>规则设定</entry>
         <entry>saveStep</entry>
         <entry encoding="base64">XDxhZGRSdWxlXD4=</entry>
+        <entry>分享</entry>
+        <entry>exec</entry>
+        <entry>扫码</entry>
+        <entry>getSignature</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
