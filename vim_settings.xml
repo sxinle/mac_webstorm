@@ -79,14 +79,14 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531740870245">
-        <mark key="'" line="41" column="18" />
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="12" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1531790161238">
+        <mark key="'" line="34" column="49" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531734986740">
+      <file name="/Dummy.txt" timestamp="1531741077565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -122,12 +122,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1531740969015">
-        <mark key="'" line="98" column="6" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="20" />
-        <mark key="." line="46" column="20" />
-        <mark key="^" line="46" column="20" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1531790486533">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
+        <mark key="^" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" timestamp="1531479449048">
         <mark key="'" line="107" column="6" />
@@ -174,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="21" filename="$USER_HOME$/workspace/demo/redux/src/index.js" />
       <jump line="12" column="7" filename="$USER_HOME$/workspace/demo/redux/public/index.html" />
       <jump line="59" column="23" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/AdvancedForm.js" />
       <jump line="146" column="90" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
@@ -274,6 +273,7 @@
       <jump line="39" column="18" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="27" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
+      <jump line="34" column="49" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +283,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -292,34 +292,34 @@
         <text encoding="base64">ICAgICAgZGlzcGF0Y2gocm91dGVyUmVkdXgucHVzaCgnL2FjdGl2aXR5L3RtcGwvZWRpdC9pbmZvJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcyk7CiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7CiAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGFibGVEYXRhID0gY3VycmVudC5wcml6ZV9kZXRhaWwudmFsdWU7CiAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnQucHJpemVfZGV0YWlsLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ3N1Ym1pdFN0ZXBGb3JtJyk7CgogICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRhYmxlRGF0YSA9IGN1cnJlbnQucHJpemVfZGV0YWlsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7CiAgICBrZXk6ICcxJywKICAgIHR5cGU6IDEsCiAgICB2YWw6ICcxMDAnLAogICAgY291bnQ6ICcxMCcsCiAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -332,7 +332,7 @@
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
