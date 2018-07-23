@@ -104,10 +104,10 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" timestamp="1531881197962">
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/components/user/Home.js" timestamp="1532315054625">
         <mark key="'" line="56" column="5" />
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="84" column="29" />
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/mock/api.js" timestamp="1531106583067">
         <mark key="'" line="0" column="0" />
@@ -119,8 +119,8 @@
         <mark key="." line="271" column="26" />
         <mark key="^" line="271" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" timestamp="1531828583077">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" timestamp="1532314979037">
+        <mark key="'" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" timestamp="1531914396548">
         <mark key="'" line="16" column="10" />
@@ -217,10 +217,8 @@
         <mark key="." line="94" column="61" />
         <mark key="^" line="94" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/HomePage.js" timestamp="1531913152864" />
     </filemarks>
     <jumps>
-      <jump line="100" column="53" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="112" column="57" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="105" column="104" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="109" column="50" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
@@ -320,6 +318,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="16" column="10" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
+      <jump line="4" column="23" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,10 +331,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mobile</text>
+        <text>getCode</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhbnRkLW1vYmlsZSI6ICJeMi4yLjIiLAo=</text>
+      <register name="0" type="4">
+        <text>home/getCodeInfo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
@@ -372,9 +371,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mobile</last-search>
+      <last-search>getCode</last-search>
       <last-offset />
-      <last-pattern>mobile</last-pattern>
+      <last-pattern>getCode</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYWJlbENvbFw+</entry>
         <entry encoding="base64">XDxmb3JtSXRlbUxheW91dFw+</entry>
         <entry>新增成员</entry>
         <entry>成员管理</entry>
@@ -402,6 +400,7 @@
         <entry>map</entry>
         <entry>onChange</entry>
         <entry>mobile</entry>
+        <entry>getCode</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
