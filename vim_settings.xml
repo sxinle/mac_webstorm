@@ -145,12 +145,12 @@
         <mark key="^" line="177" column="18" />
         <mark key="." line="177" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" timestamp="1532934429594">
-        <mark key="'" line="74" column="21" />
-        <mark key="[" line="48" column="105" />
-        <mark key="]" line="48" column="121" />
-        <mark key="." line="48" column="121" />
-        <mark key="^" line="48" column="121" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" timestamp="1532938112443">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="50" column="91" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/blockchain.html" timestamp="1531963300308">
         <mark key="[" line="9" column="2" />
@@ -221,6 +221,12 @@
         <mark key="^" line="184" column="7" />
         <mark key="." line="184" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CameraPage.js" timestamp="1532938478223">
+        <mark key="[" line="105" column="19" />
+        <mark key="]" line="105" column="20" />
+        <mark key="^" line="105" column="23" />
+        <mark key="." line="105" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1531476311099">
         <mark key="'" line="108" column="15" />
         <mark key="[" line="94" column="61" />
@@ -235,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="56" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="46" column="17" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="93" column="28" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
@@ -335,6 +340,7 @@
       <jump line="22" column="7" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
       <jump line="69" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
       <jump line="79" column="21" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -344,43 +350,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>*0.8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJY29uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>home/getCodeInfo</text>
+        <text>this.props.navigation.state.params.path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXJnZUhlYXA9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICBwYXRoOicnLAogICAgICAgIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyBhbGVydCh0aGlzLnN0YXRlLnBhdGgpOwogICAgICAgIC8vIGFsZXJ0KHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMucGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgRGltZW5zaW9ucyA9IHJlcXVpcmUoJ0RpbWVuc2lvbnMnKTsKICAgICAgICBsZXQgd2lkdGggPSBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGg7CiAgICAgICAgbGV0IGhlaWdodCA9IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRha2VUaGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ1Bob3RvJyx7a2V5czp7IENhbWVyYVBhZ2Vfa2V5OnRha2VUaGlzLnByb3BzLm5hdmlnYXRpb24uc3RhdGUua2V5LH0scGF0aDogZGF0YS5wYXRofSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcGF0aDogdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLnN0YXRlLnBhcmFtcy5wYXRoLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IERpbWVuc2lvbnMgPSByZXF1aXJlKCdEaW1lbnNpb25zJyk7CmxldCB3aWR0aCA9IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS53aWR0aDsKbGV0IGhlaWdodCA9IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBvbkVycm9yPXsoe25hdGl2ZUV2ZW50OiB7ZXJyb3J9fSkgPT4gewogICAgICAgICAgICAgICAgICAgIC8vICAgICBjb25zb2xlLmxvZyhlcnJvcik7CiAgICAgICAgICAgICAgICAgICAgLy8gfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhbGVydCh0aGlzLnN0YXRlLnBhdGgpOwogICAgICAgIC8vIGFsZXJ0KHRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMucGF0aCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzaXplTWV0aG9kPSJyZXNpemUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRha2VUaGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ1Bob3RvJywgewogICAgICAgICAgICAgICAgICAgIGtleXM6IHtDYW1lcmFQYWdlX2tleTogdGFrZVRoaXMucHJvcHMubmF2aWdhdGlvbi5zdGF0ZS5rZXksfSwKICAgICAgICAgICAgICAgICAgICBwYXRoOiBkYXRhLnBhdGgKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
