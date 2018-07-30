@@ -26,6 +26,9 @@
         <mark key="." line="26" column="8" />
         <mark key="^" line="26" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" timestamp="1532928997823">
+        <mark key="'" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Edit1.js" timestamp="1531477331083">
         <mark key="'" line="14" column="0" />
       </file>
@@ -142,11 +145,10 @@
         <mark key="^" line="177" column="18" />
         <mark key="." line="177" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" timestamp="1532927694523">
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="25" />
-        <mark key="^" line="58" column="24" />
-        <mark key="." line="58" column="23" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" timestamp="1532928909239">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/blockchain.html" timestamp="1531963300308">
         <mark key="[" line="9" column="2" />
@@ -225,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="57" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="105" column="104" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="109" column="50" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="104" column="47" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="491" column="1" filename="$USER_HOME$/workspace/micro-service/front/RNsales/App.js" />
       <jump line="151" column="28" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/LogOn.js" />
@@ -325,6 +324,9 @@
       <jump line="17" column="8" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="16" column="10" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="4" column="23" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" />
+      <jump line="58" column="26" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
+      <jump line="16" column="26" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
+      <jump line="17" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,60 +336,61 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/*</text>
+        <text>*/</text>
       </register>
       <register name="/" type="4">
-        <text>getCode</text>
+        <text>react</text>
       </register>
       <register name="0" type="4">
         <text>home/getCodeInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvLnRvTG9jYWxlU3RyaW5nKCkK</text>
+      <register name="2" type="8">
+        <text>//
+//
+/*</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvLnRvTG9jYWxlU3RyaW5nKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzd2l0Y2hSdWxlID0gKGUsIHJ1bGVJZCwgb24pID0+IHsKICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgIGlmIChvbikgewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBwb3BWaXNpYWJsZTogIXRoaXMuc3RhdGUucG9wVmlzaWFibGUsCiAgICAgIH0pOwogICAgfQoKICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdhY3Rpdml0aWVzL2FkZFJ1bGUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAga2luZDogcnVsZUlkLAogICAgICAgIG9uLAogICAgICB9LAogICAgfSk7CiAgfTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQgPSBlID0+IHsKICAgIGNvbnN0IHsgZm9ybSwgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBmb3JtLnZhbGlkYXRlRmllbGRzQW5kU2Nyb2xsKChlcnIsIHZhbHVlcykgPT4gewogICAgICBpZiAoIWVycikgewogICAgICAgIGRpc3BhdGNoKHsKICAgICAgICAgIHR5cGU6ICcvYWN0aXZpdHkvYWN0aXZpdHknLAogICAgICAgICAgcGF5bG9hZDogdmFsdWVzLAogICAgICAgIH0pOwogICAgICB9CiAgICB9KTsKICB9Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2hSdWxlID0gKGUsIHJ1bGVJZCwgb24pID0+IHsKICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgIGlmIChvbikgewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBwb3BWaXNpYWJsZTogIXRoaXMuc3RhdGUucG9wVmlzaWFibGUsCiAgICAgIH0pOwogICAgfQoKICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdhY3Rpdml0aWVzL2FkZFJ1bGUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAga2luZDogcnVsZUlkLAogICAgICAgIG9uLAogICAgICB9LAogICAgfSk7CiAgfTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYW5kbGVTdWJtaXQgPSBlID0+IHsKICAgIGNvbnN0IHsgZm9ybSwgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBmb3JtLnZhbGlkYXRlRmllbGRzQW5kU2Nyb2xsKChlcnIsIHZhbHVlcykgPT4gewogICAgICBpZiAoIWVycikgewogICAgICAgIGRpc3BhdGNoKHsKICAgICAgICAgIHR5cGU6ICcvYWN0aXZpdHkvYWN0aXZpdHknLAogICAgICAgICAgcGF5bG9hZDogdmFsdWVzLAogICAgICAgIH0pOwogICAgICB9CiAgICB9KTsKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getCode</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>getCode</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtSXRlbUxheW91dFw+</entry>
         <entry>新增成员</entry>
         <entry>成员管理</entry>
         <entry>选择规则</entry>
@@ -407,6 +410,7 @@
         <entry>onChange</entry>
         <entry>mobile</entry>
         <entry>getCode</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
