@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/services/api.js" timestamp="1533025012050">
-        <mark key="'" line="21" column="40" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="21" column="68" />
+      <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/services/api.js" timestamp="1533028609319">
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="22" column="72" />
+        <mark key="." line="22" column="72" />
+        <mark key="^" line="22" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/.roadhogrc.mock.js" timestamp="1531824919785">
         <mark key="[" line="47" column="17" />
@@ -25,12 +24,6 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" timestamp="1532930407300">
         <mark key="'" line="43" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/utils/request.js" timestamp="1533024882275">
-        <mark key="[" line="42" column="96" />
-        <mark key="]" line="42" column="97" />
-        <mark key="." line="42" column="97" />
-        <mark key="^" line="42" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/utils/request.js" timestamp="1531737912674">
         <mark key="'" line="15" column="18" />
@@ -354,7 +347,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>/api/fangbianmian</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
@@ -363,38 +356,34 @@
         <text encoding="base64">ICB7IGtleTogJ2NqcmsnLCBpY29uOiAnMDEnLCB0ZXh0OiAn6YeH6ZuG5YWl5bqTJyB9LAogIHsga2V5OiAnd2xyaycsIGljb246ICcwMicsIHRleHQ6ICfnianmtYHlhaXlupMnIH0sCiAgeyBrZXk6ICd3bGNrJywgaWNvbjogJzAzJywgdGV4dDogJ+eJqea1geWHuuW6kycgfSwKICB7IGtleTogJ2p4c3JrJywgaWNvbjogJzA0ICcsIHRleHQ6ICfnu4/plIDllYblhaXlupMnIH0sCiAgeyBrZXk6ICdqeHNjaycsIGljb246ICcwNScsIHRleHQ6ICfnu4/plIDllYblh7rlupMnIH0sCiAgeyBrZXk6ICdtZHFzJywgaWNvbjogJzA2JywgdGV4dDogJ+mXqOW6l+etvuaUticgfSwKICB7IGtleTogJ3hmenNtJywgaWNvbjogJzA3JywgdGV4dDogJ+a2iOi0ueiAheaJq+eggScgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9IGVsc2UgewogICAgcmVxdWVzdFVybCA9IGNvbmZpZy5zcHJpbmdEb21haW4gKyB1cmw7CiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgcmVxdWVzdFVybCA9IHVybDsK</text>
+        <text encoding="base64">ICBpZiAodXJsLmluZGV4T2YoJ3NpZ25hdHVyZScpICE9PSAtMSB8fCB1cmwuaW5kZXhPZignbG9naW4nKSAhPT0gLTEpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gcmVxdWVzdChgL2NvZGUvJHtwYXJhbXMuY29kZX0vJHtwYXJhbXMudHlwZX1gLCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAodXJsLmluZGV4T2YoJ3NpZ25hdHVyZScpICE9PSAtMSB8fCB1cmwuaW5kZXhPZignbG9naW4nKSAhPT0gLTEpIHsKICAgIHJlcXVlc3RVcmwgPSBjb25maWcubWljcm9Eb21haW4gKyB1cmw7CiAgfSBlbHNlIHsKICAgIHJlcXVlc3RVcmwgPSBjb25maWcuc3ByaW5nRG9tYWluICsgdXJsOwogIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>''</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>/api/fangbianmian/code</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQgcmVxdWVzdFVybCA9IHVybDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>, {
-    method: 'GET',
-    headers: { 'Content-Type': 'application/json' },
-    body: params,
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3Rva2VuJywgYWN0aW9uLnBheWxvYWQuZGF0YS50b2tlbik7Cg==</text>
+        <text encoding="base64">ICBpZiAodXJsLmluZGV4T2YoJ3NpZ25hdHVyZScpICE9PSAtMSB8fCB1cmwuaW5kZXhPZignbG9naW4nKSAhPT0gLTEpIHsKICAgIHJlcXVlc3RVcmwgPSBjb25maWcubWljcm9Eb21haW4gKyB1cmw7CiAgfSBlbHNlIHsKICAgIHJlcXVlc3RVcmwgPSBjb25maWcuc3ByaW5nRG9tYWluICsgdXJsOwogIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
