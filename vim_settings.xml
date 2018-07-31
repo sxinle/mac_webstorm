@@ -35,10 +35,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/utils/request.js" timestamp="1531737912674">
         <mark key="'" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/routes/IndexPage.js" timestamp="1533009435424">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
+      <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/routes/IndexPage.js" timestamp="1533009620742">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="114" column="12" />
+        <mark key="^" line="114" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" timestamp="1531909749873">
         <mark key="'" line="52" column="12" />
@@ -239,6 +241,10 @@
         <mark key="." line="94" column="61" />
         <mark key="^" line="94" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/HomePage.js" timestamp="1533009609198">
+        <mark key="[" line="131" column="23" />
+        <mark key="]" line="133" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1532934558470">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -246,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="94" column="59" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="16" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="228" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
@@ -346,6 +351,7 @@
       <jump line="6" column="4" filename="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/routes/IndexPage.js" />
       <jump line="34" column="26" filename="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/routes/IndexPage.js" />
       <jump line="21" column="9" filename="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/models/home.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/routes/IndexPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -355,13 +361,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXVlcnlMaXN0LCBxdWVyeU5hbWUsIA==</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJY29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBXZWl4aW5TY2FuID0gKHNpZ25QYXJhbSkgPT4gewogICAgY29uc29sZS5sb2coc2lnblBhcmFtKTsKICAgIHd4LmNvbmZpZyh7CiAgICAgIGRlYnVnOiBmYWxzZSwgLy8g5byA5ZCv6LCD6K+V5qih5byPLOiwg+eUqOeahOaJgOaciWFwaeeahOi/lOWbnuWAvOS8muWcqOWuouaIt+err2FsZXJ05Ye65p2l77yM6Iul6KaB5p+l55yL5Lyg5YWl55qE5Y+C5pWw77yM5Y+v5Lul5ZyocGPnq6/miZPlvIDvvIzlj4LmlbDkv6Hmga/kvJrpgJrov4dsb2fmiZPlh7rvvIzku4XlnKhwY+err+aXtuaJjeS8muaJk+WNsOOAggogICAgICBhcHBJZDogc2lnblBhcmFtLmFwcElkLCAvLyDlv4XloavvvIzlhazkvJflj7fnmoTllK/kuIDmoIfor4YKICAgICAgdGltZXN0YW1wOiBzaWduUGFyYW0udGltZXN0YW1wLCAvLyDlv4XloavvvIznlJ/miJDnrb7lkI3nmoTml7bpl7TmiLMKICAgICAgbm9uY2VTdHI6IHNpZ25QYXJhbS5ub25jZVN0ciwgLy8g5b+F5aGr77yM55Sf5oiQ562+5ZCN55qE6ZqP5py65LiyCiAgICAgIHNpZ25hdHVyZTogc2lnblBhcmFtLnNpZ25hdHVyZSwgLy8g5b+F5aGr77yM562+5ZCN77yM6KeB6ZmE5b2VMQogICAgICBqc0FwaUxpc3Q6IFsnc2NhblFSQ29kZScsICdnZXRMb2NhdGlvbiddLCAvLyDlv4XloavvvIzpnIDopoHkvb/nlKjnmoRKU+aOpeWPo+WIl+ihqO+8jOaJgOaciUpT5o6l5Y+j5YiX6KGo6KeB6ZmE5b2VMgogICAgfSk7CiAgICB3eC5yZWFkeSgoKSA9PiB7CiAgICAgIHd4LnNjYW5RUkNvZGUoewogICAgICAgIG5lZWRSZXN1bHQ6IDEsIC8vIOm7mOiupOS4ujDvvIzmiavmj4/nu5PmnpznlLHlvq7kv6HlpITnkIbvvIwx5YiZ55u05o6l6L+U5Zue5omr5o+P57uT5p6c77yMCiAgICAgICAgc2NhblR5cGU6IFsncXJDb2RlJywgJ2JhckNvZGUnXSwgLy8g5Y+v5Lul5oyH5a6a5omr5LqM57u056CB6L+Y5piv5LiA57u056CB77yM6buY6K6k5LqM6ICF6YO95pyJCiAgICAgICAgc3VjY2VzczogKHJlcykgPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IHJlcy5yZXN1bHRTdHI7IC8vIOW9k25lZWRSZXN1bHQg5Li6IDEg5pe277yM5omr56CB6L+U5Zue55qE57uT5p6cCiAgICAgICAgICBjb25zdCBjb2RldmFsdWUgPSByZXN1bHQuc3Vic3RyaW5nKHJlc3VsdC5sYXN0SW5kZXhPZignLycpICsgMSk7CiAgICAgICAgICB0aGlzLnByb3BzLmRpc3BhdGNoKHsKICAgICAgICAgICAgdHlwZTogJ2hvbWUvZ2V0Q29kZUluZm8nLAogICAgICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICAgICAgY29kZTogY29kZXZhbHVlLAogICAgICAgICAgICB9LAogICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgfSk7CiAgICAgIHd4LmVycm9yKChyZXMpID0+IHsKICAgICAgICBUb2FzdC5pbmZvKHJlcywgMyk7CiAgICAgICAgLy8gY29uc29sZS5sb2cocmVzKTsKICAgICAgICAvLyBjb25maWfkv6Hmga/pqozor4HlpLHotKXkvJrmiafooYxlcnJvcuWHveaVsO+8jOWmguetvuWQjei/h+acn+WvvOiHtOmqjOivgeWksei0pe+8jOWFt+S9k+mUmeivr+S/oeaBr+WPr+S7peaJk+W8gGNvbmZpZ+eahGRlYnVn5qih5byP5p+l55yL77yMCiAgICAgICAgLy8g5Lmf5Y+v5Lul5Zyo6L+U5Zue55qEcmVz5Y+C5pWw5Lit5p+l55yL77yM5a+55LqOU1BB5Y+v5Lul5Zyo6L+Z6YeM5pu05paw562+5ZCN44CCCiAgICAgIH0pOwogICAgfSk7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KHsgaG9tZSB9KSA9PiAoewogIGhvbWUsCn0p</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHNhdmVJY29uKHN0YXRlLCBhY3Rpb24pIHsKICAgIC8vICAgcmV0dXJuIHsgLi4uc3RhdGUsIGljb25zOiBhY3Rpb24ucGF5bG9hZCB9OwogICAgLy8gfSwKICAgIHNhdmVMaXN0KHN0YXRlLCBhY3Rpb24pIHsKICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIGxpc3Q6IGFjdGlvbi5wYXlsb2FkIH07CiAgICB9LAogICAgc2F2ZUluZm8oc3RhdGUsIGFjdGlvbikgewogICAgICByZXR1cm4geyAuLi5zdGF0ZSwgaW5mbzogYWN0aW9uLnBheWxvYWQgfTsKICAgIH0sCiAgICBzYXZlTmFtZShzdGF0ZSwgYWN0aW9uKSB7CiAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBuYW1lOiBhY3Rpb24ucGF5bG9hZCB9OwogICAgfSwKCiAgICAvLyBjdXN0b21hcnkK</text>
