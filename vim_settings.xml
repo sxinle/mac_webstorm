@@ -49,8 +49,8 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="98" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/user.js" timestamp="1533174396299">
-        <mark key="'" line="18" column="19" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/user.js" timestamp="1533175700523">
+        <mark key="'" line="7" column="4" />
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
@@ -171,11 +171,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Edit1.js" timestamp="1531477331083">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/services/user.js" timestamp="1533173539931">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/services/user.js" timestamp="1533175820488">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
         <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="31" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" timestamp="1533174625787">
         <mark key="'" line="94" column="17" />
@@ -285,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="16" column="10" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/package.json" />
       <jump line="4" column="23" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" />
       <jump line="58" column="26" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" />
@@ -385,6 +384,7 @@
       <jump line="70" column="55" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
       <jump line="94" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
       <jump line="72" column="92" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/common/router.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -394,10 +394,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSAne30n</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>user\/login</text>
+        <text encoding="base64">XDxjdXJyZW50VXNlclw+</text>
       </register>
       <register name="0" type="4">
         <text>response</text>
@@ -437,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user\/login</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50VXNlclw+</last-search>
       <last-offset />
-      <last-pattern>user\/login</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50VXNlclw+</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exec</entry>
         <entry>扫码</entry>
         <entry>getSignature</entry>
         <entry>添加</entry>
@@ -467,6 +466,7 @@
         <entry>usr</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>user\/login</entry>
+        <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
