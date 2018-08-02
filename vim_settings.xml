@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/StepForm/Step1.js" timestamp="1531826049700">
         <mark key="'" line="108" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/services/api.js" timestamp="1533176805350">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="47" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="38" column="47" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/services/api.js" timestamp="1533177990691">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="39" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1531793563845">
         <mark key="'" line="98" column="6" />
@@ -122,11 +122,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" timestamp="1531106589467">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/routes/Prize/Home/traceability.js" timestamp="1533176667881">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/routes/Prize/Home/traceability.js" timestamp="1533178124090">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="31" />
-        <mark key="^" line="98" column="24" />
-        <mark key="." line="98" column="24" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" timestamp="1531446921759">
         <mark key="'" line="183" column="15" />
@@ -197,19 +197,19 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/activities.js" timestamp="1533176707677">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/activities.js" timestamp="1533178050058">
         <mark key="'" line="19" column="34" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" timestamp="1533174625787">
-        <mark key="'" line="94" column="17" />
-        <mark key="[" line="54" column="26" />
-        <mark key="]" line="54" column="26" />
-        <mark key="^" line="54" column="26" />
-        <mark key="." line="54" column="26" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" timestamp="1533178038515">
+        <mark key="'" line="52" column="57" />
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="52" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/models/home.js" timestamp="1533176587183">
         <mark key="'" line="37" column="36" />
@@ -310,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="31" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="32" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="33" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
@@ -410,6 +409,7 @@
       <jump line="37" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/models/home.js" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/routes/IndexPage.js" />
       <jump line="19" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/activities.js" />
+      <jump line="52" column="57" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,7 +419,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>scanRecords</text>
+        <text>/api/fangbianmian</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -428,34 +428,34 @@
         <text>fetchLog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnLS0tLScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKGNhbGxiYWNrKSB7CiAgICAgIC8vICAgY2FsbGJhY2socmVzcG9uc2UpOwogICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGRhdGEgPSBbewogICAgLy8gICBrZXk6ICcxJywKICAgIC8vICAgbmFtZTogJ+mHkeW+vTI45bm0NTAwbWzmtZPpppnlnosnLAogICAgLy8gICBxcmNvZGU6ICdKWERGREtGOTM4NUoxOTInLAogICAgLy8gICByb2xlOiAn6aOO5ZGz6LaF5biCJywKICAgIC8vICAgc3RhdGU6ICfpl6jlupfnrb7mlLYnLAogICAgLy8gICB0aW1lOiAnMjAxOC0wNS0xNyAxMjo1MjoyMycsCiAgICAvLyB9LHsKICAgIC8vICAga2V5OiAnMicsCiAgICAvLyAgIG5hbWU6ICfph5Hlvr0yOOW5tDUwMG1s5rWT6aaZ5Z6LJywKICAgIC8vICAgcXJjb2RlOiAnSlhERkRLRjkzODVKMTkyJywKICAgIC8vICAgcm9sZTogJ+aIkOa1t+e7j+mUgCcsCiAgICAvLyAgIHN0YXRlOiAn57uP6ZSA5ZWG5Ye65bqTJywKICAgIC8vICAgdGltZTogJzIwMTgtMDUtMTYgMjA6MTU6MjgnLAogICAgLy8gfSx7CiAgICAvLyAgIGtleTogJzMnLAogICAgLy8gICBuYW1lOiAn6YeR5b69MjjlubQ1MDBtbOa1k+mmmeWeiycsCiAgICAvLyAgIHFyY29kZTogJ0pYREZES0Y5Mzg1SjE5MicsCiAgICAvLyAgIHJvbGU6ICfmiJDmtbfnu4/plIAnLAogICAgLy8gICBzdGF0ZTogJ+e7j+mUgOWVhuWFpeW6kycsCiAgICAvLyAgIHRpbWU6ICcyMDE4LTA1LTE0IDA4OjMxOjQzJywKICAgIC8vIH0sIF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnLS0tLScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8TWVudS5JdGVtIGtleT0idHJpZ2dlckVycm9yIj4qL30KICAgICAgICAgIHsvKjxJY29uIHR5cGU9ImNsb3NlLWNpcmNsZSIgLz7op6blj5HmiqXplJkqL30KICAgICAgICB7Lyo8L01lbnUuSXRlbT4qL30K</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKGNhbGxiYWNrKSB7CiAgICAgIC8vICAgY2FsbGJhY2socmVzcG9uc2UpOwogICAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8TWVudS5JdGVtIGtleT0idHJpZ2dlckVycm9yIj4qL30KICAgICAgICAgIHsvKjxJY29uIHR5cGU9ImNsb3NlLWNpcmNsZSIgLz7op6blj5HmiqXplJkqL30KICAgICAgICB7Lyo8L01lbnUuSXRlbT4qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UsICctLS0+Jyk7CiAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UsICctLS0+Jyk7CiAgICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
