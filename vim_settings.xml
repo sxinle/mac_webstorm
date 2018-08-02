@@ -221,8 +221,8 @@
         <mark key="^" line="53" column="10" />
         <mark key="." line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" timestamp="1533206460096">
-        <mark key="'" line="65" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" timestamp="1533209316713">
+        <mark key="'" line="7" column="6" />
         <mark key="[" line="101" column="41" />
         <mark key="]" line="101" column="45" />
         <mark key="^" line="101" column="45" />
@@ -255,7 +255,7 @@
         <mark key="." line="62" column="32" />
         <mark key="^" line="62" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533208704845">
+      <file name="/Dummy.txt" timestamp="1533209340694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -327,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
-      <jump line="56" column="18" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="47" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="46" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
       <jump line="45" column="5" filename="$USER_HOME$/workspace/micro-service/front/RNsales/package.json" />
@@ -427,6 +425,8 @@
       <jump line="73" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/login.js" />
       <jump line="22" column="30" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/components/GlobalHeader/index.js" />
       <jump line="34" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/models/user.js" />
+      <jump line="30" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,7 +439,7 @@
         <text>currentUser.avatar</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text encoding="base64">XDxjb2RlTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="4">
         <text>https://gw.alipayobjects.com/zos/rmsportal/BiazfanxmamNRoxxVxka.png</text>
@@ -479,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search encoding="base64">XDxjb2RlTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlTWVzc2FnZVw+</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZVN0eWxlXD4=</entry>
         <entry>map</entry>
         <entry>onChange</entry>
         <entry>mobile</entry>
@@ -509,6 +508,7 @@
         <entry>pd</entry>
         <entry>name</entry>
         <entry>current</entry>
+        <entry encoding="base64">XDxjb2RlTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
