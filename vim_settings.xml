@@ -22,12 +22,12 @@
         <mark key="^" line="89" column="25" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" timestamp="1533610686828">
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" timestamp="1533614722276">
+        <mark key="'" line="55" column="12" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/utils/request.js" timestamp="1533014171016">
         <mark key="'" line="0" column="0" />
@@ -133,12 +133,12 @@
         <mark key="^" line="54" column="73" />
         <mark key="." line="54" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1533613582893">
-        <mark key="'" line="82" column="22" />
-        <mark key="[" line="264" column="62" />
-        <mark key="]" line="264" column="62" />
-        <mark key="." line="264" column="62" />
-        <mark key="^" line="264" column="109" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1533615040868">
+        <mark key="'" line="110" column="27" />
+        <mark key="[" line="266" column="77" />
+        <mark key="]" line="266" column="84" />
+        <mark key="^" line="266" column="84" />
+        <mark key="." line="266" column="84" />
       </file>
       <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/package.json" timestamp="1533022428978">
         <mark key="'" line="0" column="0" />
@@ -355,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="6" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/.roadhogrc.mock.js" />
       <jump line="126" column="29" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/.roadhogrc.mock.js" />
       <jump line="37" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/models/home.js" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/routes/IndexPage.js" />
@@ -455,6 +454,7 @@
       <jump line="25" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="82" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="87" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Customer/Customer.js" />
+      <jump line="110" column="27" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,52 +464,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5pdGlhbFZhbHVlPXtjaXRpZXMgJiYgY2l0aWVzWzBdLmRpc3RyaWN0bmFtZX0g</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBoYW5kbGVQcm92Q2hhbmdlID0gKHZhbCkgPT4gewogICAgY29uc29sZS5sb2codmFsKTsKCiAgICBjb25zdCB7IGRpc3BhdGNoIH0gPSB0aGlzLnByb3BzOwogICAgZGlzcGF0Y2goewogICAgICB0eXBlOiAnYWN0aXZpdGllcy9mZXRjaENpdGllcycsCiAgICAgIHBheWxvYWQgOiB7CiAgICAgICAgcHJvdjogdmFsLAogICAgICB9LAogICAgfSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIGZvcm0ucmVzZXRGaWVsZHMoJ2Rpc3QnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbC50YXJnZXQuY2xlYXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgIHZhbC50YXJnZXQuY2xlYXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBCYWRnZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>Edit</last-replace>
       <last-substitute>Step</last-substitute>
       <last-dir>1</last-dir>
@@ -517,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2FubG9nXD4=</entry>
-        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDx1c2Vyc1w+</entry>
         <entry encoding="base64">XDxyb2xlXD4=</entry>
@@ -537,6 +535,8 @@
         <entry>sec</entry>
         <entry>sex</entry>
         <entry>query</entry>
+        <entry>initialValue</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
