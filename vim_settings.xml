@@ -297,11 +297,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_dva@2.3.1@dva/index.d.ts" timestamp="1531806862087">
         <mark key="'" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1533714044680">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1533714171450">
+        <mark key="[" line="109" column="68" />
+        <mark key="]" line="109" column="68" />
+        <mark key="^" line="55" column="36" />
+        <mark key="." line="109" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/src/models/home.js" timestamp="1533032791818">
         <mark key="'" line="0" column="72" />
@@ -424,7 +424,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>dispatch</text>
+        <text>, ruleSex, ruleVip</text>
       </register>
       <register name="/" type="4">
         <text>编辑</text>
@@ -433,34 +433,34 @@
         <text encoding="base64">ICAgIGFkZFJ1bGUoc3RhdGUsIHsgcGF5bG9hZCB9KSB7CiAgICAgIHN3aXRjaCAocGF5bG9hZC5raW5kKSB7CiAgICAgICAgY2FzZSAxOgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgICAgIHJ1bGVBcmVhOiBwYXlsb2FkLm9uLAogICAgICAgICAgfTsKICAgICAgICBjYXNlIDI6CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgcnVsZVNleDogcGF5bG9hZC5vbiwKICAgICAgICAgIH07CiAgICAgICAgY2FzZSAzOgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgICAgIHJ1bGVWaXA6IHBheWxvYWQub24sCiAgICAgICAgICB9OwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgIH07CiAgICAgIH0KICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2FjdGl2aXRpZXMvZmV0Y2hQcm92JywKICAgIH0pOwogICAgZGlzcGF0Y2goewogICAgICB0eXBlOiAndG1wbC9mZXRjaCcsCiAgICB9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3dpdGNoIChwYXlsb2FkLmtpbmQpIHsKICAgICAgICBjYXNlIDE6CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgcnVsZUFyZWE6IHBheWxvYWQub24sCiAgICAgICAgICB9OwogICAgICAgIGNhc2UgMjoKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIC4uLnN0YXRlLAogICAgICAgICAgICBydWxlU2V4OiBwYXlsb2FkLm9uLAogICAgICAgICAgfTsKICAgICAgICBjYXNlIDM6CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAgICAgcnVsZVZpcDogcGF5bG9hZC5vbiwKICAgICAgICAgIH07CiAgICAgICAgZGVmYXVsdDoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhYmxlRGF0YSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IDAsCiAgICAgICAgbGltaXQ6IDEwLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgaGFuZGxlUHJvdkNoYW5nZSA9ICh2YWwpID0+IHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkLCAnaWQ9PT09PT09PT09PT09PT09PT09PT09PT0nKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2FjdGl2aXRpZXMvZmV0Y2hQcm92JywKICAgIH0pOwogICAgZGlzcGF0Y2goewogICAgICB0eXBlOiAndG1wbC9mZXRjaCcsCiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
