@@ -93,12 +93,11 @@
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1531793563845">
-        <mark key="'" line="98" column="6" />
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="32" />
-        <mark key="." line="60" column="32" />
-        <mark key="^" line="60" column="32" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1533712587354">
+        <mark key="'" line="83" column="19" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/layouts/BasicLayout.js" timestamp="1533175905006">
         <mark key="'" line="208" column="13" />
@@ -244,7 +243,7 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533642596682">
+      <file name="/Dummy.txt" timestamp="1533710783977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -309,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" />
-      <jump line="41" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
-      <jump line="60" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="252" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="266" column="46" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="281" column="46" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
@@ -409,6 +405,9 @@
       <jump line="90" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="110" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="30" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="80" column="21" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" />
+      <jump line="76" column="44" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" />
+      <jump line="83" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -418,52 +417,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>bottle</text>
       </register>
       <register name="/" type="4">
-        <text>dele</text>
+        <text>每</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb2Zmc2V0OiAocGFnaW5hdGlvbi5jdXJyZW50LTEpICogcGFnaW5hdGlvbi5wYWdlU2l6ZSwKICAgICAgbGltaXQ6IHBhZ2luYXRpb24ucGFnZVNpemUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IDAsCiAgICAgICAgbGltaXQ6IDEwLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhYmxlRGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvZmZzZXQ6IDAsCiAgICAgICAgbGltaXQ6IDEwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXI6IHZhbCA9PiA8c3Bhbj57bW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tOnNzJyl9PC9zcGFuPiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXI6IHZhbCA9PiA8c3Bhbj57bW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tOnNzJyl9PC9zcGFuPiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgb25DbGljaz17KGUpID0+IHRoaXMuZGVsZXRlKGUsIHZhbCl9PuWIoOmZpDwvYT4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgb25DbGljaz17KGUpID0+IHRoaXMuZGVsZXRlKGUsIHZhbCl9PuWIoOmZpDwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dele</last-search>
+      <last-search>每</last-search>
       <last-offset />
-      <last-pattern>dele</last-pattern>
+      <last-pattern>每</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -471,8 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>日期</entry>
-        <entry>查询</entry>
         <entry>filter</entry>
         <entry>search</entry>
         <entry>date</entry>
@@ -491,6 +488,8 @@
         <entry>columns</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry>dele</entry>
+        <entry>bottle</entry>
+        <entry>每</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzAuMy8wLjkvZw==</entry>
