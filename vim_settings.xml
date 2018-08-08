@@ -225,11 +225,11 @@
       <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/common/router.js" timestamp="1533174665617">
         <mark key="'" line="72" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1533705577794">
-        <mark key="[" line="94" column="15" />
-        <mark key="]" line="94" column="15" />
-        <mark key="." line="94" column="15" />
-        <mark key="^" line="94" column="3" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1533710445820">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1531793555644">
         <mark key="'" line="89" column="10" />
@@ -238,8 +238,8 @@
         <mark key="." line="62" column="32" />
         <mark key="^" line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1533642360759">
-        <mark key="'" line="14" column="12" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1533710039183">
+        <mark key="'" line="30" column="11" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="97" column="0" />
@@ -281,12 +281,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/SiderMenu/SiderMenu.js" timestamp="1533287984339">
         <mark key="'" line="54" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1533706278148">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="375" column="0" />
-        <mark key="]" line="377" column="24" />
-        <mark key="^" line="358" column="28" />
-        <mark key="." line="358" column="28" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/Template.js" timestamp="1533710472828">
+        <mark key="[" line="214" column="14" />
+        <mark key="]" line="214" column="14" />
+        <mark key="^" line="214" column="14" />
+        <mark key="." line="214" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/Photo.js" timestamp="1532940354750">
         <mark key="'" line="36" column="0" />
@@ -310,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" />
       <jump line="59" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" />
       <jump line="41" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
       <jump line="60" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" />
@@ -410,6 +408,7 @@
       <jump line="85" column="28" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="90" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
       <jump line="110" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/Activity.js" />
+      <jump line="30" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,10 +418,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gMSk=</text>
+        <text>payload</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtVmFsdWVzXD4=</text>
+        <text>dele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb2Zmc2V0OiAocGFnaW5hdGlvbi5jdXJyZW50LTEpICogcGFnaW5hdGlvbi5wYWdlU2l6ZSwKICAgICAgbGltaXQ6IHBhZ2luYXRpb24ucGFnZVNpemUsCg==</text>
@@ -462,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtVmFsdWVzXD4=</last-search>
+      <last-search>dele</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtVmFsdWVzXD4=</last-pattern>
+      <last-pattern>dele</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>操作</entry>
         <entry>日期</entry>
         <entry>查询</entry>
         <entry>filter</entry>
@@ -492,6 +490,7 @@
         <entry>fetch</entry>
         <entry>columns</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
+        <entry>dele</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzAuMy8wLjkvZw==</entry>
