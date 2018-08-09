@@ -118,12 +118,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Forms/StepForm/Step1.js" timestamp="1531826049700">
         <mark key="'" line="108" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1533782425041">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="396" column="46" />
-        <mark key="]" line="396" column="53" />
-        <mark key="^" line="396" column="53" />
-        <mark key="." line="396" column="53" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1533783322879">
+        <mark key="[" line="399" column="30" />
+        <mark key="]" line="399" column="30" />
+        <mark key="." line="399" column="30" />
+        <mark key="^" line="397" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" timestamp="1533722301786">
         <mark key="'" line="83" column="19" />
@@ -150,8 +149,11 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/package.json" timestamp="1533781802733">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/package.json" timestamp="1533783478086">
         <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/演示扫码/APP-roadhog/package.json" timestamp="1533022428978">
         <mark key="'" line="0" column="0" />
@@ -296,7 +298,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>notEmpty(current) ? JSON.parse(current.filter.value).phone : false</text>
+        <text encoding="base64">ZGVmYXVsdENoZWNrZWQ9e3NlbFBob25lfSA=</text>
       </register>
       <register name="/" type="4">
         <text>antd</text>
