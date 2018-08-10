@@ -102,6 +102,9 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1533866929211">
+        <mark key="'" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_moment@2.22.2@moment/moment.d.ts" timestamp="1533695821970">
         <mark key="'" line="412" column="12" />
       </file>
@@ -172,7 +175,8 @@
         <mark key="^" line="128" column="28" />
         <mark key="." line="128" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1533801849219">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1533867153560">
+        <mark key="'" line="128" column="7" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -257,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="131" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="40" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
@@ -357,6 +359,8 @@
       <jump line="161" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
       <jump line="14" column="42" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/rule.js" />
       <jump line="23" column="53" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" />
+      <jump line="128" column="7" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -369,7 +373,7 @@
         <text encoding="base64">IHx8IFtd</text>
       </register>
       <register name="/" type="4">
-        <text>onError</text>
+        <text>Upload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBlcnJvciA9IG5ldyBFcnJvcihlcnJvcnRleHQpOwogIGVycm9yLm5hbWUgPSByZXNwb25zZS5zdGF0dXM7CiAgZXJyb3IucmVzcG9uc2UgPSByZXNwb25zZTsKICB0aHJvdyBlcnJvcjsK</text>
@@ -409,17 +413,16 @@
       </register>
     </registers>
     <search>
-      <last-search>onError</last-search>
+      <last-search>Upload</last-search>
       <last-offset />
-      <last-pattern>onError</last-pattern>
+      <last-pattern>Upload</last-pattern>
       <last-replace>prefixCc</last-replace>
       <last-substitute>prefix</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>上一步</entry>
         <entry>bottle</entry>
         <entry encoding="base64">XDxxdWVyeUJhdGNoc0xpc3RcPg==</entry>
         <entry encoding="base64">XDxxdWVyeU9yZGVyTGlzdFw+</entry>
@@ -439,6 +442,7 @@
         <entry>account</entry>
         <entry>user</entry>
         <entry>onError</entry>
+        <entry>Upload</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9zdHlsZS9n</entry>
