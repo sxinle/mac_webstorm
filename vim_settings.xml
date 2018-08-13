@@ -53,8 +53,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" timestamp="1533807518401">
-        <mark key="'" line="24" column="53" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" timestamp="1534128027290">
+        <mark key="'" line="23" column="48" />
         <mark key="[" line="20" column="60" />
         <mark key="]" line="20" column="60" />
         <mark key="^" line="20" column="46" />
@@ -66,11 +66,11 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1533898563348">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1534128047479">
         <mark key="'" line="174" column="18" />
-        <mark key="[" line="173" column="26" />
-        <mark key="]" line="173" column="27" />
-        <mark key="." line="173" column="27" />
+        <mark key="[" line="241" column="27" />
+        <mark key="]" line="241" column="28" />
+        <mark key="." line="241" column="28" />
         <mark key="^" line="173" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Login.js" timestamp="1533722979177">
@@ -118,7 +118,7 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/mock/api.js" timestamp="1533898323107">
         <mark key="'" line="294" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" timestamp="1533803933291">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" timestamp="1534128020164">
         <mark key="'" line="135" column="13" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -224,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
       <jump line="23" column="34" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/order.js" />
       <jump line="46" column="5" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/order.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/micro-service/front/codz_front/src/services/api.js" />
@@ -285,7 +284,6 @@
       <jump line="153" column="84" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
       <jump line="161" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" />
       <jump line="14" column="42" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/rule.js" />
-      <jump line="23" column="53" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" />
       <jump line="128" column="7" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" />
       <jump line="57" column="20" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/node_modules/_eslint-config-airbnb@17.0.0@eslint-config-airbnb/rules/react.js" />
@@ -324,6 +322,8 @@
       <jump line="109" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
       <jump line="204" column="46" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
       <jump line="583" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
+      <jump line="32" column="25" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" />
+      <jump line="23" column="48" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/supplierOrder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -336,7 +336,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJsLmluZGV4T2YoJ2FwaS9jcC8nKSAhPT0gLTEgfHwK</text>
@@ -376,17 +376,16 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>prefixCc</last-replace>
       <last-substitute>prefix</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVN1cHBsaWVyT3JkZXJMaXN0XD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
         <entry>prefix</entry>
         <entry>编码管理</entry>
@@ -406,6 +405,7 @@
         <entry>map</entry>
         <entry>.map</entry>
         <entry>current</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0eWxlcy9zdHlsZS9n</entry>
