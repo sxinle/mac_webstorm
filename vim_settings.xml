@@ -171,12 +171,6 @@
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" timestamp="1534217544106">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="19" />
-        <mark key="." line="88" column="19" />
-        <mark key="^" line="91" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1534149673161">
         <mark key="'" line="43" column="21" />
         <mark key="[" line="217" column="0" />
@@ -211,12 +205,6 @@
         <mark key="." line="61" column="28" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1534158301153">
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="262" column="26" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" timestamp="1533898451486">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="5" column="0" />
@@ -239,6 +227,12 @@
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step1.js" timestamp="1533866929211">
         <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/baidu-map/a.html" timestamp="1534390842876">
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="36" />
+        <mark key="." line="144" column="31" />
+        <mark key="^" line="39" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/mock/api.js" timestamp="1533103326606">
         <mark key="[" line="5" column="14" />
@@ -368,13 +362,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.form;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>showSele</text>
       </register>
       <register name="0" type="4">
-        <text>showSelect</text>
+        <text>BMap.Boundary</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
@@ -417,7 +411,7 @@
       <last-replace />
       <last-substitute>this.state</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
