@@ -27,11 +27,8 @@
         <mark key="." line="52" column="41" />
         <mark key="^" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/baidu-map/data/prov.js" timestamp="1534474594581">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="165" column="14" />
+      <file name="$USER_HOME$/baidu-map/data/prov.js" timestamp="1534477903427">
+        <mark key="^" line="67" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/User/Login.js" timestamp="1533722770347">
         <mark key="[" line="26" column="0" />
@@ -151,12 +148,11 @@
         <mark key="." line="48" column="14" />
         <mark key="^" line="49" column="27" />
       </file>
-      <file name="$USER_HOME$/baidu-map/map.html" timestamp="1534474305644">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="154" column="68" />
-        <mark key="]" line="154" column="69" />
-        <mark key="." line="154" column="69" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/baidu-map/map.html" timestamp="1534478872932">
+        <mark key="'" line="99" column="40" />
+        <mark key="[" line="140" column="75" />
+        <mark key="]" line="140" column="75" />
+        <mark key="." line="140" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1534227943810">
         <mark key="'" line="174" column="18" />
@@ -289,6 +285,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="44" column="10" />
       </file>
+      <file name="$USER_HOME$/baidu-map/data/switch.js" timestamp="1534478949728">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/RulesPage.js" timestamp="1534226360393">
         <mark key="'" line="163" column="23" />
         <mark key="[" line="303" column="30" />
@@ -298,12 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="51" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
-      <jump line="533" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
-      <jump line="44" column="55" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/user.js" />
-      <jump line="442" column="48" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
-      <jump line="22" column="42" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/order.js" />
       <jump line="571" column="52" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
       <jump line="24" column="55" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/batch.js" />
       <jump line="329" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/OrdersPage.js" />
@@ -391,13 +387,19 @@
       <jump line="18" column="15" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="80" column="18" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="67" column="51" filename="$USER_HOME$/baidu-map/data/prov.js" />
-      <jump line="131" column="44" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="57" column="12" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="126" column="25" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="58" column="8" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="54" column="131" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="154" column="16" filename="$USER_HOME$/baidu-map/data/prov.js" />
-      <jump line="130" column="0" filename="$USER_HOME$/baidu-map/map.html" />
+      <jump line="131" column="30" filename="$USER_HOME$/baidu-map/map.html" />
+      <jump line="66" column="94" filename="$USER_HOME$/baidu-map/data/prov.js" />
+      <jump line="111" column="22" filename="$USER_HOME$/baidu-map/data/prov.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/baidu-map/data/prov.js" />
+      <jump line="115" column="31" filename="$USER_HOME$/baidu-map/map.html" />
+      <jump line="101" column="26" filename="$USER_HOME$/baidu-map/map.html" />
+      <jump line="130" column="29" filename="$USER_HOME$/baidu-map/map.html" />
+      <jump line="99" column="40" filename="$USER_HOME$/baidu-map/map.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -407,59 +409,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>jquery.dataTabl.min.js</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>省</text>
+        <text>my</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9qcXVlcnkuZGF0YVRhYmxlcy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICQoJ2lucHV0OnJhZGlvJykuY2hhbmdlKGZ1bmN0aW9uICgpIHsKICAgICAgICBhbGVydCgnY2hhbmdlZCcpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChldmVudC50eXBlICsgJyBjYWxsYmFjaycpOwogICAgICAgIGNvbnNvbGUubG9nKGV2ZW50LCAnWyA9PT09PSBldmVudCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmQ2hlY2tlZDogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIGFsZXJ0KCdjbGlja2VkJyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJy5pQ2hlY2staGVscGVyJykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgIGFsZXJ0KCdjbGljaycpOwogICAgICAgIC8vIGRyYXdQcm92KCk7CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcHJvdi5zY29yZXMubGVuZ3RoOyBpKyspIHsKICAgICAgICBsZXQgdHJIdG1sID0gJzx0cj4nICsKICAgICAgICAgICAgJzx0ZD4nICsgKGkgKyAxKSArICc8L3RkPicgKwogICAgICAgICAgICAnPHRkPicgKyBwcm92LnNjb3Jlc1tpXS5wcm92ICsgJzwvdGQ+JyArCiAgICAgICAgICAgICc8dGQ+JyArIHByb3Yuc2NvcmVzW2ldLmNpdHkgKyAnPC90ZD4nICsKICAgICAgICAgICAgJzx0ZD4nICsgcHJvdi5zY29yZXNbaV0uc2NvcmUgKyAnPC90ZD4nICsKICAgICAgICAgICAgJzwvdHI+JzsKCiAgICAgICAgJCgnI3Rib2R5JykuYXBwZW5kKHRySHRtbCk7CiAgICB9CgogICAgJCgnI215dGFibGUnKS5EYXRhVGFibGUoewogICAgICAgICJwYWdpbmciOiBmYWxzZSwKICAgICAgICAib3JkZXJpbmciOiBmYWxzZSwKICAgICAgICAiaW5mbyI6IGZhbHNlLAogICAgICAgICJmaWx0ZXIiOiBmYWxzZSwKICAgICAgICBzY3JvbGxZOiAnMjUwcHgnLAogICAgICAgICJzY3JvbGxDb2xsYXBzZSI6IHRydWUsCiAgICB9KTsKCiAgICB7Ly8gbGVmdCBib3R0b20KICAgICAgICBjb25zdCBteUNoYXJ0ID0gZWNoYXJ0cy5pbml0KGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0aHJlZURpdicpLCAnZGFyaycpOwogICAgICAgIGxldCBvcHRpb24gPSB7CiAgICAgICAgICAgIHRpdGxlOiB7CiAgICAgICAgICAgICAgICB0ZXh0OiAi5YWo5Zu95Z2H5YC877yI5Zyw5biC77yJIgogICAgICAgICAgICB9LAogICAgICAgICAgICB4QXhpczogewogICAgICAgICAgICAgICAgdHlwZTogJ2NhdGVnb3J5JywKICAgICAgICAgICAgICAgIGRhdGE6IHByb3YuYXZnLngKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdG9vbHRpcDogewogICAgICAgICAgICAgICAgdHJpZ2dlcjogJ2F4aXMnLAogICAgICAgICAgICAgICAgYXhpc1BvaW50ZXI6IHsKICAgICAgICAgICAgICAgICAgICB0eXBlOiAnY3Jvc3MnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHlBeGlzOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAndmFsdWUnLAogICAgICAgICAgICB9LAogICAgICAgICAgICBzZXJpZXM6IFt7CiAgICAgICAgICAgICAgICBkYXRhOiBwcm92LmF2Zy55LAogICAgICAgICAgICAgICAgdHlwZTogJ2xpbmUnLAogICAgICAgICAgICAgICAgc21vb3RoOiB0cnVlCiAgICAgICAgICAgIH1dCiAgICAgICAgfTsKCiAgICAgICAgaWYgKG9wdGlvbiAmJiB0eXBlb2Ygb3B0aW9uID09PSAib2JqZWN0IikgewogICAgICAgICAgICBteUNoYXJ0LnNldE9wdGlvbihvcHRpb24sIHRydWUpOwogICAgICAgIH0KCiAgICB9CgogICAgey8vIHJpZ2h0IGJvdHRvbQogICAgICAgIGNvbnN0IG15Q2hhcnQgPSBlY2hhcnRzLmluaXQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZvdXJ0aERpdicpLCAnZGFyaycpOwogICAgICAgIGxldCBvcHRpb24gPSB7CiAgICAgICAgICAgIGNvbG9yOiBbJyM1NzkzZjMnXSwKICAgICAgICAgICAgdGl0bGU6IHsKICAgICAgICAgICAgICAgIHRleHQ6ICLluILlnLrmlbDph48iCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHhBeGlzOiB7CiAgICAgICAgICAgICAgICB0eXBlOiAnY2F0ZWdvcnknLAogICAgICAgICAgICAgICAgZGF0YTogcHJvdi5tYXJrZXQueCwKICAgICAgICAgICAgICAgIGF4aXNMYWJlbDogeydpbnRlcnZhbCc6IDB9LAogICAgICAgICAgICAgICAgYXhpc1RpY2s6IHsKICAgICAgICAgICAgICAgICAgICBzaG93OiBmYWxzZQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGF4aXNMaW5lOiB7CiAgICAgICAgICAgICAgICAgICAgc2hvdzogZmFsc2UKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB6OiAxMAogICAgICAgICAgICB9LAogICAgICAgICAgICB0b29sdGlwOiB7CiAgICAgICAgICAgICAgICB0cmlnZ2VyOiAnYXhpcycsCiAgICAgICAgICAgICAgICBheGlzUG9pbnRlcjogewogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdjcm9zcycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgeUF4aXM6IFt7CiAgICAgICAgICAgICAgICB0eXBlOiAndmFsdWUnLAogICAgICAgICAgICAgICAgYXhpc0xpbmU6IHsKICAgICAgICAgICAgICAgICAgICBsaW5lU3R5bGU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjNTc5M2YzJywKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH1dLAogICAgICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBkYXRhOiBwcm92Lm1hcmtldC55LAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICdiYXInLAogICAgICAgICAgICAgICAgICAgIHNtb290aDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfTsKCiAgICAgICAgaWYgKG9wdGlvbiAmJiB0eXBlb2Ygb3B0aW9uID09PSAib2JqZWN0IikgewogICAgICAgICAgICBteUNoYXJ0LnNldE9wdGlvbihvcHRpb24sIHRydWUpOwogICAgICAgIH0KCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICQoJ2lucHV0OnJhZGlvJykuY2hhbmdlKGZ1bmN0aW9uICgpIHsKICAgICAgICBhbGVydCgnY2hhbmdlZCcpOwogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgZGF0YTogcHJvdi5tYXJrZXQueSwKICAgICAgICAgICAgICAgICAgICB0eXBlOiAnbGluZScsCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>, {
-                type: 'value',
-                axisLine: {
-                    lineStyle: {
-                        color: '#5793f3',
-                    }
-                }
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbW9vdGg6IHRydWUK</text>
+        <text encoding="base64">ICAgICQoJ2lucHV0OnJhZGlvJykuY2hhbmdlKGZ1bmN0aW9uICgpIHsKICAgICAgICBhbGVydCgnY2hhbmdlZCcpOwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aXNMYWJlbDogewogICAgICAgICAgICAgICAgICAgIGluc2lkZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICB0ZXh0U3R5bGU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjZmZmJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImpzL2RhcmsuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>省</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern>省</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-replace />
       <last-substitute>省</last-substitute>
       <last-dir>1</last-dir>
@@ -467,8 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhck92ZXJcPg==</entry>
-        <entry>clear</entry>
         <entry>not</entry>
         <entry encoding="base64">XDxwb2ludEFycmF5XD4=</entry>
         <entry>setStyle</entry>
@@ -487,6 +480,8 @@
         <entry>three</entry>
         <entry>市</entry>
         <entry>省</entry>
+        <entry>table</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>action $Redo</entry>
