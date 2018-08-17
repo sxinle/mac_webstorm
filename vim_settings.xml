@@ -97,6 +97,13 @@
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="32" />
       </file>
+      <file name="$USER_HOME$/baidu-map/country-tmp.html" timestamp="1534500608118">
+        <mark key="'" line="57" column="65" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="28" />
+        <mark key="^" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+      </file>
       <file name="$USER_HOME$/jqTable-master/indexb.html" timestamp="1534415012380">
         <mark key="'" line="255" column="24" />
         <mark key="[" line="241" column="0" />
@@ -340,8 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="40" filename="$USER_HOME$/baidu-map/a.html" />
-      <jump line="51" column="5" filename="$USER_HOME$/baidu-map/a.html" />
       <jump line="73" column="38" filename="$USER_HOME$/baidu-map/a.html" />
       <jump line="74" column="23" filename="$USER_HOME$/baidu-map/a.html" />
       <jump line="53" column="0" filename="$USER_HOME$/baidu-map/a.html" />
@@ -440,6 +445,8 @@
       <jump line="197" column="23" filename="$USER_HOME$/baidu-map/data/city.js" />
       <jump line="103" column="81" filename="$USER_HOME$/baidu-map/city.html" />
       <jump line="18" column="31" filename="$USER_HOME$/baidu-map/data/prov.js" />
+      <jump line="40" column="19" filename="$USER_HOME$/baidu-map/country-tmp.html" />
+      <jump line="57" column="65" filename="$USER_HOME$/baidu-map/country-tmp.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -452,7 +459,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>暂无</text>
+        <text>country</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgaGlzdG9yeS5nbygtMSk7CiAgICAgICAgfSwxMDAwKTsK</text>
@@ -492,9 +499,9 @@
       </register>
     </registers>
     <search>
-      <last-search>暂无</last-search>
+      <last-search>country</last-search>
       <last-offset />
-      <last-pattern>暂无</last-pattern>
+      <last-pattern>country</last-pattern>
       <last-replace>currCity</last-replace>
       <last-substitute>currProv</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
         <entry>jqTable</entry>
         <entry encoding="base64">PGRpdiBjbGFzcz0iY2VsbCI=</entry>
         <entry encoding="base64">Pj4=</entry>
@@ -522,6 +528,7 @@
         <entry>暂无数据</entry>
         <entry encoding="base64">XDxhZGREaXN0cmljdFw+</entry>
         <entry>暂无</entry>
+        <entry>country</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZC9FZGl0L2c=</entry>
