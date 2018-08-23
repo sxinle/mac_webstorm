@@ -81,6 +81,9 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/components/Authorized/CheckPermissions.js" timestamp="1535000922705" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" timestamp="1535013418230">
+        <mark key="'" line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/layouts/UserLayout.js" timestamp="1534995265718">
         <mark key="'" line="34" column="21" />
         <mark key="[" line="34" column="0" />
@@ -256,7 +259,7 @@
         <mark key="^" line="138" column="26" />
         <mark key="." line="138" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535011983765">
+      <file name="/Dummy.txt" timestamp="1535013423344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -361,10 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/baidu-map/map.html" />
-      <jump line="100" column="37" filename="$USER_HOME$/baidu-map/map.html" />
-      <jump line="16" column="19" filename="$USER_HOME$/baidu-map/blue.css" />
-      <jump line="18" column="26" filename="$USER_HOME$/baidu-map/blue.css" />
       <jump line="19" column="23" filename="$USER_HOME$/baidu-map/blue.css" />
       <jump line="118" column="24" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="82" column="9" filename="$USER_HOME$/baidu-map/map.html" />
@@ -461,6 +460,10 @@
       <jump line="429" column="79" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" />
       <jump line="283" column="8" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/System/Users.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" />
+      <jump line="30" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,7 +476,7 @@
         <text>投奖系统</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1dGhvcml0eTogJ3N1cHBsaWVyJywK</text>
@@ -513,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>currCity</last-replace>
       <last-substitute>currProv</last-substitute>
       <last-dir>1</last-dir>
@@ -523,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class=&quot;&quot;</entry>
         <entry>dataTables_scrollBody</entry>
         <entry>1px solid</entry>
         <entry>90%</entry>
@@ -543,6 +545,7 @@
         <entry encoding="base64">XDxBdXRob3JpemVkXD4=</entry>
         <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
         <entry>0</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZC9FZGl0L2c=</entry>
