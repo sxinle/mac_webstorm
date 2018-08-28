@@ -121,6 +121,12 @@
         <mark key="." line="61" column="19" />
         <mark key="^" line="61" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" timestamp="1535422634369">
+        <mark key="[" line="115" column="38" />
+        <mark key="]" line="115" column="41" />
+        <mark key="." line="115" column="41" />
+        <mark key="^" line="115" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/router.js" timestamp="1535265304363">
         <mark key="'" line="199" column="41" />
         <mark key="[" line="92" column="80" />
@@ -146,6 +152,13 @@
         <mark key="]" line="225" column="25" />
         <mark key="^" line="225" column="25" />
         <mark key="." line="225" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" timestamp="1535422557628">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="120" column="38" />
+        <mark key="]" line="120" column="41" />
+        <mark key="." line="120" column="41" />
+        <mark key="^" line="120" column="41" />
       </file>
       <file name="$USER_HOME$/baidu-map/prov.html" timestamp="1534499257035">
         <mark key="'" line="135" column="38" />
@@ -237,7 +250,7 @@
         <mark key="^" line="138" column="26" />
         <mark key="." line="138" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535269197515">
+      <file name="/Dummy.txt" timestamp="1535422636849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -323,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="0" filename="$USER_HOME$/baidu-map/map.html" />
-      <jump line="75" column="23" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="18" column="15" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="80" column="18" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="67" column="51" filename="$USER_HOME$/baidu-map/data/prov.js" />
@@ -423,6 +434,8 @@
       <jump line="31" column="34" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/repos.js" />
       <jump line="72" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -432,10 +445,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>storagename</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3Bjb25maXJtXD4=</text>
+        <text>columns</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2FsbGJhY2s6IHJlc3AgPT4gewogICAgICAgIGlmIChyZXNwICYmIHJlc3AuY29kZSA9PT0gMCkgewogICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKCfkv67mlLnmiJDlip8nKTsKICAgICAgICAgIGRpc3BhdGNoKHsKICAgICAgICAgICAgdHlwZTogJ3JlcG9zL2ZldGNoUmVwb3MnLAogICAgICAgICAgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ+S/ruaUueWksei0pScpOwogICAgICAgIH0K</text>
@@ -475,17 +488,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3Bjb25maXJtXD4=</last-search>
+      <last-search>columns</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3Bjb25maXJtXD4=</last-pattern>
+      <last-pattern>columns</last-pattern>
       <last-replace>currCity</last-replace>
       <last-substitute>currProv</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>省</entry>
         <entry>table</entry>
         <entry>my</entry>
         <entry>disable</entry>
@@ -505,6 +517,7 @@
         <entry>add</entry>
         <entry encoding="base64">XDxoYW5kbGVFZGl0T2tcPg==</entry>
         <entry encoding="base64">XDxQb3Bjb25maXJtXD4=</entry>
+        <entry>columns</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZC9FZGl0L2c=</entry>
