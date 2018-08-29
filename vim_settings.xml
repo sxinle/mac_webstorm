@@ -17,13 +17,18 @@
         <mark key="." line="154" column="7" />
         <mark key="^" line="154" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/.roadhogrc.mock.js" timestamp="1535435231090" />
       <file name="$USER_HOME$/workspace/micro-service/front/codz_front/src/routes/OrdersPage.js" timestamp="1533803235478">
         <mark key="'" line="148" column="15" />
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/app.js" timestamp="1535512956687">
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="111" column="9" />
+        <mark key="^" line="111" column="9" />
+        <mark key="." line="111" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/activities.js" timestamp="1534903803956">
         <mark key="'" line="154" column="4" />
@@ -271,6 +276,9 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/citymap.js" timestamp="1535513144452">
+        <mark key="'" line="43" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1534149673161">
         <mark key="'" line="43" column="21" />
         <mark key="[" line="217" column="0" />
@@ -320,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/baidu-map/data/prov.js" />
-      <jump line="54" column="131" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="154" column="16" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="131" column="30" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="66" column="94" filename="$USER_HOME$/baidu-map/data/prov.js" />
@@ -420,6 +426,8 @@
       <jump line="27" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" />
       <jump line="175" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" />
+      <jump line="315" column="20" filename="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/citymap.js" />
+      <jump line="43" column="5" filename="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/citymap.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -432,7 +440,7 @@
         <text>storagename</text>
       </register>
       <register name="/" type="4">
-        <text>columns</text>
+        <text>沈阳市</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ21hbnVpbi9mZXRjaCcsCiAgICB9KTsK</text>
@@ -472,9 +480,9 @@
       </register>
     </registers>
     <search>
-      <last-search>columns</last-search>
+      <last-search>沈阳市</last-search>
       <last-offset />
-      <last-pattern>columns</last-pattern>
+      <last-pattern>沈阳市</last-pattern>
       <last-replace>currCity</last-replace>
       <last-substitute>currProv</last-substitute>
       <last-dir>1</last-dir>
@@ -482,7 +490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
         <entry>my</entry>
         <entry>disable</entry>
         <entry encoding="base64">LCA=</entry>
@@ -502,6 +509,7 @@
         <entry encoding="base64">XDxoYW5kbGVFZGl0T2tcPg==</entry>
         <entry encoding="base64">XDxQb3Bjb25maXJtXD4=</entry>
         <entry>columns</entry>
+        <entry>沈阳市</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZC9FZGl0L2c=</entry>
