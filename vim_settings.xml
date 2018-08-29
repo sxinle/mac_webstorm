@@ -24,9 +24,9 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/app.js" timestamp="1535512956687">
-        <mark key="[" line="101" column="28" />
-        <mark key="]" line="111" column="9" />
+      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/app.js" timestamp="1535514594961">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="42" column="1" />
         <mark key="^" line="111" column="9" />
         <mark key="." line="111" column="9" />
       </file>
@@ -75,6 +75,7 @@
         <mark key="." line="215" column="25" />
         <mark key="^" line="143" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/map/province/liaoning.json" timestamp="1535514227000" />
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/repos.js" timestamp="1535268984648">
         <mark key="'" line="31" column="34" />
         <mark key="[" line="0" column="38" />
@@ -166,6 +167,9 @@
         <mark key="]" line="120" column="41" />
         <mark key="." line="120" column="41" />
         <mark key="^" line="120" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/map/china.json" timestamp="1535514382081">
+        <mark key="'" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/baidu-map/prov.html" timestamp="1534499257035">
         <mark key="'" line="135" column="38" />
@@ -328,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="16" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="131" column="30" filename="$USER_HOME$/baidu-map/map.html" />
       <jump line="66" column="94" filename="$USER_HOME$/baidu-map/data/prov.js" />
       <jump line="111" column="22" filename="$USER_HOME$/baidu-map/data/prov.js" />
@@ -428,6 +431,7 @@
       <jump line="175" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" />
       <jump line="315" column="20" filename="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/citymap.js" />
       <jump line="43" column="5" filename="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/js/citymap.js" />
+      <jump line="16" column="25" filename="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/map/china.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -440,10 +444,10 @@
         <text>storagename</text>
       </register>
       <register name="/" type="4">
-        <text>沈阳市</text>
+        <text>辽宁</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ21hbnVpbi9mZXRjaCcsCiAgICB9KTsK</text>
+        <text encoding="base64">dmFyIHByb3ZpbmNlcyA9IHsKICAgIC8vMjPkuKrnnIEKICAgICLlj7Dmub4iOiAidGFpd2FuIiwKICAgICLmsrPljJciOiAiaGViZWkiLAogICAgIuWxseilvyI6ICJzaGFueGkiLAogICAgIui+veWugSI6ICJsaWFvbmluZyIsCiAgICAi5ZCJ5p6XIjogImppbGluIiwKICAgICLpu5HpvpnmsZ8iOiAiaGVpbG9uZ2ppYW5nIiwKICAgICLmsZ/oi48iOiAiamlhbmdzdSIsCiAgICAi5rWZ5rGfIjogInpoZWppYW5nIiwKICAgICLlronlvr0iOiAiYW5odWkiLAogICAgIuemj+W7uiI6ICJmdWppYW4iLAogICAgIuaxn+ilvyI6ICJqaWFuZ3hpIiwKICAgICLlsbHkuJwiOiAic2hhbmRvbmciLAogICAgIuays+WNlyI6ICJoZW5hbiIsCiAgICAi5rmW5YyXIjogImh1YmVpIiwKICAgICLmuZbljZciOiAiaHVuYW4iLAogICAgIuW5v+S4nCI6ICJndWFuZ2RvbmciLAogICAgIua1t+WNlyI6ICJoYWluYW4iLAogICAgIuWbm+W3nSI6ICJzaWNodWFuIiwKICAgICLotLXlt54iOiAiZ3VpemhvdSIsCiAgICAi5LqR5Y2XIjogInl1bm5hbiIsCiAgICAi6ZmV6KW/IjogInNoYW54aTEiLAogICAgIueUmOiCgyI6ICJnYW5zdSIsCiAgICAi6Z2S5rW3IjogInFpbmdoYWkiLAogICAgLy815Liq6Ieq5rK75Yy6CiAgICAi5paw55aGIjogInhpbmppYW5nIiwKICAgICLlub/opb8iOiAiZ3Vhbmd4aSIsCiAgICAi5YaF6JKZ5Y+kIjogIm5laW1lbmdndSIsCiAgICAi5a6B5aSPIjogIm5pbmd4aWEiLAogICAgIuilv+iXjyI6ICJ4aXphbmciLAogICAgLy805Liq55u06L6W5biCCiAgICAi5YyX5LqsIjogImJlaWppbmciLAogICAgIuWkqea0pSI6ICJ0aWFuamluIiwKICAgICLkuIrmtbciOiAic2hhbmdoYWkiLAogICAgIumHjeW6hiI6ICJjaG9uZ3FpbmciLAogICAgLy8y5Liq54m55Yir6KGM5pS/5Yy6CiAgICAi6aaZ5rivIjogInhpYW5nZ2FuZyIsCiAgICAi5r6z6ZeoIjogImFvbWVuIgp9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ21hbnVpbi9mZXRjaCcsCiAgICB9KTsKICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ21hbnVpbi9mZXRjaCcsCiAgICB9KTsK</text>
@@ -480,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>沈阳市</last-search>
+      <last-search>辽宁</last-search>
       <last-offset />
-      <last-pattern>沈阳市</last-pattern>
+      <last-pattern>辽宁</last-pattern>
       <last-replace>currCity</last-replace>
       <last-substitute>currProv</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
         <entry>disable</entry>
         <entry encoding="base64">LCA=</entry>
         <entry>currProv</entry>
@@ -510,6 +513,7 @@
         <entry encoding="base64">XDxQb3Bjb25maXJtXD4=</entry>
         <entry>columns</entry>
         <entry>沈阳市</entry>
+        <entry>辽宁</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FkZC9FZGl0L2c=</entry>
