@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/prizeRecord.js" timestamp="1536218810262">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" timestamp="1536283924013">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/baidu-map/css/custom.css" timestamp="1534488537726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="48" column="1" />
@@ -64,11 +70,11 @@
       <file name="$USER_HOME$/wx.d.ts" timestamp="1536140363523">
         <mark key="'" line="111" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1536235438456">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1536284136867">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="45" column="34" />
+        <mark key="." line="45" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1536235027300">
         <mark key="[" line="48" column="29" />
@@ -324,52 +330,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>validPrizes</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>handleTypeChange</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
         <text>respData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGN1cnJlbnQgPSByZXNwLmRhdGEubGlzdFswXTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsaWRQcml6ZSA9IHJlc3AuZGF0YS5saXN0Lm1hcChkID0+IHsKICAgICAgICAgICAgICBpZighZGF0YS5maWx0ZXIoc2Q9PiBzZC5pZCA9PT0gZC5pZCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBkOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BEYXRhID0gcmVzcC5kYXRhLmxpc3Q7CiAgICAgICAgICAgIHJlc3BEYXRhLnNwbGljZShyZXNwRGF0YS5maW5kSW5kZXgoZSA9PiBlLmlkID09PSApLDEpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsaWRQcml6ZSA9IHJlc3AuZGF0YS5saXN0Lm1hcChkID0+IHsKICAgICAgICAgICAgICBpZighZGF0YS5maWx0ZXIoc2Q9PiBzZC5pZCA9PT0gZC5pZCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBkOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3BEYXRhID0gcmVzcC5kYXRhLmxpc3Q7CiAgICAgICAgICAgIHJlc3BEYXRhLnNwbGljZShyZXNwRGF0YS5maW5kSW5kZXgoZSA9PiBlLmlkID09PSApLDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbFBob25lLCAnWyA9PT09PSBzZWxQaG9uZSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handleTypeChange</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>handleTypeChange</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -377,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVOdW1iZXJGaWVsZENoYW5nZVw+</entry>
         <entry>saveRow</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
@@ -397,6 +402,7 @@
         <entry>remove</entry>
         <entry encoding="base64">XDxvcmdQcml6ZXNcPg==</entry>
         <entry>handleTypeChange</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
