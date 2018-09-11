@@ -53,12 +53,12 @@
         <mark key="]" line="48" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1536037959577">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1536653437338">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="41" />
-        <mark key="^" line="103" column="41" />
-        <mark key="." line="103" column="41" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/User/Login.js" timestamp="1533722770347">
         <mark key="[" line="26" column="0" />
@@ -67,6 +67,13 @@
       </file>
       <file name="/JavaScript Console" timestamp="1536196166275">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1536648927568">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="34" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/wx.d.ts" timestamp="1536140363523">
         <mark key="'" line="111" column="7" />
@@ -82,7 +89,7 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536297050731">
+      <file name="/Dummy.txt" timestamp="1536653441201">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -222,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/prizeRecord.js" />
       <jump line="53" column="40" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Prize/PrizePage.js" />
       <jump line="54" column="33" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Prize/PrizePage.js" />
       <jump line="62" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Prize/PrizePage.js" />
@@ -322,6 +328,7 @@
       <jump line="32" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="34" column="43" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
       <jump line="170" column="18" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,60 +338,59 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>prefixCc</text>
       </register>
       <register name="/" type="4">
-        <text>willM</text>
+        <text>manurepoin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGF0YSwgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7Cg==</text>
+      <register name="0" type="4">
+        <text>prefixCstorage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG1wbC5zdGVwLnRtcFppcCwgJ1sgPT09PT0gdGhpcy5zdGF0ZS5maWxlTGlzdCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBjb3JzID0gY29uZmlnLnByb2Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQ6IHsKICAgICAgICAgICAgbmFtZTogcGF5bG9hZC5uYW1lLAogICAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb3JzID0gY29uZmlnLnByb2QgJiYgKHVybC5pbmRleE9mKCdhcGkvY3UvJykgIT09IC0xIHx8IHVybC5pbmRleE9mKCdhcGkvY2MvJykgIT09IC0xIHx8CiAgICB1cmwuaW5kZXhPZignYXBpL2NwLycpICE9PSAtMSB8fCB1cmwuaW5kZXhPZignYXBpL2Nwcm9kLycpICE9PSAtMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG1wbC5zdGVwLnRtcFppcCwgJ1sgPT09PT0gdGhpcy5zdGF0ZS5maWxlTGlzdCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0bXBsLnN0ZXAudG1wWmlwKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoeyBmaWxlTGlzdDogdG1wbC5zdGVwLnRtcFppcCB9KTsKCiAgICAgIGNvbnNvbGUubG9nKHRoaXMuc3RlcC50bXBaaXAsICdbID09PT09IHRoaXMuc3RhdGUuZmlsZUxpc3QgPT09PT0gXScpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RlcC50bXBaaXAsICdbID09PT09IHRoaXMuc3RhdGUuZmlsZUxpc3QgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQ6IHsKICAgICAgICAgICAgbmFtZTogcGF5bG9hZC5uYW1lLAogICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>willM</last-search>
+      <last-search>manurepoin</last-search>
       <last-offset />
-      <last-pattern>willM</last-pattern>
+      <last-pattern>manurepoin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>编辑</entry>
         <entry>取消</entry>
         <entry>this.getType</entry>
         <entry>getType</entry>
@@ -404,6 +410,7 @@
         <entry encoding="base64">XDxyZWFsVG90YWxcPg==</entry>
         <entry encoding="base64">XDxvblByZXZcPg==</entry>
         <entry>willM</entry>
+        <entry>manurepoin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
