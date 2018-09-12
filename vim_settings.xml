@@ -41,6 +41,11 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/prizeRecord.js" timestamp="1536218810262">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/manuout.js" timestamp="1536723747594">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" timestamp="1536292499942">
         <mark key="'" line="175" column="18" />
         <mark key="[" line="145" column="51" />
@@ -86,7 +91,11 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536722176910">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" timestamp="1536723189247">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="368" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1536725237423">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -160,7 +169,6 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" timestamp="1536722231743">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="30" column="0" />
-        <mark key="]" line="49" column="3" />
         <mark key="^" line="39" column="17" />
         <mark key="." line="43" column="47" />
       </file>
@@ -216,12 +224,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" timestamp="1536722354466">
-        <mark key="'" line="69" column="12" />
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="16" />
-        <mark key="^" line="69" column="16" />
-        <mark key="." line="69" column="16" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" timestamp="1536724842142">
+        <mark key="'" line="55" column="34" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
+        <mark key="^" line="81" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/demo/echarts3-chinese-map-drill-down/static/map/china.json" timestamp="1535514382081">
         <mark key="'" line="16" column="25" />
@@ -249,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="78" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="133" column="21" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="201" column="21" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="237" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="161" column="13" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="148" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="152" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
@@ -349,6 +353,10 @@
       <jump line="46" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
       <jump line="39" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
       <jump line="69" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
+      <jump line="84" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
+      <jump line="50" column="16" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
+      <jump line="74" column="35" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
+      <jump line="55" column="34" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -358,13 +366,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>库</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW51T3V0UmVzdWx0XD4=</text>
+        <text>-1j</text>
       </register>
-      <register name="0" type="4">
-        <text>notification</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8c3Bhbj7plJnor6/nvJbnoIHvvJp7bXNnLmVycm9yQ250feS4qjwvc3Bhbj48YnIgLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,37 +381,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlLmxlc3MnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBoYW5kbGVTdWJtaXQgPSAoKSA9PiB7CiAgLy8KICAvLyAgIGNvbnN0IHsgZGlzcGF0Y2gsIGZvcm0gfSA9IHRoaXMucHJvcHM7CiAgLy8KICAvLyAgIGNvbnNvbGUubG9nKGZvcm0pCiAgLy8gICBjb25zdCBvcGVyYXRvciA9IGZvcm0uZ2V0RmllbGRWYWx1ZSgnb3BlcmF0b3InKTsKICAvLyAgIGNvbnN0IGNvZGVzID0gZm9ybS5nZXRGaWVsZFZhbHVlKCdjb2RlcycpOwogIC8vICAgY29uc3QgeyBkYXRhIH0gPSB0aGlzLnN0YXRlOwogIC8vICAgY29uc3QgcGFyYW0gPSBPYmplY3QuYXNzaWduKHt9LCBkYXRhLCB7IG9wZXJhdG9yLCBjb2RlcyB9KTsKICAvLyAgIHRoaXMuc2V0U3RhdGUoewogIC8vICAgICBkYXRhOiBwYXJhbSwKICAvLyAgIH0sICgpID0+IHsKICAvLyAgICAgZGlzcGF0Y2goewogIC8vICAgICAgIHR5cGU6ICdtYW51aW4vYWRkJywKICAvLyAgICAgICBwYXlsb2FkOiB7CiAgLy8gICAgICAgICAuLi50aGlzLnN0YXRlLmRhdGEsCiAgLy8gICAgICAgfSwKICAvLyAgICAgfSk7CiAgLy8gICB9KTsKICAvLwogIC8vCiAgLy8gfTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbWVzc2FnZS5zdWNjZXNzKCfmiYvlt6Xlh7rlupPmiJDlip8nKTsKICAgICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKHJlc3AuZGF0YS5tZXNzYWdlSCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gbWVzc2FnZS5lcnJvcign5omL5bel5Ye65bqT5aSx6LSlJyk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5zdWNjZXNzKHJlc3AuZGF0YS5tZXNzYWdlSCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVzY3JpcHRpb246IGDmiJDlip/nvJbnoIHvvJoke21zZy5va0NudH3kuKo8L2JyPumUmeivr+e8luegge+8miR7bXNnLmVycm9yQ250feS4qjwvYnI+6YeN5aSN5YWl5bqT77yaJHttc2cuaGFzSW5DbnR95LiqYCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWVzc2FnZS5zdWNjZXNzKCfmiYvlt6Xlh7rlupPmiJDlip8nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj7miJDlip/nvJbnoIHvvJp7bXNnLm9rQ250feS4qjwvc3Bhbj4KICAgICAgICA8c3Bhbj7miJDlip/nvJbnoIHvvJp7bXNnLm9rQ250feS4qjwvc3Bhbj4K</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgcXVlcnlTdXBwbGllcnNMaXN0LCByZW1vdmVTdXBwbGllciwgcG9zdFN1cHBsaWVyLCBwdXRTdXBwbGllciAscXVlcnlJbml0TWFudWluSW5mb30gZnJvbSAnLi4vc2VydmljZXMvYXBpJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW51T3V0UmVzdWx0XD4=</last-search>
+      <last-search>-1j</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW51T3V0UmVzdWx0XD4=</last-pattern>
+      <last-pattern>-1j</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>保存</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxvcmdQcml6ZXNcPg==</entry>
         <entry>handleTypeChange</entry>
@@ -431,6 +438,7 @@
         <entry>customers</entry>
         <entry>repos</entry>
         <entry encoding="base64">XDxtYW51T3V0UmVzdWx0XD4=</entry>
+        <entry>-1j</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
