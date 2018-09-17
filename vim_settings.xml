@@ -232,14 +232,26 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/utils.js" timestamp="1537152599770">
+        <mark key="[" line="184" column="40" />
+        <mark key="]" line="184" column="43" />
+        <mark key="." line="184" column="43" />
+        <mark key="^" line="184" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" timestamp="1536723189247">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="368" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537148512216">
+      <file name="/Dummy.txt" timestamp="1537152644047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/utils/request.js" timestamp="1537152642131">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="42" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/demo/micropro/.gitignore" timestamp="1536136854288">
         <mark key="'" line="1" column="0" />
@@ -247,6 +259,11 @@
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/routes/IndexPage.js" timestamp="1537152699635">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" timestamp="1536290261376">
         <mark key="[" line="50" column="0" />
@@ -303,8 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="288" column="66" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="74" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="118" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" />
@@ -403,6 +418,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
       <jump line="93" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/utils/request.js" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/traceability/src/services/api.js" />
+      <jump line="61" column="26" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/routes/IndexPage.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/APP-roadhog/src/routes/IndexPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,13 +429,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>url.indexOf('api/cc/') !== -1 ||</text>
+        <text>getSignature</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
