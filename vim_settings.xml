@@ -460,7 +460,7 @@
         <text>提交中</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</text>
+        <text>default</text>
       </register>
       <register name="0" type="4">
         <text>正在提交</text>
@@ -500,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -510,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
         <entry>rowKey</entry>
         <entry>load</entry>
         <entry>loading</entry>
@@ -530,6 +529,7 @@
         <entry>fasle</entry>
         <entry encoding="base64">XDxBdXRob3JpemVkXD4=</entry>
         <entry encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
