@@ -101,11 +101,12 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/authority.js" timestamp="1537949911791" />
       <file name="$USER_HOME$/workspace/micro-service/front/ucenter/package.json" timestamp="1537419953208">
         <mark key="'" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" timestamp="1537334641166">
-        <mark key="'" line="59" column="2" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" timestamp="1537950014347">
+        <mark key="'" line="2" column="24" />
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
@@ -272,6 +273,9 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/router.js" timestamp="1537950218949">
+        <mark key="'" line="24" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/user.js" timestamp="1536136655684">
         <mark key="'" line="27" column="11" />
       </file>
@@ -326,6 +330,7 @@
         <mark key="." line="59" column="61" />
         <mark key="^" line="2530" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/login.js" timestamp="1537949898034" />
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Dashboard/Analysis.js" timestamp="1537334789921">
         <mark key="'" line="350" column="39" />
         <mark key="[" line="31" column="0" />
@@ -343,10 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="40" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="279" column="38" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
-      <jump line="168" column="38" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" />
-      <jump line="291" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/PrizeForm.js" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
       <jump line="83" column="38" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" />
       <jump line="104" column="9" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" />
@@ -443,6 +444,10 @@
       <jump line="90" column="45" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" />
       <jump line="112" column="22" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit2.js" />
+      <jump line="2" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/common/menu.js" />
+      <jump line="6" column="32" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/router.js" />
+      <jump line="11" column="8" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/router.js" />
+      <jump line="24" column="54" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,7 +460,7 @@
         <text>提交中</text>
       </register>
       <register name="/" type="4">
-        <text>fasle</text>
+        <text encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>正在提交</text>
@@ -495,18 +500,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fasle</last-search>
+      <last-search encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</last-search>
       <last-offset />
-      <last-pattern>fasle</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>个</entry>
-        <entry>saveR</entry>
         <entry>table</entry>
         <entry>rowKey</entry>
         <entry>load</entry>
@@ -525,6 +528,8 @@
         <entry>fake_chart_data</entry>
         <entry>首页</entry>
         <entry>fasle</entry>
+        <entry encoding="base64">XDxBdXRob3JpemVkXD4=</entry>
+        <entry encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
