@@ -72,6 +72,9 @@
       <file name="$USER_HOME$/wx.d.ts" timestamp="1536140363523">
         <mark key="'" line="111" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/style.less" timestamp="1538273048489">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" timestamp="1536218564858">
         <mark key="'" line="33" column="25" />
         <mark key="[" line="26" column="18" />
@@ -333,12 +336,8 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1538272099395">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="60" column="41" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1538273630523">
+        <mark key="^" line="187" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/codequery.js" timestamp="1537437980407">
         <mark key="[" line="9" column="42" />
@@ -401,15 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="34" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="285" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="274" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="277" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="260" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="266" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="273" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuin.js" />
       <jump line="46" column="4" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
       <jump line="39" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
       <jump line="69" column="12" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" />
@@ -501,6 +491,15 @@
       <jump line="122" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
       <jump line="208" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
       <jump line="207" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="98" column="11" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/style.less" />
+      <jump line="3" column="26" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="311" column="44" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="49" column="10" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -510,13 +509,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>701</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>用户信息</text>
+        <text>新增</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHtmaWxlTGlzdC5sZW5ndGggPj0gMSA/IG51bGwgOiB1cGxvYWRCdXR0b259Cg==</text>
+      <register name="0" type="4">
+        <text>statedata</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -528,34 +527,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt1cGxvYWRCdXR0b259Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA8T3B0aW9uIHZhbHVlPSLlk4HnsbsiPuWTgeexuzwvT3B0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBzdWJtaXR0aW5nOiBsb2FkaW5nLmVmZmVjdHNbJ2Zvcm0vc3VibWl0UmVndWxhckZvcm0nXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt1cGxvYWRCdXR0b259Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IE9wdGlvbiB9ID0gU2VsZWN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHt1cGxvYWRCdXR0b259Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBPcHRpb24gfSA9IFNlbGVjdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZpbGVMaXN0LCAnZmlsZUxpc3QyMjIyMicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>用户信息</last-search>
+      <last-search>新增</last-search>
       <last-offset />
-      <last-pattern>用户信息</last-pattern>
+      <last-pattern>新增</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -563,11 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>loading</entry>
-        <entry>提交</entry>
-        <entry encoding="base64">XDxyZWFsVG90YWxcPg==</entry>
-        <entry encoding="base64">XDxvblByZXZcPg==</entry>
         <entry>willM</entry>
         <entry>manurepoin</entry>
         <entry>customers</entry>
@@ -583,6 +577,11 @@
         <entry encoding="base64">XDxBdXRob3JpemVkUm91dGVcPg==</entry>
         <entry>default</entry>
         <entry>用户信息</entry>
+        <entry encoding="base64">XDxpbmRleFw+</entry>
+        <entry>edi</entry>
+        <entry>editable</entry>
+        <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
+        <entry>新增</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb3YvZGlzdC9n</entry>
