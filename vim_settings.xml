@@ -196,8 +196,12 @@
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" timestamp="1537247841621">
-        <mark key="'" line="3" column="16" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" timestamp="1538271991393">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="209" column="60" />
+        <mark key="]" line="209" column="62" />
+        <mark key="." line="209" column="62" />
+        <mark key="^" line="209" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/traceability/mock/api.js" timestamp="1533103326606">
         <mark key="[" line="5" column="14" />
@@ -254,8 +258,8 @@
         <mark key="." line="145" column="55" />
         <mark key="^" line="145" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1536654289335">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1538271640775">
+        <mark key="'" line="122" column="0" />
         <mark key="[" line="52" column="80" />
         <mark key="]" line="52" column="80" />
         <mark key="^" line="52" column="84" />
@@ -329,7 +333,7 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1536290271474">
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/PrizeForm.js" timestamp="1538272099395">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -397,10 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="18" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/EditTemplate/Edit1.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="289" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
-      <jump line="296" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="303" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="34" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
       <jump line="285" column="36" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" />
@@ -497,6 +497,10 @@
       <jump line="303" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Product/Edit.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Product/Edit.js" />
       <jump line="145" column="47" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Product/EditProduct.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" />
+      <jump line="208" column="24" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
+      <jump line="207" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,7 +510,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>fetchA</text>
+        <text>701</text>
       </register>
       <register name="/" type="4">
         <text>用户信息</text>
