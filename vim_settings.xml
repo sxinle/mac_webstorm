@@ -265,12 +265,12 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" timestamp="1538456702141">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="72" column="71" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" timestamp="1538471003464">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="110" />
+        <mark key="^" line="66" column="145" />
+        <mark key="." line="66" column="145" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/prizeRecord.js" timestamp="1536218810262">
         <mark key="'" line="11" column="0" />
@@ -358,12 +358,15 @@
         <mark key="." line="69" column="36" />
         <mark key="^" line="69" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" timestamp="1538456094150">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="41" column="120" />
-        <mark key="^" line="41" column="120" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/node_modules/native-base/index.d.ts" timestamp="1538470955645">
+        <mark key="[" line="247" column="12" />
+        <mark key="]" line="247" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" timestamp="1538471013574">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/manuin.js" timestamp="1536721099162">
         <mark key="[" line="33" column="0" />
@@ -545,8 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="37" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
-      <jump line="80" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="60" column="65" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="52" column="54" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="1" column="63" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
@@ -645,6 +646,8 @@
       <jump line="54" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
       <jump line="69" column="64" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
+      <jump line="54" column="116" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
+      <jump line="23" column="27" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,13 +657,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJ0bg==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dCBzdHlsZT17c3R5bGVzLmxzdElucHV0fSBwbGFjZWhvbGRlcj0n6K+36L6T5YWl5omL5py65Y+3Jy8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXsodGhpcy5zdGF0ZS50aW1lciA+IDEgJiYgdGhpcy5zdGF0ZS50aW1lciA8IDYwKX0+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -669,28 +672,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIHNtYWxsIGxpZ2h0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxGb290ZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEZvb3RlclRhYj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBmdWxsIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnU2lnbkluJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD7mj5DkuqQ8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRm9vdGVyVGFiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Gb290ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+5Y+R6YCB6aqM6K+B56CBPC9UZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQnLCAnWyA9PT09PSBzdGFydCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBmdWxsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+Rm9vdGVyPC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGZ1bGwgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ1NpZ25JbicpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PuaPkOS6pDwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxGb290ZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEZvb3RlclRhYj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBmdWxsIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnU2lnbkluJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD7mj5DkuqQ8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRm9vdGVyVGFiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Gb290ZXI+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExpc3RJdGVtIGl0ZW1EaXZpZGVyLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
