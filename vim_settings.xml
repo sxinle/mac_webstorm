@@ -17,12 +17,10 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" timestamp="1538541173167">
-        <mark key="'" line="42" column="27" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="66" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="66" column="39" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" timestamp="1538629984587">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="85" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Product/Edit.js" timestamp="1538191417962">
         <mark key="'" line="0" column="0" />
@@ -50,6 +48,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx-expo/App.js" timestamp="1538630226553" />
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/manuout.js" timestamp="1536723747594">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -208,7 +207,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/App.js" timestamp="1538477214411">
+      <file name="$USER_HOME$/workspace/demo/jdtx/App.js" timestamp="1538630351313">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="44" />
         <mark key="]" line="37" column="65" />
@@ -229,10 +228,10 @@
         <mark key="^" line="175" column="32" />
         <mark key="." line="175" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1538477137604">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1538628720040">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="120" column="8" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="51" column="74" />
       </file>
@@ -500,10 +499,12 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" timestamp="1538538656972">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" timestamp="1538629063028">
+        <mark key="'" line="18" column="64" />
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/List/TableList.js" timestamp="1535267435778">
         <mark key="[" line="373" column="23" />
@@ -517,10 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
-      <jump line="29" column="38" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
-      <jump line="12" column="25" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/Button.js" />
-      <jump line="11" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="5" column="59" filename="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" />
       <jump line="17" column="35" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-navigation-tabs/dist/views/BottomTabBar.js" />
       <jump line="154" column="26" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-navigation-tabs/dist/views/BottomTabBar.js" />
@@ -617,6 +614,10 @@
       <jump line="59" column="40" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="42" column="27" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
+      <jump line="51" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="18" column="64" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -626,69 +627,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R5bGU9e3thbGlnbkl0ZW1zOiAnY2VudGVyJ319IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Text</text>
+        <text encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS50aW1lciA+IDEgJiYgdGhpcy5zdGF0ZS50aW1lciA8IDYwKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXJkSW1nOiB7CiAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAogICAgICAgICAgICB3aWR0aDogbnVsbCwKICAgICAgICAgICAgaGVpZ2h0OiAzMAogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHN0eWxlPXt7YWxpZ25JdGVtczogJ2NlbnRlcid9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIHNtYWxsIGxpZ2h0IG9uUHJlc3M9e3RoaXMuc3RhcnRUaW1lcn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXsodGhpcy5zdGF0ZS50aW1lciA+IDEgJiYgdGhpcy5zdGF0ZS50aW1lciA8IDYwKX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2ZvbnRTaXplOiAxMn19PnsodGhpcy5zdGF0ZS50aW1lciA8IDEgfHwgdGhpcy5zdGF0ZS50aW1lciA9PT0gNjApID8gJ+WPkemAgemqjOivgeeggScgOiB0aGlzLnN0YXRlLnRpbWVyICsgJ3PlkI7ph43lj5EnfTwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvSWNvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-                                            marginRight: '2%',
-                                            borderWidth: 1,
-                                            borderRadius: 5,
-                                            borderColor: red,
-                                            paddingTop: 8,
-                                            paddingBottom: 8,
-                                            paddingRight: 5,
-                                            paddingLeft: 5
-                                        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyPgogICAgICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyVGFiPgogICAgICAgICAgICAgICAgICAgICAgICA8L0Zvb3RlclRhYj4KICAgICAgICAgICAgICAgICAgICA8L0Zvb3Rlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8L0J1dHRvbj4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6IHJlZH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bGwgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnU2lnbkluJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7Y29sb3I6ICd3aGl0ZScsIGZvbnRTaXplOiAxNX19PuaPkOS6pDwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Lyo8QnV0dG9uIHNtYWxsIGxpZ2h0IG9uUHJlc3M9e3RoaXMuc3RhcnRUaW1lcn0qL30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LypkaXNhYmxlZD17KHRoaXMuc3RhdGUudGltZXIgPiAxICYmIHRoaXMuc3RhdGUudGltZXIgPCA2MCl9IHN0eWxlPXt7ZmxleDoxfX0+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSaWdodCBzdHlsZT17e2JhY2tncm91bmRDb2xvcjoncmVkJ319Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIHN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiByZWR9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVsbCBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnU2lnbkluJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJywgZm9udFNpemU6IDE1fX0+5o+Q5LqkPC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvUmlnaHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gc3R5bGU9e3tiYWNrZ3JvdW5kQ29sb3I6IHJlZH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ1bGwgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnU2lnbkluJykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7Y29sb3I6ICd3aGl0ZScsIGZvbnRTaXplOiAxNX19PuaPkOS6pDwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWJjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qPFJvdyBzaXplPXsyfT48L1Jvdz4qL30KICAgICAgICAgICAgICAgICAgICAgICAgey8qPFJvdyBzaXplPXsxfT4qL30KICAgICAgICAgICAgICAgICAgICAgICAgey8qPC9Sb3c+Ki99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+c3NzPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9vdGVyVGFiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogcmVkfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVsbCBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCdTaWduSW4nKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJywgZm9udFNpemU6IDE1fX0+5o+Q5LqkPC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRm9vdGVyVGFiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRm9vdGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBibG9jayBsaWdodCBvblByZXNzPXt0aGlzLl9nb1JlZ30+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxGb290ZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvb3Rlcj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Text</last-search>
+      <last-search encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</last-search>
       <last-offset />
-      <last-pattern>Text</last-pattern>
+      <last-pattern encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</last-pattern>
       <last-replace>'white'</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZURhdGFcPg==</entry>
         <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>View</entry>
         <entry encoding="base64">XDxJb25pY29uc1w+</entry>
@@ -708,6 +699,7 @@
         <entry encoding="base64">XDxXZWJCcm93c2VyXD4=</entry>
         <entry>TabBarIcon</entry>
         <entry>Text</entry>
+        <entry encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZWZpeC9wcmVmaXhDYy9n</entry>
