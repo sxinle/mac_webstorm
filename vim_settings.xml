@@ -187,12 +187,12 @@
         <mark key="[" line="247" column="12" />
         <mark key="]" line="247" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" timestamp="1538648810625">
-        <mark key="'" line="107" column="23" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="24" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" timestamp="1538649982903">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/AddActivity.js" timestamp="1536136568451">
         <mark key="'" line="98" column="6" />
@@ -347,9 +347,9 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1537940250412">
-        <mark key="[" line="64" column="17" />
-        <mark key="]" line="64" column="18" />
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/tmpl.js" timestamp="1538649888318">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="57" column="8" />
         <mark key="." line="64" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/SupplierOrdersPage.js" timestamp="1537258457185">
@@ -378,12 +378,12 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/Request.js" timestamp="1538645212780">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/Request.js" timestamp="1538649971180">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen" timestamp="1538316529323">
         <mark key="'" line="2" column="6" />
@@ -514,9 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="58" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
-      <jump line="56" column="60" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
-      <jump line="77" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="89" column="70" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="28" column="25" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="17" column="46" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
@@ -548,7 +545,6 @@
       <jump line="52" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="55" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
-      <jump line="1" column="48" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="39" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="2" column="14" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="21" column="25" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
@@ -614,6 +610,10 @@
       <jump line="49" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
       <jump line="87" column="23" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
+      <jump line="67" column="20" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
+      <jump line="1" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
+      <jump line="8" column="21" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -623,16 +623,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>getData</text>
+        <text>Json</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</text>
+        <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWZzLnRvYXN0LnNob3coJ+ivt+i+k+WFpeWujOaVtOaJi+acuuWPt+eggScpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0LmtleXMocGF5bG9hZCkuZm9yRWFjaCgoaykgPT4gewogICAgICAgIGlmIChrID09PSAncHJpemVzJykgewogICAgICAgICAgZm9ybURhdGEuYXBwZW5kKGssIEpTT04uc3RyaW5naWZ5KHBheWxvYWRba10pKTsKICAgICAgICB9IGVsc2UgaWYgKGsgIT09ICd0bXBaaXAnKSB7CiAgICAgICAgICBpZiAoayA9PT0gJ2lzVXNlcmRlZmluZScpIHsKICAgICAgICAgICAgZm9ybURhdGEuYXBwZW5kKGssIHBheWxvYWRba10gPT09IHVuZGVmaW5lZCA/IDAgOiAocGF5bG9hZFtrXSA/IDEgOiAwKSk7CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBmb3JtRGF0YS5hcHBlbmQoaywgcGF5bG9hZFtrXSk7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3AsICdbID09PT09IHJlc3AgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -641,34 +641,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS50aW1lciA+IDEgJiYgdGhpcy5zdGF0ZS50aW1lciA8IDYwKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1PcHRpb24gPSAocGFyYW1zKSA9PiB7CiAgICAgICAgbGV0IGZvcm1EYXRhID0gbmV3IEZvcm1EYXRhKCk7CgogICAgICAgIC8vIGZvcm1EYXRhLmFwcGVuZCgnaW1hZ2UnLCB7dXJpOiBpbWFnZS51cmksIHR5cGU6ICdpbWFnZS9qcGcnLCBuYW1lOiAnaW1hZ2UuanBnJ30pOwogICAgICAgIE9iamVjdC5rZXlzKHBhcmFtcykuZm9yRWFjaCgoaykgPT4gewogICAgICAgICAgICBmb3JtRGF0YS5hcHBlbmQoaywgSlNPTi5zdHJpbmdpZnkocGFyYW1zW2tdKSk7CiAgICAgICAgfSk7CgogICAgICAgIGxldCBvcHRpb25zID0ge307CiAgICAgICAgb3B0aW9ucy5tZXRob2QgPSAnUE9TVCc7CiAgICAgICAgb3B0aW9ucy5oZWFkZXJzWydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnOwogICAgICAgIG9wdGlvbnMuYm9keSA9IGZvcm1EYXRhOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>{
+                method: 'POST',
+                ///请求头参数
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(parame)
+            }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnMudG9hc3Quc2hvdygnJyArIHRoaXMuc3RhdGUucGhvbmUpOwogICAgICAgIHJldHVybjsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLyDor7fmsYLlj4LmlbAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvYXN0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3JtRGF0YS5hcHBlbmQoJ2Rlc2NyaXB0aW9uJywgU3RyaW5nKGRhdGEuZGVzY3JpcHRpb24pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-replace>'white'</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>View</entry>
         <entry encoding="base64">XDxJb25pY29uc1w+</entry>
         <entry>user</entry>
@@ -696,6 +703,7 @@
         <entry>TabBarIcon</entry>
         <entry>Text</entry>
         <entry encoding="base64">XDxfc2lnbkluQXN5bmNcPg==</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZWZpeC9wcmVmaXhDYy9n</entry>
