@@ -98,6 +98,13 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="98" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyOrderScreen.js" timestamp="1538810563374">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="5" column="61" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/models/prize.js" timestamp="1536218564858">
         <mark key="'" line="33" column="25" />
         <mark key="[" line="26" column="18" />
@@ -514,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/demo/jdtx/App.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
       <jump line="34" column="47" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
       <jump line="6" column="41" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
@@ -614,6 +620,7 @@
       <jump line="34" column="79" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="49" column="76" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="102" column="77" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="25" column="39" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyOrderScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,38 +635,38 @@
       <register name="/" type="4">
         <text>Input</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+e3RoaXMuc3RhdGUudHJhZGVJbmZvLlBIT05FX05VTUJFUn08L1RleHQ+Cg==</text>
+      <register name="0" type="4">
+        <text>TabHeading</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+5aSp57+85LiN6ZmQ6YePPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAgICA8L0NvbnRlbnQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+5aSp57+85LiN6ZmQ6YePPC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3RyYWRlSW5mbzogcmVzcC5kYXRhfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3RyYWRlSW5mbzogcmVzcC5kYXRhfSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvYXN0LnNob3cocmVzcC5kZXNjKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvYXN0LnNob3cocmVzcC5kZXNjKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
