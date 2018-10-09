@@ -231,12 +231,12 @@
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" timestamp="1538994340713">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" timestamp="1539056397660">
         <mark key="'" line="65" column="25" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="55" />
+        <mark key="[" line="40" column="69" />
+        <mark key="]" line="40" column="83" />
         <mark key="^" line="99" column="54" />
-        <mark key="." line="89" column="0" />
+        <mark key="." line="40" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1537940412221">
         <mark key="'" line="231" column="0" />
@@ -307,10 +307,10 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1538994663899">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539056393225">
         <mark key="'" line="161" column="104" />
-        <mark key="[" line="157" column="63" />
-        <mark key="]" line="157" column="64" />
+        <mark key="[" line="130" column="87" />
+        <mark key="]" line="130" column="100" />
         <mark key="." line="157" column="64" />
         <mark key="^" line="157" column="64" />
       </file>
@@ -469,12 +469,12 @@
         <mark key="." line="197" column="28" />
         <mark key="^" line="197" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" timestamp="1538993683393">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" timestamp="1539056326259">
         <mark key="'" line="59" column="4" />
-        <mark key="[" line="78" column="77" />
-        <mark key="]" line="78" column="77" />
-        <mark key="^" line="78" column="77" />
-        <mark key="." line="78" column="77" />
+        <mark key="[" line="124" column="101" />
+        <mark key="]" line="124" column="101" />
+        <mark key="^" line="124" column="100" />
+        <mark key="." line="124" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/Step2.js" timestamp="1538275437668">
         <mark key="'" line="27" column="0" />
@@ -494,7 +494,7 @@
         <mark key="]" line="57" column="8" />
         <mark key="." line="64" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539055756003">
+      <file name="/Dummy.txt" timestamp="1539057204243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
@@ -546,12 +546,12 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" timestamp="1538979514178">
-        <mark key="'" line="78" column="83" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="78" column="57" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" timestamp="1539057128008">
+        <mark key="'" line="95" column="86" />
+        <mark key="[" line="95" column="73" />
+        <mark key="]" line="95" column="84" />
+        <mark key="." line="95" column="73" />
+        <mark key="^" line="92" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/demo/baidu-map/data/data.json" timestamp="1535525301690">
         <mark key="'" line="147" column="20" />
@@ -581,9 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="34" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
-      <jump line="22" column="32" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
-      <jump line="26" column="32" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
       <jump line="10" column="25" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
       <jump line="237" column="52" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/variables/platform.js" />
       <jump line="12" column="6" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/variables/platform.js" />
@@ -681,6 +678,9 @@
       <jump line="22" column="35" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
       <jump line="26" column="59" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="34" column="65" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
+      <jump line="68" column="87" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" />
+      <jump line="77" column="87" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" />
+      <jump line="86" column="86" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -690,37 +690,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>maxPos</text>
+        <text>EPARCHY_NAME</text>
       </register>
       <register name="/" type="4">
         <text>激活订单</text>
       </register>
-      <register name="0" type="4">
-        <text>nonceStr2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMaXN0SXRlbSBpY29uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCb2R5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PuWfjuW4gjwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJpZ2h0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD57KHVzZXIuYXR0ck1hcCAmJiB1c2VyLmF0dHJNYXAuRVBBUkNIWV9OQU1FKSB8fCAn5pegJ308L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKjxJY29uIGFjdGl2ZSBuYW1lPSJhcnJvdy1mb3J3YXJkIi8+Ki99CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9SaWdodD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvTGlzdEl0ZW0+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgey8qPEljb24gYWN0aXZlIG5hbWU9ImFycm93LWZvcndhcmQiLz4qL30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>''</text>
-      </register>
-      <register name="4" type="4">
         <text>ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnZXRUaW1lc3RhbXAoKSwgJ1sgPT09PT0gZ2V0VGltZXN0YW1wKCkgPT09PT0gXScpOwo=</text>
+      <register name="4" type="4">
+        <text>''</text>
+      </register>
+      <register name="5" type="4">
+        <text>ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnZXRUaW1lc3RhbXAoKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnZXRUaW1lc3RhbXAoKSwgJ1sgPT09PT0gZ2V0VGltZXN0YW1wKCkgPT09PT0gXScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnZXRUaW1lc3RhbXAoKSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
