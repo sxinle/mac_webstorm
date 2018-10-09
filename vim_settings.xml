@@ -46,12 +46,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/Util.js" timestamp="1539051884743">
-        <mark key="'" line="20" column="59" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="9" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/Util.js" timestamp="1539053271621">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+        <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/navigation/MainTabNavigator.js" timestamp="1538806601692">
         <mark key="[" line="42" column="0" />
@@ -581,8 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="2" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/variables/platform.js" />
-      <jump line="28" column="7" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
       <jump line="14" column="34" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
       <jump line="18" column="34" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
@@ -680,7 +678,9 @@
       <jump line="125" column="33" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
       <jump line="16" column="29" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
-      <jump line="22" column="59" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
+      <jump line="22" column="35" filename="$USER_HOME$/workspace/demo/jdtx/util/Util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -690,7 +690,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>key2</text>
+        <text>random.nextInt(maxPos)</text>
       </register>
       <register name="/" type="4">
         <text>激活订单</text>
@@ -699,34 +699,34 @@
         <text>nonceStr2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtqawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyhpbmZvLlRSQURFX1NUQVRVUyAmJiAoaW5mby5UUkFERV9TVEFUVVMgPT09ICc1MCcgfHwgaW5mby5UUkFERV9TVEFUVVMgPT09IDYwKSkgJiYK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2luZm8uVFJBREVfU1RBVFVTX05BTUUgJiYK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtpbmZvLlRSQURFX1NUQVRVU19OQU1FICYmCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGtqawo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyhpbmZvLlRSQURFX1NUQVRVUyAmJiAoaW5mby5UUkFERV9TVEFUVVMgPT09ICc1MCcgfHwgaW5mby5UUkFERV9TVEFUVVMgPT09IDYwKSkgJiYK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2luZm8uVFJBREVfU1RBVFVTX05BTUUgJiYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPENhcmRJdGVtIGJvcmRlcmVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExlZnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5kZXRhaWxJbmZvfT7nlKjmiLflp5PlkI3vvJrlvKDpmL/pgZPlpKs8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0xlZnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZEl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkSXRlbSBib3JkZXJlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMZWZ0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuZGV0YWlsSW5mb30+5aWX6aSQ5ZCN56ew77yaeHh4eDwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvTGVmdD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9DYXJkSXRlbT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPENhcmRJdGVtIGJvcmRlcmVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExlZnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5kZXRhaWxJbmZvfT7orqLljZXml7bpl7TvvJoyMDE4LTA5LTMyIDEyOjEyOjIzPC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9MZWZ0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0NhcmRJdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
