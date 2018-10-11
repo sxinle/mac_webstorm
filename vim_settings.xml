@@ -66,12 +66,12 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539082218693">
-        <mark key="'" line="149" column="104" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
-        <mark key="^" line="66" column="36" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539239223468">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="161" column="26" />
+        <mark key="]" line="161" column="33" />
+        <mark key="." line="161" column="33" />
+        <mark key="^" line="161" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1538275424383">
         <mark key="'" line="51" column="0" />
@@ -354,7 +354,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539238129104">
+      <file name="/Dummy.txt" timestamp="1539239278035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -483,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="10" filename="$USER_HOME$/workspace/demo/jdtx/components/AtyOrderCard.js" />
       <jump line="15" column="52" filename="$USER_HOME$/workspace/demo/jdtx/components/AtyOrderCard.js" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/demo/jdtx/components/AtyOrderCard.js" />
       <jump line="81" column="8" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
@@ -583,6 +582,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="27" column="20" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -595,7 +595,7 @@
         <text>liveBody</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub1RleHRcPg==</text>
+        <text>trade_sta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewo=</text>
@@ -635,17 +635,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub1RleHRcPg==</last-search>
+      <last-search>trade_sta</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub1RleHRcPg==</last-pattern>
+      <last-pattern>trade_sta</last-pattern>
       <last-replace>'white'</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>topTabBarActiveBorderColor</entry>
         <entry>div</entry>
         <entry>itemDivider</entry>
         <entry>height</entry>
@@ -665,6 +664,7 @@
         <entry>screen</entry>
         <entry>Base</entry>
         <entry encoding="base64">XDxub1RleHRcPg==</entry>
+        <entry>trade_sta</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZWZpeC9wcmVmaXhDYy9n</entry>
