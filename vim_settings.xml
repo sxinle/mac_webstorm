@@ -66,11 +66,11 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539247702427">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="91" column="13" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539249035956">
+        <mark key="'" line="100" column="20" />
+        <mark key="[" line="181" column="42" />
+        <mark key="]" line="181" column="42" />
+        <mark key="." line="181" column="42" />
         <mark key="^" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1538275424383">
@@ -345,7 +345,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539247739915">
+      <file name="/Dummy.txt" timestamp="1539249118900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -398,11 +398,11 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" timestamp="1539247734469">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" timestamp="1539248820066">
         <mark key="'" line="34" column="20" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Activity/EditActivity.js" timestamp="1537940412221">
         <mark key="'" line="231" column="0" />
@@ -473,11 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="54" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
-      <jump line="75" column="60" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
-      <jump line="132" column="58" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
-      <jump line="218" column="57" filename="$USER_HOME$/workspace/demo/jdtx/screens/SubRegScreen.js" />
-      <jump line="35" column="42" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
       <jump line="31" column="28" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
       <jump line="266" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/SubRegScreen.js" />
@@ -573,6 +568,11 @@
       <jump line="31" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="64" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="34" column="20" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="181" column="59" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="69" column="48" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="65" column="45" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="100" column="20" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -582,10 +582,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>tradeInfo.TRADE_NO</text>
+        <text encoding="base64">Zm9udFdlaWd0aDogJzkwMCcsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>trade_sta</text>
+        <text>fontWeight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkaW5nLnNob3coKTsKICAgICAgICBSZXF1ZXN0LnBvc3RGb3JtKCdhcHAvdHJhY2UvY29uZmlybUFjdGl2ZScsIHt0cmFkZU5vOiB0cmFkZUluZm8uVFJBREVfTk99KQogICAgICAgICAgICAudGhlbihyZXNwID0+IHsKICAgICAgICAgICAgICAgIGxvYWRpbmcuY2xvc2UoKTsKICAgICAgICAgICAgICAgIGlmIChyZXNwLmVyciAhPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGlmIChyZXNwLmRlc2MgIT09ICcnKSB0b2FzdC5zaG93KHJlc3AuZGVzYyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHNkayA9IE5hdGl2ZU1vZHVsZXMuUmVhY3ROYXRpdmVNYW5hZ2VyOwogICAgICAgICAgICAgICAgICAgIHNkay5zaG93VkMocGhvbmUpOwoKICAgICAgICAgICAgICAgICAgICAvLyBpb3Muc2NhblNpbSgoZXJyb3IsIGV2ZW50cykgPT4gewogICAgICAgICAgICAgICAgICAgIC8vICAgICBpZiAoZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgIGNvbnNvbGUud2FybihlcnJvcik7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICBhbGVydChldmVudHMpLy/ov5Tlm57nmoTmlbDmja4KICAgICAgICAgICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAgICAgICAgIC8vIH0pOwogICAgICAgICAgICAgICAgICAgIC8vIGlvcy5saXZlQm9keSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAgICAgICAgIGxvYWRpbmcuY2xvc2UoKTsKICAgICAgICAgICAgICAgIHRvYXN0LnNob3coZGVmRXJyKTsKICAgICAgICAgICAgfSkK</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trade_sta</last-search>
+      <last-search>fontWeight</last-search>
       <last-offset />
-      <last-pattern>trade_sta</last-pattern>
+      <last-pattern>fontWeight</last-pattern>
       <last-replace>'white'</last-replace>
       <last-substitute>white</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>div</entry>
         <entry>itemDivider</entry>
         <entry>height</entry>
         <entry>listitem</entry>
@@ -655,6 +654,7 @@
         <entry>Base</entry>
         <entry encoding="base64">XDxub1RleHRcPg==</entry>
         <entry>trade_sta</entry>
+        <entry>fontWeight</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ByZWZpeC9wcmVmaXhDYy9n</entry>
