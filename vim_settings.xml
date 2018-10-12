@@ -37,6 +37,12 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyListItem.js" timestamp="1539326589065">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Product/Edit.js" timestamp="1538191417962">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="147" column="66" />
@@ -72,12 +78,12 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539324202536">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="153" column="25" />
-        <mark key="]" line="154" column="23" />
-        <mark key="." line="154" column="23" />
-        <mark key="^" line="154" column="23" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539326629546">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="139" column="37" />
+        <mark key="]" line="139" column="50" />
+        <mark key="." line="139" column="50" />
+        <mark key="^" line="139" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1538275424383">
         <mark key="'" line="51" column="0" />
@@ -321,12 +327,6 @@
         <mark key="^" line="48" column="25" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BaseScreen.js" timestamp="1539077706912">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/services/api.js" timestamp="1537330114264">
         <mark key="'" line="138" column="40" />
         <mark key="[" line="201" column="23" />
@@ -387,12 +387,6 @@
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/Request.js" timestamp="1539083224674">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen" timestamp="1538316529323">
         <mark key="'" line="2" column="6" />
@@ -483,6 +477,12 @@
         <mark key="." line="59" column="61" />
         <mark key="^" line="2530" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyTradeDetail.js" timestamp="1539326552336">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/ListItem.js" timestamp="1538823890492">
         <mark key="'" line="111" column="37" />
         <mark key="[" line="107" column="25" />
@@ -506,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="56" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="110" column="66" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="81" column="42" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" />
@@ -582,7 +581,6 @@
       <jump line="142" column="70" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="14" column="15" filename="$USER_HOME$/workspace/demo/jdtx/components/TradeDetail.js" />
       <jump line="137" column="37" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
-      <jump line="140" column="79" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="66" column="19" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="70" column="25" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="71" column="37" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
@@ -606,6 +604,8 @@
       <jump line="14" column="13" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="12" column="33" filename="$USER_HOME$/workspace/demo/jdtx/components/trade/TradeDetail.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="140" column="50" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -615,7 +615,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, actAction, press</text>
+        <text>TradeListItem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmFkZUxpc3RJdGVtXD4=</text>
