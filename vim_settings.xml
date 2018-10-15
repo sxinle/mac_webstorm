@@ -639,7 +639,7 @@
         <text>App</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG9uZVw+</text>
+        <text>BldRelease</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ0FwcCcpOwogICAgICAgICAgICAgICAgICAgICAgICB9LCAxMDAwKTsK</text>
@@ -679,9 +679,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaG9uZVw+</last-search>
+      <last-search>BldRelease</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG9uZVw+</last-pattern>
+      <last-pattern>BldRelease</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -689,7 +689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>screen</entry>
         <entry>Base</entry>
         <entry encoding="base64">XDxub1RleHRcPg==</entry>
         <entry>trade_sta</entry>
@@ -709,6 +708,7 @@
         <entry>Icon</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxwaG9uZVw+</entry>
+        <entry>BldRelease</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXNqLnN0YXRlLy9n</entry>
