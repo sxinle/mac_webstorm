@@ -135,6 +135,12 @@
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
+      <file name="$USER_HOME$/Desktop/download/index.html" timestamp="1539668475524">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="32" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/SubRegScreen.js" timestamp="1539584904811">
         <mark key="'" line="26" column="45" />
         <mark key="[" line="158" column="60" />
@@ -371,6 +377,12 @@
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/html/install.html" timestamp="1539666643098">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/native-base-theme/variables/customListItem.js" timestamp="1539348185576">
         <mark key="'" line="197" column="0" />
         <mark key="[" line="173" column="17" />
@@ -545,10 +557,14 @@
         <mark key="." line="111" column="55" />
         <mark key="^" line="111" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/html/index.html" timestamp="1539667027691">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="21" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
-      <jump line="55" column="28" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="27" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
       <jump line="8" column="31" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
       <jump line="3" column="8" filename="$USER_HOME$/workspace/demo/jdtx/native-base-theme/components/TabBar.js" />
@@ -647,6 +663,8 @@
       <jump line="42" column="21" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="28" column="26" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
+      <jump line="59" column="8" filename="$USER_HOME$/workspace/demo/jdtx/util/html/install.html" />
+      <jump line="53" column="26" filename="$USER_HOME$/Desktop/download/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -656,60 +674,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>XCB</text>
+        <text>button4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+5Lqs5Lic6YCa5L+hPC90aXRsZT4KICAgIDxzdHlsZT4KICAgICAgICBhOmxpbmssIGE6dmlzaXRlZCB7CiAgICAgICAgICAgIHBhZGRpbmc6IDMwcHg7CiAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICBmb250LXdlaWdodDogNzAwOwogICAgICAgICAgICBmb250LXNpemU6IDM4cHg7CiAgICAgICAgICAgIGNvbG9yOiAjRkZGRkZGOwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjk0QzRFOwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsKICAgICAgICAgICAgd2lkdGg6IDc1JTsKCiAgICAgICAgICAgIGhlaWdodDogNjBweDsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgICAgICB0b3A6IDQwJTsKICAgICAgICAgICAgcmlnaHQ6IDA7CiAgICAgICAgICAgIGJvdHRvbTogMDsKICAgICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIH0KCiAgICAgICAgYTpob3ZlciwgYTphY3RpdmUgewogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI0Y5NEM0RTsKICAgICAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgoKPGRpdj4KICAgIDxpbWcgc3JjPSdiZy5wbmcnIHN0eWxlPSJ3aWR0aDogMTAwJTsiLz4KICAgIDxhIGhyZWY9Iml0bXMtc2VydmljZXM6Ly8/YWN0aW9uPWRvd25sb2FkLW1hbmlmZXN0JnVybD1odHRwczovL3MuYmxkMzY1LmNvbS9hcHAvbWFuaWZlc3QucGxpc3QiPueCueWHu+S4i+i9vTwvYT4KPC9kaXY+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ndG9wLnBuZycgc3R5bGU9IndpZHRoOiAxMDAlO2Zsb2F0OiBsZWZ0Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsK</text>
+        <text encoding="base64">ICAgIDwhLS08ZGl2IHN0eWxlPSJjbGVhcjpib3RoIi8+LS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IGxlZnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuY29udGFpbmVyIHsKICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCJiZy5wbmciKSBuby1yZXBlYXQgc2Nyb2xsIGNlbnRlcjsKICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsK</text>
+        <text encoding="base64">ICAgICAgICAuYm90dG9tIHsKICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCdib3R0b20ucG5nJykgY2VudGVyIGNlbnRlciBuby1yZXBlYXQ7CiAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IDMzNzRweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGEgaHJlZj0iaXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vcy5ibGQzNjUuY29tL2FwcC9tYW5pZmVzdC5wbGlzdCI+54K55Ye75LiL6L29PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogLTIzJTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCJiZy5wbmciKSBuby1yZXBlYXQgc2Nyb2xsIGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB6LWluZGV4OiA5OTk5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLypmbG9hdDogbGVmdDsqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6MTAwJTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>XCB</last-search>
+      <last-search>button4</last-search>
       <last-offset />
-      <last-pattern>XCB</last-pattern>
-      <last-replace>info</last-replace>
-      <last-substitute>data</last-substitute>
+      <last-pattern>button4</last-pattern>
+      <last-replace>button</last-replace>
+      <last-substitute>button4</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>data</entry>
         <entry>Content</entry>
         <entry encoding="base64">XDxUcmFkZUxpc3RJdGVtXD4=</entry>
@@ -729,9 +746,9 @@
         <entry encoding="base64">XDw5QkU3QjM0ODIxNzQyOTFGMDBFNTNGM0RcPg==</entry>
         <entry encoding="base64">XDwyRDAyRTQ5QTFFMEI0QTVFMDA2NDUxQzdcPg==</entry>
         <entry>XCB</entry>
+        <entry>button4</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoaXNqLnN0YXRlLy9n</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUvL2c=</entry>
         <entry>vsp map.html</entry>
         <entry encoding="base64">JzwsJz5zLzxkaXYgY2xhc3M9ImNlbGwiLy9n</entry>
@@ -750,6 +767,7 @@
         <entry encoding="base64">JzwsJz5zL3doaXRlLyd3aGl0ZScvZw==</entry>
         <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvaW5mby9n</entry>
+        <entry encoding="base64">JzwsJz5zL2J1dHRvbjQvYnV0dG9uL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
