@@ -90,12 +90,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/install.html" timestamp="1539606608967">
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/install.html" timestamp="1539663215691">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/PrizeForm.js" timestamp="1538285059867">
         <mark key="'" line="64" column="1" />
@@ -547,8 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" />
-      <jump line="20" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
       <jump line="19" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
       <jump line="55" column="28" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="27" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
@@ -646,6 +644,8 @@
       <jump line="4" column="16" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="25" column="27" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
+      <jump line="42" column="21" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
+      <jump line="28" column="26" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
     </jumps>
     <registers>
@@ -656,16 +656,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>XCB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+SW5zdGFsbCBBcHA8L3RpdGxlPgogICAgPHN0eWxlPgogICAgICAgIGE6bGluaywgYTp2aXNpdGVkIHsKICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBWZXJkYW5hLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwogICAgICAgICAgICBjb2xvcjogI0ZGRkZGRjsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzk4YmYyMTsKICAgICAgICAgICAgd2lkdGg6IDEyMHB4OwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIHBhZGRpbmc6IDRweDsKICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgIH0KCiAgICAgICAgYTpob3ZlciwgYTphY3RpdmUgewogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjN0E5OTFBOwogICAgICAgIH0KCiAgICAgICAgZGl2IHsKICAgICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgICAgICAgcGFkZGluZy1sZWZ0OiA0NSU7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiA0NSU7CiAgICAgICAgfQogICAgPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KCjxkaXY+CiAgICA8YSBocmVmPSJpdG1zLXNlcnZpY2VzOi8vP2FjdGlvbj1kb3dubG9hZC1tYW5pZmVzdCZ1cmw9aHR0cHM6Ly9zLmJsZDM2NS5jb20vYXBwL21hbmlmZXN0LnBsaXN0Ij5pbnN0YWxsCiAgICAgICAgQXBwPC9hPgo8L2Rpdj4KCgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+5Lqs5Lic6YCa5L+hPC90aXRsZT4KICAgIDxzdHlsZT4KICAgICAgICBhOmxpbmssIGE6dmlzaXRlZCB7CiAgICAgICAgICAgIHBhZGRpbmc6IDMwcHg7CiAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICBmb250LXdlaWdodDogNzAwOwogICAgICAgICAgICBmb250LXNpemU6IDM4cHg7CiAgICAgICAgICAgIGNvbG9yOiAjRkZGRkZGOwogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjk0QzRFOwogICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsKICAgICAgICAgICAgd2lkdGg6IDc1JTsKCiAgICAgICAgICAgIGhlaWdodDogNjBweDsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgICAgICB0b3A6IDQwJTsKICAgICAgICAgICAgcmlnaHQ6IDA7CiAgICAgICAgICAgIGJvdHRvbTogMDsKICAgICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIH0KCiAgICAgICAgYTpob3ZlciwgYTphY3RpdmUgewogICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI0Y5NEM0RTsKICAgICAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgoKPGRpdj4KICAgIDxpbWcgc3JjPSdiZy5wbmcnIHN0eWxlPSJ3aWR0aDogMTAwJTsiLz4KICAgIDxhIGhyZWY9Iml0bXMtc2VydmljZXM6Ly8/YWN0aW9uPWRvd25sb2FkLW1hbmlmZXN0JnVybD1odHRwczovL3MuYmxkMzY1LmNvbS9hcHAvbWFuaWZlc3QucGxpc3QiPueCueWHu+S4i+i9vTwvYT4KPC9kaXY+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogYXV0bzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogNTBweDsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -674,25 +674,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGEgaHJlZj0iaXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vcy5ibGQzNjUuY29tL2FwcC9tYW5pZmVzdC5wbGlzdCI+aW5zdGFsbAogICAgQXBwPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAuY29udGFpbmVyIHsKICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+SW5zdGFsbCBBcHA8L3RpdGxlPgogICAgPHN0eWxlPgoJYTpsaW5rLGE6dmlzaXRlZAoJCXsKCQkJZGlzcGxheTpibG9jazsKCQkJZm9udC13ZWlnaHQ6Ym9sZDsKCQkJZm9udC1zaXplOjE0cHg7CgkJCWZvbnQtZmFtaWx5OlZlcmRhbmEsIEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7CgkJCWNvbG9yOiNGRkZGRkY7CgkJCWJhY2tncm91bmQtY29sb3I6Izk4YmYyMTsKCQkJd2lkdGg6MTIwcHg7CgkJCXRleHQtYWxpZ246Y2VudGVyOwoJCQlwYWRkaW5nOjRweDsKCQkJdGV4dC1kZWNvcmF0aW9uOm5vbmU7CgkJfQoKCQlhOmhvdmVyLGE6YWN0aXZlCgkJCXsKCQkJCWJhY2tncm91bmQtY29sb3I6IzdBOTkxQTsKCQkJfQogICAgPC9zdHlsZT4KPC9oZWFkPgo8Ym9keT4KCjxhIGhyZWY9Iml0bXMtc2VydmljZXM6Ly8/YWN0aW9uPWRvd25sb2FkLW1hbmlmZXN0JnVybD1odHRwczovL3MuYmxkMzY1LmNvbS9hcHAvbWFuaWZlc3QucGxpc3QiPmluc3RhbGwKICAgIEFwcDwvYT4KCjwvYm9keT4KPC9odG1sPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCJiZy5wbmciKSBuby1yZXBlYXQgc2Nyb2xsIGNlbnRlcjsKICAgICAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMTAwcHg7Cg==</text>
+        <text encoding="base64">PGEgaHJlZj0iaXRtcy1zZXJ2aWNlczovLz9hY3Rpb249ZG93bmxvYWQtbWFuaWZlc3QmdXJsPWh0dHBzOi8vcy5ibGQzNjUuY29tL2FwcC9tYW5pZmVzdC5wbGlzdCI+54K55Ye75LiL6L29PC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAxNTBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCJiZy5wbmciKSBuby1yZXBlYXQgc2Nyb2xsIGNlbnRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBhdXRvOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgbWFyZ2luLWxlZnQ6IDQ1JQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6MTAwJTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -705,7 +705,7 @@
       <last-replace>info</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
