@@ -31,9 +31,17 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="86" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyListItem.js" timestamp="1539745372843">
-        <mark key="[" line="40" column="96" />
-        <mark key="]" line="40" column="96" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/TradeDetail.js" timestamp="1539842400479">
+        <mark key="'" line="11" column="27" />
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="25" />
+        <mark key="." line="77" column="25" />
+        <mark key="^" line="77" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyListItem.js" timestamp="1539841313810">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="92" />
         <mark key="." line="40" column="96" />
         <mark key="^" line="40" column="96" />
       </file>
@@ -72,12 +80,12 @@
         <mark key="." line="38" column="26" />
         <mark key="^" line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539749608962">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1539842524675">
         <mark key="'" line="41" column="7" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="41" column="46" />
-        <mark key="^" line="41" column="46" />
+        <mark key="[" line="149" column="52" />
+        <mark key="]" line="149" column="75" />
+        <mark key="^" line="149" column="75" />
+        <mark key="." line="149" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/navigation/MainTabNavigator.js" timestamp="1539746988854" />
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1538275424383">
@@ -254,12 +262,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1539753025990">
-        <mark key="'" line="78" column="52" />
-        <mark key="[" line="76" column="59" />
-        <mark key="]" line="76" column="60" />
-        <mark key="." line="76" column="60" />
-        <mark key="^" line="76" column="60" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1539842407837">
+        <mark key="'" line="79" column="52" />
+        <mark key="[" line="74" column="153" />
+        <mark key="]" line="74" column="175" />
+        <mark key="^" line="74" column="175" />
+        <mark key="." line="74" column="175" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Storage/Manuout.js" timestamp="1536731822693">
         <mark key="'" line="55" column="34" />
@@ -413,7 +421,7 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539753043479">
+      <file name="/Dummy.txt" timestamp="1539842503844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -574,9 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="41" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
-      <jump line="110" column="73" filename="$USER_HOME$/workspace/demo/jdtx/screens/RegistScreen.js" />
-      <jump line="125" column="41" filename="$USER_HOME$/workspace/demo/jdtx/screens/ForgetPwdScreen.js" />
       <jump line="103" column="45" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="109" column="77" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="32" column="124" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
@@ -674,6 +679,9 @@
       <jump line="41" column="7" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="34" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/ActiveOrders.js" />
       <jump line="44" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyListItem.js" />
+      <jump line="75" column="17" filename="$USER_HOME$/workspace/demo/jdtx/components/trade/TradeDetail.js" />
+      <jump line="11" column="27" filename="$USER_HOME$/workspace/demo/jdtx/components/trade/TradeDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -683,60 +691,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>this._doActive</text>
       </register>
       <register name="/" type="4">
-        <text>button4</text>
+        <text encoding="base64">XDxhY3RBY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DeviceEventEmitter</text>
+        <text>btnAct={this._doActive}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgICAgIERldmljZUV2ZW50RW1pdHRlci5lbWl0KCdob21lUmVmcmVzaENudCcpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9nZXRDb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5fZG9BY3RpdmUoaW5mby5QSE9ORV9OVU1CRVIsIGluZm8uVFJBREVfTk8pCiAgICAgICAgICAgICAgICB9fSBzdHlsZT17e3dpZHRoOiAnOTYlJywgbWFyZ2luVG9wOiAnNSUnfX0+CiAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3t3aWR0aDogJzEwMCUnLCBmb250U2l6ZTogMTgsIHRleHRBbGlnbjogJ2NlbnRlcid9fT7ljrvmv4DmtLs8L1RleHQ+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5o6l5pS25YiwIHVwZGF0ZSDpobXlj5HpgIHnmoTpgJrnn6XvvIzlkI7ov5vooYznmoTmk43kvZzlhoXlrrkKICAgICAgICAgICAgY29uc29sZS5sb2coJ0JhY2tUbycsIGRpYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyhzaG93RGV0YWlsICYmIGluZm8gJiYgaW5mby5UUkFERV9TVEFUVVMgJiYgKGluZm8uVFJBREVfU1RBVFVTID09PSAnNTAnIHx8IGluZm8uVFJBREVfU1RBVFVTID09PSAnNjAnKSkgJiYKICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiByb3VuZGVkIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuX2RvQWN0aXZlKGluZm8uUEhPTkVfTlVNQkVSLCBpbmZvLlRSQURFX05PKQogICAgICAgICAgICAgICAgICAgICAgICB9fSBzdHlsZT17e3dpZHRoOiAnOTYlJywgbWFyZ2luTGVmdDogJzIlJ319PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3t3aWR0aDogJzEwMCUnLCBmb250U2l6ZTogMTgsIHRleHRBbGlnbjogJ2NlbnRlcid9fT7ljrvmv4DmtLs8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3c+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFJvdz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3c+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyhpbmZvICYmIGluZm8uVFJBREVfU1RBVFVTICYmIChpbmZvLlRSQURFX1NUQVRVUyA9PT0gJzUwJyB8fCBpbmZvLlRSQURFX1NUQVRVUyA9PT0gJzYwJykpICYmCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBvblByZXNzPXt0aGlzLl9kb0FjdGl2ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICc5MCUnLCBtYXJnaW5Cb3R0b206ICc1JScsIG1hcmdpbkxlZnQ6ICc1JSd9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tmb250U2l6ZTogMTgsfX0+5Y675r+A5rS7PC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fZG9BY3RpdmUoaW5mby5QSE9ORV9OVU1CRVIsIGluZm8uVFJBREVfTk8pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSBzdHlsZT17e3dpZHRoOiAnOTYlJywgbWFyZ2luTGVmdDogJzIlJ319PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7d2lkdGg6ICcxMDAlJywgZm9udFNpemU6IDE4LCB0ZXh0QWxpZ246ICdjZW50ZXInfX0+5Y675r+A5rS7PC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3c+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyhpbmZvICYmIGluZm8uVFJBREVfU1RBVFVTICYmIChpbmZvLlRSQURFX1NUQVRVUyA9PT0gJzUwJyB8fCBpbmZvLlRSQURFX1NUQVRVUyA9PT0gJzYwJykpICYmCiAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBvblByZXNzPXt0aGlzLl9kb0FjdGl2ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e3dpZHRoOiAnOTAlJywgbWFyZ2luQm90dG9tOiAnNSUnLCBtYXJnaW5MZWZ0OiAnNSUnfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAxOCx9fT7ljrvmv4DmtLs8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFJvdyBzaXplPXszfT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>button4</last-search>
+      <last-search encoding="base64">XDxhY3RBY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>button4</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RBY3Rpb25cPg==</last-pattern>
       <last-replace>button</last-replace>
       <last-substitute>button4</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>Content</entry>
         <entry encoding="base64">XDxUcmFkZUxpc3RJdGVtXD4=</entry>
         <entry>Icon</entry>
@@ -756,6 +763,7 @@
         <entry encoding="base64">XDwyRDAyRTQ5QTFFMEI0QTVFMDA2NDUxQzdcPg==</entry>
         <entry>XCB</entry>
         <entry>button4</entry>
+        <entry encoding="base64">XDxhY3RBY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUvL2c=</entry>
