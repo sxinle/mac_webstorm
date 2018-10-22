@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Contract.js" timestamp="1539936119186">
         <mark key="'" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1540177887500">
-        <mark key="'" line="163" column="29" />
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="54" column="74" />
-        <mark key="^" line="54" column="74" />
-        <mark key="." line="54" column="74" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1540180030326">
+        <mark key="'" line="29" column="33" />
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/util/html/install.html" timestamp="1539666643098">
         <mark key="[" line="56" column="0" />
@@ -168,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="3" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
-      <jump line="726" column="3" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
       <jump line="786" column="3" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
       <jump line="1532" column="3" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
       <jump line="1607" column="3" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
@@ -268,6 +266,8 @@
       <jump line="24" column="22" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/CostFormEdit.js" />
       <jump line="115" column="78" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/CostFormEdit.js" />
       <jump line="23" column="8" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/CostFormEdit.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="35" column="33" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -277,13 +277,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>willFocus</text>
       </register>
       <register name="/" type="4">
-        <text>this.setState</text>
+        <text>AppS</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LCAoKSA9PiB7CiAgICAgIHRoaXMubWFwU3RhdGVUb1Byb3BzKCk7CiAgICB9</text>
+        <text>didBlur</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -292,45 +292,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlkQmx1clN1YnNjcmlwdGlvbiA9IHRoaXMucHJvcHMubmF2aWdhdGlvbi5hZGRMaXN0ZW5lcigKICAgICAgICAnZGlkQmx1cicsCiAgICAgICAgcGF5bG9hZCA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkaWRCbHVyJywgcGF5bG9hZCk7CiAgICAgICAgfQogICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwU3RhdGU6IEFwcFN0YXRlLmN1cnJlbnRTdGF0ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkaWRCbHVyU3Vic2NyaXB0aW9uID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKAogICAgICAgICAgICAnZGlkQmx1cicsCiAgICAgICAgICAgIHBheWxvYWQgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5kZWJ1ZygnZGlkQmx1cicsIHBheWxvYWQpOwogICAgICAgICAgICB9CiAgICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpOwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHZpc2libGU6IGZhbHNlLAogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpbnB1dHM6IG5ld0FyciB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBEZXZpY2VFdmVudEVtaXR0ZXIuZW1pdCgnaG9tZVJlZnJlc2hDbnQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpbnB1dHM6IG5ld0FyciB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBBcHBTdGF0ZS5yZW1vdmVFdmVudExpc3RlbmVyKCdjaGFuZ2UnLCB0aGlzLl9oYW5kbGVBcHBTdGF0ZUNoYW5nZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBfaGFuZGxlQXBwU3RhdGVDaGFuZ2UgPSAobmV4dEFwcFN0YXRlKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2cobmV4dEFwcFN0YXRlLCAnWyA9PT09PSBuZXh0QXBwU3RhdGUgPT09PT0gXScpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdGF0ZS5hcHBTdGF0ZS5tYXRjaCgvaW5hY3RpdmV8YmFja2dyb3VuZC8pICYmIG5leHRBcHBTdGF0ZSA9PT0gJ2FjdGl2ZScpIHsKICAgICAgICAvLyAgICAgY29uc29sZS5sb2coJ0FwcCBoYXMgY29tZSB0byB0aGUgZm9yZWdyb3VuZCEnKQogICAgICAgIC8vIH0KICAgICAgICB0aGlzLnNldFN0YXRlKHthcHBTdGF0ZTogbmV4dEFwcFN0YXRlfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.setState</last-search>
+      <last-search>AppS</last-search>
       <last-offset />
-      <last-pattern>this.setState</last-pattern>
+      <last-pattern>AppS</last-pattern>
       <last-replace>button</last-replace>
       <last-substitute>button4</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyRDAyRTQ5ODFFMEI0QTVFMDA2NDUxQzdcPg==</entry>
         <entry encoding="base64">XDwxM0IwN0Y5NDFBNjgwRjVCMDBBNzVCOUFcPg==</entry>
         <entry encoding="base64">QmVnaW4g</entry>
         <entry encoding="base64">XDw5QkU3QjM0OTIxNzQyOTFGMDBFNTNGM0RcPg==</entry>
@@ -350,6 +349,7 @@
         <entry>renderItem</entry>
         <entry>input.options.map</entry>
         <entry>this.setState</entry>
+        <entry>AppS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUvL2c=</entry>
