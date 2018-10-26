@@ -43,11 +43,12 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1540530745088">
-        <mark key="'" line="15" column="6" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1540535466543">
+        <mark key="'" line="39" column="40" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/util/html/install.html" timestamp="1539666643098">
         <mark key="[" line="56" column="0" />
@@ -75,7 +76,7 @@
       <file name="/jdtx.xcscheme" timestamp="1539601335895">
         <mark key="'" line="68" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540531213578">
+      <file name="/Dummy.txt" timestamp="1540536312751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/download/index.html" timestamp="1539668475524">
@@ -151,12 +152,12 @@
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/node_modules/antd/lib/list/index.d.ts" timestamp="1539939386175">
         <mark key="'" line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1540531837170">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="28" column="21" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1540535897239">
+        <mark key="'" line="53" column="20" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1540190052609">
         <mark key="'" line="44" column="8" />
@@ -194,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2873" column="16" filename="/project.pbxproj" />
-      <jump line="1707" column="10" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
       <jump line="9" column="29" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="22" column="6" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
       <jump line="18" column="32" filename="$USER_HOME$/workspace/demo/jdtx/util/install.html" />
@@ -280,7 +279,6 @@
       <jump line="35" column="33" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="32" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
       <jump line="36" column="56" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
       <jump line="75" column="16" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDone.js" />
       <jump line="1798" column="35" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
       <jump line="2265" column="36" filename="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" />
@@ -294,6 +292,9 @@
       <jump line="31" column="33" filename="$USER_HOME$/workspace/demo/rnd/App.js" />
       <jump line="46" column="24" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="15" column="6" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="39" column="40" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
+      <jump line="41" column="35" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
+      <jump line="53" column="20" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,52 +304,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tGcm9tU0RLID0gKG1zZykgPT4gewogICAgICAgIGNvbnNvbGUubG9nKG1zZywgJ1sgPT09PT0gbXNnID09PT09IF0nKTsKICAgICAgICB0aGlzLmdldE9yZGVycygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1zZyAmJiAobXNnLmVycm9yQ29kZSB8fCBtc2cuZXJyb3JNc2cgfHwgbXNnLm9yZGVyTnVtKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRPcmRlcnMoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1zZyAmJiBtc2cuZXJyb3JDb2RlKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrRnJvbVNESyA9IChtc2cpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygsICdbID09PT09ICA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrRnJvbVNESyA9IChtc2cpID0+IHsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgICAgIHRoaXMuZ2V0T3JkZXJzKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobXNnICYmIG1zZy5lcnJvckNvZGUpIHsKICAgICAgICAgICAgY29uc3Qge3RyYWRlSW5mb30gPSB0aGlzLnN0YXRlOwoKICAgICAgICAgICAgUmVxdWVzdC5wb3N0Rm9ybSgnYXBwL3RyYWRlL2NvbmZpcm1BY3RpdmUnLCB7CiAgICAgICAgICAgICAgICB0cmFkZU5vOiB0cmFkZU5vID8gdHJhZGVObyA6IHRyYWRlSW5mby5UUkFERV9OTywKICAgICAgICAgICAgICAgIHNka0NvZGU6IG1zZy5lcnJvckNvZGUsCiAgICAgICAgICAgICAgICBzZGtEZXNjOiBtc2cuZXJyb3JNc2cKICAgICAgICAgICAgfSkudGhlbihyZXNwID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3AsICdbID09PT09IHJlc3AgPT09PT0gXScpOwogICAgICAgICAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICAgICAgICB9KQoKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1zZyAmJiBtc2cuZXJyb3JDb2RlKSB7CiAgICAgICAgICAgICAgICBjb25zdCB7dHJhZGVJbmZvfSA9IHRoaXMuc3RhdGU7CgogICAgICAgICAgICAgICAgUmVxdWVzdC5wb3N0Rm9ybSgnYXBwL3RyYWRlL2NvbmZpcm1BY3RpdmUnLCB7CiAgICAgICAgICAgICAgICAgICAgdHJhZGVObzogdHJhZGVObyA/IHRyYWRlTm8gOiB0cmFkZUluZm8uVFJBREVfTk8sCiAgICAgICAgICAgICAgICAgICAgc2RrQ29kZTogbXNnLmVycm9yQ29kZSwKICAgICAgICAgICAgICAgICAgICBzZGtEZXNjOiBtc2cuZXJyb3JNc2cKICAgICAgICAgICAgICAgIH0pLnRoZW4ocmVzcCA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7CiAgICAgICAgICAgICAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICAgICAgICAgICAgfSkKCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgICAgIHRoaXMuZ2V0T3JkZXJzKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobXNnICYmIG1zZy5vaykgewogICAgICAgICAgICBjb25zdCB7dG9hc3QsIGxvYWRpbmd9ID0gdGhpcy5yZWZzOwogICAgICAgICAgICBjb25zdCB7dHJhZGVJbmZvfSA9IHRoaXMuc3RhdGU7CiAgICAgICAgICAgIFJlcXVlc3QuZ2V0RGF0YSgnYXBwL3RyYWRlL3JlZnJlc2hUcmFkZVN0YXR1cy8nLCB7dHJhZGVObzogdHJhZGVJbmZvLlRSQURFX05PfSkKICAgICAgICAgICAgICAgIC50aGVuKHJlc3AgPT4gewogICAgICAgICAgICAgICAgICAgIGxvYWRpbmcuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICBpZiAocmVzcC5kZXNjICE9PSAnJykgdG9hc3Quc2hvdyhyZXNwLmRlc2MpOwogICAgICAgICAgICAgICAgICAgIGlmIChyZXNwLmRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7dHJhZGVJbmZvOiByZXNwLmRhdGF9KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAgICAgbG9hZGluZy5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgIHRvYXN0LnNob3coZGVmRXJyKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>button</last-replace>
       <last-substitute>button4</last-substitute>
       <last-dir>1</last-dir>
@@ -356,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Begin</entry>
         <entry encoding="base64">XDwxM0IwN0Y5NTFBNjgwRjVCMDBBNzVCOUFcPg==</entry>
         <entry encoding="base64">XDw5QkU3QjM0ODIxNzQyOTFGMDBFNTNGM0RcPg==</entry>
         <entry encoding="base64">XDwyRDAyRTQ5QTFFMEI0QTVFMDA2NDUxQzdcPg==</entry>
@@ -376,6 +376,7 @@
         <entry encoding="base64">XDw4NEI5M0EzNzIxNkUzRkU3MDAyQTc2MjdcPg==</entry>
         <entry encoding="base64">XDxNRl9CYXNlNjRBZGRpdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUvL2c=</entry>
