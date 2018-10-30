@@ -86,6 +86,7 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/rnDva/node_modules/isomorphic-fetch/fetch-npm-browserify.js" timestamp="1540879124340" />
       <file name="$USER_HOME$/workspace/demo/rnDva/app/router.js" timestamp="1540811219014">
         <mark key="[" line="36" column="22" />
         <mark key="]" line="36" column="27" />
@@ -222,6 +223,9 @@
         <mark key="." line="45" column="65" />
         <mark key="^" line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/rnDva/node_modules/react-navigation/package.json" timestamp="1540878748017">
+        <mark key="'" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/sales_mng/src/routes/Biss/Cost.js" timestamp="1539945747234">
         <mark key="[" line="205" column="18" />
         <mark key="]" line="205" column="21" />
@@ -249,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/check.js" />
-      <jump line="129" column="13" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/check.js" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/check.js" />
       <jump line="77" column="15" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/check.js" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/micro-service/front/sales_mng/src/models/check.js" />
@@ -349,6 +351,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/demo/rnDva/app/models/app.js" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/demo/rnDva/app/models/app.js" />
       <jump line="0" column="23" filename="$USER_HOME$/workspace/demo/rnDva/app/models/app.js" />
+      <jump line="15" column="20" filename="$USER_HOME$/workspace/demo/rnDva/node_modules/react-navigation/package.json" />
+      <jump line="21" column="5" filename="$USER_HOME$/workspace/demo/rnDva/node_modules/react-navigation/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -361,57 +365,56 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOYXZpZ2F0aW9uQWN0aW9uc1w+</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="4">
         <text>,font-weight:900</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBOYXZpZ2F0aW9uQWN0aW9ucy5uCg==</text>
+        <text encoding="base64">CuS9nOiAhe+8mnpqbWdtagrpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzViOGU0OGYwNTE4ODI1NDJkMDJjZGUzYwrmnaXmupDvvJrmjpjph5EK6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOYXZpZ2F0aW9uQWN0aW9ucy5uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWR1Y2Vyczogewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZWR1Y2VyczogewogICAgdXBkYXRlU3RhdGUoc3RhdGUsIHsgcGF5bG9hZCB9KSB7CiAgICAgIHJldHVybiB7IC4uLnN0YXRlLCAuLi5wYXlsb2FkIH0KICAgIH0sCiAgfSwK</text>
+        <text encoding="base64">ICByZWR1Y2Vyczogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICByZWR1Y2VyczogewogICAgdXBkYXRlU3RhdGUoc3RhdGUsIHsgcGF5bG9hZCB9KSB7CiAgICAgIHJldHVybiB7IC4uLnN0YXRlLCAuLi5wYXlsb2FkIH0KICAgIH0sCiAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuWTjeW6lCDimIUgIiwgcmVzcCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhuZXdPcHRpb25zLCAiWyA9PT09PSBuZXdPcHRpb25zID09PT09IF0iKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIuWTjeW6lCDimIUgIiwgcmVzcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOYXZpZ2F0aW9uQWN0aW9uc1w+</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOYXZpZ2F0aW9uQWN0aW9uc1w+</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>button</last-replace>
       <last-substitute>button4</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry>renderItem</entry>
         <entry>input.options.map</entry>
@@ -431,6 +434,7 @@
         <entry encoding="base64">XDxmZXRjaFw+</entry>
         <entry encoding="base64">XDxleHBpcnlzXD4=</entry>
         <entry encoding="base64">XDxOYXZpZ2F0aW9uQWN0aW9uc1w+</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RoaXMuc3RhdGUvL2c=</entry>
