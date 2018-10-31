@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/ios/jdtx.xcodeproj/project.pbxproj" timestamp="1540199234441">
         <mark key="'" line="2265" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1540967969885">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="67" />
-        <mark key="." line="25" column="67" />
-        <mark key="^" line="25" column="67" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1540968686426">
+        <mark key="'" line="82" column="5" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="29" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/jsconfig.json" timestamp="1540957882212">
         <mark key="'" line="8" column="2" />
@@ -157,11 +157,10 @@
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/request.js" timestamp="1540801678493">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/colors.js" timestamp="1540967961376">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/colors.js" timestamp="1540968085459">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyUndo.js" timestamp="1540198783528">
         <mark key="[" line="7" column="61" />
@@ -247,6 +246,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/index.js" timestamp="1540968061589">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/components/trade/OneKeyTradeDetail.js" timestamp="1539326552336">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="37" />
@@ -267,8 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1019" column="44" filename="/project.pbxproj" />
-      <jump line="2161" column="44" filename="/project.pbxproj" />
       <jump line="51" column="132" filename="/project.pbxproj" />
       <jump line="499" column="148" filename="/project.pbxproj" />
       <jump line="500" column="151" filename="/project.pbxproj" />
@@ -367,6 +370,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/HomeNavigator.js" />
       <jump line="18" column="1" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
+      <jump line="73" column="5" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,43 +381,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>tintColor</text>
+        <text>Colors.c_action_bar</text>
       </register>
       <register name="/" type="4">
         <text>Semicolons</text>
       </register>
-      <register name="0" type="4">
-        <text>navigationOptions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFiQmFyT3B0aW9uczogewogICAgICAgICAgICAgIGFjdGl2ZVRpbnRDb2xvcjogQ29sb3JzLmNfYWN0aW9uX2JhciwKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpY29uOiB7CiAgICB3aWR0aDogMzIsCiAgICBoZWlnaHQ6IDMyLAogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYkJhckxhYmVsOiAn6ZKx5YyFJywKICAgIHRhYkJhckljb246ICh7IGZvY3VzZWQsIHRpbnRDb2xvciB9KSA9PiAoCiAgICAgIDxJbWFnZQogICAgICAgIHN0eWxlPXtbc3R5bGVzLmljb24sIHsgdGludENvbG9yOiBmb2N1c2VkID8gdGludENvbG9yIDogJ2dyYXknIH1dfQogICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL3BlcnNvbi5wbmcnKX0KICAgICAgLz4KICAgICksCg==</text>
+        <text encoding="base64">ICAgIHRhYkJhck9wdGlvbnM6IHsKICAgICAgYWN0aXZlVGludENvbG9yOiBDb2xvcnMuY19hY3Rpb25fYmFyLAogICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhYkJhckxhYmVsOiAn5oiRJywKICAgIHRhYkJhckljb246ICh7IGZvY3VzZWQsIHRpbnRDb2xvciB9KSA9PiAoCiAgICAgIDxJbWFnZQogICAgICAgIHN0eWxlPXtbc3R5bGVzLmljb24sIHsgdGludENvbG9yOiBmb2N1c2VkID8gdGludENvbG9yIDogJ2dyYXknIH1dfQogICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL3BlcnNvbi5wbmcnKX0KICAgICAgLz4KICAgICksCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBpY29uOiB7CiAgICB3aWR0aDogMzIsCiAgICBoZWlnaHQ6IDMyLAogIH0sCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRhYkJhckxhYmVsOiAn6ZKx5YyFJywKICAgIHRhYkJhckljb246ICh7IGZvY3VzZWQsIHRpbnRDb2xvciB9KSA9PiAoCiAgICAgIDxJbWFnZQogICAgICAgIHN0eWxlPXtbc3R5bGVzLmljb24sIHsgdGludENvbG9yOiBmb2N1c2VkID8gdGludENvbG9yIDogJ2dyYXknIH1dfQogICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL3BlcnNvbi5wbmcnKX0KICAgICAgLz4KICAgICksCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
