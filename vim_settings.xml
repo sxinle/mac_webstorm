@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/Spinner.js" timestamp="1541052027082">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541048080778">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="29" column="16" />
@@ -30,12 +36,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541050893396">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="1" column="28" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541052469882">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/index.js" timestamp="1541050764168">
         <mark key="'" line="5" column="13" />
@@ -43,6 +49,10 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/rnDva/app/containers/Login.js" timestamp="1541052402987">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/components/home/LRMore.js" timestamp="1541041706295">
         <mark key="'" line="5" column="25" />
@@ -152,10 +162,11 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/components/index.js" timestamp="1541047894161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/index.js" timestamp="1541052039485">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/Login.js" timestamp="1541047914147">
         <mark key="[" line="4" column="9" />
@@ -170,10 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="21" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="24" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="15" column="43" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/workspace/demo/jfans/app/components/TabTouchable.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="173" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
@@ -270,6 +277,10 @@
       <jump line="140" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="5" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/index.js" />
       <jump line="16" column="29" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/AuthLoadingScreen.js" />
+      <jump line="3" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/components/Spinner.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="25" column="28" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="39" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -279,43 +290,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TmF2aWdhdGlvbkFjdGlvbnMsIA==</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJUb2tlbiA9IGF3YWl0IEFzeW5jU3RvcmFnZS5nZXRJdGVtKCd1c2VyJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>Image</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJUb2tlbiA9IFN0b3JhZ2UuZ2V0KCd1c2VyJyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgIGFsZXJ0KCd4eHgnKTsKICAgICAgICB9fT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXt7cG9zaXRpb246J2Fic29sdXRlJywgdG9wOiAxMCwgcmlnaHQ6IDEwfX0+aGVsbG88L1RleHQ+CiAgICAgICAgPC9Ub3VjaGFibGU+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgIGFsZXJ0KCd4eHgnKTsKICAgICAgICB9fT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXt7cG9zaXRpb246J2Fic29sdXRlJywgdG9wOiAxMCwgcmlnaHQ6IDEwfX0+aGVsbG88L1RleHQ+CiAgICAgICAgPC9Ub3VjaGFibGU+CiAgICAgICAgPExvYWRpbmcgc2hvdz17ZmV0Y2hpbmd9Lz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVG91Y2hhYmxlIH0gZnJvbSAnLi4vLi4vY29tcG9uZW50cy9pbmRleCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgIGFsZXJ0KCd4eHgnKTsKICAgICAgICB9fT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXt7cG9zaXRpb246J2Fic29sdXRlJywgdG9wOiAxMCwgcmlnaHQ6IDEwfX0+aGVsbG88L1RleHQ+CiAgICAgICAgPC9Ub3VjaGFibGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IWZldGNoaW5nICYmICgKICAgICAgICAgIDxUb3VjaGFibGUgc3R5bGU9e3N0eWxlcy5jbG9zZX0gb25QcmVzcz17dGhpcy5vbkNsb3NlfT4KICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5pY29ufQogICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2Nsb3NlLnBuZycpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Ub3VjaGFibGU+CiAgICAgICAgKX0K</text>
+        <text encoding="base64">ICAgICAgICB7ZmV0Y2hpbmcgPyAoCiAgICAgICAgICA8QWN0aXZpdHlJbmRpY2F0b3IvPgogICAgICAgICkgOiAoCiAgICAgICAgICA8VGV4dD5oZWxsbzwvVGV4dD4KICAgICAgICApfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb3VjaGFibGUgc3R5bGU9e3N0eWxlcy5jbG9zZX0gb25QcmVzcz17dGhpcy5vbkNsb3NlfT4KICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5pY29ufQogICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2Nsb3NlLnBuZycpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Ub3VjaGFibGU+Cg==</text>
+        <text encoding="base64">ICA8VG91Y2hhYmxlCiAgICB7Li4ucmVzdH0KICAgIHN0eWxlPXt7CiAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICBib3JkZXJCb3R0b21XaWR0aDogMiwKICAgICAgYm9yZGVyQm90dG9tQ29sb3I6IGZvY3VzZWQgPyBDb25zdC5jLmNfYWN0aW9uX2JhciA6ICd0cmFuc3BhcmVudCcsCiAgICAgIHBhZGRpbmdCb3R0b206IDUsCiAgICB9fQogID4KICAgIDxUZXh0IHN0eWxlPXtbc3R5bGVzLnRleHQsIHRleHRTdHlsZV19Pnt0ZXh0fTwvVGV4dD4KICA8L1RvdWNoYWJsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpdGxlOiAnTG9naW4nLAo=</text>
+        <text encoding="base64">ICA8L1RvdWNoYWJsZT4KKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmV4cG9ydCB7IGRlZmF1bHQgYXMgQXV0aE5hdmlnYXRvciB9IGZyb20gJy4vbmF2L0F1dGhOYXZpZ2F0b3InOwpleHBvcnQgeyBkZWZhdWx0IGFzIEhvbWVOYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9Ib21lTmF2aWdhdG9yJzsKZXhwb3J0IHsgZGVmYXVsdCBhcyBNeU5hdmlnYXRvciB9IGZyb20gJy4vbmF2L015TmF2aWdhdG9yJzsKZXhwb3J0IHsgZGVmYXVsdCBhcyBXYWxsZXROYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9XYWxsZXROYXZpZ2F0b3InOwo=</text>
+        <text encoding="base64">ICA8VG91Y2hhYmxlCiAgICB7Li4ucmVzdH0KICAgIHN0eWxlPXt7CiAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICBib3JkZXJCb3R0b21XaWR0aDogMiwKICAgICAgYm9yZGVyQm90dG9tQ29sb3I6IGZvY3VzZWQgPyBDb25zdC5jLmNfYWN0aW9uX2JhciA6ICd0cmFuc3BhcmVudCcsCiAgICAgIHBhZGRpbmdCb3R0b206IDUsCiAgICB9fQogID4KICAgIDxUZXh0IHN0eWxlPXtbc3R5bGVzLnRleHQsIHRleHRTdHlsZV19Pnt0ZXh0fTwvVGV4dD4KICA8L1RvdWNoYWJsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBBdXRoTG9hZGluZ1NjcmVlbiB9IGZyb20gJy4vYXV0aC9BdXRoTG9hZGluZ1NjcmVlbic7CgpleHBvcnQgeyBkZWZhdWx0IGFzIEF1dGhOYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9BdXRoTmF2aWdhdG9yJzsKZXhwb3J0IHsgZGVmYXVsdCBhcyBIb21lTmF2aWdhdG9yIH0gZnJvbSAnLi9uYXYvSG9tZU5hdmlnYXRvcic7CmV4cG9ydCB7IGRlZmF1bHQgYXMgTXlOYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9NeU5hdmlnYXRvcic7CmV4cG9ydCB7IGRlZmF1bHQgYXMgV2FsbGV0TmF2aWdhdG9yIH0gZnJvbSAnLi9uYXYvV2FsbGV0TmF2aWdhdG9yJzsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJUb2tlbiA9IFN0b3JhZ2UuZ2V0KCd1c2VyJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgPEJ1dHRvbiB0ZXh0PSJMb2dpbiIgb25QcmVzcz17dGhpcy5vbkxvZ2lufSAvPgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
