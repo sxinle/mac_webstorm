@@ -66,11 +66,12 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541056921297">
-        <mark key="[" line="80" column="84" />
-        <mark key="]" line="80" column="85" />
-        <mark key="." line="80" column="85" />
-        <mark key="^" line="80" column="78" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541057181389">
+        <mark key="'" line="32" column="24" />
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
+        <mark key="^" line="32" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/index.js" timestamp="1541050764168">
         <mark key="'" line="5" column="13" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="23" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="43" column="41" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
@@ -294,6 +294,7 @@
       <jump line="67" column="63" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="65" column="44" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="75" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="32" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -303,43 +304,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>justifyContent:'center'</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEaXZpZGVyIHN0eWxlPXt7IGhlaWdodDogMzAgfX0vPgo=</text>
+      <register name="0" type="4">
+        <text>NavigationActions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBzdHlsZT17c3R5bGVzLmJ0bn0gb25QcmVzcz17dGhpcy5fc2lnbkluQXN5bmN9PgogICAgICAgICAgICAgICAgICA8VGV4dD7nmbvpmYY8L1RleHQ+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbG9zZTogewogICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICByaWdodDogMTAsCiAgICB0b3A6IDMwLAogIH0sCg==</text>
+        <text encoding="base64">ICBvbkNsb3NlID0gKCkgPT4gewogICAgYWxlcnQoJ3h4eCcpOwogICAgLy8gdGhpcy5wcm9wcy5kaXNwYXRjaChOYXZpZ2F0aW9uQWN0aW9ucy5iYWNrKCkpOwogIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpY29uOiB7CiAgICB3aWR0aDogMjQsCiAgICBoZWlnaHQ6IDI0LAogICAgdGludENvbG9yOiAnZ3JheScsCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBzdHlsZT17c3R5bGVzLmJ0bn0gb25QcmVzcz17dGhpcy5fc2lnbkluQXN5bmN9PgogICAgICAgICAgICAgICAgICA8VGV4dD7nmbvpmYY8L1RleHQ+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbG9zZTogewogICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICByaWdodDogMTAsCiAgICB0b3A6IDMwLAogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpY29uOiB7CiAgICB3aWR0aDogMjQsCiAgICBoZWlnaHQ6IDI0LAogICAgdGludENvbG9yOiAnZ3JheScsCiAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUucHdkSW5wdXQgPyAnZ3JheScgOiBDb25zdC5jLmNfYWN0aW9uX2Jhcn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU9ezQ5fQo=</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hpbmc6IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0IGZyb20gJy4uLy4uL3V0aWxzL0NvbnN0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUucHdkSW5wdXQgPyAnZ3JheScgOiBDb25zdC5jLmNfYWN0aW9uX2Jhcn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
