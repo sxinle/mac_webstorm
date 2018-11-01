@@ -33,11 +33,11 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1540985571289">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1540989892275">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/navigation/MainTabNavigator.js" timestamp="1540964344294">
         <mark key="'" line="1" column="0" />
@@ -126,12 +126,12 @@
       <file name="$USER_HOME$/workspace/demo/jfans/package.json" timestamp="1540974559007">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1540989361140">
-        <mark key="'" line="49" column="39" />
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="20" column="33" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1540989944762">
+        <mark key="'" line="41" column="40" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="56" />
+        <mark key="^" line="41" column="56" />
+        <mark key="." line="48" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/demo/rnDva/.eslintrc" timestamp="1540886993153">
         <mark key="[" line="30" column="2" />
@@ -157,6 +157,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Layout.js" timestamp="1540990045827">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/colors.js" timestamp="1540978709319">
         <mark key="'" line="2" column="13" />
@@ -201,7 +208,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540987795504">
+      <file name="/Dummy.txt" timestamp="1540990054458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MyNavigator.js" timestamp="1540964799118">
@@ -284,9 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/demo/rnDva/app/containers/Account.js" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/demo/rnDva/app/containers/Account.js" />
-      <jump line="1" column="25" filename="$USER_HOME$/workspace/demo/rnDva/app/containers/Detail.js" />
       <jump line="7" column="68" filename="$USER_HOME$/workspace/demo/rnDva/package.json" />
       <jump line="18" column="27" filename="$USER_HOME$/workspace/demo/rnDva/package.json" />
       <jump line="17" column="24" filename="$USER_HOME$/workspace/demo/rnDva/app/components/Button.js" />
@@ -383,7 +387,10 @@
       <jump line="69" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="74" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="48" column="95" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
-      <jump line="49" column="39" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="49" column="61" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="42" column="40" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Layout.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Layout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,43 +400,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Const</text>
+        <text>.height;</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
       <register name="0" type="4">
-        <text>Layout</text>
+        <text>Const</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpY29uOiB7CiAgfSwK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTGF5b3V0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAsCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0IGZyb20gJy4uLy4uL3V0aWxzL0NvbnN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBJbWFnZSwK</text>
+        <text encoding="base64">ICBpY29uOiB7CiAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gc3R5bGU9e1tzdHlsZXMuaWNvbl19Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgey8qPFN0eWxlUHJvdmlkZXIgc3R5bGU9e2dldFRoZW1lKCl9PiovfQo=</text>
+        <text encoding="base64">ICBJbWFnZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gPC9TdHlsZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gc3R5bGU9e1tzdHlsZXMuaWNvbl19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZT48L0ltYWdlPgo=</text>
+        <text encoding="base64">ICAgICAgey8qPFN0eWxlUHJvdmlkZXIgc3R5bGU9e2dldFRoZW1lKCl9PiovfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gPC9TdHlsZVByb3ZpZGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMaXN0SXRlbQogICAgICAgICAgICAgICAgICBpY29uCiAgICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ01vZFB3ZCcpOwogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8TGVmdD4KICAgICAgICAgICAgICAgICAgICA8VGh1bWJuYWlsCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBoZWlnaHQ6IDI1LCB3aWR0aDogMjAgfX0KICAgICAgICAgICAgICAgICAgICAgIHNtYWxsCiAgICAgICAgICAgICAgICAgICAgICBzcXVhcmUKICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2ljb25fbWVfa3VjdW4ucG5nJyl9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9MZWZ0PgogICAgICAgICAgICAgICAgICA8Qm9keT4KICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5tZW51Rm9udH0+5oiR55qE5bqT5a2YPC9UZXh0PgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICAgIDxSaWdodD4KICAgICAgICAgICAgICAgICAgICA8SWNvbiBhY3RpdmUgbmFtZT0iYXJyb3ctZm9yd2FyZCIgLz4KICAgICAgICAgICAgICAgICAgPC9SaWdodD4KICAgICAgICAgICAgICAgIDwvTGlzdEl0ZW0+CiAgICAgICAgICAgICAgICA8TGlzdEl0ZW0gaWNvbiBvblByZXNzPXsoKSA9PiB7fX0+CiAgICAgICAgICAgICAgICAgIDxMZWZ0PgogICAgICAgICAgICAgICAgICAgIDxUaHVtYm5haWwKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogMjAsIHdpZHRoOiAyMCB9fQogICAgICAgICAgICAgICAgICAgICAgc21hbGwKICAgICAgICAgICAgICAgICAgICAgIHNxdWFyZQogICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9pbWFnZXMvaWNvbl9tZV9qaWFnZS5wbmcnKX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L0xlZnQ+CiAgICAgICAgICAgICAgICAgIDxCb2R5PgogICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLm1lbnVGb250fT7llYblk4Hku7fmoLzooag8L1RleHQ+CiAgICAgICAgICAgICAgICAgIDwvQm9keT4KICAgICAgICAgICAgICAgICAgPFJpZ2h0PgogICAgICAgICAgICAgICAgICAgIDxJY29uIGFjdGl2ZSBuYW1lPSJhcnJvdy1mb3J3YXJkIiAvPgogICAgICAgICAgICAgICAgICA8L1JpZ2h0PgogICAgICAgICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICAgICAgICAgIDxMaXN0SXRlbSBpY29uIG9uUHJlc3M9eygpID0+IHt9fT4KICAgICAgICAgICAgICAgICAgPExlZnQ+CiAgICAgICAgICAgICAgICAgICAgPFRodW1ibmFpbAogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgaGVpZ2h0OiAyMCwgd2lkdGg6IDIwIH19CiAgICAgICAgICAgICAgICAgICAgICBzbWFsbAogICAgICAgICAgICAgICAgICAgICAgc3F1YXJlCiAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2ltYWdlcy9pY29uX21lX21pbWEucG5nJyl9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9MZWZ0PgogICAgICAgICAgICAgICAgICA8Qm9keT4KICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5tZW51Rm9udH0+5L+u5pS55a+G56CBPC9UZXh0PgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICAgIDxSaWdodD4KICAgICAgICAgICAgICAgICAgICA8SWNvbiBhY3RpdmUgbmFtZT0iYXJyb3ctZm9yd2FyZCIgLz4KICAgICAgICAgICAgICAgICAgPC9SaWdodD4KICAgICAgICAgICAgICAgIDwvTGlzdEl0ZW0+CiAgICAgICAgICAgICAgICA8TGlzdEl0ZW0gaWNvbiBvblByZXNzPXsoKSA9PiB7fX0+CiAgICAgICAgICAgICAgICAgIDxMZWZ0PgogICAgICAgICAgICAgICAgICAgIDxUaHVtYm5haWwKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogMjAsIHdpZHRoOiAyMCB9fQogICAgICAgICAgICAgICAgICAgICAgc21hbGwKICAgICAgICAgICAgICAgICAgICAgIHNxdWFyZQogICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9pbWFnZXMvaWNvbl9tZV91cGRhdGUucG5nJyl9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9MZWZ0PgogICAgICAgICAgICAgICAgICA8Qm9keT4KICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5tZW51Rm9udH0+5qOA5p+l5paw54mI5pysPC9UZXh0PgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICAgIDxSaWdodD4KICAgICAgICAgICAgICAgICAgICA8SWNvbiBhY3RpdmUgbmFtZT0iYXJyb3ctZm9yd2FyZCIgLz4KICAgICAgICAgICAgICAgICAgPC9SaWdodD4KICAgICAgICAgICAgICAgIDwvTGlzdEl0ZW0+CiAgICAgICAgICAgICAgICA8TGlzdEl0ZW0gaWNvbiBvblByZXNzPXsoKSA9PiB7fX0+CiAgICAgICAgICAgICAgICAgIDxMZWZ0PgogICAgICAgICAgICAgICAgICAgIDxUaHVtYm5haWwKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogMjAsIHdpZHRoOiAyMCB9fQogICAgICAgICAgICAgICAgICAgICAgc21hbGwKICAgICAgICAgICAgICAgICAgICAgIHNxdWFyZQogICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9pbWFnZXMvaWNvbl9tZV9hYm91dC5wbmcnKX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L0xlZnQ+CiAgICAgICAgICAgICAgICAgIDxCb2R5PgogICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLm1lbnVGb250fT7lhbPkuo7miJHku6w8L1RleHQ+CiAgICAgICAgICAgICAgICAgIDwvQm9keT4KICAgICAgICAgICAgICAgICAgPFJpZ2h0PgogICAgICAgICAgICAgICAgICAgIDxJY29uIGFjdGl2ZSBuYW1lPSJhcnJvdy1mb3J3YXJkIiAvPgogICAgICAgICAgICAgICAgICA8L1JpZ2h0PgogICAgICAgICAgICAgICAgPC9MaXN0SXRlbT4KICAgICAgICAgICAgICAgIDxMaXN0SXRlbSBpY29uIG9uUHJlc3M9eygpID0+IHt9fT4KICAgICAgICAgICAgICAgICAgPExlZnQ+CiAgICAgICAgICAgICAgICAgICAgPFRodW1ibmFpbAogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgaGVpZ2h0OiAyMCwgd2lkdGg6IDIwIH19CiAgICAgICAgICAgICAgICAgICAgICBzbWFsbAogICAgICAgICAgICAgICAgICAgICAgc3F1YXJlCiAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2ltYWdlcy9pY29uX21lX2V4aXQucG5nJyl9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9MZWZ0PgogICAgICAgICAgICAgICAgICA8Qm9keT4KICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5tZW51Rm9udH0+5a6J5YWo6YCA5Ye6PC9UZXh0PgogICAgICAgICAgICAgICAgICA8L0JvZHk+CiAgICAgICAgICAgICAgICAgIDxSaWdodD4KICAgICAgICAgICAgICAgICAgICA8SWNvbiBhY3RpdmUgbmFtZT0iYXJyb3ctZm9yd2FyZCIgLz4KICAgICAgICAgICAgICAgICAgPC9SaWdodD4KICAgICAgICAgICAgICAgIDwvTGlzdEl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZT48L0ltYWdlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
