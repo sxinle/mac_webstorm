@@ -15,6 +15,13 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" timestamp="1541061586486">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/components/Spinner.js" timestamp="1541053969855">
         <mark key="'" line="114" column="6" />
         <mark key="[" line="47" column="21" />
@@ -66,12 +73,16 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541057181389">
-        <mark key="'" line="32" column="24" />
-        <mark key="[" line="32" column="58" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="32" column="66" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541061658816">
+        <mark key="[" line="68" column="82" />
+        <mark key="]" line="68" column="91" />
+        <mark key="." line="68" column="82" />
+        <mark key="^" line="69" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/storage.js" timestamp="1541058814644">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/index.js" timestamp="1541050764168">
         <mark key="'" line="5" column="13" />
@@ -135,16 +146,22 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" timestamp="1541056560894">
-        <mark key="[" line="220" column="6" />
-        <mark key="]" line="220" column="12" />
+      <file name="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" timestamp="1541060154492">
+        <mark key="[" line="1160" column="6" />
+        <mark key="]" line="1160" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1541050679980">
-        <mark key="'" line="140" column="6" />
-        <mark key="[" line="153" column="28" />
-        <mark key="]" line="153" column="28" />
-        <mark key="^" line="124" column="34" />
-        <mark key="." line="153" column="28" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1541059753359">
+        <mark key="'" line="178" column="65" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/index.js" timestamp="1541061542238">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconText.js" timestamp="1541039948250">
         <mark key="'" line="3" column="14" />
@@ -195,12 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
-      <jump line="23" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
-      <jump line="43" column="41" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
-      <jump line="40" column="86" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
-      <jump line="41" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
-      <jump line="6" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="29" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="51" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
@@ -265,7 +276,6 @@
       <jump line="133" column="53" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="29" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="167" column="4" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="177" column="12" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="125" column="9" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="140" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
@@ -290,11 +300,18 @@
       <jump line="7" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="58" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="57" column="49" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="8" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="67" column="63" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="65" column="44" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="75" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="32" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="35" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="9" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="8" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
+      <jump line="5" column="27" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
+      <jump line="177" column="65" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
+      <jump line="8" column="54" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,43 +321,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>loginPwd</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="4">
-        <text>NavigationActions</text>
+        <text>loginName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbkNsb3NlID0gKCkgPT4gewogICAgYWxlcnQoJ3h4eCcpOwogICAgLy8gdGhpcy5wcm9wcy5kaXNwYXRjaChOYXZpZ2F0aW9uQWN0aW9ucy5iYWNrKCkpOwogIH07Cg==</text>
+        <text encoding="base64">ICAgICdBbGVydCBUaXRsZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gcm91bmRlZCBzdHlsZT17c3R5bGVzLmJ0bn0gb25QcmVzcz17dGhpcy5fc2lnbkluQXN5bmN9PgogICAgICAgICAgICAgICAgICA8VGV4dD7nmbvpmYY8L1RleHQ+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIGJ1dHRvblRleHQ6ICdYJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbG9zZTogewogICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICByaWdodDogMTAsCiAgICB0b3A6IDMwLAogIH0sCg==</text>
+        <text encoding="base64">ICAgIHN0eWxlOiB7IGJhY2tncm91bmRDb2xvcjogJ2JsYWNrJywganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpY29uOiB7CiAgICB3aWR0aDogMjQsCiAgICBoZWlnaHQ6IDI0LAogICAgdGludENvbG9yOiAnZ3JheScsCiAgfSwK</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnY2VudGVyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvblN0eWxlOiB7IHdpZHRoOiAwIH0sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hpbmc6IGZhbHNlLAo=</text>
+      <register name="8" type="4">
+        <text>center</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9e3RoaXMuc3RhdGUucHdkSW5wdXQgPyAnZ3JheScgOiBDb25zdC5jLmNfYWN0aW9uX2Jhcn0K</text>
+        <text encoding="base64">aW1wb3J0IHsgdG9hc3QgfSBmcm9tICcuLi8uLi91dGlscyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
