@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/services/user.js" timestamp="1541139195841">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/services/user.js" timestamp="1541142025747">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1541075785050">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="90" />
+        <mark key="^" line="65" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1541149521491">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" timestamp="1541140389312">
         <mark key="'" line="98" column="0" />
@@ -16,18 +30,39 @@
         <mark key="^" line="92" column="63" />
         <mark key="." line="92" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/services/auth.js" timestamp="1541066372313">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/NavigationService.js" timestamp="1541141886250">
+        <mark key="'" line="9" column="47" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/HomeNavigator.js" timestamp="1541121800735">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="7" column="2" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541140403375">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/Spinner.js" timestamp="1541053969855">
+        <mark key="'" line="114" column="6" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541144549618">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AuthNavigator.js" timestamp="1541122129768">
         <mark key="[" line="4" column="0" />
@@ -39,9 +74,22 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/card/SelBtn.js" timestamp="1541149310755">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-navigation-redux-helpers/index.d.ts" timestamp="1541141219651">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/AuthLoadingScreen.js" timestamp="1541064112988">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/components/MyLoading.js" timestamp="1541140421511">
         <mark key="'" line="2" column="14" />
@@ -50,23 +98,37 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/index.js" timestamp="1541125450829">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/services/card.js" timestamp="1541148930068">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/index.js" timestamp="1541148758517">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/models/auth.js" timestamp="1541070445611">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="41" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="35" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541131259169">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/index.js" timestamp="1541140119892">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/index.js" timestamp="1541148950446">
         <mark key="'" line="5" column="13" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541128552067">
+      <file name="/Dummy.txt" timestamp="1541142254215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/.eslintrc" timestamp="1541131174456">
@@ -95,11 +157,11 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="39" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/models/index.js" timestamp="1541070466958">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/models/index.js" timestamp="1541148959749">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MainTabNavigator.js" timestamp="1541124804650">
         <mark key="'" line="57" column="22" />
@@ -108,12 +170,12 @@
         <mark key="." line="67" column="31" />
         <mark key="^" line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1541141160531">
-        <mark key="'" line="63" column="19" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1541141843883">
+        <mark key="'" line="64" column="19" />
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="28" />
-        <mark key="." line="65" column="7" />
-        <mark key="^" line="65" column="7" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/index.js" timestamp="1541061542238">
         <mark key="[" line="4" column="0" />
@@ -121,24 +183,31 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" timestamp="1541128202406">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" timestamp="1541148785654">
         <mark key="'" line="4" column="14" />
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-        <mark key="^" line="17" column="6" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/components/index.js" timestamp="1541131200602">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/index.js" timestamp="1541144460679">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541131277099">
-        <mark key="'" line="32" column="30" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="34" column="75" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/card/BizIconText.js" timestamp="1541144352045">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541149197561">
+        <mark key="'" line="36" column="17" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" timestamp="1541121000972">
         <mark key="[" line="11" column="0" />
@@ -148,6 +217,12 @@
         <mark key="[" line="20" column="30" />
         <mark key="]" line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/models/card.js" timestamp="1541149500126">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" timestamp="1541138576862">
         <mark key="'" line="66" column="98" />
         <mark key="[" line="63" column="0" />
@@ -155,33 +230,22 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541140936344">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="86" column="36" />
-        <mark key="]" line="86" column="44" />
-        <mark key="^" line="86" column="44" />
-        <mark key="." line="86" column="44" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/components/Loading.js" timestamp="1541068733035">
+        <mark key="'" line="5" column="62" />
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="70" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541142202235">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="35" />
+        <mark key="^" line="78" column="35" />
+        <mark key="." line="78" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native-loading-spinner-overlay/index.js" />
-      <jump line="112" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/components/Spinner.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="20" column="50" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="62" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="68" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="58" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="57" column="49" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="67" column="63" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="65" column="44" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="75" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="32" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="35" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="9" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="8" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
-      <jump line="5" column="27" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
       <jump line="177" column="65" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="6" column="21" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
       <jump line="8" column="54" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
@@ -264,25 +328,43 @@
       <jump line="85" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
       <jump line="62" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
+      <jump line="9" column="47" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/NavigationService.js" />
+      <jump line="102" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
+      <jump line="96" column="38" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
+      <jump line="47" column="20" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="28" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="45" column="21" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="46" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="13" column="18" filename="$USER_HOME$/workspace/demo/jfans/app/components/card/BizIconText.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="30" column="34" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="26" column="40" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="39" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="40" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="24" column="38" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="27" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="17" column="20" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>AtyDetail</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>newOptions</text>
       </register>
-      <register name="0" type="4">
-        <text>reduxifyNavigator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGFvY2FuIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBOYXZpZ2F0aW9uQWN0aW9ucy5uYXZpZ2F0ZSh7IHJvdXRlTmFtZTogJ0NhcmRJbmRleCcgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHNlbDoge30sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -291,25 +373,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb250ZW50OiB7CiAgICBwYWRkaW5nTGVmdDogJzIlJywKICAgIHBhZGRpbmdSaWdodDogJzIlJywKICB9LAogIGNvbnRhaW5lcjogewogICAgYmFja2dyb3VuZENvbG9yOiBDb25zdC5jLmhvbWVfYmdfY29sb3IsCiAgfSwKICBiZ1doaXRlOiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRkZGJywKICB9LAogIHRpdGxlOiB7CiAgICBwYWRkaW5nVG9wOiAnNSUnLAogICAgcGFkZGluZ0JvdHRvbTogJzUlJywKICAgIHdpZHRoOiAnMTAwJScsCiAgICB0ZXh0QWxpZ246ICdsZWZ0JywKICAgIGZvbnRTaXplOiBDb25zdC5mLmZvbnRTaXplVGl0bGUsCiAgICBjb2xvcjogQ29uc3QuYy5jX2FjdGlvbl9iYXIsCiAgfSwKICBidG5uZXh0OiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbnN0LmMuY19hY3Rpb25fYmFyLAogICAgY29sb3I6ICd3aGl0ZScsCiAgICB3aWR0aDogJzk2JScsCiAgICBtYXJnaW5MZWZ0OiAnMiUnLAogICAgbWFyZ2luQm90dG9tOiAxMCwKICB9LAogIHRleHRhcmVhOiB7CiAgICBib3JkZXJXaWR0aDogMSwKICAgIGJvcmRlckNvbG9yOiBDb25zdC5jLmJ0bl9ib3JkZXIsCiAgICBmb250U2l6ZTogQ29uc3QuZi5mb250U2l6ZVRpdGxlLAogICAgcGFkZGluZ1RvcDogMjUsCiAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGFvY2FuIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgYXBwLl9zdG9yZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxHcmlkIHNjcm9sbEVuYWJsZWQ9e2ZhbHNlfT4KICAgICAgICAgICAgPFJvdyBzdHlsZT17W3N0eWxlcy5iZ1doaXRlXX0+CiAgICAgICAgICAgICAgPENvbnRlbnQgc3R5bGU9e3N0eWxlcy5jb250ZW50fSBzY3JvbGxFbmFibGVkPXtmYWxzZX0+CiAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnRpdGxlfT7ln7rmnKw8L1RleHQ+CiAgICAgICAgICAgICAgICA8U2VsQnRuIGluZm89e3Rhb2Nhbi5pZCA/IHRhb2Nhbi50eHQgOiAn6YCJ5oup5aWX6aSQJ30gb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ1NlbFRhb0NhbicpOwogICAgICAgICAgICAgICAgfX0vPgogICAgICAgICAgICAgICAgPFNlbEJ0biBpbmZvPSfpgInmi6nlj7fnoIEnLz4KICAgICAgICAgICAgICAgIDxTZWxCdG4gaW5mbz0n6Lqr5Lu96K+75Y+WJy8+CiAgICAgICAgICAgICAgPC9Db250ZW50PgogICAgICAgICAgICA8L1Jvdz4KICAgICAgICAgICAgPERpdmlkZXIgc3R5bGU9e3sgaGVpZ2h0OiAyMCB9fS8+CgogICAgICAgICAgICA8Um93IHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogJyNmZmYnLCBoZWlnaHQ6IENvbnN0Lndpbi5oZWlnaHQgLyA0IH19PgogICAgICAgICAgICAgIDxDb250ZW50IHN0eWxlPXtzdHlsZXMuY29udGVudH0gc2Nyb2xsRW5hYmxlZD17ZmFsc2V9PgogICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50aXRsZX0+5aSH5rOoPC9UZXh0PgogICAgICAgICAgICAgICAgPFRleHRhcmVhIHJvd1NwYW49ezN9IHBsYWNlaG9sZGVyPSLloavlhpnlpIfms6jvvIjlj6/kuI3loavvvIkiIHN0eWxlPXtzdHlsZXMudGV4dGFyZWF9Lz4KICAgICAgICAgICAgICA8L0NvbnRlbnQ+CiAgICAgICAgICAgIDwvUm93PgogICAgICAgICAgICA8RGl2aWRlciBzdHlsZT17eyBoZWlnaHQ6IENvbnN0Lndpbi5oZWlnaHQgLyA2IH19Lz4KICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgIDxCdXR0b24gYmxvY2sgZGFuZ2VyIHN0eWxlPXtzdHlsZXMuYnRubmV4dH0+CiAgICAgICAgICAgIDxUZXh0PuS4i+S4gOatpTwvVGV4dD4KICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IF9zdG9yZSBmcm9tICcuLi9pbmRleCc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGFvY2FuIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgdXNlciB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICB0aGlzLnNldFN0YXRlKHsgdHh0OiAn6L295YWl5LitLi4uJyB9KTsKICAgIH0sIDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTZWxCdG4gaW5mbz0n6YCJ5oup5aWX6aSQJy8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
