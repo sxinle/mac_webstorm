@@ -42,10 +42,10 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541069250740">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541126167627">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="16" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AuthNavigator.js" timestamp="1541122129768">
@@ -134,14 +134,18 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" timestamp="1541125493152">
-        <mark key="'" line="7" column="35" />
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" timestamp="1541126206747">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541123019189">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541126015764">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyDetail.js" timestamp="1541121000972">
         <mark key="[" line="11" column="0" />
@@ -165,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/LineMore.js" />
       <jump line="55" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="6" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BigImage.js" />
       <jump line="13" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BigImage.js" />
@@ -265,6 +268,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="69" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MainTabNavigator.js" />
       <jump line="6" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" />
+      <jump line="4" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,43 +278,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>AuthLoadingScreen</text>
+        <text>20,</text>
       </register>
       <register name="/" type="4">
         <text>onPress</text>
       </register>
       <register name="0" type="4">
-        <text>AppNavigator</text>
+        <text>fontSizeTitle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBBcHBOYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9BcHBOYXZpZ2F0b3InOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnYm9sZCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhbGlnblNlbGY6ICdmbGV4LXN0YXJ0JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29udGFpbmVycy9hdXRoL0xvZ2luJzsK</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiBDb25zdC5jLmNfYWN0aW9uX2JhciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQXV0aFN0YWNrID0gY3JlYXRlU3RhY2tOYXZpZ2F0b3IoeyBMb2dpbiB9LCB7IGhlYWRlck1vZGU6ICdub25lJyB9KTsKCmNvbnN0IHJvb3RTdGFjayA9IGNyZWF0ZVN3aXRjaE5hdmlnYXRvcigKICB7CiAgICBBdXRoTG9hZGluZzogQXV0aExvYWRpbmdTY3JlZW4sCiAgICBBdXRoOiBBdXRoU3RhY2ssCiAgICBBcHA6IEFwcE5hdmlnYXRvciwKICB9LAogIHsgaW5pdGlhbFJvdXRlTmFtZTogJ0F1dGhMb2FkaW5nJyB9LAopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBIb21lIH0gZnJvbSAnLi9ob21lL0hvbWUnOwo=</text>
+        <text encoding="base64">ZXhwb3J0IHsgZGVmYXVsdCBhcyBBcHBOYXZpZ2F0b3IgfSBmcm9tICcuL25hdi9BcHBOYXZpZ2F0b3InOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYWRlck1vZGU6ICdub25lJywKICAgIG1vZGU6ICdtb2RhbCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vY29udGFpbmVycy9hdXRoL0xvZ2luJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQXV0aFN0YWNrID0gY3JlYXRlU3RhY2tOYXZpZ2F0b3IoeyBMb2dpbiB9LCB7IGhlYWRlck1vZGU6ICdub25lJyB9KTsKCmNvbnN0IHJvb3RTdGFjayA9IGNyZWF0ZVN3aXRjaE5hdmlnYXRvcigKICB7CiAgICBBdXRoTG9hZGluZzogQXV0aExvYWRpbmdTY3JlZW4sCiAgICBBdXRoOiBBdXRoU3RhY2ssCiAgICBBcHA6IEFwcE5hdmlnYXRvciwKICB9LAogIHsgaW5pdGlhbFJvdXRlTmFtZTogJ0F1dGhMb2FkaW5nJyB9LAopOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
