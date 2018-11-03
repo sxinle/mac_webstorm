@@ -17,11 +17,11 @@
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/Util.js" timestamp="1541236902457">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/Util.js" timestamp="1541241762663">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1541164865236">
         <mark key="'" line="223" column="21" />
@@ -83,8 +83,8 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541236884749">
-        <mark key="'" line="34" column="12" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541241347967">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="53" />
         <mark key="." line="70" column="0" />
@@ -158,9 +158,12 @@
         <mark key="." line="32" column="54" />
         <mark key="^" line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/util/Request.js" timestamp="1541236969020">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="43" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/util/Request.js" timestamp="1541241411227">
+        <mark key="'" line="52" column="19" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="56" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/LoadingUtil.js" timestamp="1541130471838">
         <mark key="'" line="18" column="6" />
@@ -203,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/LoadingUtil.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/utils/LoadingUtil.js" />
       <jump line="36" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" />
       <jump line="17" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" />
@@ -303,6 +304,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="52" column="19" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,43 +315,43 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>NativeModules</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>closeSDK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZGsgPSBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlcjsK</text>
+      <register name="0" type="4">
+        <text>NativeModules</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxpc3RlbmVyID0gY2xvc2VTREtFdmVudC5hZGRMaXN0ZW5lcignYmFja0Zyb21TREsnLCB0aGlzLmJhY2tGcm9tU0RLLmJpbmQodGhpcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZGsuc2hvd1ZDKGlucHV0UGhvbmUgPyBpbnB1dFBob25lIDogcGhvbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZSh0b2tlbik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY2xvc2VTREtFdmVudCA9IG5ldyBOYXRpdmVFdmVudEVtaXR0ZXIoTmF0aXZlTW9kdWxlcy5SZWFjdE5hdGl2ZU1hbmFnZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRva2VuOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmcy5yZWFkRmlsZSgnLi8xLnR4dCcsICd1dGY4JywgKGVyciwgZGF0YSkgPT4gewogICAgICAgICAgICBlcnIgPyByZWplY3QoZXJyKSA6IHJlc29sdmUoZGF0YSk7CiAgICAgICAgfSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">c2RrLmdldE5hdGl2ZVRva2VuKCdVdGlsLmdldFRva2VuKCknLCAoZXJyLCB0b2tlbikgPT4gewogICAgICAgIHJldHVybiB0b2tlbjsKICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgneCcpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBwcm9taXNlID0gbmV3IFByb21pc2UoZnVuY3Rpb24gKHJlc29sdmUsIHJlamVjdCkgewogICAgICAgIHJlc29sdmUoIlN0dWZmIHdvcmtlZCEiKTsKICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
