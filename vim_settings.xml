@@ -79,6 +79,12 @@
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1541164865236">
         <mark key="'" line="223" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1541212980539">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/services/card.js" timestamp="1541155080895">
         <mark key="[" line="13" column="73" />
         <mark key="]" line="13" column="91" />
@@ -91,6 +97,10 @@
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/navigation/MainTabNavigator.js" timestamp="1541212029521">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541154155149">
         <mark key="'" line="133" column="26" />
         <mark key="[" line="16" column="16" />
@@ -98,12 +108,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" timestamp="1541124588342">
-        <mark key="'" line="36" column="16" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="9" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" timestamp="1541213098319">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541164967318">
+      <file name="/Dummy.txt" timestamp="1541212474402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/.eslintrc" timestamp="1541154656595">
@@ -212,8 +222,11 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541120827985">
-        <mark key="'" line="168" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541213067370">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" timestamp="1541155004755">
         <mark key="'" line="195" column="21" />
@@ -232,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="26" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
-      <jump line="9" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="61" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MainTabNavigator.js" />
       <jump line="1" column="18" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" />
       <jump line="57" column="1" filename="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MainTabNavigator.js" />
@@ -332,6 +343,8 @@
       <jump line="197" column="35" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" />
       <jump line="208" column="49" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" />
       <jump line="223" column="21" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" />
+      <jump line="12" column="19" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="26" column="25" filename="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,43 +354,43 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text encoding="base64">PFRleHQ+aGVsbG88L1RleHQ+</text>
       </register>
       <register name="/" type="4">
         <text>transparent</text>
       </register>
       <register name="0" type="4">
-        <text>Modal</text>
+        <text>Text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJ2JsYWNrJywgb3BhY2l0eTogMC44fX0K</text>
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uT3B0aW9uczogewogICAgICAgICAgICBoZWFkZXJMZWZ0OiAKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJMZWZ0OiA8VGV4dD5oZWxsbzwvVGV4dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnYmxhY2snLAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJMZWZ0OiA8VGV4dD5oZWxsbzwvVGV4dD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjonYmxhY2snfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbnJlcXUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7c3Bpbm5lcn0K</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJ2JsYWNrJywgb3BhY2l0eTogMC44fX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcKICAgICAgICBzdHlsZT17ewogICAgICAgICAgZmxleDogMSwKICAgICAgICAgIHcsCiAgICAgICAgICBoLAogICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6J3JlZCcsCiAgICAgICAgICAvLyBiYWNrZ3JvdW5kQ29sb3I6ICcjMTAxMDEwOTknLAogICAgICAgIH19CiAgICAgID4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmxvYWRpbmd9PgogICAgICAgICAgPEFjdGl2aXR5SW5kaWNhdG9yIGNvbG9yPSJ3aGl0ZSIgLz4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMubG9hZGluZ1RpdGxlfT57dGhpcy5zdGF0ZS50eHR9PC9UZXh0PgogICAgICAgIDwvVmlldz4KICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnYmxhY2snLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEsICdbID09PT09IGRhdGEgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e2JhY2tncm91bmRDb2xvcjonYmxhY2snfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -390,7 +403,7 @@
       <last-replace>option</last-replace>
       <last-substitute>newOptions</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
