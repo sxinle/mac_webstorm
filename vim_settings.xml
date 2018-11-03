@@ -79,9 +79,9 @@
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1541164865236">
         <mark key="'" line="223" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1541212980539">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1541224212290">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="127" column="64" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="32" />
       </file>
@@ -229,9 +229,9 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1541216147480">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="82" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1541224159235">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" timestamp="1541138576862">
         <mark key="'" line="66" column="98" />
@@ -240,11 +240,12 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541216187841">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541224367727">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541151044300">
         <mark key="'" line="2" column="0" />
@@ -263,9 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="38" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/components/MyLoading.js" />
-      <jump line="2" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/components/MyLoading.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/LoadingUtil.js" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/utils/LoadingUtil.js" />
       <jump line="36" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" />
@@ -363,6 +361,9 @@
       <jump line="81" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="56" column="30" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="32" column="10" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,52 +373,52 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>backFromSDKEvent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWaWV3XD4=</text>
+        <text>closeSDK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYmFja0Zyb21TREtFdmVudCA9IG5ldyBOYXRpdmVFdmVudEVtaXR0ZXIoTmF0aXZlTW9kdWxlcy5SZWFjdE5hdGl2ZU1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBzZGsgPSBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlcjsKICAgICAgICAgICAgICAgICAgICBzZGsuc2hvd1ZDKGlucHV0UGhvbmUgPyBpbnB1dFBob25lIDogcGhvbmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxpc3RlbmVyID0gY2xvc2VTREtFdmVudC5hZGRMaXN0ZW5lcignYmFja0Zyb21TREsnLCB0aGlzLmJhY2tGcm9tU0RLLmJpbmQodGhpcykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZGsuc2hvd1ZDKGlucHV0UGhvbmUgPyBpbnB1dFBob25lIDogcGhvbmUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgneCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2xvc2VTREtFdmVudCA9IG5ldyBOYXRpdmVFdmVudEVtaXR0ZXIoTmF0aXZlTW9kdWxlcy5SZWFjdE5hdGl2ZU1hbmFnZXIpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGl0bGU6ICfpppbpobUnLAogICAgICAgICAgICAvLyBoZWFkZXJSaWdodDoKICAgICAgICAgICAgLy8gICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICAgIC8vICAgICAgICAgc3R5bGU9e3twYWRkaW5nUmlnaHQ6IDMwLCBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsIGFsaWduSXRlbXM6ICdjZW50ZXInLCB0ZXh0QWxpZ246ICdjZW50ZXInfX0+CiAgICAgICAgICAgIC8vICAgICAgICAgPEljb24gbmFtZT17J2Nsb3NlJ30gc3R5bGU9e3sKICAgICAgICAgICAgLy8gICAgICAgICAgICAgZm9udFNpemU6IDMwLAogICAgICAgICAgICAvLyAgICAgICAgICAgICBmb250V2VpZ2h0OiA5MDAsCiAgICAgICAgICAgIC8vICAgICAgICAgfX0gdHlwZT0iTWF0ZXJpYWxJY29ucyIgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAvLyAgICAgICAgICAgICB0aGlzLl9jbG9zZTsKICAgICAgICAgICAgLy8gICAgICAgICB9fQogICAgICAgICAgICAvLyAgICAgICAgIC8+CiAgICAgICAgICAgIC8vICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxIZWFkZXI+CiAgICAgICAgICAgICAgICAgICAgPExlZnQgc3R5bGU9e3tmbGV4OiAwLjEwLCBtYXJnaW5MZWZ0OiA1fX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdHJhbnNwYXJlbnQgb25QcmVzcz17KCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmdvQmFjaygpfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHN0eWxlPXt7Y29sb3I6ICdibGFjayd9fSBuYW1lPSdhcnJvdy1iYWNrJy8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvTGVmdD4KICAgICAgICAgICAgICAgICAgICA8Qm9keT4KICAgICAgICAgICAgICAgICAgICA8SXRlbT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuZGVybGF5Q29sb3I6ICd0cmFuc3BhcmVudCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMTgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgICAgICAgICAgICAgICAgICAgICAgIH19PummlumhtTwvVGV4dD4KICAgICAgICAgICAgICAgICAgICA8L0l0ZW0+CiAgICAgICAgICAgICAgICAgICAgPC9Cb2R5PgogICAgICAgICAgICAgICAgICAgIDxSaWdodCBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogJ2JsYWNrJ319PjwvUmlnaHQ+CiAgICAgICAgICAgICAgICA8L0hlYWRlcj4K</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Qm9keT4K</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgneCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWaWV3XD4=</last-search>
+      <last-search>closeSDK</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWaWV3XD4=</last-pattern>
+      <last-pattern>closeSDK</last-pattern>
       <last-replace>option</last-replace>
       <last-substitute>newOptions</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>Loading</entry>
         <entry encoding="base64">XDxMb2dpblw+</entry>
         <entry>modu</entry>
@@ -445,6 +445,7 @@
         <entry>transparent</entry>
         <entry>Touch</entry>
         <entry encoding="base64">XDxWaWV3XD4=</entry>
+        <entry>closeSDK</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz4+Lz4vZw==</entry>
