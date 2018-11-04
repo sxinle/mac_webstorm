@@ -92,12 +92,12 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541320324136">
-        <mark key="'" line="198" column="9" />
-        <mark key="[" line="195" column="16" />
-        <mark key="]" line="196" column="14" />
-        <mark key="." line="118" column="56" />
-        <mark key="^" line="196" column="14" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541328166965">
+        <mark key="'" line="182" column="25" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="9" />
+        <mark key="^" line="85" column="9" />
+        <mark key="." line="85" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1541241347967">
         <mark key="'" line="33" column="0" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="39" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="40" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="24" column="38" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" />
@@ -351,6 +350,7 @@
       <jump line="97" column="60" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="93" column="61" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="202" column="9" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="148" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -360,13 +360,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tcHJpbnQtd2lkdGggMTIw</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RJbmRleFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>prettier</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e25hbWV9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,16 +378,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">QWN0aW9uU2hlZXQuc2hvdyh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zOiBCVVRUT05TLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuY2VsQnV0dG9uSW5kZXg6IDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ+ivt+mAieaLqei6q+S7veivgeivu+WPluaWueW8jycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBidXR0b25JbmRleCA9PiB0aGlzLnNldFN0YXRlKHsgc2VsZWN0SW5kZXg6IGJ1dHRvbkluZGV4IH0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,7 +396,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
