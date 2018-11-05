@@ -100,7 +100,9 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541407828023" />
+      <file name="/Dummy.txt" timestamp="1541410971596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/models/user.js" timestamp="1541154238921">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="32" column="54" />
@@ -175,11 +177,12 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="29" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1541408124299">
-        <mark key="[" line="70" column="5" />
-        <mark key="]" line="70" column="15" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" timestamp="1541410652999">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" timestamp="1541138576862">
         <mark key="'" line="66" column="98" />
@@ -211,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
-      <jump line="87" column="12" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
       <jump line="33" column="10" filename="$USER_HOME$/workspace/demo/jdtx/util/Request.js" />
       <jump line="155" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
@@ -311,6 +312,8 @@
       <jump line="103" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="5" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="67" column="43" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
+      <jump line="22" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
+      <jump line="23" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,43 +323,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>, {tradeNo: tradeNo}</text>
+        <text>TouchableOpcity</text>
       </register>
       <register name="/" type="4">
         <text>grid</text>
       </register>
       <register name="0" type="4">
-        <text>fetchDetail</text>
+        <text>TouchableOpacity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7dHJhZGVJbmZvOiBpbmZvfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJY29uIHN0eWxlPXt7bWFyZ2luUmlnaHQ6IDIwfX0gbmFtZT17J3JlZnJlc2gnfSBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgX3RoaXMuX2ZldGNoRGV0YWlsKG5hdmlnYXRpb24uZ2V0UGFyYW0oJ3RyYWRlTm8nKSkKICAgICAgICAgICAgICAgIH19Lz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0ID57bmF2aWdhdGlvbi5nZXRQYXJhbSgndHJhZGVObycpfTwvVGV4dD4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBzZGsgPSBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlcjsKICAgICAgICAgICAgICAgICAgICBzZGsuc2hvd1ZDKGlucHV0UGhvbmUgPyBpbnB1dFBob25lIDogcGhvbmUpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">b25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgIF90aGlzLl9mZXRjaERldGFpbChuYXZpZ2F0aW9uLmdldFBhcmFtKCd0cmFkZU5vJykpCiAgICAgICAgICAgICAgICB9fQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7dHJhZGVJbmZvLCBwaG9uZX0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXtuYXZpZ2F0aW9uLmdldFBhcmFtKCdpbmNyZWFzZUNvdW50Jyl9CiAgICAgICAgICAgICAgICAgICAgdGl0bGU9IisxIgogICAgICAgICAgICAgICAgICAgIGNvbG9yPSIjZmZmIgogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBvblByZXNzPXtuYXZpZ2F0aW9uLmdldFBhcmFtKCdpbmNyZWFzZUNvdW50Jyl9CiAgICAgICAgICAgICAgICAgICAgdGl0bGU9IisxIgogICAgICAgICAgICAgICAgICAgIGNvbG9yPSIjZmZmIgogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlcnM6IHsgJ0NhY2hlLUNvbnRyb2wnOiAnbm8tY2FjaGUnIH0sCg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRvdWNoYWJsZQogICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucGhvbmVUb3VjaH0KICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLmNob29zZU51bShudW1zW2kgKyAxXS5tZG4pOwogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLnBob25lTnVtfT57bnVtc1tpICsgMV0ubWRufTwvVGV4dD4KICAgICAgICAgICAgPC9Ub3VjaGFibGU+Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBuYXZpZ2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICB0aXRsZTogJ+iuouWNleivpuaDhScsCiAgICAgICAgaGVhZGVyVGludENvbG9yOiAnYmxhY2snLAogICAgICAgIGhlYWRlclJpZ2h0OiAoCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IGFsZXJ0KCdUaGlzIGlzIGEgYnV0dG9uIScpfQogICAgICAgICAgICAgICAgdGl0bGU9IkluZm8iCiAgICAgICAgICAgICAgICBjb2xvcj0iI2ZmZiIKICAgICAgICAgICAgLz4KICAgICAgICApLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
