@@ -76,11 +76,12 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/jinrong/JinRongWebView.js" timestamp="1541395374588">
-        <mark key="[" line="14" column="175" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/jinrong/JinRongWebView.js" timestamp="1541399583216">
+        <mark key="'" line="8" column="58" />
+        <mark key="[" line="8" column="119" />
+        <mark key="]" line="8" column="122" />
+        <mark key="." line="8" column="122" />
+        <mark key="^" line="8" column="122" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1541154155149">
         <mark key="'" line="133" column="26" />
@@ -218,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="56" column="30" filename="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" />
       <jump line="32" column="10" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
@@ -318,6 +318,7 @@
       <jump line="81" column="4" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
       <jump line="154" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
+      <jump line="9" column="58" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/jinrong/JinRongWebView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -327,43 +328,43 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/facebook/react-native</text>
+        <text>金融小站</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhckludGVydmFsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>https://nj.jd.com/console/p/partner/index?relate=J7RuMahZCRjCKeIEpyK%2FrGeaHpe9uD6Fq%2FFsswnQuzF9xk9F8fJ3%2FiVx2X33zBkPipwYkmkDS%2BLpdIa1ni6hOQ%3D%3D</text>
+        <text>message.nativeEvent.data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw9Imh0dHBzOi8vbmouamQuY29tL2NvbnNvbGUvcC9wYXJ0bmVyL2luZGV4P3JlbGF0ZT1KN1J1TWFoWkNSakNLZUlFcHlLJTJGckdlYUhwZTl1RDZGcSUyRkZzc3duUXV6Rjl4azlGOGZKMyUyRmlWeDJYMzN6QmtQaXB3WWtta0RTJTJCTHBkSWExbmk2aE9RJTNEJTNEIi8+Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KG1lc3NhZ2UubmF0aXZlRXZlbnQuZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcjogbnVsbCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lc3NhZ2UubmF0aXZlRXZlbnQuZGF0YSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ0ppblJvbmdXZWJWaWV3Jyk7CiAgICAgICAgICAgICAgICB9fSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgYmFja2dyb3VuZENvbG9yOiBDb25zdC5jLmJnZ3JheSwKICB9LAp9KTsK</text>
+        <text encoding="base64">ICAgIGhlYWRlclN0eWxlOiB7IGJhY2tncm91bmRDb2xvcjogY29sb3IudGhlbWUgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgPC9TdHlsZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgIC8vIHRpdGxlOiAn6YeR6J6N5bCP56uZJywKICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFN0eWxlUHJvdmlkZXIgc3R5bGU9e2dldFRoZW1lKCl9PgogICAgICAgIDxDb250YWluZXIgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgICAgPENvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiB0eXBlb2YobmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMpPT09J3VuZGVmaW5lZCcgfHwgdHlwZW9mKG5hdmlnYXRpb24uc3RhdGUucGFyYW1zLnRpdGxlKSA9PT0gJ3VuZGVmaW5lZCcgPyAnZmluZCc6IG5hdmlnYXRpb24uc3RhdGUucGFyYW1zLnRpdGxlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlOiB0eXBlb2YobmF2aWdhdGlvbi5zdGF0ZS5wYXJhbXMpID09PSB1bmRlZmluZWQgfHwgdHlwZW9mKG5hdmlnYXRpb24uc3RhdGUucGFyYW1zLnRpdGxlKSA9PT0gJ3VuZGVmaW5lZCcgPyAn6YeR6J6N5bCP56uZJyA6IG5hdmlnYXRpb24uc3RhdGUucGFyYW1zLnRpdGxlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmw9Imh0dHBzOi8vbmouamQuY29tL2NvbnNvbGUvcC9wYXJ0bmVyL2luZGV4P3JlbGF0ZT1KN1J1TWFoWkNSakNLZUlFcHlLJTJGckdlYUhwZTl1RDZGcSUyRkZzc3duUXV6Rjl4azlGOGZKMyUyRmlWeDJYMzN6QmtQaXB3WWtta0RTJTJCTHBkSWExbmk2aE9RJTNEJTNEIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
