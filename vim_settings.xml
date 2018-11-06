@@ -205,6 +205,13 @@
         <mark key="^" line="114" column="67" />
         <mark key="." line="114" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" timestamp="1541499427115">
+        <mark key="'" line="22" column="6" />
+        <mark key="[" line="178" column="15" />
+        <mark key="]" line="178" column="25" />
+        <mark key="." line="178" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/package.json" timestamp="1541320294690">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="9" column="28" />
@@ -214,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="67" column="12" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="97" column="60" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="202" column="9" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
@@ -314,6 +320,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/services/card.js" />
       <jump line="122" column="29" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="115" column="10" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,13 +330,13 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>SelNumber</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
       </register>
       <register name="0" type="4">
-        <text>fetchSimCardList</text>
+        <text>SelSimCard</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
