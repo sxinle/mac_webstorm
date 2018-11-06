@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1541164865236">
         <mark key="'" line="223" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/services/card.js" timestamp="1541390863284">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/services/card.js" timestamp="1541480286087">
         <mark key="'" line="28" column="14" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-        <mark key="^" line="30" column="17" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/index.js" timestamp="1541394483886">
         <mark key="[" line="3" column="50" />
@@ -164,8 +164,8 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541468272849">
-        <mark key="'" line="128" column="54" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1541480269197">
+        <mark key="'" line="246" column="52" />
         <mark key="[" line="246" column="55" />
         <mark key="]" line="246" column="55" />
         <mark key="." line="246" column="55" />
@@ -198,12 +198,12 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541394535044">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="17" />
-        <mark key="^" line="86" column="17" />
-        <mark key="." line="86" column="17" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541480748832">
+        <mark key="'" line="111" column="13" />
+        <mark key="[" line="111" column="33" />
+        <mark key="]" line="111" column="57" />
+        <mark key="^" line="111" column="57" />
+        <mark key="." line="111" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/package.json" timestamp="1541320294690">
         <mark key="'" line="50" column="0" />
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="8" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="9" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
@@ -314,6 +312,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
       <jump line="182" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyDetail.js" />
+      <jump line="246" column="52" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="111" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,7 +326,7 @@
         <text>版</text>
       </register>
       <register name="/" type="4">
-        <text>grid</text>
+        <text encoding="base64">XDx0b2FzdFw+</text>
       </register>
       <register name="0" type="4">
         <text>TouchableOpacity</text>
@@ -366,17 +366,16 @@
       </register>
     </registers>
     <search>
-      <last-search>grid</last-search>
+      <last-search encoding="base64">XDx0b2FzdFw+</last-search>
       <last-offset />
-      <last-pattern>grid</last-pattern>
+      <last-pattern encoding="base64">XDx0b2FzdFw+</last-pattern>
       <last-replace>option</last-replace>
       <last-substitute>newOptions</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>closeSDK</entry>
         <entry>post</entry>
         <entry>JSON.parse</entry>
         <entry>alert</entry>
@@ -396,6 +395,7 @@
         <entry>modalVisi</entry>
         <entry encoding="base64">XDxjbGVhckludGVydmFsXD4=</entry>
         <entry>grid</entry>
+        <entry encoding="base64">XDx0b2FzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz4+Lz4vZw==</entry>
