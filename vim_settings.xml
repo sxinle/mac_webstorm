@@ -152,9 +152,12 @@
         <mark key="." line="64" column="18" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" timestamp="1541666138617">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="51" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" timestamp="1541728850553">
+        <mark key="'" line="130" column="26" />
+        <mark key="[" line="176" column="40" />
+        <mark key="]" line="176" column="41" />
+        <mark key="." line="176" column="41" />
+        <mark key="^" line="176" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/MainTabNavigator.js" timestamp="1541590101770">
         <mark key="'" line="29" column="3" />
@@ -248,6 +251,11 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="111" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/AllotDetail.js" timestamp="1541728800377">
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="87" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/MyResource.js" timestamp="1541660133455">
         <mark key="'" line="27" column="27" />
         <mark key="[" line="32" column="0" />
@@ -262,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
       <jump line="42" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/AboutUs.js" />
       <jump line="52" column="31" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/AboutUs.js" />
       <jump line="60" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/AboutUs.js" />
@@ -362,6 +369,7 @@
       <jump line="40" column="37" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/AllotDetail.js" />
       <jump line="29" column="23" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/AllotDetail.js" />
       <jump line="93" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/AllotDetail.js" />
+      <jump line="130" column="26" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/My.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -374,7 +382,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>this.state.alloN</text>
+        <text>修改密码</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChub3dQYWdlID09PSAwICYmIHZhbCA8IDApIHJldHVybjsK</text>
@@ -414,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this.state.alloN</last-search>
+      <last-search>修改密码</last-search>
       <last-offset />
-      <last-pattern>this.state.alloN</last-pattern>
+      <last-pattern>修改密码</last-pattern>
       <last-replace>pay</last-replace>
       <last-substitute>login</last-substitute>
       <last-dir>1</last-dir>
@@ -437,13 +445,13 @@
         <entry>去激活</entry>
         <entry>检查</entry>
         <entry>商品</entry>
-        <entry>修改密码</entry>
         <entry>login</entry>
         <entry>收货确认</entry>
         <entry>tab</entry>
         <entry>for</entry>
         <entry>map</entry>
         <entry>this.state.alloN</entry>
+        <entry>修改密码</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL2Rpdj4vL2c=</entry>
