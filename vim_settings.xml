@@ -10,12 +10,12 @@
         <mark key="^" line="75" column="37" />
         <mark key="." line="75" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1541643946614">
-        <mark key="'" line="92" column="30" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="67" column="42" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="128" column="17" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1541754110822">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="69" />
+        <mark key="^" line="29" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreSum.js" timestamp="1541743121091">
         <mark key="[" line="38" column="0" />
@@ -120,7 +120,7 @@
         <mark key="^" line="22" column="76" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541752279855">
+      <file name="/Dummy.txt" timestamp="1541754197410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/models/user.js" timestamp="1541743165939">
@@ -174,6 +174,12 @@
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" timestamp="1541734552509">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/router.js" timestamp="1541753441545">
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="128" column="29" />
+        <mark key="." line="128" column="29" />
+        <mark key="^" line="160" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/nav/AppNavigator.js" timestamp="1541729675522">
         <mark key="'" line="16" column="0" />
@@ -276,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/Allot.js" />
-      <jump line="61" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/Allot.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/Allot.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/BuyOrders.js" />
       <jump line="24" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/MyResource.js" />
@@ -376,6 +380,8 @@
       <jump line="135" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="1" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="34" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
+      <jump line="133" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -385,7 +391,7 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>space-around</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblByZWZpeFw+</text>
@@ -394,34 +400,34 @@
         <text>CodePush</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmVlZFVwZGF0ZSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogNjAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA2MCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW5lZWRVcGRhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnQ6IDcwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvZGVQdXNoLmRpc2FsbG93UmVzdGFydCgpOy8vIOmhtemdouWKoOi9veeahOemgeatoumHjeWQr++8jOWcqOWKoOi9veWujOS6huWPr+S7peWFgeiuuOmHjeWQrwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmVlZFVwZGF0ZSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvZGVQdXNoIGZyb20gJ3JlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICAgICAgbGVmdDogMCwKICAgICAgICAgICAgICB0b3A6IDAsCiAgICAgICAgICAgICAgYm90dG9tOiAwLAogICAgICAgICAgICAgIHJpZ2h0OiAwLAogICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMCwgMCwgMCwgMC41KScsCiAgICAgICAgICAgIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgICAgICAgICAgICAgd2lkdGg6ICc5MCUnLAogICAgICAgICAgICAgICAgaGVpZ2h0OiA2MCwKICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgICAgICAgICAgICAgbGVmdDogNzAsCiAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDE2LAogICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1hcm91bmQnLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVmdDogMTAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29kZVB1c2hPcHRpb25zID0geyBjaGVja0ZyZXF1ZW5jeTogY29kZVB1c2guQ2hlY2tGcmVxdWVuY3kuT05fQVBQX1NUQVJUIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAnNTAlJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcDogNDYwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
