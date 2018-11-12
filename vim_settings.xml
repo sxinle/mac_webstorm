@@ -29,12 +29,12 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541742721046">
-        <mark key="'" line="100" column="9" />
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="51" column="15" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="66" column="23" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1541994310870">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="102" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/MyResource.js" timestamp="1541837292404">
         <mark key="'" line="29" column="17" />
@@ -176,12 +176,12 @@
         <mark key="^" line="281" column="33" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1541845477656">
-        <mark key="'" line="107" column="19" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="96" column="34" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1541994132486">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="53" />
+        <mark key="^" line="42" column="53" />
+        <mark key="." line="42" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1541734959594">
         <mark key="'" line="162" column="0" />
@@ -253,7 +253,7 @@
         <mark key="." line="235" column="49" />
         <mark key="^" line="235" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541845673145">
+      <file name="/Dummy.txt" timestamp="1541994750811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/models/user.js" timestamp="1541836878786">
@@ -324,7 +324,7 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541738699814">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request.js" timestamp="1541994302749">
         <mark key="'" line="110" column="6" />
         <mark key="[" line="113" column="22" />
         <mark key="]" line="113" column="25" />
@@ -347,12 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="298" column="28" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native-code-push/typings/react-native-code-push.d.ts" />
-      <jump line="340" column="53" filename="$USER_HOME$/workspace/demo/jfans/node_modules/react-native-code-push/typings/react-native-code-push.d.ts" />
-      <jump line="14" column="21" filename="$USER_HOME$/workspace/demo/jfans/package.json" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="7" column="80" filename="$USER_HOME$/workspace/demo/jfans/app/index.js" />
       <jump line="46" column="4" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="56" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
@@ -447,6 +441,12 @@
       <jump line="50" column="50" filename="$USER_HOME$/workspace/demo/jfans/app/models/card.js" />
       <jump line="262" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="107" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="37" column="12" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" />
+      <jump line="97" column="33" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" />
+      <jump line="120" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="49" column="20" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -456,52 +456,52 @@
         <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>374</text>
       </register>
       <register name="/" type="4">
-        <text>去激活</text>
+        <text>Platform</text>
       </register>
       <register name="0" type="4">
-        <text>tradeList</text>
+        <text>Platform</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCBzZGsgPSBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlcjsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCByZWFscGhvbmUgPSAnMTczMDI5MjkyOTInOwogICAgICAgICAgICAgICAgICAgIC8vIHNkay5zaG93VkMocmVhbHBob25lKTsK</text>
+        <text encoding="base64">ICAgIGJ1aWxkVmVyc2lvbjogMSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmdvQmFjaygpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCBzZGsgPSBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlcjsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCByZWFscGhvbmUgPSAnMTczMDI5MjkyOTInOwogICAgICAgICAgICAgICAgICAgIC8vIHNkay5zaG93VkMocmVhbHBob25lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmdvQmFjaygpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uZ29CYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24uZ29CYWNrKCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmdvQmFjaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmdvQmFjaygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>去激活</last-search>
+      <last-search>Platform</last-search>
       <last-offset />
-      <last-pattern>去激活</last-pattern>
+      <last-pattern>Platform</last-pattern>
       <last-replace>recordList</last-replace>
       <last-substitute>tradeList</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>this.state.alloN</entry>
         <entry>修改密码</entry>
         <entry>我的库存</entry>
@@ -529,6 +528,7 @@
         <entry>返回</entry>
         <entry encoding="base64">XDxkaXNtaXNzTW9kYWxcPg==</entry>
         <entry>去激活</entry>
+        <entry>Platform</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsYXNzPSIiLy9n</entry>
