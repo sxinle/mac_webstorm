@@ -256,6 +256,9 @@
       <file name="/Dummy.txt" timestamp="1541994885744">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" timestamp="1542004560700">
+        <mark key="'" line="43" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/models/user.js" timestamp="1541836878786">
         <mark key="'" line="7" column="13" />
         <mark key="[" line="74" column="34" />
@@ -347,12 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="99" column="9" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="113" column="11" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="135" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="1" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
-      <jump line="34" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="133" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/router.js" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="231" column="13" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
@@ -447,6 +444,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="154" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
+      <jump line="13" column="36" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
+      <jump line="14" column="46" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
+      <jump line="75" column="7" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
+      <jump line="28" column="5" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
+      <jump line="43" column="11" filename="$USER_HOME$/workspace/micro-service/front/qsy_manager/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,7 +462,7 @@
         <text>374</text>
       </register>
       <register name="/" type="4">
-        <text>Platform</text>
+        <text>ckeditor</text>
       </register>
       <register name="0" type="4">
         <text>Platform</text>
@@ -499,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Platform</last-search>
+      <last-search>ckeditor</last-search>
       <last-offset />
-      <last-pattern>Platform</last-pattern>
+      <last-pattern>ckeditor</last-pattern>
       <last-replace>recordList</last-replace>
       <last-substitute>tradeList</last-substitute>
       <last-dir>1</last-dir>
@@ -509,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.state.alloN</entry>
-        <entry>修改密码</entry>
         <entry>我的库存</entry>
         <entry>styles</entry>
         <entry encoding="base64">XDxTeW5jT3B0aW9uc1w+</entry>
@@ -529,6 +530,8 @@
         <entry encoding="base64">XDxkaXNtaXNzTW9kYWxcPg==</entry>
         <entry>去激活</entry>
         <entry>Platform</entry>
+        <entry>ck</entry>
+        <entry>ckeditor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsYXNzPSIiLy9n</entry>
