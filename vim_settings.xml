@@ -38,6 +38,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="37" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1542221528833">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="70" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/index.js" timestamp="1542181372868">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="3" column="0" />
@@ -106,12 +111,12 @@
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1542219527254">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1542221616309">
         <mark key="'" line="2" column="9" />
-        <mark key="[" line="89" column="64" />
-        <mark key="]" line="89" column="64" />
-        <mark key="." line="89" column="64" />
-        <mark key="^" line="89" column="64" />
+        <mark key="[" line="72" column="2" />
+        <mark key="]" line="58" column="66" />
+        <mark key="." line="58" column="66" />
+        <mark key="^" line="58" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/SelTaoCan.js" timestamp="1541588986691">
         <mark key="'" line="9" column="6" />
@@ -350,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="12" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="497" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="405" column="30" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="21" column="3" filename="$USER_HOME$/workspace/demo/jfans/app/index.js" />
@@ -450,6 +454,7 @@
       <jump line="124" column="26" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="155" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="2" column="9" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,40 +464,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>件</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</text>
+        <text encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>NativeModules.ReactNativeManager</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7Ly8g5rOo6ZSAIFNESyDov5Tlm57kuovku7bnm5HlkKwKICAgICAgICAgICAgdGhpcy5saXN0ZW5lciAmJiB0aGlzLmxpc3RlbmVyLnJlbW92ZSgpOy8vIOWIoOmZpGxpc3RlbmVyCiAgICAgICAgICAgIHRoaXMubGlzdGVuZXIgPSBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7IHRleHQ6ICdORkMnLCBpY29uOiAnYW5hbHl0aWNzJywgaWNvbkNvbG9yOiAnI2Y0MmNlZCcgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfosIPnlKjkuoYnLCAnWyA9PT09PSDosIPnlKjkuoYgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICByZWNlaXZlSURDYXJkSW5mbyA9IChjYXJkKSA9PiB7CiAgICBjb25zb2xlLmxvZyhjYXJkLCAnWyA9PT09PSBjYXJkID09PT09IF0nKTsKICB9OwoKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHRoaXMucHJvcHMgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCkgPT4gewogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnN3aXBlckhlaWdodCwgJ1sgPT09PT0gdGhpcy5zdGF0ZS5zd2lwZXJIZWlnaHQgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYW5uZXIg6KKr6LCD55SoJywgJ1sgPT09PT0gJ2Jhbm5lciDooqvosIPnlKgnID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICB7IHRleHQ6ICdORkMnLCBpY29uOiAnYW5hbHl0aWNzJywgaWNvbkNvbG9yOiAnI2Y0MmNlZCcgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfosIPnlKjkuoYnLCAnWyA9PT09PSDosIPnlKjkuoYgPT09PT0gXScpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -502,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</last-search>
+      <last-search encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</last-pattern>
       <last-replace>recordList</last-replace>
       <last-substitute>tradeList</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>选择套餐</entry>
         <entry>下一步</entry>
         <entry>换一批</entry>
         <entry>身份读取</entry>
@@ -532,6 +536,7 @@
         <entry>removeCli</entry>
         <entry encoding="base64">XDxzZWxlY3RJbmRleFw+</entry>
         <entry encoding="base64">XDxOYXRpdmVNb2R1bGVzXD4=</entry>
+        <entry encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsYXNzPSIiLy9n</entry>
