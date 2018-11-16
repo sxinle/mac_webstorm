@@ -71,6 +71,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/MyViewController.m" timestamp="1542336187386">
+        <mark key="'" line="2" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" timestamp="1542198814130">
         <mark key="'" line="519" column="64" />
         <mark key="[" line="856" column="8" />
@@ -109,12 +112,12 @@
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1542225098244">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="75" column="25" />
-        <mark key="]" line="75" column="30" />
-        <mark key="." line="75" column="30" />
-        <mark key="^" line="75" column="30" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" timestamp="1542336899765">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/SelTaoCan.js" timestamp="1541588986691">
         <mark key="'" line="9" column="6" />
@@ -257,7 +260,7 @@
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542252465575">
+      <file name="/Dummy.txt" timestamp="1542336930561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/old/jd-comm/index.html" timestamp="1542029836718">
@@ -352,10 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
-      <jump line="73" column="17" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
-      <jump line="76" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
       <jump line="79" column="41" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
       <jump line="73" column="23" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
@@ -452,6 +451,10 @@
       <jump line="74" column="10" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="81" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/auth/AuthLoadingScreen.js" />
+      <jump line="2" column="9" filename="/MyViewController.m" />
+      <jump line="58" column="3" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="59" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -461,61 +464,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>swip</text>
+        <text encoding="base64">XDxuYXRpdmVFdmVudFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHJlZnJlc2hpbmc6IGZhbHNlLAogICAgICBzd2lwZXJIZWlnaHQ6IDEyNSwKICAgICAgaGFzQ29tcHV0ZTogZmFsc2UsCiAgICB9Owo=</text>
+      <register name="0" type="4">
+        <text>NativeModules.ReactNativeManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgn5a6M5oiQJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5saXN0ZW5lciA9IG5hdGl2ZUV2ZW50LmFkZExpc3RlbmVyKCdibHVlSURDYXJkUmV0JywgdGhpcy5fcmVjZWl2ZUlEQ2FyZEluZm8uYmluZCh0aGlzKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgn5a6M5oiQJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVmcmVzaGluZzogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmcmVzaGluZzogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICd1c2VyL3VwZGF0ZVN0YXRlJywKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBiYW5uZXJDb21wOiB0aGlzLl9yZW5kZXJCYW5uZXJDb21wKCksCiAgICAgICAgfSwKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcCA9IHlpZWxkIGNhbGwodXNlclNlcnZpY2UuZ2V0QmFubmVyTGlzdEJ5QmFubmVyS2luZCwgcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZWxvYWRGb3JCYW5uZXIK</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICd1c2VyL3VwZGF0ZVN0YXRlJywKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBiYW5uZXJDb21wOiB0aGlzLl9yZW5kZXJCYW5uZXJDb21wKCksCiAgICAgICAgfSwKICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>swip</last-search>
+      <last-search encoding="base64">XDxuYXRpdmVFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern>swip</last-pattern>
+      <last-pattern encoding="base64">XDxuYXRpdmVFdmVudFw+</last-pattern>
       <last-replace>recordList</last-replace>
       <last-substitute>tradeList</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>身份读取</entry>
-        <entry>身份</entry>
         <entry>重新认证</entry>
         <entry>订单号码</entry>
         <entry>startWith</entry>
@@ -534,6 +535,8 @@
         <entry encoding="base64">XDxiYWNrRnJvbVNES0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxiYW5uZXJDb21wXD4=</entry>
         <entry>swip</entry>
+        <entry encoding="base64">XDxCbHVlVG9vdGhWaWV3Q29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxuYXRpdmVFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsYXNzPSIiLy9n</entry>
