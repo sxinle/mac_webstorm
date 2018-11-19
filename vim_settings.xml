@@ -52,6 +52,9 @@
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="161" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" timestamp="1542619184989">
+        <mark key="'" line="67" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/auth/Login.js" timestamp="1542095376971">
         <mark key="'" line="133" column="26" />
         <mark key="[" line="99" column="103" />
@@ -167,6 +170,13 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" timestamp="1542619945445">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="208" column="41" />
+        <mark key="]" line="208" column="53" />
+        <mark key="." line="208" column="53" />
+        <mark key="^" line="208" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" timestamp="1541843211275">
         <mark key="'" line="75" column="7" />
         <mark key="[" line="184" column="0" />
@@ -184,6 +194,12 @@
         <mark key="]" line="26" column="6" />
         <mark key="." line="33" column="3" />
         <mark key="^" line="33" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/layouts/BasicLayout.js" timestamp="1542620795953">
+        <mark key="[" line="216" column="17" />
+        <mark key="]" line="216" column="17" />
+        <mark key="^" line="216" column="19" />
+        <mark key="." line="216" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1541734959594">
         <mark key="'" line="162" column="0" />
@@ -319,12 +335,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/components/index.js" timestamp="1542181230406">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/request2.js" timestamp="1541138576862">
         <mark key="'" line="66" column="98" />
         <mark key="[" line="63" column="0" />
@@ -355,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="41" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
       <jump line="73" column="23" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="0" column="7" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/ChargeRecord.js" />
@@ -455,6 +463,8 @@
       <jump line="58" column="3" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="59" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
       <jump line="31" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/CardIndex.js" />
+      <jump line="67" column="19" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Template/AddTemplate/index.js" />
+      <jump line="208" column="0" filename="$USER_HOME$/workspace/micro-service/front/cprize_front/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,7 +474,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXRpdmVFdmVudFw+</text>
@@ -479,28 +489,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5saXN0ZW5lciA9IG5hdGl2ZUV2ZW50LmFkZExpc3RlbmVyKCdibHVlSURDYXJkUmV0JywgdGhpcy5fcmVjZWl2ZUlEQ2FyZEluZm8uYmluZCh0aGlzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U2lkZXJNZW51CiAgICAgICAgICBsb2dvPXtsb2dvfQogICAgICAgICAgLy8g5LiN5bimQXV0aG9yaXplZOWPguaVsOeahOaDheWGteS4i+WmguaenOayoeacieadg+mZkCzkvJrlvLrliLbot7PliLA0MDPnlYzpnaIKICAgICAgICAgIC8vIElmIHlvdSBkbyBub3QgaGF2ZSB0aGUgQXV0aG9yaXplZCBwYXJhbWV0ZXIKICAgICAgICAgIC8vIHlvdSB3aWxsIGJlIGZvcmNlZCB0byBqdW1wIHRvIHRoZSA0MDMgaW50ZXJmYWNlIHdpdGhvdXQgcGVybWlzc2lvbgogICAgICAgICAgQXV0aG9yaXplZD17QXV0aG9yaXplZH0KICAgICAgICAgIG1lbnVEYXRhPXtnZXRNZW51RGF0YSgpfQogICAgICAgICAgY29sbGFwc2VkPXtjb2xsYXBzZWR9CiAgICAgICAgICBsb2NhdGlvbj17bG9jYXRpb259CiAgICAgICAgICBpc01vYmlsZT17bWJ9CiAgICAgICAgICBvbkNvbGxhcHNlPXt0aGlzLmhhbmRsZU1lbnVDb2xsYXBzZX0KICAgICAgICAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgn5a6M5oiQJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5saXN0ZW5lciA9IG5hdGl2ZUV2ZW50LmFkZExpc3RlbmVyKCdibHVlSURDYXJkUmV0JywgdGhpcy5fcmVjZWl2ZUlEQ2FyZEluZm8uYmluZCh0aGlzKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgn5a6M5oiQJyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVmcmVzaGluZzogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVmcmVzaGluZzogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICd1c2VyL3VwZGF0ZVN0YXRlJywKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBiYW5uZXJDb21wOiB0aGlzLl9yZW5kZXJCYW5uZXJDb21wKCksCiAgICAgICAgfSwKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -513,7 +523,7 @@
       <last-replace>recordList</last-replace>
       <last-substitute>tradeList</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
