@@ -61,6 +61,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/settings.js" timestamp="1542861218964">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="28" />
+      </file>
       <file name="/Dummy.txt" timestamp="1542851491391">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,8 +75,8 @@
         <mark key="." line="98" column="44" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/mall-for-node/config/process.config.js" timestamp="1542852362455">
-        <mark key="'" line="2" column="6" />
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/config/process.config.js" timestamp="1542860997500">
+        <mark key="'" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" timestamp="1542786828625">
         <mark key="'" line="98" column="23" />
@@ -102,11 +106,11 @@
         <mark key="." line="93" column="61" />
         <mark key="^" line="93" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/mall-for-node/mobile/config/index.js" timestamp="1542799710860">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/mobile/config/index.js" timestamp="1542861405709">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/config/stage.config.js" timestamp="1542854529878">
         <mark key="[" line="16" column="52" />
@@ -160,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="10" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="120" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="137" column="42" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
       <jump line="1" column="33" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" />
@@ -260,6 +263,7 @@
       <jump line="109" column="36" filename="$USER_HOME$/workspace/demo/mall-for-node/node_modules/connect-mongo/src/index.js" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/demo/mall-for-node/common/mongo.js" />
       <jump line="15" column="17" filename="$USER_HOME$/workspace/demo/mall-for-node/common/mongo.js" />
+      <jump line="20" column="24" filename="$USER_HOME$/workspace/demo/mall-for-node/config/process.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,13 +273,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>mongooseConnection</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb25nb1N0b3JlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>mongooseConnection</text>
+        <text>process.env</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3Qgc2VydmVyID0gJ2h0dHA6Ly8xMTguMTkwLjMzLjY0OjgwOTgnCg==</text>
