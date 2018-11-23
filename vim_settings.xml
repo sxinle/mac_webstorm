@@ -35,6 +35,12 @@
         <mark key="." line="61" column="27" />
         <mark key="^" line="61" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/settings.js" timestamp="1542879107642">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/store/modules/app.js" timestamp="1542881152531">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -56,6 +62,9 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/common/axios.js" timestamp="1542957809121">
+        <mark key="'" line="138" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/BaiTiaoInvite.js" timestamp="1542871771783">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="93" column="17" />
@@ -65,6 +74,12 @@
       </file>
       <file name="$USER_HOME$/workspace/demo/wowd/package.json" timestamp="1542944553111">
         <mark key="[" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/routes/index.js" timestamp="1542958185416">
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="70" column="38" />
+        <mark key="^" line="70" column="38" />
+        <mark key="." line="70" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/models/card.js" timestamp="1542951530220">
         <mark key="[" line="1" column="0" />
@@ -84,7 +99,7 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/wowd/src/models/demo.js" timestamp="1542952006150">
+      <file name="$USER_HOME$/workspace/demo/wowd/src/models/demo.js" timestamp="1542957612121">
         <mark key="'" line="28" column="26" />
         <mark key="[" line="27" column="50" />
         <mark key="]" line="27" column="50" />
@@ -121,6 +136,12 @@
         <mark key="]" line="908" column="7" />
         <mark key="^" line="908" column="7" />
         <mark key="." line="908" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/wowd/src/models/index.js" timestamp="1542946007894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/admin/src/plugins/defines.js" timestamp="1542879966001">
         <mark key="[" line="33" column="21" />
@@ -213,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="11" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
-      <jump line="25" column="29" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
-      <jump line="27" column="8" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
       <jump line="31" column="15" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
       <jump line="41" column="35" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
       <jump line="43" column="11" filename="$USER_HOME$/workspace/demo/mall-for-node/common/wx/lib/token.js" />
@@ -313,6 +331,9 @@
       <jump line="0" column="7" filename="$USER_HOME$/workspace/demo/wowd/node_modules/@tarojs/components/src/components/camera/index.js" />
       <jump line="101" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/utils/const.js" />
       <jump line="1050" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/utils/a.json" />
+      <jump line="231" column="22" filename="$USER_HOME$/workspace/demo/mall-for-node/common/axios.js" />
+      <jump line="27" column="15" filename="$USER_HOME$/workspace/demo/mall-for-node/common/axios.js" />
+      <jump line="138" column="6" filename="$USER_HOME$/workspace/demo/mall-for-node/common/axios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,7 +346,7 @@
         <text>demo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXJ2XD4=</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGM6IHsKICAgIHRleHRfZ3JlZW46ICcjYWVkNTgxJywKICAgIHRyYW5zcGFyZW50OiAndHJhbnNwYXJlbnQnLAogICAgLy8gWz09PT09PT09PT09PT09PT09PT09YW5kcm9pZCBjb2xvcnMueG1sPT09PT09PT09PT09PT09PT09PT1dCiAgICBkcm9wX2Rvd25fc2VsZWN0ZWQ6ICcjNkIxRkEyJywKICAgIGRyb3BfZG93bl91bnNlbGVjdGVkOiAnIzExMTExMCcsCiAgICBjaGVja19iZzogJyNmMWYyZjInLAogICAgY19tYWluOiAnI2UyMjMwYScsCiAgICBjX21haW5fZGFyazogJyM0ODQ4NDcnLAogICAgY19wcm9ncmVzc19odWQ6ICcjNDQ0NDQzJywKICAgIGJnZ3JheTogJyNlNWU3ZTgnLAogICAgY29sb3JfcGhvbmVfY29udHJhY3RfdGV4dDogJyM3ZThlOGUnLAogICAgY19hY3Rpb25fYmFyOiAnI2UyMjMwYScsCiAgICBjX2FjdGlvbl9iYXJfZGFyazogJyM0ODQ4NDcnLAogICAgaG9tZV9ub3RpY2VfYmFyX3R2X3RleHRfY29sb3I6ICcjMDE4NWNmJywKICAgIGhvbWVfbGlnaHRfZ3JheTogJyM3ZThlOGUnLAogICAgaG9tZV9saWdodF9ibGFjazogJyMzMzMzMzInLAogICAgel9oaW50X2dyYXk6ICcjYmJiYmJiJywKICAgIHByaWNlX3RleHQ6ICcjZTQwMDc2JywKICAgIHJlX3VwZGF0YTogJyMwMTg1Y2YnLAogICAgZGlsaTogJyNkZWRmZTAnLAogICAgZGl2aWRlcjogJyNkMWQyZDInLAogICAgY19tYWluX2JhcjogJyMzNzM3MkEnLAogICAgdHY4NDg0ODQ6ICcjODQ4NDg0JywKICAgIHR2ZjRmNGY0OiAnI2Y0ZjRmNCcsCiAgICB0djMzMzMzMzogJyMzMzMzMzMnLAogICAgLy8gWz09PT09PT09PT09PT09PT09PT09YW5kcm9pZCBjb2xvcnMueG1sPT09PT09PT09PT09PT09PT09PT1dCiAgICAvLyBbPT09PT09PT09PT09PT09PT09PT1yYW5kb20gY29sb3JzLnhtbD09PT09PT09PT09PT09PT09PT09XQogICAgZ2V0UmFuZG9tQ29sb3I6IChzdGF0LCBkZWYpID0+IHsKICAgICAgY29uc3QgTUFURVJJQUwgPSBbCiAgICAgICAgJyNlNTczNzMnLAogICAgICAgICcjZjA2MjkyJywKICAgICAgICAnI2JhNjhjOCcsCiAgICAgICAgJyM5NTc1Y2QnLAogICAgICAgICcjNzk4NmNiJywKICAgICAgICAnIzY0YjVmNicsCiAgICAgICAgJyM0ZmMzZjcnLAogICAgICAgICcjNGRkMGUxJywKICAgICAgICAnIzRkYjZhYycsCiAgICAgICAgJyM4MWM3ODQnLAogICAgICAgICcjYWVkNTgxJywKICAgICAgICAnI2ZmOGE2NScsCiAgICAgICAgJyNkNGUxNTcnLAogICAgICAgICcjZmZkNTRmJywKICAgICAgICAnI2ZmYjc0ZCcsCiAgICAgICAgJyNhMTg4N2YnLAogICAgICAgICcjOTBhNGFlJywKICAgICAgXTsKICAgICAgY29uc3QgREVGQVVMVCA9IFsKICAgICAgICAnI2YxNjM2NCcsCiAgICAgICAgJyNmNTg1NTknLAogICAgICAgICcjZjlhNDNlJywKICAgICAgICAnI2U0YzYyZScsCiAgICAgICAgJyM2N2JmNzQnLAogICAgICAgICcjNTlhMmJlJywKICAgICAgICAnIzIwOTNjZCcsCiAgICAgICAgJyNhZDYyYTcnLAogICAgICAgICcjODA1NzgxJywKICAgICAgXTsKCiAgICAgIGNvbnN0IGFyciA9IGRlZiA/IERFRkFVTFQgOiBNQVRFUklBTDsKICAgICAgcmV0dXJuIGFycltzdGF0ICUgYXJyLmxlbmd0aF07CiAgICB9LAogICAgLy8gWz09PT09PT09PT09PT09PT09PT09cmFuZG9tIGNvbG9ycy54bWw9PT09PT09PT09PT09PT09PT09PV0KICB9LAogIGY6IHsKICAgIGRlZmF1bHRGb250U2l6ZTogMTQsCiAgICBmb250U2l6ZUxhZ2dlcjogMTUsCiAgICBmb250U2l6ZUgzOiAxOCwKICAgIGZvbnRTaXplQmlnOiAzNSwKICAgIGZvbnRTaXplVGl0bGU6IDIwLAogICAgZm9udFNpemVNb3JlTGVmdDogMTIsCiAgICBmb250U2l6ZU1vcmVSaWdodDogMTEsCiAgfSwKICB3aW46IHsKICAgIHdpZHRoLAogICAgaGVpZ2h0LAogICAgaXNTbWFsbERldmljZTogd2lkdGggPCAzNzUsCiAgfSwKICBzdHlsZTogewogICAgdGludFJvd1RleHQ6IHsKICAgICAgcGFkZGluZzogMTUsCiAgICAgIGZvbnRTaXplOiAxMiwKICAgICAgY29sb3I6ICcjNGE0YTRhJywKICAgIH0sCiAgICBiaWdJbWFnZToge30sCiAgfSwKICBtc2c6IHsKICAgIGxvYWRpbmdIaW50OiAn6L295YWl5LitLi4uJywKICB9LAogIHBsYXRmb3JtOiB7CiAgICBtYWpvclZlcnNpb246IHBhcnNlSW50KFBsYXRmb3JtLlZlcnNpb24sIDEwKSwKICB9LAogIGFwcDogewogICAgYXBwX3RhZ19pZDogJ1RFTEVDT00nLAogICAgb3M6IDIsCiAgICB2ZXJzaW9uOiAnJywKICAgIGJ1aWxkVmVyc2lvbjogJycsCiAgfSwKfTsK</text>
@@ -365,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOZXJ2XD4=</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXJ2XD4=</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +396,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxET01BSU5cPg==</entry>
         <entry>connection</entry>
         <entry encoding="base64">XDxNb25nb1N0b3JlXD4=</entry>
         <entry>jsConfig</entry>
@@ -395,6 +415,7 @@
         <entry encoding="base64">XDxzd2l0Y2hUYWJcPg==</entry>
         <entry>Grid</entry>
         <entry encoding="base64">XDxOZXJ2XD4=</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL+ecgS8vZw==</entry>
