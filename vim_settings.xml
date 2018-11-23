@@ -33,12 +33,12 @@
         <mark key="^" line="124" column="3" />
         <mark key="." line="124" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" timestamp="1542879060614">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="257" column="12" />
-        <mark key="]" line="257" column="43" />
-        <mark key="^" line="268" column="1" />
-        <mark key="." line="268" column="1" />
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" timestamp="1542884331266">
+        <mark key="'" line="912" column="31" />
+        <mark key="[" line="907" column="96" />
+        <mark key="]" line="908" column="7" />
+        <mark key="^" line="908" column="7" />
+        <mark key="." line="908" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/admin/src/plugins/defines.js" timestamp="1542879966001">
         <mark key="[" line="33" column="21" />
@@ -170,11 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="21" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" />
-      <jump line="335" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" />
-      <jump line="67" column="5" filename="$USER_HOME$/workspace/demo/jfans/app/models/card.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/models/user.js" />
       <jump line="47" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/services/user.js" />
       <jump line="40" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/OrderIndex.js" />
@@ -268,8 +263,13 @@
       <jump line="175" column="19" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="170" column="2" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="25" column="27" filename="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/store/modules/app.js" />
-      <jump line="265" column="1" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="265" column="2" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="268" column="0" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="425" column="15" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="905" column="3494" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
+      <jump line="908" column="31" filename="$USER_HOME$/workspace/demo/mall-for-node/routes/a.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -282,7 +282,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>流量包</text>
       </register>
       <register name="0" type="4">
         <text>tools.getParameter(&quot;dc&quot;)</text>
@@ -318,22 +318,20 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dldFNob3AnLCAiWyA9PT09PSBnZXRTaG9wID09PT09IF0iKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyIvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>流量包</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
-      <last-replace>recordList</last-replace>
-      <last-substitute>tradeList</last-substitute>
+      <last-pattern>流量包</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>navigate</entry>
-        <entry>this.props</entry>
         <entry>this.props.navigation</entry>
         <entry>this.props.navi</entry>
         <entry encoding="base64">XDx0cmFkZUxpc3RcPg==</entry>
@@ -352,9 +350,10 @@
         <entry>SERI</entry>
         <entry encoding="base64">XDxyZW5kZXJPcmRlclw+</entry>
         <entry>info</entry>
+        <entry>&quot;</entry>
+        <entry>流量包</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL+W4gi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL+ecgS8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywgL1xuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnJQcm92L2N1cnJDaXR5L2c=</entry>
@@ -374,6 +373,7 @@
         <entry>action $Redo</entry>
         <entry>vsp stage.config.js</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
