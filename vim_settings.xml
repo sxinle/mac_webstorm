@@ -18,12 +18,12 @@
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.scss" timestamp="1543046948835">
+      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.scss" timestamp="1543049275437">
         <mark key="'" line="54" column="21" />
-        <mark key="[" line="64" column="15" />
-        <mark key="]" line="64" column="16" />
-        <mark key="." line="64" column="16" />
-        <mark key="^" line="64" column="16" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+        <mark key="^" line="76" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/utils/Const.js" timestamp="1542955133153">
         <mark key="[" line="5" column="0" />
@@ -240,7 +240,7 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543045310698">
+      <file name="/Dummy.txt" timestamp="1543049436151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/wowd/src/models/home.js" timestamp="1543047693462">
@@ -276,12 +276,12 @@
         <mark key="^" line="147" column="58" />
         <mark key="." line="147" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" timestamp="1543047912671">
-        <mark key="'" line="172" column="13" />
-        <mark key="[" line="192" column="29" />
-        <mark key="]" line="192" column="30" />
-        <mark key="." line="192" column="30" />
-        <mark key="^" line="192" column="30" />
+      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" timestamp="1543049045839">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="195" column="72" />
+        <mark key="]" line="195" column="92" />
+        <mark key="." line="195" column="92" />
+        <mark key="^" line="195" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/demo/wowd/src/utils/const.js" timestamp="1542955216576">
         <mark key="'" line="6" column="0" />
@@ -350,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="6" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
@@ -358,7 +357,6 @@
       <jump line="52" column="13" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/index/index.js" />
-      <jump line="9" column="6" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.scss" />
       <jump line="73" column="25" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
       <jump line="2" column="21" filename="$USER_HOME$/workspace/demo/wowd/node_modules/@tarojs/components/src/components/camera/index.js" />
@@ -450,6 +448,8 @@
       <jump line="172" column="13" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
       <jump line="54" column="21" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.scss" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/services/api.js" />
+      <jump line="194" column="91" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
+      <jump line="9" column="29" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,13 +459,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCh7CiAgICB1cmw6IGAke0NvbnN0LnN2ci5sbjE3OH0vbXAvcHJvZHVjdHM/Y29kZXM9JHtjb2Rlc30mY2l0eUNvZGU9JHtwYXJhbS5jaXR5Q29kZX1gLAogICAgbWV0aG9kOiAnR0VUJywKICB9KTsK</text>
+      <register name="0" type="4">
+        <text>qr-container</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -474,28 +474,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy9hbGlnbi1zZWxmOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgei1pbmRleDogMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1lKCkgewogIAp9CgoK</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6MDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIGJvdHRvbTogMDsKICAgICAgbGVmdDogMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFV0aWxzLm9rKHJlc3ApKSB5aWVsZCBwdXQoe3R5cGU6ICdzYXZlJywgcGF5bG9hZDoge3Byb2R1Y3RzOiByZXNwLmRhdGEubGlzdH19KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoYykK</text>
+        <text encoding="base64">ICAgICAgd2lkb3dzOjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlc3AgPSB5aWVsZCBjYWxsKGFwaS5lbnRlclByb2R1Y3RzLCBwYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlIHNyYz17cmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy93b3dkX2xvZ28ucG5nJyl9IHN0eWxlPXt7d2lkdGg6ICcxMHB4JywgaGVpZ2h0OiAnMTBweCcsIGFsaWduU2VsZjonY2VudGVyJ319IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
