@@ -156,6 +156,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/controllers/api_controller.js" timestamp="1543033308838" />
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1542872557885">
         <mark key="[" line="147" column="33" />
         <mark key="]" line="147" column="33" />
@@ -207,7 +208,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/components/tpl/ShopWowd.vue" timestamp="1543028456800" />
+      <file name="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/components/tpl/ShopWowd.vue" timestamp="1543032215096">
+        <mark key="'" line="84" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" timestamp="1542871760082">
         <mark key="'" line="107" column="41" />
         <mark key="[" line="139" column="36" />
@@ -276,12 +279,12 @@
         <mark key="." line="147" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/demo/wowd/node_modules/@tarojs/taro/types/index.d.ts" timestamp="1542950943187" />
-      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" timestamp="1543031102611">
+      <file name="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" timestamp="1543033758441">
         <mark key="'" line="3" column="43" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="82" column="36" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/demo/wowd/src/utils/const.js" timestamp="1542955216576">
         <mark key="'" line="6" column="0" />
@@ -336,9 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="18" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
-      <jump line="239" column="14" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
-      <jump line="176" column="22" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="95" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="101" column="31" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="215" column="23" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
@@ -436,6 +436,9 @@
       <jump line="108" column="9" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
       <jump line="4" column="12" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
       <jump line="3" column="43" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/home.js" />
+      <jump line="102" column="44" filename="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/components/tpl/ShopWowd.vue" />
+      <jump line="118" column="10" filename="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/components/tpl/ShopWowd.vue" />
+      <jump line="84" column="10" filename="$USER_HOME$/workspace/demo/mall-for-node/mobile/src/components/tpl/ShopWowd.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -448,22 +451,22 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>react</text>
+        <text encoding="base64">XDxsb2NhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCh7CiAgICB1cmw6IGAke0NvbnN0LnN2ci5sbjE3OH0vbXAvdHBsL2luZm8/JHtVdGlscy5qc29uMmdldFBhcmFtKHBhcmFtKX1gLAogICAgbWV0aG9kOiAnR0VUJywKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coY29kZXMsICdbID09PT09IGNvZGVzID09PT09IF0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coY29kZXMsICdbID09PT09IGNvZGVzID09PT09IF0nKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -481,16 +484,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>react</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>react</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>js</entry>
         <entry encoding="base64">XDx0b2tlbkhhbmRsZXJcPg==</entry>
         <entry>this.tokenHandler</entry>
         <entry>MyOrders</entry>
@@ -518,6 +520,7 @@
         <entry>QINIU</entry>
         <entry>NIU</entry>
         <entry>react</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL+ecgS8vZw==</entry>
