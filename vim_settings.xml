@@ -7,14 +7,29 @@
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Dashboard/Workplace.js" timestamp="1543494124999" />
       <file name="$USER_HOME$/workspace/demo/wowd/node_modules/taro-ui/dist/weapp/components/grid/index.js" timestamp="1542967947870">
         <mark key="'" line="77" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/services/user.js" timestamp="1543494538602">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/common/menu.js" timestamp="1543395325098">
         <mark key="[" line="51" column="15" />
         <mark key="]" line="51" column="22" />
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/node_modules/hash.js/lib/hash.d.ts" timestamp="1543494233852">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="105" column="1" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/take-out/config/router.config.js" timestamp="1543406589820">
         <mark key="'" line="267" column="17" />
@@ -33,6 +48,12 @@
         <mark key="]" line="97" column="25" />
         <mark key="." line="97" column="25" />
         <mark key="^" line="97" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/utils/request.js" timestamp="1543494749814">
+        <mark key="[" line="69" column="36" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/settings.js" timestamp="1542962075941">
         <mark key="[" line="20" column="8" />
@@ -134,6 +155,13 @@
         <mark key="]" line="436" column="43" />
         <mark key="^" line="436" column="43" />
         <mark key="." line="436" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/utils/utils.js" timestamp="1543494446100">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="6" />
+        <mark key="." line="186" column="6" />
+        <mark key="^" line="186" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/demo/take-out/src/pages/Takeout/TableList.less" timestamp="1543405871789">
         <mark key="[" line="0" column="9" />
@@ -269,15 +297,12 @@
         <mark key="." line="61" column="40" />
         <mark key="^" line="61" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/mock/user.js" timestamp="1543493958711" />
       <file name="$USER_HOME$/workspace/demo/take-out/package.json" timestamp="1543404279734">
         <mark key="'" line="38" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/products/products.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/products/products.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/demo/wowd/src/pages/home/products/products.scss" />
-      <jump line="130" column="33" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="131" column="55" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="114" column="50" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="19" column="23" filename="$USER_HOME$/workspace/demo/jdtx/screens/CourseVideo.js" />
@@ -374,6 +399,10 @@
       <jump line="14" column="33" filename="$USER_HOME$/workspace/demo/take-out/src/pages/Takeout/Shop/models/shop.js" />
       <jump line="25" column="21" filename="$USER_HOME$/workspace/demo/take-out/src/pages/Takeout/Shop/models/shop.js" />
       <jump line="471" column="20" filename="$USER_HOME$/workspace/demo/take-out/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/utils/request.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/workspace/demo/to-admin/node_modules/hash.js/lib/hash.d.ts" />
+      <jump line="184" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/utils/utils.js" />
+      <jump line="7" column="23" filename="$USER_HOME$/workspace/demo/to-admin/src/services/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -383,13 +412,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>陆</text>
+        <text>// `http://localhost:8080${url}`;</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsgLi4uc3RhdGUsIC4uLnBheWxvYWQgfTsK</text>
+        <text encoding="base64">ICBjb25zdCByZWFsVXJsID0gdXJsOy8vIGBodHRwOi8vbG9jYWxob3N0OjgwODAke3VybH1gOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,29 +427,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhbm5lckxpc3QsICdbID09PT09IGJhbm5lckxpc3QgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHh4eCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBwYXlsb2FkIH0gPSBhY3Rpb247Cg==</text>
+        <text encoding="base64">ICAKICBjb25zdCByZWFsVXJsID0gdXJsOy8vIGBodHRwOi8vbG9jYWxob3N0OjgwODAke3VybH1gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgcmVhbEh0dHAgPSB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-          }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhbm5lckxpc3QsICdbID09PT09IGJhbm5lckxpc3QgPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
