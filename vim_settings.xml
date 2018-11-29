@@ -49,11 +49,12 @@
         <mark key="." line="97" column="25" />
         <mark key="^" line="97" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-admin/src/utils/request.js" timestamp="1543494749814">
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="69" column="36" />
-        <mark key="^" line="69" column="36" />
-        <mark key="." line="69" column="36" />
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/utils/request.js" timestamp="1543496016067">
+        <mark key="'" line="132" column="26" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="141" column="51" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/mall-for-node/settings.js" timestamp="1542962075941">
         <mark key="[" line="20" column="8" />
@@ -303,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="55" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="114" column="50" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="19" column="23" filename="$USER_HOME$/workspace/demo/jdtx/screens/CourseVideo.js" />
       <jump line="22" column="2" filename="$USER_HOME$/workspace/demo/jdtx/screens/CourseVideo.js" />
@@ -403,6 +403,7 @@
       <jump line="33" column="10" filename="$USER_HOME$/workspace/demo/to-admin/node_modules/hash.js/lib/hash.d.ts" />
       <jump line="184" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/utils/utils.js" />
       <jump line="7" column="23" filename="$USER_HOME$/workspace/demo/to-admin/src/services/user.js" />
+      <jump line="132" column="26" filename="$USER_HOME$/workspace/demo/to-admin/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,7 +413,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// `http://localhost:8080${url}`;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -421,34 +422,34 @@
         <text encoding="base64">ICBjb25zdCByZWFsVXJsID0gdXJsOy8vIGBodHRwOi8vbG9jYWxob3N0OjgwODAke3VybH1gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdHVzLCAnWyA9PT09PSBzdGF0dXMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWFhJywgJ1sgPT09PT0gYWFhID09PT09IF0nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdHVzLCAnWyA9PT09PSBzdGF0dXMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3h4eHh4eCcsICdbID09PT09IHh4eHh4eCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBjb25zdCByZWFsVXJsID0gdXJsOy8vIGBodHRwOi8vbG9jYWxob3N0OjgwODAke3VybH1gOwo=</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgneHh4Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVhbEh0dHAgPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhbm5lckxpc3QsICdbID09PT09IGJhbm5lckxpc3QgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
