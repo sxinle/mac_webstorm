@@ -21,12 +21,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-admin/src/services/shopservice.js" timestamp="1543575316670">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="23" column="44" />
-        <mark key="^" line="25" column="14" />
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/services/shopservice.js" timestamp="1543659911111">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/demo/take-out/config/router.config.js" timestamp="1543406589820">
         <mark key="'" line="267" column="17" />
@@ -42,21 +42,21 @@
         <mark key="." line="71" column="23" />
         <mark key="^" line="71" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/models/shop.js" timestamp="1543575220735">
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/models/shop.js" timestamp="1543659892795">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="32" column="52" />
-        <mark key="." line="32" column="52" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="12" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/config/config.js" timestamp="1543541886400">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" timestamp="1543658901371">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="176" column="5" />
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" timestamp="1543660583128">
+        <mark key="[" line="173" column="33" />
+        <mark key="]" line="173" column="40" />
+        <mark key="." line="173" column="40" />
+        <mark key="^" line="173" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/models/login.js" timestamp="1543560658438">
         <mark key="'" line="48" column="0" />
@@ -568,7 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="36" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
       <jump line="64" column="36" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
       <jump line="222" column="29" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Users/Areaadmin.js" />
       <jump line="319" column="17" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Users/Areaadmin.js" />
@@ -668,6 +667,7 @@
       <jump line="38" column="9" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/component/ImageFormItem.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/component/ImageFormItem.js" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/component/ImageFormItem.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/services/shopservice.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -677,43 +677,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>orders</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text>maxImageCnt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGFkZEFyZWEocGFyYW0pIHsKICByZXR1cm4gcmVxdWVzdChgJHt1dGlscy5hcGlSb290fS9zaG9wL2FyZWFgLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGJvZHk6IHBhcmFtLAogIH0pOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg9ezcyMH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlZm9yZVVwbG9hZD17YmVmb3JlVXBsb2FkfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBmaWVsZHMubmFtZSwKICAgICAgICBvcmRlcjpmaWVsZHMub3JkZXIsCiAgICAgICAgZmlsZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEltYWdlRm9ybUl0ZW0gZm9ybT17Zm9ybX0gZmllbGROYW1lPSJmaWxlcyIgbWF4SW1hZ2VDbnQ9ezF9IGZvcm1JdGVtUHJvcHM9e3tsYWJlbENvbDp7IHNwYW46IDUgfSwgd3JhcHBlckNvbDp7IHNwYW46IDE1IH0sbGFiZWw6IuWIhuexu+WbvuaghyJ9fSAvPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm1JdGVtUHJvcHMsICdbID09PT09IGZvcm1JdGVtUHJvcHMgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZSAK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg9ezcyMH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJlZm9yZVVwbG9hZD17YmVmb3JlVXBsb2FkfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWZvcmVVcGxvYWQgPSAoZmlsZSkgPT4gewogICAgY29uc29sZS5sb2coZmlsZS5uYW1lLCAnWyA9PT09PSB4eHh4eCBmaWxlLm5hbWUgPT09PT0gXScpOwogICAgaWYgKGhhc0NoaW5lc2VDaGFyKGZpbGUubmFtZSkpIHsKICAgICAgY29uc29sZS5sb2coJ+S4reaWhycsICdbID09PT09IOS4reaWhyA9PT09PSBdJyk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICAgIHJldHVybiB0cnVlOwogIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgPEltYWdlRm9ybUl0ZW0gZm9ybT17Zm9ybX0gZmllbGROYW1lPSJmaWxlcyIgbWF4SW1hZ2VDbnQ9ezF9IGZvcm1JdGVtUHJvcHM9e3tsYWJlbENvbDp7IHNwYW46IDUgfSwgd3JhcHBlckNvbDp7IHNwYW46IDE1IH0sbGFiZWw6IuWIhuexu+WbvuaghyJ9fSAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
