@@ -9,6 +9,10 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/to-shop/node_modules/_react-bmap@1.0.89@react-bmap/lib/components/navigation-control.js" timestamp="1543737121973">
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="40" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shoparea.js" timestamp="1543675698647">
         <mark key="'" line="384" column="0" />
         <mark key="[" line="385" column="15" />
@@ -97,12 +101,12 @@
       <file name="$USER_HOME$/workspace/demo/mall-for-node/common/axios.js" timestamp="1542957809121">
         <mark key="'" line="138" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1543735748262">
-        <mark key="'" line="223" column="0" />
-        <mark key="[" line="3" column="69" />
-        <mark key="]" line="3" column="69" />
-        <mark key="." line="3" column="69" />
-        <mark key="^" line="3" column="69" />
+      <file name="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1543737371429">
+        <mark key="'" line="222" column="80" />
+        <mark key="[" line="222" column="70" />
+        <mark key="]" line="222" column="95" />
+        <mark key="." line="222" column="70" />
+        <mark key="^" line="222" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Users/models/users.js" timestamp="1543676817360">
         <mark key="[" line="15" column="0" />
@@ -125,6 +129,10 @@
         <mark key="]" line="189" column="48" />
         <mark key="^" line="218" column="15" />
         <mark key="." line="225" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Forms/AdvancedForm.js" timestamp="1543720919689">
+        <mark key="[" line="179" column="22" />
+        <mark key="]" line="179" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/layouts/BasicLayout.js" timestamp="1543725609586">
         <mark key="[" line="129" column="26" />
@@ -347,10 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="6" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="225" column="26" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="250" column="48" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="12" column="14" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="377" column="23" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="42" column="13" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/models/shop.js" />
       <jump line="100" column="22" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
@@ -447,6 +451,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/to-shop/package.json" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/demo/to-shop/package.json" />
       <jump line="223" column="0" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="16" column="8" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="31" column="13" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="7" column="5" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="222" column="80" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -456,52 +464,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text encoding="base64">cmVmPXtyZWYgPT4gdGhpcy5tYXAgPSByZWYubWFwfQ==</text>
       </register>
       <register name="/" type="4">
-        <text>logo</text>
+        <text>locationSucc</text>
       </register>
       <register name="0" type="4">
-        <text>Drawer</text>
+        <text>enableGeolocation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPlNvbWUgY29udGVudHMuLi48L3A+CiAgICAgICAgICA8cD5Tb21lIGNvbnRlbnRzLi4uPC9wPgogICAgICAgICAgPHA+U29tZSBjb250ZW50cy4uLjwvcD4K</text>
+        <text encoding="base64">ICBNb2RhbCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCdzZWxlY3RlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPlNvbWUgY29udGVudHMuLi48L3A+CiAgICAgICAgICA8cD5Tb21lIGNvbnRlbnRzLi4uPC9wPgogICAgICAgICAgPHA+U29tZSBjb250ZW50cy4uLjwvcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJCYXNpYyBEcmF3ZXIiCg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCdzZWxlY3RlZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoOicxMDAlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJCYXNpYyBEcmF3ZXIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSLmt7vliqDnsbvlnosiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOicxMDAlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSLmt7vliqDnsbvlnosiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuWIhuexu+W6j+WPtyI+CiAgICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCd0aGVPcmRlcicsIHsKICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IDEsCiAgICAgICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MjB9IC8+KX0KICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgICA8Rm9ybUl0ZW0gbGFiZWxDb2w9e3sgc3BhbjogNSB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE1IH19IGxhYmVsPSLljLrln5/lkI3np7AiPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICflkI3np7DkuI3og73kuLrnqbonIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQogICAgICAgICAgPC9Gb3JtSXRlbT4KCiAgICAgICAgICA8SW1hZ2VGb3JtSXRlbQogICAgICAgICAgICBmb3JtPXtmb3JtfQogICAgICAgICAgICBmaWVsZE5hbWU9ImZpbGVzIgogICAgICAgICAgICBtYXhJbWFnZUNudD17MX0KICAgICAgICAgICAgZm9ybUl0ZW1Qcm9wcz17eyBsYWJlbENvbDogeyBzcGFuOiA1IH0sIHdyYXBwZXJDb2w6IHsgc3BhbjogMTUgfSwgbGFiZWw6ICfliIbnsbvlm77moIcnIH19CiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTZWxlY3QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuWIhuexu+W6j+WPtyI+CiAgICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCd0aGVPcmRlcicsIHsKICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IDEsCiAgICAgICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MjB9IC8+KX0KICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgICA8Rm9ybUl0ZW0gbGFiZWxDb2w9e3sgc3BhbjogNSB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE1IH19IGxhYmVsPSLljLrln5/lkI3np7AiPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICflkI3np7DkuI3og73kuLrnqbonIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQogICAgICAgICAgPC9Gb3JtSXRlbT4KCiAgICAgICAgICA8SW1hZ2VGb3JtSXRlbQogICAgICAgICAgICBmb3JtPXtmb3JtfQogICAgICAgICAgICBmaWVsZE5hbWU9ImZpbGVzIgogICAgICAgICAgICBtYXhJbWFnZUNudD17MX0KICAgICAgICAgICAgZm9ybUl0ZW1Qcm9wcz17eyBsYWJlbENvbDogeyBzcGFuOiA1IH0sIHdyYXBwZXJDb2w6IHsgc3BhbjogMTUgfSwgbGFiZWw6ICfliIbnsbvlm77moIcnIH19CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTZWxlY3QsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logo</last-search>
+      <last-search>locationSucc</last-search>
       <last-offset />
-      <last-pattern>logo</last-pattern>
+      <last-pattern>locationSucc</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -509,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>message</entry>
-        <entry>serverName</entry>
         <entry>显示</entry>
         <entry encoding="base64">XDxoYW5kbGVNb2RcPg==</entry>
         <entry>Util</entry>
@@ -529,6 +535,8 @@
         <entry>span</entry>
         <entry>option</entry>
         <entry>logo</entry>
+        <entry>locationSuccess</entry>
+        <entry>locationSucc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2N1cnJQcm92L2N1cnJDaXR5L2c=</entry>
