@@ -138,6 +138,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="36" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/router.js" timestamp="1543905854625">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1543838161341">
         <mark key="'" line="224" column="19" />
         <mark key="[" line="43" column="31" />
@@ -290,6 +294,7 @@
       <file name="/Dummy.txt" timestamp="1543839898804">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" timestamp="1543905760975" />
       <file name="$USER_HOME$/workspace/demo/to-admin/src/layouts/UserLayout.js" timestamp="1543633087702">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="58" column="47" />
@@ -317,12 +322,18 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/regist.js" timestamp="1543905719806">
+        <mark key="'" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/utils/authority.js" timestamp="1543825711680">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/login/Login.js" timestamp="1543905815491">
+        <mark key="'" line="20" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/weipin/index.html" timestamp="1543895500165">
         <mark key="[" line="25" column="0" />
@@ -373,9 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="18" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" />
-      <jump line="277" column="19" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" />
       <jump line="309" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" />
       <jump line="68" column="13" filename="$USER_HOME$/workspace/demo/to-admin/src/layouts/BasicLayout.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/layouts/BasicLayout.js" />
@@ -473,6 +481,9 @@
       <jump line="161" column="31" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
       <jump line="162" column="13" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
       <jump line="1" column="51" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/regist.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/regist.js" />
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/login/Login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -485,10 +496,10 @@
         <text>clock</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;:</text>
+        <text encoding="base64">XDxzaG93QWxlcnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>navigationBarTitleText</text>
+        <text>/home</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -525,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;:</last-search>
+      <last-search encoding="base64">XDxzaG93QWxlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>&quot;:</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93QWxlcnRcPg==</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gateway</entry>
-        <entry>conf</entry>
         <entry>conf.settings</entry>
         <entry>avatar</entry>
         <entry>getToken</entry>
@@ -555,6 +564,8 @@
         <entry>slice</entry>
         <entry>&quot;</entry>
         <entry>&quot;:</entry>
+        <entry>regis</entry>
+        <entry encoding="base64">XDxzaG93QWxlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGEvaW5mby9n</entry>
