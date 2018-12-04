@@ -245,11 +245,11 @@
         <mark key="." line="69" column="13" />
         <mark key="^" line="69" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.scss" timestamp="1543903344522">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.scss" timestamp="1543912973015">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1543839796923">
         <mark key="[" line="562" column="0" />
@@ -311,12 +311,12 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" timestamp="1543903434664">
-        <mark key="'" line="1" column="51" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="163" column="26" />
+      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" timestamp="1543913774696">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/pages/Authorized.js" timestamp="1543828778520">
         <mark key="[" line="9" column="0" />
@@ -386,11 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="13" filename="$USER_HOME$/workspace/demo/to-admin/src/layouts/BasicLayout.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/layouts/BasicLayout.js" />
-      <jump line="127" column="6" filename="$USER_HOME$/workspace/demo/to-shop/src/layouts/BasicLayout.js" />
-      <jump line="244" column="0" filename="$USER_HOME$/workspace/demo/to-shop/src/layouts/BasicLayout.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/to-shop/src/layouts/BasicLayout.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/component/ImageFormItem.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/to-admin/src/pages/Takeout/component/ImageFormItem.js" />
       <jump line="47" column="23" filename="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/component/ImageFormItem.js" />
@@ -486,6 +481,11 @@
       <jump line="2" column="26" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/regist.js" />
       <jump line="20" column="2" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/login/Login.js" />
       <jump line="54" column="13" filename="$USER_HOME$/workspace/micro-service/front/jh_shop/src/models/home.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
+      <jump line="172" column="60" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
+      <jump line="152" column="11" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
+      <jump line="184" column="28" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
+      <jump line="29" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -495,52 +495,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>clock</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93QWxlcnRcPg==</text>
+        <text>150</text>
       </register>
-      <register name="0" type="4">
-        <text>/home</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8U3dpcGVySXRlbSBrZXk9e2Jhbm5lci5sb2dvfSBvbkNsaWNrPXt0aGlzLmJhbm5lckNsaWNrLmJpbmQodGhpcywgYmFubmVyKX0+CiAgICAgICAgICAgICAgICA8SW1hZ2Ugc3JjPSdodHRwOi8vdmlkZW8uc291c291c2hlbmJpYW4uY24vZ3JvdXAxL00wMC8yRS8xRS9DaHBpbzF2eVk2YUFPWk85QUFCNXVvLVJjNE04MDguanBnJyBzdHlsZT17e2hlaWdodDogJzEwMCUnLCB3aWR0aDogQ29uc3Quc3lzSW5mby53aW5kb3dXaWR0aCArICJweCJ9fQogICAgICAgICAgICAgICAgICAgICAgIG9uTG9hZD17dGhpcy5pbWFnZUxvYWR9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPEltYWdlIHNyYz0naHR0cDovL3ZpZGVvLnNvdXNvdXNoZW5iaWFuLmNuL2dyb3VwMS9NMDAvNTUvQkQvQ2hwaW8xdWMybXlBSkRGMEFBS0pQYjVjSFN3NjgwLnBuZycgc3R5bGU9e3toZWlnaHQ6ICcxMDAlJywgd2lkdGg6IENvbnN0LnN5c0luZm8ud2luZG93V2lkdGggKyAicHgifX0KICAgICAgICAgICAgICAgICAgb25Mb2FkPXt0aGlzLmltYWdlTG9hZH0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9Td2lwZXJJdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZyBmcm9tICcuLi8uLi9hc3NldHMvaW1hZ2VzL3JlZy5wbmcnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWJjCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZyBmcm9tICcuLi8uLi9hc3NldHMvaW1hZ2VzL3JlZy5wbmcnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzaGFyZUNsb3NlID0gKCkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7c2hhcmVTaG93OiBmYWxzZX0pCiAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>left</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFhYQo=</text>
+        <text encoding="base64">ICBzaGFyZUNsaWNrID0gKHByb2QpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzaGFyZVByb2Q6IHByb2QsCiAgICAgIHNoYXJlU2hvdzogdHJ1ZSwKICAgIH0pCiAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhYmMK</text>
+        <text encoding="base64">ICBwcm9kQ2xpY2sgPSAocHJvZCkgPT4gewogICAgY29uc29sZS5sb2cocHJvZCwgJ1sgPT09PT0gcHJvZCA9PT09PSBdJyk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVudGVycywgJ1sgPT09PT0gZW50ZXJzID09PT09IF0nKTsKICAgIC8vIGNvbnNvbGUubG9nKHByb2R1Y3RzLCAnWyA9PT09PSBwcm9kdWN0cyA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93QWxlcnRcPg==</last-search>
+      <last-search>150</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93QWxlcnRcPg==</last-pattern>
+      <last-pattern>150</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
@@ -548,9 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conf.settings</entry>
-        <entry>avatar</entry>
-        <entry>getToken</entry>
         <entry>token</entry>
         <entry>resp</entry>
         <entry>delay</entry>
@@ -568,6 +565,9 @@
         <entry>&quot;:</entry>
         <entry>regis</entry>
         <entry encoding="base64">XDxzaG93QWxlcnRcPg==</entry>
+        <entry encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</entry>
+        <entry>150px</entry>
+        <entry>150</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RhdGEvaW5mby9n</entry>
