@@ -143,11 +143,6 @@
         <mark key="." line="32" column="29" />
         <mark key="^" line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreList.js" timestamp="1544069464948">
-        <mark key="'" line="168" column="19" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="78" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/package.json" timestamp="1544077090827">
         <mark key="'" line="60" column="0" />
       </file>
@@ -252,12 +247,9 @@
       <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/login/Login.js" timestamp="1543905815491">
         <mark key="'" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" timestamp="1544076305352">
-        <mark key="'" line="49" column="45" />
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="47" />
-        <mark key="^" line="52" column="47" />
-        <mark key="." line="52" column="47" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" timestamp="1544094710946">
+        <mark key="'" line="19" column="16" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" timestamp="1544090507766">
         <mark key="'" line="203" column="11" />
@@ -486,10 +478,12 @@
         <mark key="^" line="53" column="79" />
         <mark key="." line="53" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1544080813421">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1544094871981">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="80" column="13" />
+        <mark key="[" line="89" column="13" />
+        <mark key="]" line="90" column="21" />
+        <mark key="^" line="90" column="21" />
+        <mark key="." line="90" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/pages/Takeout/component/BaiduMap.js" timestamp="1543747626588">
         <mark key="'" line="24" column="4" />
@@ -505,7 +499,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="199" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native-iphone-x-helper/index.d.ts" timestamp="1544082340876">
+      <file name="$USER_HOME$/workspace/demo/jfans/node_modules/react-native-iphone-x-helper/index.d.ts" timestamp="1544094117078">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="33" />
       </file>
@@ -547,6 +541,9 @@
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" timestamp="1544081118837">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="57" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544094724366">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/layouts/Footer.js" timestamp="1543568481778">
         <mark key="'" line="0" column="7" />
@@ -597,9 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="36" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="142" column="32" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="92" column="77" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="60" column="2" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="8" column="7" filename="$USER_HOME$/workspace/demo/to-mp/src/components/taroui/float-layout/index.js" />
@@ -697,6 +691,9 @@
       <jump line="88" column="44" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="60" column="43" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/HomeTGFY.js" />
       <jump line="120" column="26" filename="$USER_HOME$/workspace/demo/jfans/app/services/user.js" />
+      <jump line="70" column="77" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
+      <jump line="86" column="38" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -706,13 +703,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>json2getParam</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9vc2VOdW1cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>getPullNewPrice</text>
+        <text>getStatusBarHeight</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -721,22 +718,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXRQdWxsTmV3UHJpY2UgPSAoKSA9PiB7CiAgICBjb25zdCB7IGRpc3BhdGNoIH0gPSB0aGlzLnByb3BzOwoKICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3VzZXIvZ2V0UHVsbE5ld1ByaWNlJywKICAgICAgcGF5bG9hZDogewogICAgICAgIHB1bGxOZXdUeXBlOiAnSkRfSU9VU19QVUxMX05FVycsCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiAocmVzcCkgPT4gewogICAgICAgIGlmIChVdGlsLm9rKHJlc3ApKSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcHJpY2U6IHJlc3AuUFVMTF9ORVdfUFJJQ0UuUFVMTF9ORVdfUFJJQ0UsCiAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3ByaWNlID09PSAwID8KICAgICAgICAgICAgICAgICAgICB4eHgKICAgICAgICAgICAgICAgICAgICA6CiAgICAgICAgICAgICAgICAgICAg5o6o6I2Q55So5oi35oiQ5Yqf5byA6YCa77yM56uL6LWae3ByaWNlfeWFg+S9o+mHkQogICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBnZXRQdWxsTmV3UHJpY2UgPSAoKSA9PiB7CiAgICBjb25zdCB7IGRpc3BhdGNoIH0gPSB0aGlzLnByb3BzOwoKICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3VzZXIvZ2V0UHVsbE5ld1ByaWNlJywKICAgICAgcGF5bG9hZDogewogICAgICAgIHB1bGxOZXdUeXBlOiAnSkRfSU9VU19QVUxMX05FVycsCiAgICAgIH0sCiAgICAgIGNhbGxiYWNrOiAocmVzcCkgPT4gewogICAgICAgIGlmIChVdGlsLm9rKHJlc3ApKSB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcHJpY2U6IHJlc3AuUFVMTF9ORVdfUFJJQ0UuUFVMTF9ORVdfUFJJQ0UsCiAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKICB9OwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3ByaWNlID09PSAwID8KICAgICAgICAgICAgICAgICAgICB4eHgKICAgICAgICAgICAgICAgICAgICA6CiAgICAgICAgICAgICAgICAgICAg5o6o6I2Q55So5oi35oiQ5Yqf5byA6YCa77yM56uL6LWae3ByaWNlfeWFg+S9o+mHkQogICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
