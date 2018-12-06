@@ -32,6 +32,12 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+  </action>
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="shift meta m" />
