@@ -145,6 +145,9 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="78" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/package.json" timestamp="1544077090827">
+        <mark key="'" line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/Home.js" timestamp="1544067890244">
         <mark key="'" line="256" column="38" />
         <mark key="[" line="256" column="50" />
@@ -246,6 +249,9 @@
         <mark key="[" line="101" column="18" />
         <mark key="]" line="101" column="18" />
         <mark key="." line="101" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/jh_shop/src/routes/login/Login.js" timestamp="1543905815491">
+        <mark key="'" line="20" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" timestamp="1544076305352">
         <mark key="'" line="49" column="45" />
@@ -380,6 +386,9 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/to-mp/node_modules/taro-ui/dist/weapp/style/theme/default.scss" timestamp="1543999541805">
+        <mark key="'" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/app.js" timestamp="1544012463898">
         <mark key="'" line="38" column="21" />
         <mark key="[" line="28" column="0" />
@@ -418,6 +427,9 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/to-shop/src/locales/zh-CN.js" timestamp="1543829484631">
+        <mark key="'" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/utils/request.js" timestamp="1543829281707">
         <mark key="[" line="119" column="33" />
@@ -483,12 +495,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" timestamp="1544075877897">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="27" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" timestamp="1544077135724">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="175" column="22" />
+        <mark key="]" line="175" column="22" />
         <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
+        <mark key="." line="175" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/config/router.config.js" timestamp="1543920033197">
         <mark key="'" line="226" column="46" />
@@ -580,10 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="68" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orders.js" />
-      <jump line="43" column="88" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orders.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orders.js" />
       <jump line="40" column="20" filename="$USER_HOME$/workspace/demo/to-mp/src/app.js" />
       <jump line="38" column="21" filename="$USER_HOME$/workspace/demo/to-mp/src/app.js" />
@@ -680,6 +688,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="123" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="49" column="45" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/jfans/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/jfans/package.json" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/demo/jfans/package.json" />
+      <jump line="3" column="1" filename="$USER_HOME$/workspace/demo/jfans/app/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,13 +701,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'2018-10-10',</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text>moment</text>
       </register>
-      <register name="0" type="4">
-        <text>getPreMonth</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBkYXRlID0gbW9tZW50KCkuZm9ybWF0KCdZWVlZLU1NLUREJyk7Cg==</text>
       </register>
       <register name="1" type="8">
         <text>var
@@ -737,9 +749,9 @@ var</text>
       </register>
     </registers>
     <search>
-      <last-search>split</last-search>
+      <last-search>moment</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern>moment</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>balance</last-substitute>
       <last-dir>1</last-dir>
@@ -747,7 +759,6 @@ var</text>
     </search>
     <history>
       <history-search>
-        <entry>distance</entry>
         <entry>border</entry>
         <entry encoding="base64">XDxjb2xvclw+</entry>
         <entry>color-brand</entry>
@@ -767,6 +778,7 @@ var</text>
         <entry>收支明细</entry>
         <entry>balance</entry>
         <entry>split</entry>
+        <entry>moment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ld09wdGlvbnMvb3B0aW9uL2c=</entry>
