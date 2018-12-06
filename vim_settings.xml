@@ -258,12 +258,12 @@
         <mark key="^" line="52" column="47" />
         <mark key="." line="52" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" timestamp="1544082401669">
-        <mark key="'" line="144" column="59" />
-        <mark key="[" line="143" column="32" />
-        <mark key="]" line="143" column="32" />
-        <mark key="." line="143" column="32" />
-        <mark key="^" line="143" column="32" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" timestamp="1544087350611">
+        <mark key="'" line="151" column="51" />
+        <mark key="[" line="218" column="20" />
+        <mark key="]" line="218" column="20" />
+        <mark key="." line="218" column="20" />
+        <mark key="^" line="218" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/weipin/index.html" timestamp="1543895500165">
         <mark key="[" line="25" column="0" />
@@ -591,12 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="11" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="64" column="11" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="46" column="16" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="69" column="99" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="20" column="1" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.scss" />
       <jump line="3" column="24" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="98" column="11" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -691,6 +685,12 @@
       <jump line="89" column="29" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
       <jump line="144" column="59" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="142" column="64" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="152" column="40" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="189" column="3" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="206" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="221" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
+      <jump line="151" column="51" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/BalanceDetailList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -700,43 +700,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>={false}</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
-      <register name="0" type="4">
-        <text>getStatusBarHeight</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBidG5uZXh0OiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRkZGJywKICAgIGJvcmRlclJhZGl1czogMCwKICAgIGNvbG9yOiAnd2hpdGUnLAogICAgd2lkdGg6ICc5MCUnLAogICAgbWFyZ2luTGVmdDogJzUlJywKICAgIG1hcmdpbkJvdHRvbTogMTAsCiAgICBtYXJnaW5Ub3A6IDIwLAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIG1hcmdpbkJvdHRvbTogMTAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICB3aWR0aDogQ29uc3Qud2luLndpZHRoIC0gNjAsCiAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOidyZWQnCiAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6ICc1JScsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b25SZXF1ZXN0Q2xvc2U9eygpID0+IHsKICAgICAgICAgICAgICBBbGVydC5hbGVydCgnTW9kYWwgaGFzIGJlZW4gY2xvc2VkLicpOwogICAgICAgICAgICB9fQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAnOTAlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3VjaGFibGUgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICBhbGVydCgneHh4Jyk7CiAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgICAgICAgIG1vZGFsVmlzaWJsZTogZmFsc2UsCiAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgIDxUZXh0PkhpZGUgTW9kYWw8L1RleHQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZT4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0IG9uUHJlc3M9eygpPT57CiAgICAgICAgICAgICAgICB9fT5IZWxsbyBXb3JsZCE8L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8TW9kYWwKICAgICAgICAgIGFuaW1hdGlvblR5cGU9InNsaWRlIgogICAgICAgICAgdHJhbnNwYXJlbnQ9e2ZhbHNlfQogICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5tb2RhbFZpc2libGV9CiAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gewogICAgICAgICAgICBBbGVydC5hbGVydCgnTW9kYWwgaGFzIGJlZW4gY2xvc2VkLicpOwogICAgICAgICAgfX0+CiAgICAgICAgICA8VmlldyBzdHlsZT17eyBtYXJnaW5Ub3A6IDIyIH19PgogICAgICAgICAgICA8Vmlldz4KICAgICAgICAgICAgICA8VGV4dD5IZWxsbyBXb3JsZCE8L1RleHQ+CgogICAgICAgICAgICAgIDxUb3VjaGFibGUKICAgICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgdGhpcy5zZXRNb2RhbFZpc2libGUoIXRoaXMuc3RhdGUubW9kYWxWaXNpYmxlKTsKICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgPFRleHQ+SGlkZSBNb2RhbDwvVGV4dD4KICAgICAgICAgICAgICA8L1RvdWNoYWJsZT4KICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgPC9WaWV3PgogICAgICAgIDwvTW9kYWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZW5kZXJEZXRhaWxSZWNvcmQgPSAoKSA9PiB7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
