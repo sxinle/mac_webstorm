@@ -409,10 +409,11 @@
         <mark key="." line="473" column="0" />
         <mark key="^" line="474" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" timestamp="1544238749907">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="171" column="4" />
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" timestamp="1544249915117">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="84" column="48" />
+        <mark key="]" line="84" column="66" />
+        <mark key="." line="84" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/utils/utils.js" timestamp="1543824923804">
         <mark key="'" line="225" column="0" />
@@ -421,7 +422,7 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544247539901">
+      <file name="/Dummy.txt" timestamp="1544253901475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/onecomm/onecomm.js" timestamp="1544100603705">
@@ -559,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="61" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="208" column="66" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
       <jump line="0" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
       <jump line="11" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
@@ -659,6 +659,7 @@
       <jump line="174" column="58" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="4" column="7" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="45" column="18" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/TGFYOrders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -668,13 +669,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>PULL_NEW_TYPE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgVGFyby5jcmVhdGVTZWxlY3RvclF1ZXJ5KCkuc2VsZWN0KCcudG9wJykuYm91bmRpbmdDbGllbnRSZWN0KHJlY3QgPT4gewo=</text>
+      <register name="0" type="4">
+        <text>ACTIVATION_TIME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
