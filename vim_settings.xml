@@ -339,12 +339,12 @@
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" timestamp="1544245603341">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="75" column="38" />
-        <mark key="]" line="75" column="42" />
-        <mark key="." line="75" column="42" />
-        <mark key="^" line="75" column="42" />
+      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" timestamp="1544246711507">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="81" column="75" />
+        <mark key="." line="81" column="75" />
+        <mark key="^" line="81" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.scss" timestamp="1544171715474">
         <mark key="'" line="17" column="5" />
@@ -374,11 +374,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="63" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" timestamp="1544245374698">
+      <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" timestamp="1544246989233">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="108" column="21" />
-        <mark key="]" line="108" column="22" />
-        <mark key="." line="108" column="22" />
+        <mark key="[" line="148" column="21" />
+        <mark key="]" line="148" column="22" />
+        <mark key="." line="148" column="22" />
         <mark key="^" line="40" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/services/goodsservice.js" timestamp="1543838283804">
@@ -421,7 +421,7 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544241943930">
+      <file name="/Dummy.txt" timestamp="1544247539901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/onecomm/onecomm.js" timestamp="1544100603705">
@@ -559,7 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
       <jump line="72" column="61" filename="$USER_HOME$/workspace/demo/jfans/app/containers/wallet/Wallet.js" />
       <jump line="208" column="66" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
       <jump line="0" column="16" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelSimCard.js" />
@@ -659,6 +658,7 @@
       <jump line="171" column="23" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="174" column="58" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="4" column="7" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="45" column="18" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -668,13 +668,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gNDc=</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>Const</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRhcm8uY3JlYXRlU2VsZWN0b3JRdWVyeSgpLmluKHRoaXMuJHNjb3BlKS5zZWxlY3QoJy50b3AnKS5ib3VuZGluZ0NsaWVudFJlY3QocmVjdCA9PiB7CiAgICAgIGlmKHJlY3QpIHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIHRvcEhlaWdodDogcmVjdC5oZWlnaHQsCiAgICAgICAgfSkKICAgICAgfQogICAgfSkuZXhlYygpOwo=</text>
+        <text encoding="base64">ICAgICAgVGFyby5jcmVhdGVTZWxlY3RvclF1ZXJ5KCkuc2VsZWN0KCcudG9wJykuYm91bmRpbmdDbGllbnRSZWN0KHJlY3QgPT4gewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -683,45 +683,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzeXNJbmZvOiBUYXJvLmdldFN5c3RlbUluZm9TeW5jKCksCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICdhdC10YWJzX19pdGVtLmF0LXRhYnNfX2l0ZW0uYXQtdGFic19faXRlbS0tYWN0aXZlLmF0LXRhYnNfX2l0ZW0tLWFjdGl2ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHN0eWxlPXt7aGVpZ2h0OiAzMDAgKyAncHgnfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3lzSW5mbzoge30sCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzeXNJbmZvOiBUYXJvLmdldFN5c3RlbUluZm9TeW5jKCksCiAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHN0eWxlPXt7aGVpZ2h0OiAzMDAgKyAncHgnfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgc3lzSW5mbzoge30sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzeXNJbmZvOiBUYXJvLmdldFN5c3RlbUluZm9TeW5jKCksCiAgICB9LCAoKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qge3N5c0luZm99ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzeXNJbmZvOiBUYXJvLmdldFN5c3RlbUluZm9TeW5jKCksCiAgICB9LCAoKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Const</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>Const</last-pattern>
-      <last-replace>b</last-replace>
-      <last-substitute>balance</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace>.g</last-replace>
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>endRea</entry>
         <entry encoding="base64">XDxhbGxDYXJkc1w+</entry>
         <entry>callback</entry>
         <entry>map</entry>
@@ -741,10 +740,9 @@
         <entry encoding="base64">XDxzeXNJbmZvXD4=</entry>
         <entry>sysInfo</entry>
         <entry>Const</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
-        <entry encoding="base64">JzwsJz5zLy5tZG4vLlNFUklBTF9OVU1CRVIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ2luL3BheS9n</entry>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
         <entry>vsp stage.config.js</entry>
@@ -762,6 +760,8 @@
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2UvYi9n</entry>
         <entry>.,.+22w</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
