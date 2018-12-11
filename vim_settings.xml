@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544529112459">
-        <mark key="'" line="232" column="31" />
-        <mark key="[" line="451" column="25" />
-        <mark key="]" line="451" column="34" />
-        <mark key="." line="451" column="34" />
-        <mark key="^" line="451" column="34" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544529490131">
+        <mark key="'" line="422" column="45" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/services/user.js" timestamp="1544092895617">
         <mark key="'" line="120" column="26" />
@@ -226,11 +225,12 @@
         <mark key="." line="200" column="28" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/BaiTiaoInvite.js" timestamp="1544526100166">
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/home/BaiTiaoInvite.js" timestamp="1544529830159">
         <mark key="'" line="102" column="27" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="93" column="25" />
+        <mark key="]" line="93" column="25" />
+        <mark key="." line="93" column="25" />
+        <mark key="^" line="93" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/goodsConfirm/Allot.js" timestamp="1544091013731">
         <mark key="'" line="32" column="37" />
@@ -605,9 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="5" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreList.js" />
-      <jump line="10" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
-      <jump line="12" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
       <jump line="8" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
       <jump line="13" column="6" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/BaiTiaoInvite.js" />
       <jump line="93" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/BaiTiaoInvite.js" />
@@ -686,7 +683,6 @@
       <jump line="376" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="377" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="378" column="27" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
-      <jump line="379" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="380" column="34" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="381" column="34" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="382" column="38" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
@@ -705,6 +701,10 @@
       <jump line="240" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="232" column="31" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="449" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="336" column="71" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="379" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="422" column="45" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -714,52 +714,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>月</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
+        <text encoding="base64">XDxoaW50VGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text>RNCamera</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDms6jlhozljbPpgIE15YWD6K+d6LS55Yi45ZKMMTDlhYPml6Dpl6jmp5vku6Pph5HliLgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJywgdGV4dEFsaWduVmVydGljYWw6ICdjZW50ZXInLCB0ZXh0QWxpZ246ICdjZW50ZXInLCBmb250OiAyMCwgcGFkZGluZzogMTJ9fT4KICAgICAgICAgICAgICAgIEhlcmUgaXMgYm90dG9tIG1lbnUKICAgICAgICAgICAgPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3PjxUZXh0PuWPr+i/m+ihjOadoeW9oueggeaJq+aPjzwvVGV4dD48L1ZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQKICAgICAgICAgICAgICAgIHN0eWxlPXt7Y29sb3I6ICd3aGl0ZScsIHRleHRBbGlnblZlcnRpY2FsOiAnY2VudGVyJywgdGV4dEFsaWduOiAnY2VudGVyJywgZm9udDogMjAsIHBhZGRpbmc6IDEyfX0KICAgICAgICAgICAgPkhlcmUgaXMgdGl0bGUgYmFyPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW5Ub3A6IDIwMCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nVG9wOiAyMDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDms6jlhozljbPpgIE15YWD6K+d6LS55Yi45ZKMMTDlhYPml6Dpl6jmp5vku6Pph5HliLgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3tjb2xvcjogJ3doaXRlJywgdGV4dEFsaWduVmVydGljYWw6ICdjZW50ZXInLCB0ZXh0QWxpZ246ICdjZW50ZXInLCBmb250OiAyMCwgcGFkZGluZzogMTJ9fT4KICAgICAgICAgICAgICAgIEhlcmUgaXMgYm90dG9tIG1lbnUKICAgICAgICAgICAgPC9UZXh0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbmRlclRvcEJhclZpZXc9eygpID0+IHRoaXMuX3JlbmRlclRpdGxlQmFyKCl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQKICAgICAgICAgICAgICAgIHN0eWxlPXt7Y29sb3I6ICd3aGl0ZScsIHRleHRBbGlnblZlcnRpY2FsOiAnY2VudGVyJywgdGV4dEFsaWduOiAnY2VudGVyJywgZm9udDogMjAsIHBhZGRpbmc6IDEyfX0KICAgICAgICAgICAgPkhlcmUgaXMgdGl0bGUgYmFyPC9UZXh0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9yZW5kZXJUaXRsZUJhcigpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8VGV4dAogICAgICAgICAgICAgICAgc3R5bGU9e3tjb2xvcjogJ3doaXRlJywgdGV4dEFsaWduVmVydGljYWw6ICdjZW50ZXInLCB0ZXh0QWxpZ246ICdjZW50ZXInLCBmb250OiAyMCwgcGFkZGluZzogMTJ9fQogICAgICAgICAgICA+SGVyZSBpcyB0aXRsZSBiYXI8L1RleHQ+CiAgICAgICAgKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gInJlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
+      <last-search encoding="base64">XDxoaW50VGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxoaW50VGV4dFw+</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -767,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXNjXD4=</entry>
         <entry encoding="base64">XDxyaWdodEltZ1w+</entry>
         <entry encoding="base64">XDxjZW50ZXJcPg==</entry>
         <entry>length</entry>
@@ -787,6 +786,7 @@
         <entry encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</entry>
         <entry>topBar</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxoaW50VGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
