@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544492406425">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544529112459">
+        <mark key="'" line="232" column="31" />
+        <mark key="[" line="451" column="25" />
+        <mark key="]" line="451" column="34" />
+        <mark key="." line="451" column="34" />
+        <mark key="^" line="451" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/services/user.js" timestamp="1544092895617">
         <mark key="'" line="120" column="26" />
@@ -605,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="214" column="5" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreList.js" />
       <jump line="10" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
       <jump line="12" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
@@ -705,6 +704,7 @@
       <jump line="1" column="52" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
       <jump line="240" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="232" column="31" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -714,10 +714,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>RNCamera</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
-        <text>topBar</text>
+        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>RNCamera</text>
@@ -757,17 +757,16 @@
       </register>
     </registers>
     <search>
-      <last-search>topBar</last-search>
+      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>topBar</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0lwaG9uZVhcPg==</entry>
         <entry encoding="base64">XDxkZXNjXD4=</entry>
         <entry encoding="base64">XDxyaWdodEltZ1w+</entry>
         <entry encoding="base64">XDxjZW50ZXJcPg==</entry>
@@ -787,6 +786,7 @@
         <entry>React.Prop</entry>
         <entry encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</entry>
         <entry>topBar</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
@@ -801,13 +801,13 @@
         <entry encoding="base64">JzwsJz5zLyI6LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RhYnMvbWluZS9n</entry>
         <entry encoding="base64">JzwsJz5zL21pbmUvb3JkZXJzL2c=</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2UvYi9n</entry>
         <entry>.,.+22w</entry>
         <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
