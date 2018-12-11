@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544446474150">
-        <mark key="'" line="385" column="22" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" timestamp="1544492107872">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="7" />
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/services/user.js" timestamp="1544092895617">
@@ -29,6 +29,10 @@
       </file>
       <file name="/a.dummy" timestamp="1544179874402">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" timestamp="1544492105597">
+        <mark key="[" line="222" column="13" />
+        <mark key="]" line="222" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/services/user.js" timestamp="1543823074189">
         <mark key="'" line="9" column="23" />
@@ -249,12 +253,12 @@
         <mark key="]" line="0" column="73" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1544446735929">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1544491875163">
         <mark key="'" line="1" column="52" />
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="52" />
-        <mark key="." line="1" column="52" />
-        <mark key="^" line="1" column="52" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+        <mark key="^" line="58" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/components/SiderMenu/SiderMenu.js" timestamp="1543678338441">
         <mark key="'" line="71" column="53" />
@@ -602,8 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="53" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreList.js" />
-      <jump line="187" column="24" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="17" column="25" filename="$USER_HOME$/workspace/demo/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="214" column="5" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/myStore/StoreList.js" />
       <jump line="10" column="35" filename="$USER_HOME$/workspace/demo/jfans/app/components/home/BizIconTextTGFY.js" />
@@ -702,6 +704,8 @@
       <jump line="385" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="63" column="23" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
       <jump line="1" column="52" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
+      <jump line="240" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
+      <jump line="80" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -711,13 +715,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RNCamera</text>
       </register>
       <register name="/" type="4">
-        <text>React.Prop</text>
+        <text encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>React.PropTypes</text>
+        <text>RNCamera</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gInJlYWN0LW5hdGl2ZS1lYXN5LXRvYXN0IjsK</text>
@@ -754,9 +758,9 @@
       </register>
     </registers>
     <search>
-      <last-search>React.Prop</last-search>
+      <last-search encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</last-search>
       <last-offset />
-      <last-pattern>React.Prop</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -764,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>layout-body__content</entry>
         <entry>arrow</entry>
         <entry encoding="base64">XDxpc0lwaG9uZVhcPg==</entry>
         <entry encoding="base64">XDxkZXNjXD4=</entry>
@@ -784,6 +787,7 @@
         <entry encoding="base64">XDxwcm9wVHlwZXNcPg==</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
         <entry>React.Prop</entry>
+        <entry encoding="base64">XDxnZXRCb3JkZXJTaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
