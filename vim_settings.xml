@@ -253,12 +253,12 @@
         <mark key="]" line="0" column="73" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1544530882998">
-        <mark key="'" line="40" column="16" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="53" column="15" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1544592293259">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="107" column="33" />
+        <mark key="]" line="107" column="34" />
+        <mark key="^" line="150" column="18" />
+        <mark key="." line="107" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/src/components/SiderMenu/SiderMenu.js" timestamp="1543678338441">
         <mark key="'" line="71" column="53" />
@@ -280,12 +280,12 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544587319617">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544588515299">
         <mark key="'" line="118" column="9" />
-        <mark key="[" line="77" column="64" />
-        <mark key="]" line="77" column="64" />
-        <mark key="." line="77" column="64" />
-        <mark key="^" line="126" column="47" />
+        <mark key="[" line="77" column="62" />
+        <mark key="]" line="77" column="68" />
+        <mark key="." line="77" column="68" />
+        <mark key="^" line="77" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/config/router.config.js" timestamp="1544421923156">
         <mark key="'" line="246" column="16" />
@@ -463,11 +463,11 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" timestamp="1544531545919">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="31" column="28" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/navigation/AppNavigator.js" timestamp="1544591857624">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1544446236110">
         <mark key="[" line="0" column="0" />
@@ -613,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="34" column="32" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="39" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="109" column="54" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -689,7 +688,6 @@
       <jump line="409" column="51" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="402" column="41" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="382" column="14" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
-      <jump line="38" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
       <jump line="432" column="36" filename="$USER_HOME$/workspace/demo/jdtx/screens/QRScanner.js" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
       <jump line="40" column="16" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
@@ -713,6 +711,8 @@
       <jump line="20" column="5" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
       <jump line="53" column="17" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
       <jump line="87" column="31" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
+      <jump line="65" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
+      <jump line="38" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -722,7 +722,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>, RNCamera.Constants.BarCodeType</text>
+        <text>120</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCYXJDb2RlVHlwZVw+</text>
