@@ -279,11 +279,12 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544581714307">
-        <mark key="'" line="39" column="26" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544584027497">
+        <mark key="'" line="68" column="32" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="50" column="33" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/config/router.config.js" timestamp="1544421923156">
         <mark key="'" line="246" column="16" />
@@ -611,12 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="85" column="24" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/goodstypes/goodstypes.scss" />
-      <jump line="83" column="12" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="90" column="44" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/home/home.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/workspace/demo/to-mp/src/utils/Const.js" />
       <jump line="15" column="19" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="38" column="28" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="18" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
@@ -711,6 +706,12 @@
       <jump line="40" column="27" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
       <jump line="36" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
       <jump line="38" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="92" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="79" column="89" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="26" column="46" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="39" column="26" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="64" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="71" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -720,52 +721,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.cornerBorderWidth,</text>
+        <text>blur()</text>
       </register>
       <register name="/" type="4">
-        <text>zindex</text>
+        <text encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywKICAgICAgICB0b3A6IDAsCiAgICAgICAgbGVmdDogMCwK</text>
+      <register name="0" type="4">
+        <text>didBlurSubscription</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2JsdXInLCAnWyA9PT09PSBibHVyKCkgPT09PT0gXScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e1sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtib3JkZXJDb2xvcjogJ2dyZWVuJ30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aGVpZ2h0OiAxMCwgd2lkdGg6IDEwfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbjogJ2Fic29sdXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3A6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdDogMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyTGVmdFdpZHRoOiAxMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJUb3BXaWR0aDogMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF19Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0JywgJ1sgPT09PT0gc3RhcnQgPT09PT0gXScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlcy50b3BMZWZ0Q29ybmVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0Q29ybmVyQ29sb3IoKSwK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxCbHVyID0gKHBheWxvYWQpID0+IHsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0Q29ybmVyU2l6ZSgpLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnMuZm9yRWFjaChzdWIgPT4gc3ViLnJlbW92ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0Q29ybmVyQ29sb3IoKSwK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnMgPSBbdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmFkZExpc3RlbmVyKCd3aWxsQmx1cicsIChwYXlsb2FkKSA9PiB0aGlzLmNvbXBvbmVudFdpbGxCbHVyKHBheWxvYWQpKV07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRDb3JuZXJDb2xvcigpLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygid2lsbCIsICdbID09PT09IHdpbGwgPT09PT0gXScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXRDb3JuZXJTaXplKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5kZWJ1ZygnZGlkQmx1cicsIHBheWxvYWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXJMZWYK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2hvdzogZmFsc2UKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICAgIEFuaW1hdGVkLnRpbWluZygKICAgICAgICAgICAgICAgIHRoaXMuc3RhdGUuYW5pbWF0aW9uCiAgICAgICAgICAgICkuc3RvcCgpOwogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>zindex</last-search>
+      <last-search encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>zindex</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -776,7 +777,6 @@
         <entry>Alert</entry>
         <entry>smart</entry>
         <entry>images</entry>
-        <entry encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</entry>
         <entry>Camera</entry>
         <entry encoding="base64">XDxwcm9wVHlwZXNcPg==</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
@@ -793,6 +793,7 @@
         <entry>start</entry>
         <entry>redux</entry>
         <entry>zindex</entry>
+        <entry encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
