@@ -30,7 +30,8 @@
       <file name="/a.dummy" timestamp="1544179874402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" timestamp="1544492105597">
+      <file name="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" timestamp="1544587249279">
+        <mark key="'" line="87" column="31" />
         <mark key="[" line="222" column="13" />
         <mark key="]" line="222" column="20" />
       </file>
@@ -279,12 +280,12 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="90" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544585670218">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" timestamp="1544587319617">
         <mark key="'" line="118" column="9" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="125" column="14" />
+        <mark key="[" line="77" column="64" />
+        <mark key="]" line="77" column="64" />
+        <mark key="." line="77" column="64" />
+        <mark key="^" line="126" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/config/router.config.js" timestamp="1544421923156">
         <mark key="'" line="246" column="16" />
@@ -612,9 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
-      <jump line="29" column="13" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="34" column="32" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="39" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -712,6 +710,9 @@
       <jump line="71" column="32" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
       <jump line="53" column="9" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
       <jump line="118" column="9" filename="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScanerCust.js" />
+      <jump line="20" column="5" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
+      <jump line="53" column="17" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
+      <jump line="87" column="31" filename="$USER_HOME$/workspace/demo/jdtx/node_modules/react-native-camera/types/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -721,13 +722,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>state.show = false;</text>
+        <text>, RNCamera.Constants.BarCodeType</text>
       </register>
       <register name="/" type="4">
-        <text>将二维码</text>
+        <text encoding="base64">XDxCYXJDb2RlVHlwZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>Vibration</text>
+        <text>RNCamera.Constants.BarCodeType.qr</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -765,9 +766,9 @@
       </register>
     </registers>
     <search>
-      <last-search>将二维码</last-search>
+      <last-search encoding="base64">XDxCYXJDb2RlVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>将二维码</last-pattern>
+      <last-pattern encoding="base64">XDxCYXJDb2RlVHlwZVw+</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -775,7 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smart</entry>
         <entry>images</entry>
         <entry>Camera</entry>
         <entry encoding="base64">XDxwcm9wVHlwZXNcPg==</entry>
@@ -795,6 +795,7 @@
         <entry>zindex</entry>
         <entry encoding="base64">XDxzdGFydEFuaW1hdGlvblw+</entry>
         <entry>将二维码</entry>
+        <entry encoding="base64">XDxCYXJDb2RlVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
