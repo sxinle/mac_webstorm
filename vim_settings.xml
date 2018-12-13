@@ -204,8 +204,8 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/package.json" timestamp="1544684075040">
-        <mark key="'" line="15" column="50" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/package.json" timestamp="1544687370543">
+        <mark key="'" line="22" column="22" />
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="29" />
         <mark key="." line="10" column="0" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/SearchResult.js" />
-      <jump line="412" column="45" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="24" column="67" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="1" column="63" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyNewDetail.js" />
@@ -334,6 +332,8 @@
       <jump line="172" column="2" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="429" column="32" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/jfans/app/services/card.js" />
+      <jump line="16" column="39" filename="$USER_HOME$/workspace/demo/jdtx/package.json" />
+      <jump line="22" column="22" filename="$USER_HOME$/workspace/demo/jdtx/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,7 +346,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>toast</text>
+        <text>modal</text>
       </register>
       <register name="0" type="4">
         <text>loadingHint</text>
@@ -386,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toast</last-search>
+      <last-search>modal</last-search>
       <last-offset />
-      <last-pattern>toast</last-pattern>
+      <last-pattern>modal</last-pattern>
       <last-replace>Prop</last-replace>
       <last-substitute>React.Prop</last-substitute>
       <last-dir>1</last-dir>
@@ -398,7 +398,6 @@
       <history-search>
         <entry>七日</entry>
         <entry>status</entry>
-        <entry>modal</entry>
         <entry>拒收</entry>
         <entry encoding="base64">XDxjb25maXJtUmVmdXNlZFw+</entry>
         <entry>拒收原因</entry>
@@ -416,6 +415,7 @@
         <entry>撤单</entry>
         <entry encoding="base64">XDxjb25maXJtQ2FuY2xlT3JkZXJcPg==</entry>
         <entry>toast</entry>
+        <entry>modal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYWRlTGlzdC9yZWNvcmRMaXN0L2c=</entry>
