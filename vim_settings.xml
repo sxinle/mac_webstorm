@@ -111,12 +111,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1545297648119">
-        <mark key="'" line="40" column="25" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="^" line="152" column="63" />
-        <mark key="." line="250" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1545299579052">
+        <mark key="'" line="219" column="56" />
+        <mark key="[" line="205" column="87" />
+        <mark key="]" line="205" column="87" />
+        <mark key="^" line="205" column="84" />
+        <mark key="." line="205" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1545284357144">
         <mark key="[" line="144" column="0" />
@@ -240,10 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="3" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/mine.js" />
-      <jump line="48" column="34" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/mine.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/add/addAddress.js" />
-      <jump line="16" column="33" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/add/addAddress.scss" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/add/addAddress.scss" />
       <jump line="28" column="21" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/address.scss" />
       <jump line="58" column="83" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/add/addAddress.js" />
@@ -323,7 +319,6 @@
       <jump line="38" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="75" column="22" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
-      <jump line="200" column="30" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="18" column="7" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="76" column="13" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
       <jump line="80" column="17" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
@@ -340,6 +335,11 @@
       <jump line="19" column="16" filename="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" />
       <jump line="69" column="13" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="266" column="0" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="141" column="36" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="250" column="4" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="181" column="56" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="200" column="56" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
+      <jump line="220" column="56" filename="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,52 +349,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IHNpemU9ezF9</text>
       </register>
       <register name="/" type="4">
-        <text>sec</text>
+        <text encoding="base64">XDxhY3Rpb25UZXh0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>secureTextEntry</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Um93IHN0eWxlPXt7YWxpZ25JdGVtczogJ2ZsZXgtc3RhcnQnLCBtYXJnaW5Ub3A6IDEwfX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Um93IHN0eWxlPXt7YWxpZ25JdGVtczogJ2ZsZXgtc3RhcnQnfX0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsID0gdGhpcy5zdGF0ZS5waG9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Um93IHN0eWxlPXt7YWxpZ25JdGVtczogJ2ZsZXgtc3RhcnQnfX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCdTZWFyY2hSZXN1bHQnLCB7cGhvbmU6IHBob25lfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFsID0gdGhpcy5zdGF0ZS5waG9uZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUoJ09uZUtleScsIHtzZWFyY2hQaG9uZTogdGhpcy5zdGF0ZS5zZWFyY2hQaG9uZX0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlZnMsICdbID09PT09IHRoaXMucmVmcyA9PT09PSBdJyk7CiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCdTZWFyY2hSZXN1bHQnLCB7cGhvbmU6IHBob25lfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlZnMsICdbID09PT09IHRoaXMucmVmcyA9PT09PSBdJyk7CiAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sec</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25UZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern>sec</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25UZXh0XD4=</last-pattern>
       <last-replace />
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -402,9 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>focus</entry>
-        <entry>请输入手机号</entry>
-        <entry>手机号</entry>
         <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
         <entry encoding="base64">XDxjb250YWluXD4=</entry>
         <entry encoding="base64">XDxzY3JvbGxWaWV3XD4=</entry>
@@ -422,6 +419,9 @@
         <entry>查询</entry>
         <entry>没有查询</entry>
         <entry>sec</entry>
+        <entry>激活开户</entry>
+        <entry encoding="base64">XDxub1RleHRcPg==</entry>
+        <entry encoding="base64">XDxhY3Rpb25UZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
