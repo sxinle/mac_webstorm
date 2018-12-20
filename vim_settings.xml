@@ -123,6 +123,9 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" timestamp="1545279120992">
+        <mark key="'" line="172" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-admin/config/router.config.js" timestamp="1545110919520">
         <mark key="'" line="8" column="21" />
       </file>
@@ -171,16 +174,19 @@
       <file name="$USER_HOME$/workspace/demo/to-mp/node_modules/taro-ui/dist/weapp/components/search-bar/index.scss" timestamp="1545134987327">
         <mark key="'" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" timestamp="1545279133715">
+        <mark key="'" line="1028" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/utils/Const.js" timestamp="1545211297894">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" timestamp="1545277226613">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="89" column="64" />
-        <mark key="]" line="89" column="71" />
-        <mark key="." line="89" column="64" />
-        <mark key="^" line="89" column="66" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" timestamp="1545284232328">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/search/searchshop.js" timestamp="1545190917106">
         <mark key="'" line="14" column="11" />
@@ -191,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
-      <jump line="54" column="26" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
-      <jump line="55" column="11" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="56" column="13" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
       <jump line="58" column="13" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/shoptypes/shoptypes.js" />
@@ -291,6 +292,11 @@
       <jump line="71" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="83" column="18" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
       <jump line="66" column="15" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
+      <jump line="176" column="15" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
+      <jump line="172" column="2" filename="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" />
+      <jump line="1028" column="15" filename="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" />
+      <jump line="86" column="41" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
+      <jump line="3" column="8" filename="$USER_HOME$/workspace/demo/jdtx/screens/SignInScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -300,52 +306,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>name-phone-pad</text>
+        <text>number-pad</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3JvbGxWaWV3XD4=</text>
+        <text encoding="base64">XDxUZXh0YXJlYVw+</text>
       </register>
       <register name="0" type="4">
-        <text>ScrollView</text>
+        <text>TextArea</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5LZXlUeXBlPSduZXh0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5LZXlUeXBlPSduZXh0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvcm0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy50ZXh0SW5wdXRTdHlsZX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWGheWuuSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5LZXlUeXBlPSduZXh0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CuS9nOiAhe+8mkJsYWluUGVuZwrpk77mjqXvvJpodHRwczovL3d3dy5qaWFuc2h1LmNvbS9wL2ZiN2M3MThhOGQ5YQrkvobmupDvvJrnroDkuaYK566A5Lmm6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ77yM5Lu75L2V5b2i5byP55qE6L2s6L296YO96K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D5bm25rOo5piO5Ye65aSE44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy50ZXh0SW5wdXRTdHlsZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWGheWuuSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY3JvbGxWaWV3XD4=</last-search>
+      <last-search encoding="base64">XDxUZXh0YXJlYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3JvbGxWaWV3XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUZXh0YXJlYVw+</last-pattern>
       <last-replace />
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -353,9 +359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noh</entry>
-        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
-        <entry encoding="base64">XDxzY3JvbGxIZWlnaHRcPg==</entry>
         <entry>border</entry>
         <entry>搜索</entry>
         <entry>AtIcon</entry>
@@ -373,6 +376,9 @@
         <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
         <entry encoding="base64">XDxjb250YWluXD4=</entry>
         <entry encoding="base64">XDxzY3JvbGxWaWV3XD4=</entry>
+        <entry encoding="base64">XDzor7floavlhpnmkqTljZXljp/lm6BcPg==</entry>
+        <entry encoding="base64">XDxjb25maXJtQ2FuY2xlT3JkZXJcPg==</entry>
+        <entry encoding="base64">XDxUZXh0YXJlYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
