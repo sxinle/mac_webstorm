@@ -31,10 +31,10 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/util/Util.js" timestamp="1545284292611">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1545292765644">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/OneKeyActive.js" timestamp="1545357225791">
         <mark key="'" line="19" column="16" />
-        <mark key="[" line="208" column="81" />
-        <mark key="]" line="208" column="89" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="219" column="29" />
         <mark key="." line="208" column="89" />
         <mark key="^" line="208" column="89" />
       </file>
@@ -67,12 +67,12 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/components/AtyChargeCard.js" timestamp="1545356910100">
+      <file name="$USER_HOME$/workspace/demo/jdtx/components/AtyChargeCard.js" timestamp="1545358877045">
         <mark key="'" line="14" column="25" />
-        <mark key="[" line="17" column="86" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="81" />
+        <mark key="^" line="21" column="88" />
+        <mark key="." line="21" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/submitorder/submitOrder.js" timestamp="1545220186735">
         <mark key="'" line="2" column="0" />
@@ -130,12 +130,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1545356306663">
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/HomeScreen.js" timestamp="1545357849199">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="35" />
-        <mark key="^" line="43" column="35" />
-        <mark key="." line="43" column="35" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/BarcodeScaner.js" timestamp="1545284357144">
         <mark key="[" line="144" column="0" />
@@ -170,12 +170,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" timestamp="1545356712085">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="48" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" timestamp="1545357698478">
+        <mark key="'" line="91" column="30" />
+        <mark key="[" line="102" column="59" />
+        <mark key="]" line="102" column="59" />
+        <mark key="." line="102" column="59" />
+        <mark key="^" line="102" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" timestamp="1545279120992">
         <mark key="'" line="172" column="2" />
@@ -268,10 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orderRmk/orderRmk.scss" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orderRmk/orderRmk.scss" />
-      <jump line="54" column="16" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
-      <jump line="55" column="40" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/to-mp/node_modules/taro-ui/@types/textarea.d.ts" />
       <jump line="32" column="2" filename="$USER_HOME$/workspace/demo/to-mp/node_modules/taro-ui/@types/textarea.d.ts" />
       <jump line="67" column="22" filename="$USER_HOME$/workspace/demo/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
@@ -368,6 +364,10 @@
       <jump line="14" column="25" filename="$USER_HOME$/workspace/demo/jdtx/components/AtyChargeCard.js" />
       <jump line="63" column="29" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyTabs.js" />
+      <jump line="101" column="21" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" />
+      <jump line="102" column="25" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" />
+      <jump line="91" column="30" filename="$USER_HOME$/workspace/demo/jdtx/screens/atyorders/AtyCharge.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -377,31 +377,31 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Undo</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
       </register>
       <register name="0" type="4">
-        <text>AtyCharge</text>
+        <text>Icon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2FzdC5zaG93KCfliLfmlrDmiJDlip8nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b2FzdC5zaG93KCfliLfmlrDmiJDlip8nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Q29sPjxUZXh0IHN0eWxlPXtzdHlsZXMudGltZVRleHQyfT57ZGF0YS5QSE9ORV9OVU1CRVJ9PC9UZXh0PjwvQ29sPiovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezF9PjxUZXh0PjwvVGV4dD48L0NvbD4qL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,10 +410,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxSb3cgc3R5bGU9e3twYWRkaW5nOiAxMCwgYWxpZ25JdGVtczogJ2NlbnRlcid9fT4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17MX0+PFRleHQgc3R5bGU9e3N0eWxlcy50aW1lVGV4dDF9PuW8gOaIt+WPt+egge+8mjwvVGV4dD48L0NvbD4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17Mn0+PFRleHQgc3R5bGU9e3N0eWxlcy50aW1lVGV4dDJ9PntkYXRhLlBIT05FX05VTUJFUn08L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7LyovISo8Q29sIHNpemU9ezF9PjxUZXh0IHN0eWxlPXtzdHlsZXMuZG9uZX0+5bey5r+A5rS7PC9UZXh0PjwvQ29sPiohLyovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsxfT48VGV4dD48L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8L1Jvdz4qL30KICAgICAgICAgICAgICAgIHsvKjxSb3c+Ki99CiAgICAgICAgICAgICAgICB7Lyo8VmlldyBzdHlsZT17c3R5bGVzLmRpdmlkZXJ9PjwvVmlldz4qL30KICAgICAgICAgICAgICAgIHsvKjwvUm93PiovfQogICAgICAgICAgICAgICAgey8qPFJvdyBzdHlsZT17c3R5bGVzLm5vcm1hbEluZm99PiovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsxfT48VGV4dCBzdHlsZT17c3R5bGVzLm5vcm1hbFRleHQxfT7lvIDmiLflp5PlkI3vvJo8L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezJ9PjxUZXh0IHN0eWxlPXtzdHlsZXMubm9ybWFsVGV4dDJ9PntkYXRhLkNVU1RfTkFNRX08L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezF9PjwvQ29sPiovfQogICAgICAgICAgICAgICAgey8qPC9Sb3c+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Um93IHN0eWxlPXtzdHlsZXMubm9ybWFsSW5mb30+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezF9PjxUZXh0IHN0eWxlPXtzdHlsZXMubm9ybWFsVGV4dDF9PuS4i+WNleaXtumXtO+8mjwvVGV4dD48L0NvbD4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17Mn0+PFRleHQgc3R5bGU9e3N0eWxlcy5ub3JtYWxUZXh0Mn0+e2RhdGEuVFJBREVfREFURV9TVFJ9PC9UZXh0PjwvQ29sPiovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsxfT48L0NvbD4qL30KICAgICAgICAgICAgICAgIHsvKjwvUm93PiovfQogICAgICAgICAgICAgICAgey8qPFJvdyBzdHlsZT17c3R5bGVzLm5vcm1hbEluZm99PiovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsxfT48VGV4dCBzdHlsZT17c3R5bGVzLm5vcm1hbFRleHQxfT7lvIDpgJrnirbmgIHvvJo8L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezJ9PjxUZXh0IHN0eWxlPXtzdHlsZXMubm9ybWFsVGV4dDJ9PntkYXRhLlRSQURFX1NUQVRVU19OQU1FfTwvVGV4dD48L0NvbD4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17MX0+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8L1Jvdz4qL30KICAgICAgICAgICAgICAgIHsvKjxSb3cgc3R5bGU9e3N0eWxlcy5ub3JtYWxJbmZvfT4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17MX0+PFRleHQgc3R5bGU9e3N0eWxlcy5ub3JtYWxUZXh0MX0+6Lqr5Lu96K+B5Y+377yaPC9UZXh0PjwvQ29sPiovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsyfT48VGV4dCBzdHlsZT17c3R5bGVzLm5vcm1hbFRleHQyfT4yMTAqKioqKioqKioqKioqKioqKjEyMzwvVGV4dD48L0NvbD4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17MX0+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8L1Jvdz4qL30KICAgICAgICAgICAgICAgIHsvKjxSb3cgc3R5bGU9e3N0eWxlcy5ub3JtYWxJbmZvfT4qL30KICAgICAgICAgICAgICAgIHsvKjxDb2wgc2l6ZT17MX0+PFRleHQgc3R5bGU9e3N0eWxlcy5ub3JtYWxUZXh0MX0+5pKk5Y2V5Y6f5Zug77yaPC9UZXh0PjwvQ29sPiovfQogICAgICAgICAgICAgICAgey8qPENvbCBzaXplPXsyfT48VGV4dCBzdHlsZT17c3R5bGVzLm5vcm1hbFRleHQyfT7nlKjmiLfkuI3mg7Pmv4DmtLs8L1RleHQ+PC9Db2w+Ki99CiAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezF9PjwvQ29sPiovfQogICAgICAgICAgICAgICAgey8qPC9Sb3c+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Q29sPjxUZXh0IHN0eWxlPXtzdHlsZXMudGltZVRleHQyfT57ZGF0YS5QSE9ORV9OVU1CRVJ9PC9UZXh0PjwvQ29sPiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RoaXMgPSB0aGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyo8Q29sIHNpemU9ezF9PjxUZXh0PjwvVGV4dD48L0NvbD4qL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
