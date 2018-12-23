@@ -22,11 +22,12 @@
         <mark key="^" line="653" column="0" />
         <mark key="." line="653" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" timestamp="1545567460776">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="66" column="53" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" timestamp="1545568903037">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="44" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="63" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/TableList.less" timestamp="1545476732959">
         <mark key="[" line="60" column="0" />
@@ -132,6 +133,10 @@
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1545568324664">
+        <mark key="[" line="144" column="20" />
+        <mark key="]" line="144" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/components/trade/TradeDetailNew.js" timestamp="1545466002495">
         <mark key="'" line="16" column="0" />
       </file>
@@ -215,10 +220,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/SignInScreen.js" timestamp="1545466447442">
-        <mark key="'" line="119" column="86" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/SignInScreen.js" timestamp="1545568506813">
+        <mark key="'" line="110" column="49" />
+        <mark key="[" line="110" column="49" />
+        <mark key="]" line="110" column="117" />
         <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" timestamp="1545471583543">
@@ -414,11 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/atyorders/AtyTabs.js" />
-      <jump line="23" column="25" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/FirstCharge.js" />
-      <jump line="63" column="32" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/FirstCharge.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/FirstCharge.js" />
-      <jump line="115" column="26" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="254" column="4" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="277" column="6" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="152" column="41" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/MyScreen.js" />
@@ -511,9 +511,14 @@
       <jump line="9" column="31" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodstype/Goodstype.js" />
       <jump line="445" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodstype/Goodstype.js" />
       <jump line="50" column="23" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/TableList.less" />
-      <jump line="47" column="13" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
       <jump line="5" column="15" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
+      <jump line="53" column="18" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
+      <jump line="47" column="11" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
+      <jump line="110" column="49" filename="$USER_HOME$/workspace/pproj/jdtx/screens/SignInScreen.js" />
+      <jump line="95" column="62" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
+      <jump line="68" column="13" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
+      <jump line="8" column="43" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,43 +528,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ju</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gYmFja2dyb3VuZENvbG9yOiBDb25zdC5jLm15X3RvcF9iZywKICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgcGFkZGluZ1RvcDogNzAsCg==</text>
+      <register name="0" type="4">
+        <text>Form</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvR3JpZD4K</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgR3JpZCwgUm93IH0gZnJvbSAncmVhY3QtbmF0aXZlLWVhc3ktZ3JpZCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxHcmlkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9Db250ZW50Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Um93IHNpemU9ezEuMn0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbnRlbnQgc2Nyb2xsRW5hYmxlZD17ZmFsc2V9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1Jvdz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmFtZT17dGhpcy5zdGF0ZS5wd2RJbnB1dCA/ICdleWUnIDogJ2V5ZSd9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SW1hZ2Ugc291cmNlPXtyZXF1aXJlKCcuLi8uLi9pbWFnZXMvaWNvbl9qZF9sb2dvLnBuZycpfSBzdHlsZT17eyB3aWR0aDogMTAwLCBoZWlnaHQ6IDEwMCB9fS8+CiAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sgdGV4dEFsaWduOiAnY2VudGVyJywgd2lkdGg6ICcxMDAlJyB9fT7kuqzkuJzpgJrkv6E8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlVGV4dD17KHZhbCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3Bhc3N3b3JkOiB2YWx9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBiYWNrZ3JvdW5kQ29sb3I6IENvbnN0LmMubXlfdG9wX2JnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VjdXJlVGV4dEVudHJ5PXt0aGlzLnN0YXRlLnB3ZElucHV0fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrmnbDlsLxqcyAK5p2l5rqQ77yaQ1NETiAK5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2plbm5pZWppL2FydGljbGUvZGV0YWlscy8yMjg5MDU5NyAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICBLZXlib2FyZC5kaXNtaXNzKCk7CiAgICAgICAgICAgIH19</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7CiAgLmFudC10YWJsZSB7CiAgICAudGhlYWQgPiB0ciwKICAgIC50Ym9keSA+IHRyIHsKICAgICAgPiB0aCwKICAgICAgPiB0ZCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgd2lkdGg6IGF1dG8gIWltcG9ydGFudDsKICAgICAgICBib3JkZXI6IG5vbmU7CiAgICAgICAgJjpsYXN0LWNoaWxkIHsKICAgICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBAYm9yZGVyLWNvbG9yLXNwbGl0OwogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
