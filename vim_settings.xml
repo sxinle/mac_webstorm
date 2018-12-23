@@ -22,6 +22,12 @@
         <mark key="^" line="653" column="0" />
         <mark key="." line="653" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" timestamp="1545567460776">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="66" column="53" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/TableList.less" timestamp="1545476732959">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -34,7 +40,6 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/node_modules/antd/lib/modal/style/modal.less" timestamp="1545475349350" />
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/add/addAddress.js" timestamp="1545219315904">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="123" column="22" />
@@ -167,6 +172,9 @@
       </file>
       <file name="$USER_HOME$/workspace/demo/to-shop/src/utils/request.js" timestamp="1545110985786">
         <mark key="'" line="106" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" timestamp="1545567142829">
+        <mark key="'" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/to-mp/src/pages/mine/addr/address.js" timestamp="1545208941887">
         <mark key="'" line="125" column="11" />
@@ -406,9 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="54" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/atyorders/AtyNewDetail.js" />
-      <jump line="25" column="21" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/atyorders/AtyTabs.js" />
-      <jump line="74" column="29" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/atyorders/AtyTabs.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/atyorders/AtyTabs.js" />
       <jump line="23" column="25" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/FirstCharge.js" />
       <jump line="63" column="32" filename="$USER_HOME$/workspace/demo/jdtx-sdk/screens/FirstCharge.js" />
@@ -506,6 +511,9 @@
       <jump line="9" column="31" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodstype/Goodstype.js" />
       <jump line="445" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodstype/Goodstype.js" />
       <jump line="50" column="23" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/TableList.less" />
+      <jump line="47" column="13" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/auth/Login.js" />
+      <jump line="5" column="15" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -515,43 +523,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@screen-xs</text>
+        <text>ju</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgICAgICAgICAgICAgLy8gYmFja2dyb3VuZENvbG9yOiBDb25zdC5jLm15X3RvcF9iZywKICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgcGFkZGluZ1RvcDogNzAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrmnbDlsLxqcyAK5p2l5rqQ77yaQ1NETiAK5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2plbm5pZWppL2FydGljbGUvZGV0YWlscy8yMjg5MDU5NyAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvR3JpZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7CiAgLmFudC10YWJsZSB7CiAgICAudGhlYWQgPiB0ciwKICAgIC50Ym9keSA+IHRyIHsKICAgICAgPiB0aCwKICAgICAgPiB0ZCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgd2lkdGg6IGF1dG8gIWltcG9ydGFudDsKICAgICAgICBib3JkZXI6IG5vbmU7CiAgICAgICAgJjpsYXN0LWNoaWxkIHsKICAgICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBAYm9yZGVyLWNvbG9yLXNwbGl0OwogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxHcmlkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Um93IHNpemU9ezEuMn0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7CiAgLmFudC10YWJsZSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1Jvdz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IEBzY3JlZW4teHMpIHsKICAuQHt0YWJsZS1wcmVmaXgtY2xzfSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8SW1hZ2Ugc291cmNlPXtyZXF1aXJlKCcuLi8uLi9pbWFnZXMvaWNvbl9qZF9sb2dvLnBuZycpfSBzdHlsZT17eyB3aWR0aDogMTAwLCBoZWlnaHQ6IDEwMCB9fS8+CiAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sgdGV4dEFsaWduOiAnY2VudGVyJywgd2lkdGg6ICcxMDAlJyB9fT7kuqzkuJzpgJrkv6E8L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3BhZ2VzL29yZGVycy90aW1lbGluZS90aW1lbGluZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBiYWNrZ3JvdW5kQ29sb3I6IENvbnN0LmMubXlfdG9wX2JnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e3NpZ25fdGltZX19Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrmnbDlsLxqcyAK5p2l5rqQ77yaQ1NETiAK5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2plbm5pZWppL2FydGljbGUvZGV0YWlscy8yMjg5MDU5NyAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7CiAgLmFudC10YWJsZSB7CiAgICAudGhlYWQgPiB0ciwKICAgIC50Ym9keSA+IHRyIHsKICAgICAgPiB0aCwKICAgICAgPiB0ZCB7CiAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgd2lkdGg6IGF1dG8gIWltcG9ydGFudDsKICAgICAgICBib3JkZXI6IG5vbmU7CiAgICAgICAgJjpsYXN0LWNoaWxkIHsKICAgICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBAYm9yZGVyLWNvbG9yLXNwbGl0OwogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e3BpY2tfdGltZX19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -564,7 +572,7 @@
       <last-replace>px</last-replace>
       <last-substitute>rpx</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
