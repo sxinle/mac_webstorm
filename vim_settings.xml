@@ -383,11 +383,12 @@
       <file name="$USER_HOME$/workspace/demo/jfans/node_modules/native-base/index.d.ts" timestamp="1545279133715">
         <mark key="'" line="1028" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1545639429369">
-        <mark key="[" line="177" column="39" />
-        <mark key="]" line="177" column="42" />
-        <mark key="." line="177" column="42" />
-        <mark key="^" line="177" column="42" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1545639539460">
+        <mark key="'" line="191" column="31" />
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.scss" timestamp="1545461176361">
         <mark key="[" line="27" column="18" />
@@ -455,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
       <jump line="65" column="32" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
       <jump line="66" column="11" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
@@ -555,6 +555,7 @@
       <jump line="112" column="38" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="105" column="32" filename="$USER_HOME$/workspace/pproj/h5_jfk/.temp/pages/index/index.scss" />
       <jump line="159" column="60" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
+      <jump line="191" column="31" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,13 +565,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>Flag</text>
+        <text>locFloatFlag</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKC4uLmFyZ3VtZW50cyk7CiAgICB0aGlzLnN0YXRlID0gewogICAgICBiYW5uZXJIZWlnaHQ6ICcnLAo=</text>
+      <register name="0" type="4">
+        <text>locFloatOpen</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tU3R5bGU9e30K</text>
