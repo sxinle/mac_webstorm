@@ -223,6 +223,13 @@
         <mark key="." line="102" column="59" />
         <mark key="^" line="102" column="84" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/SyncPage.js" timestamp="1545993074701">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="147" column="25" />
+        <mark key="." line="147" column="21" />
+        <mark key="^" line="147" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jfans/app/containers/my/orders/MyOrders.js" timestamp="1545279120992">
         <mark key="'" line="172" column="2" />
       </file>
@@ -471,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="2" filename="$USER_HOME$/workspace/pproj/h5_jfk/.temp/pages/index/index.scss" />
       <jump line="68" column="35" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="206" column="38" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="121" column="23" filename="$USER_HOME$/workspace/pproj/h5_jfk/.temp/pages/index/index.scss" />
@@ -571,6 +577,7 @@
       <jump line="416" column="35" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/orders/MyOrders.js" />
       <jump line="49" column="36" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/orders/MyOrders.js" />
+      <jump line="25" column="18" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/SyncPage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -580,13 +587,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>ios.</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jbGVNb2RhbFw+</text>
+        <text>码总量</text>
       </register>
-      <register name="0" type="4">
-        <text>Keyboard</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRpdGxlOiAn56CB5oC76YePJywKICAgICAgICBkYXRhSW5kZXg6ICdjb3VudCcsCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -595,25 +602,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMCwgMCwgMCwgMC4zKScsCiAgICAgICAgICAgICAgICB9fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1Njcm9sbFZpZXc+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U2Nyb2xsVmlldyByZWY9e2NvbXBvbmVudCA9PiB0aGlzLl9zY3JvbGxWaWV3ID0gY29tcG9uZW50fSBzY3JvbGxFbmFibGVkPXtmYWxzZX0KICAgICAgICAgICAgICAgICAgICAgICAgICBrZXlib2FyZFNob3VsZFBlcnNpc3RUYXBzPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMCwgMCwgMCwgMC4zKScsCiAgICAgICAgICAgICAgICB9fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1Njcm9sbFZpZXc+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIGNsZWFySW50ZXJ2YWwodGhpcy5jbG9ja0NhbGwpOwogICAgdGhpcy5rZXlib2FyZFdpbGxTaG93TGlzdGVuZXIgJiYgdGhpcy5rZXlib2FyZFdpbGxTaG93TGlzdGVuZXIucmVtb3ZlKCk7CiAgICB0aGlzLmtleWJvYXJkV2lsbEhpZGVMaXN0ZW5lciAmJiB0aGlzLmtleWJvYXJkV2lsbEhpZGVMaXN0ZW5lci5yZW1vdmUoKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8U2Nyb2xsVmlldyByZWY9e2NvbXBvbmVudCA9PiB0aGlzLl9zY3JvbGxWaWV3ID0gY29tcG9uZW50fSBzY3JvbGxFbmFibGVkPXtmYWxzZX0KICAgICAgICAgICAgICAgICAgICAgICAgICBrZXlib2FyZFNob3VsZFBlcnNpc3RUYXBzPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g5rOo6ZSA55uR5ZCsCiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIGNsZWFySW50ZXJ2YWwodGhpcy5jbG9ja0NhbGwpOwogICAgdGhpcy5rZXlib2FyZFdpbGxTaG93TGlzdGVuZXIgJiYgdGhpcy5rZXlib2FyZFdpbGxTaG93TGlzdGVuZXIucmVtb3ZlKCk7CiAgICB0aGlzLmtleWJvYXJkV2lsbEhpZGVMaXN0ZW5lciAmJiB0aGlzLmtleWJvYXJkV2lsbEhpZGVMaXN0ZW5lci5yZW1vdmUoKTsKICB9Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -623,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jbGVNb2RhbFw+</last-search>
+      <last-search>码总量</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jbGVNb2RhbFw+</last-pattern>
+      <last-pattern>码总量</last-pattern>
       <last-replace>c</last-replace>
       <last-substitute>b</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>b</entry>
         <entry encoding="base64">XDxjaG9vc2VOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxkaXN0RmxvYXRPcGVuXD4=</entry>
         <entry>所在地区</entry>
@@ -653,6 +659,7 @@
         <entry encoding="base64">XDxjYW5jbGVNb2RhbFZpc2libGVcPg==</entry>
         <entry encoding="base64">XDxNb2RhbFw+</entry>
         <entry encoding="base64">XDxjYW5jbGVNb2RhbFw+</entry>
+        <entry>码总量</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3R5cGUvaW5mby9n</entry>
