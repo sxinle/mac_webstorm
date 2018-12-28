@@ -327,6 +327,12 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1545976995650">
+        <mark key="'" line="125" column="20" />
+        <mark key="[" line="81" column="80" />
+        <mark key="]" line="81" column="90" />
+        <mark key="." line="81" column="80" />
+      </file>
       <file name="/Dummy.txt" timestamp="1545975234980">
         <mark key="[" line="0" column="0" />
       </file>
@@ -463,10 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.scss" />
-      <jump line="62" column="8" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.scss" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.scss" />
-      <jump line="39" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.scss" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/app.js" />
       <jump line="31" column="81" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="23" column="22" filename="$USER_HOME$/workspace/pproj/h5_jfk/.temp/pages/index/index.scss" />
@@ -563,6 +565,10 @@
       <jump line="34" column="11" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" />
       <jump line="359" column="31" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="439" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
+      <jump line="133" column="22" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="81" column="91" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="125" column="20" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -572,10 +578,10 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>PRODUCT_NAME</text>
       </register>
       <register name="/" type="4">
-        <text>padding-left: 5px</text>
+        <text>PRODUCT_APP_DESC</text>
       </register>
       <register name="0" type="4">
         <text>distTabList</text>
@@ -615,17 +621,16 @@
       </register>
     </registers>
     <search>
-      <last-search>padding-left: 5px</last-search>
+      <last-search>PRODUCT_APP_DESC</last-search>
       <last-offset />
-      <last-pattern>padding-left: 5px</last-pattern>
+      <last-pattern>PRODUCT_APP_DESC</last-pattern>
       <last-replace>c</last-replace>
       <last-substitute>b</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NDaXR5SW5kZXhcPg==</entry>
         <entry>选择号码</entry>
         <entry encoding="base64">XDxudW1DaG9vc2VPcGVuXD4=</entry>
         <entry>true</entry>
@@ -645,6 +650,7 @@
         <entry>header</entry>
         <entry>padding-left: 20px</entry>
         <entry>padding-left: 5px</entry>
+        <entry>PRODUCT_APP_DESC</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3R5cGUvaW5mby9n</entry>
@@ -657,7 +663,6 @@
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
-        <entry>action AceAction</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
@@ -666,6 +671,7 @@
         <entry encoding="base64">JzwsJz5zL3RydWUvZmFsc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2EvYi9n</entry>
         <entry encoding="base64">JzwsJz5zL2IvYy9n</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
