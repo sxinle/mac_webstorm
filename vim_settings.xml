@@ -437,12 +437,12 @@
         <mark key="^" line="40" column="86" />
         <mark key="." line="40" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" timestamp="1546070160854">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="59" column="49" />
-        <mark key="." line="59" column="49" />
-        <mark key="^" line="59" column="49" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" timestamp="1546071005691">
+        <mark key="'" line="163" column="25" />
+        <mark key="[" line="175" column="53" />
+        <mark key="]" line="175" column="53" />
+        <mark key="." line="175" column="53" />
+        <mark key="^" line="35" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/DeliveryPage.js" timestamp="1546069072260">
         <mark key="'" line="1" column="12" />
@@ -491,12 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="36" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="303" column="51" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="321" column="51" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="349" column="51" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="367" column="51" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="34" column="11" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" />
       <jump line="359" column="31" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="439" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -591,6 +585,12 @@
       <jump line="188" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
       <jump line="1" column="7" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="35" column="46" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="133" column="29" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="139" column="67" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="144" column="65" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="149" column="65" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="163" column="25" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -600,52 +600,52 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>个</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWFjdFw+</text>
+        <text>个</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpID0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHJlY29yZC50eXBlID09PSAnUE5XJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ2JsdWUnIH19PueTtuWGheWklueggeWFs+iBlDwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocmVjb3JkLnR5cGUgPT09ICdYTlcnKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnZ3JlZW4nIH19PueuseWGheWklueggeWFs+iBlDwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocmVjb3JkLnR5cGUgPT09ICdYUEgnKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT7nrrHnoIHlhbPogZTnk7bnoIEv55uS56CBPC9zcGFuPjsKICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdibGFjaycgfX0+5YWz6IGU5YWz57O7PC9zcGFuPjsKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>record</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7CiAgY29uc29sZS5sb2cocmVjb3JkLnR5cGUsICdbID09PT09IHJlY29yZC50eXBlKCkgPT09PT0gXScpOwogIGNvbnNvbGUubG9nKHJlY29yZC50eXBlID09PSAnWFBIJywgJ1sgPT09PT0gcmVjb3JkLnR5cGUgPT09IFhQSCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc3RhdGUucmVjb3JkLCAnWyA9PT09PSB0aGlzLnByb3BzLmxvY2F0aW9uLnN0YXRlLnJlY29yZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQ2hhcnRDYXJkLCBNaW5pQXJlYSwgTWluaVByb2dyZXNzLCBQaWUgfSBmcm9tICdjb21wb25lbnRzL0NoYXJ0cyc7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAoKSA9PiB7CiAgICAgICAgICAgICAgICAgIGlmIChyZWNvcmQudHlwZSA9PT0gJ1BOVycpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdibHVlJyB9fT7nk7blhoXlpJbnoIHlhbPogZQ8L3NwYW4+OwogICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlY29yZC50eXBlID09PSAnWE5XJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ2dyZWVuJyB9fT7nrrHlhoXlpJbnoIHlhbPogZQ8L3NwYW4+OwogICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlY29yZC50eXBlID09PSAnWFBIJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ3JlZCcgfX0+566x56CB5YWz6IGU55O256CBL+ebkueggTwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnYmxhY2snIH19PuWFs+iBlOWFs+ezuzwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7CiAgY29uc29sZS5sb2cocmVjb3JkLnR5cGUsICdbID09PT09IHJlY29yZC50eXBlKCkgPT09PT0gXScpOwogIGNvbnNvbGUubG9nKHJlY29yZC50eXBlID09PSAnWFBIJywgJ1sgPT09PT0gcmVjb3JkLnR5cGUgPT09IFhQSCA9PT09PSBdJyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQ2hhcnRDYXJkLCBNaW5pQXJlYSwgTWluaVByb2dyZXNzLCBQaWUgfSBmcm9tICdjb21wb25lbnRzL0NoYXJ0cyc7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2YWwgPT09ICdQTlcnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdibHVlJyB9fT7nk7blhoXlpJbnoIHlhbPogZQ8L3NwYW4+OwogICAgICAgICAgICAgIH0gZWxzZSBpZiAodmFsID09PSAnWE5XJykgewogICAgICAgICAgICAgICAgcmV0dXJuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnZ3JlZW4nIH19PueuseWGheWklueggeWFs+iBlDwvc3Bhbj47CiAgICAgICAgICAgICAgfSBlbHNlIGlmICh2YWwgPT09ICdYUEgnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdyZWQnIH19PueuseeggeWFs+iBlOeTtueggS/nm5LnoIE8L3NwYW4+OwogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdibGFjaycgfX0+5YWz6IGU5YWz57O7PC9zcGFuPjsKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAoKSA9PiB7CiAgICAgICAgICAgICAgICAgIGlmIChyZWNvcmQudHlwZSA9PT0gJ1BOVycpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gPHNwYW4gc3R5bGU9e3sgY29sb3I6ICdibHVlJyB9fT7nk7blhoXlpJbnoIHlhbPogZQ8L3NwYW4+OwogICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlY29yZC50eXBlID09PSAnWE5XJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ2dyZWVuJyB9fT7nrrHlhoXlpJbnoIHlhbPogZQ8L3NwYW4+OwogICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlY29yZC50eXBlID09PSAnWFBIJykgewogICAgICAgICAgICAgICAgICAgIHJldHVybiA8c3BhbiBzdHlsZT17eyBjb2xvcjogJ3JlZCcgfX0+566x56CB5YWz6IGU55O256CBL+ebkueggTwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnYmxhY2snIH19PuWFs+iBlOWFs+ezuzwvc3Bhbj47CiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC50eXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWFjdFw+</last-search>
+      <last-search>个</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWFjdFw+</last-pattern>
+      <last-pattern>个</last-pattern>
       <last-replace>record.type</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +653,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</entry>
         <entry>交付日期</entry>
         <entry>批次编号</entry>
         <entry>全部</entry>
@@ -673,6 +672,7 @@
         <entry>624个</entry>
         <entry>val</entry>
         <entry encoding="base64">XDxSZWFjdFw+</entry>
+        <entry>个</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
