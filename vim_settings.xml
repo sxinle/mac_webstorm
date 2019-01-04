@@ -129,6 +129,11 @@
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" timestamp="1545654635309">
         <mark key="'" line="34" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/ios-release/web.js" timestamp="1546595962371">
+        <mark key="'" line="42" column="1084" />
+        <mark key="[" line="43" column="77" />
+        <mark key="]" line="43" column="127" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" timestamp="1545567142829">
         <mark key="'" line="105" column="0" />
       </file>
@@ -198,6 +203,7 @@
         <mark key="." line="89" column="52" />
         <mark key="^" line="89" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/navigation/AppNavigator.js" timestamp="1546596246325" />
       <file name="$USER_HOME$/workspace/demo/jdtx/screens/MyScreen.js" timestamp="1545360931746">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="154" column="112" />
@@ -295,6 +301,9 @@
         <mark key="]" line="111" column="25" />
         <mark key="." line="111" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/index.ios.js" timestamp="1546596280651">
+        <mark key="'" line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/node_modules/html2canvas-render-offscreen/package.json" timestamp="1546415422089">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="37" />
@@ -311,9 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="10" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="207" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="255" column="21" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="472" column="34" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="200" column="20" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="208" column="12" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -411,6 +417,9 @@
       <jump line="41" column="20" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="42" column="20" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="19" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="15" column="2165" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/ios-release/web.js" />
+      <jump line="42" column="1084" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/ios-release/web.js" />
+      <jump line="33" column="30" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/index.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -423,10 +432,10 @@
         <text>scroll</text>
       </register>
       <register name="/" type="4">
-        <text>NativeMo</text>
+        <text>DeviceInfo</text>
       </register>
       <register name="0" type="4">
-        <text>ReactNativeManager</text>
+        <text>DeviceInfo native module is not installed correctly</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -463,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NativeMo</last-search>
+      <last-search>DeviceInfo</last-search>
       <last-offset />
-      <last-pattern>NativeMo</last-pattern>
+      <last-pattern>DeviceInfo</last-pattern>
       <last-replace>Dist</last-replace>
       <last-substitute>Prov</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>请选择</entry>
         <entry encoding="base64">XDxhZGRyU2VsXD4=</entry>
         <entry>请选择区</entry>
         <entry encoding="base64">XDxhZGRySW5wdXRDbGlja2VkXD4=</entry>
@@ -493,6 +501,7 @@
         <entry encoding="base64">XDxEZXZpY2VFdmVudEVtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
         <entry>NativeMo</entry>
+        <entry>DeviceInfo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2UvYi9n</entry>
