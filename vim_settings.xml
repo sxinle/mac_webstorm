@@ -281,8 +281,8 @@
         <mark key="." line="100" column="41" />
         <mark key="^" line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" timestamp="1546589225954">
-        <mark key="'" line="19" column="4" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" timestamp="1546661263582">
+        <mark key="'" line="41" column="23" />
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="51" />
       </file>
@@ -324,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="34" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="200" column="20" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="208" column="12" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="56" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="223" column="20" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -413,17 +411,19 @@
       <jump line="97" column="11" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="26" column="19" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/comments/comments.js" />
       <jump line="111" column="25" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="99" column="8" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="108" column="17" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="107" column="34" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="97" column="24" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
-      <jump line="41" column="20" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="42" column="20" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
       <jump line="15" column="2165" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/ios-release/web.js" />
       <jump line="42" column="1084" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/ios-release/web.js" />
       <jump line="33" column="30" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/index.ios.js" />
+      <jump line="103" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="99" column="11" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
+      <jump line="41" column="23" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/HomeScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,7 +436,7 @@
         <text>scroll</text>
       </register>
       <register name="/" type="4">
-        <text>DeviceInfo</text>
+        <text>Native</text>
       </register>
       <register name="0" type="4">
         <text>DeviceInfo native module is not installed correctly</text>
@@ -476,17 +476,16 @@
       </register>
     </registers>
     <search>
-      <last-search>DeviceInfo</last-search>
+      <last-search>Native</last-search>
       <last-offset />
-      <last-pattern>DeviceInfo</last-pattern>
+      <last-pattern>Native</last-pattern>
       <last-replace>Dist</last-replace>
       <last-substitute>Prov</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRyU2VsXD4=</entry>
         <entry>请选择区</entry>
         <entry encoding="base64">XDxhZGRySW5wdXRDbGlja2VkXD4=</entry>
         <entry>init</entry>
@@ -502,10 +501,11 @@
         <entry encoding="base64">XDxzY3JvbGxIZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxjb21tZW50SGFzQ2xpY2tlZFw+</entry>
         <entry>backFromSDK</entry>
-        <entry encoding="base64">XDxEZXZpY2VFdmVudEVtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
         <entry>NativeMo</entry>
         <entry>DeviceInfo</entry>
+        <entry encoding="base64">XDxEZXZpY2VFdmVudEVtaXR0ZXJcPg==</entry>
+        <entry>Native</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2UvYi9n</entry>
