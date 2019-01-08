@@ -48,6 +48,9 @@
         <mark key="." line="308" column="38" />
         <mark key="^" line="308" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/OneKeyActive.js" timestamp="1546935177344">
+        <mark key="'" line="174" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1546930503778">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="186" column="0" />
@@ -214,7 +217,7 @@
         <mark key="." line="163" column="32" />
         <mark key="^" line="163" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546920686923">
+      <file name="/Dummy.txt" timestamp="1546935039421">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
@@ -296,9 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="83" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="204" column="26" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="97" column="14" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="96" column="19" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="238" column="46" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
       <jump line="303" column="27" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -396,6 +396,9 @@
       <jump line="31" column="9" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="2" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="21" column="5" filename="$USER_HOME$/workspace/pproj/jdtx/screens/OneKeyActive.js" />
+      <jump line="86" column="31" filename="$USER_HOME$/workspace/pproj/jdtx/screens/OneKeyActive.js" />
+      <jump line="174" column="45" filename="$USER_HOME$/workspace/pproj/jdtx/screens/OneKeyActive.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +411,7 @@
         <text>Const.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</text>
+        <text>查询</text>
       </register>
       <register name="0" type="4">
         <text>Nav</text>
@@ -448,9 +451,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</last-search>
+      <last-search>查询</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</last-pattern>
+      <last-pattern>查询</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -458,7 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>textOver</entry>
         <entry>使用新卡</entry>
         <entry>feedback</entry>
         <entry>render</entry>
@@ -478,6 +480,7 @@
         <entry>Keyboard</entry>
         <entry>提现</entry>
         <entry encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</entry>
+        <entry>查询</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
