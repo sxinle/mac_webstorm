@@ -48,10 +48,10 @@
         <mark key="." line="308" column="38" />
         <mark key="^" line="308" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1546515465262">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="91" column="63" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1546930503778">
+        <mark key="'" line="27" column="6" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="189" column="20" />
         <mark key="." line="91" column="63" />
         <mark key="^" line="91" column="63" />
       </file>
@@ -100,12 +100,12 @@
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" timestamp="1545654635309">
         <mark key="'" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1546930262794">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="47" column="15" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="2" column="36" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1546930616657">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="41" column="2" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" timestamp="1546918084500">
         <mark key="'" line="0" column="0" />
@@ -296,17 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="36" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="447" column="35" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="219" column="19" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="98" column="57" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="251" column="35" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="272" column="65" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="273" column="19" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="38" column="6" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="224" column="25" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="85" column="99" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="189" column="83" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="204" column="26" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="97" column="14" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -396,6 +385,17 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="183" column="32" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="107" column="35" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="131" column="17" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="108" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="27" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="12" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="40" column="32" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="31" column="9" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="2" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -405,60 +405,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Swiper, SwiperItem</text>
+        <text>Const.</text>
       </register>
       <register name="/" type="4">
-        <text>提现</text>
+        <text encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>noinspection ES6UnusedImports</text>
+        <text>Nav</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZCE8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TmF2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQHRhcm9qcy9jb21wb25lbnRzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ndGVzdC1oJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXh0LCBWaWV3fSBmcm9tICdAdGFyb2pzL2NvbXBvbmVudHMnCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFRhcm8uZ2V0U3lzdGVtSW5mb1N5bmMoKSwgJ1sgPT09PT0gVGFyby5nZXRTeXN0ZW1JbmZvU3luYyA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXh0LCBWaWV3fSBmcm9tICdAdGFyb2pzL2NvbXBvbmVudHMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdkZW1vLXRleHQtMSc+MTwvVmlldz4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEVTNlVudXNlZEltcG9ydHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEVTNlVudXNlZEltcG9ydHMK</text>
+        <text encoding="base64">ICAgIFRhcm8uZ2V0U3lzdGVtSW5mb1N5bmM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRhcm8uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxTd2lwZXJJdGVtPgogICAgICAgICAgICA8VmlldyBjbGFzc05hbWU9J2RlbW8tdGV4dC0yJz4yPC9WaWV3PgogICAgICAgICAgPC9Td2lwZXJJdGVtPgogICAgICAgICAgPFN3aXBlckl0ZW0+CiAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0nZGVtby10ZXh0LTMnPjM8L1ZpZXc+CiAgICAgICAgICA8L1N3aXBlckl0ZW0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIEVTNlVudXNlZEltcG9ydHMK</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZCE8L1RleHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQHRhcm9qcy9jb21wb25lbnRzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>提现</last-search>
+      <last-search encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern>提现</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNc2dEaWFsb2dcPg==</entry>
         <entry>textOver</entry>
         <entry>使用新卡</entry>
         <entry>feedback</entry>
@@ -478,6 +477,7 @@
         <entry>请输入支付密码</entry>
         <entry>Keyboard</entry>
         <entry>提现</entry>
+        <entry encoding="base64">XDxiYW5uZXJIZWlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
