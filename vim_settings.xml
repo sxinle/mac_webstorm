@@ -80,10 +80,12 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1546935635344">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="420" column="3" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1546938974364">
+        <mark key="'" line="41" column="26" />
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="33" />
+        <mark key="^" line="79" column="33" />
+        <mark key="." line="79" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/components/card/MsgDialog.js" timestamp="1546863154863">
         <mark key="'" line="91" column="0" />
@@ -182,12 +184,12 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" timestamp="1546938395061">
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" timestamp="1546939038459">
         <mark key="'" line="222" column="0" />
-        <mark key="[" line="203" column="74" />
-        <mark key="]" line="203" column="89" />
-        <mark key="^" line="203" column="89" />
-        <mark key="." line="203" column="89" />
+        <mark key="[" line="203" column="95" />
+        <mark key="]" line="203" column="95" />
+        <mark key="^" line="203" column="95" />
+        <mark key="." line="203" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/models/user.js" timestamp="1546912361815">
         <mark key="'" line="105" column="5" />
@@ -251,7 +253,7 @@
         <mark key="." line="163" column="32" />
         <mark key="^" line="163" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546935039421">
+      <file name="/Dummy.txt" timestamp="1546939161819">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
@@ -265,10 +267,10 @@
         <mark key="." line="123" column="31" />
         <mark key="^" line="126" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyDetail.js" timestamp="1546935490215">
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyDetail.js" timestamp="1546938885105">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="202" column="3" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/package.json" timestamp="1546418006379">
         <mark key="'" line="6" column="8" />
@@ -338,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="42" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="16" column="15" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="354" column="67" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="103" column="48" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -438,6 +439,7 @@
       <jump line="233" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
       <jump line="493" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
       <jump line="222" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
+      <jump line="41" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -450,10 +452,10 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>Detail</text>
+        <text encoding="base64">XDxfZ29CYWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmF2aWdhdGlvblNlcnZpY2UubmF2aWdhdGUoJ0F0eU5ld0RldGFpbCcsIHtpbmZvOiBkYXRhfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmRpc3BhdGNoKFN0YWNrQWN0aW9ucy5wb3AoewogICAgICAgICAgICAgICAgbjogMiwKICAgICAgICAgICAgfSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -490,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Detail</last-search>
+      <last-search encoding="base64">XDxfZ29CYWNrXD4=</last-search>
       <last-offset />
-      <last-pattern>Detail</last-pattern>
+      <last-pattern encoding="base64">XDxfZ29CYWNrXD4=</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -500,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoZHJhd1ZhbFw+</entry>
         <entry encoding="base64">XDxzaG93Q2FzaE9rRGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQmFsYW5jZVw+</entry>
         <entry encoding="base64">XDxiYWxhbmNlXD4=</entry>
@@ -520,6 +521,7 @@
         <entry>订单有效期</entry>
         <entry>还有</entry>
         <entry>Detail</entry>
+        <entry encoding="base64">XDxfZ29CYWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
