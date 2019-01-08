@@ -43,6 +43,9 @@
         <mark key="." line="365" column="18" />
         <mark key="^" line="273" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/HomeScreen.js" timestamp="1546939906375">
+        <mark key="'" line="22" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/models/jiujiang.js" timestamp="1546072885909">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="38" column="27" />
@@ -191,12 +194,6 @@
         <mark key="^" line="203" column="95" />
         <mark key="." line="203" column="95" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/models/user.js" timestamp="1546912361815">
-        <mark key="'" line="105" column="5" />
-        <mark key="[" line="129" column="6" />
-        <mark key="]" line="129" column="17" />
-        <mark key="." line="129" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/.eslintrc" timestamp="1546929570947">
         <mark key="[" line="3" column="60" />
         <mark key="]" line="3" column="60" />
@@ -322,12 +319,6 @@
         <mark key="." line="79" column="17" />
         <mark key="^" line="79" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" timestamp="1546914635189">
-        <mark key="'" line="26" column="32" />
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/ChargeRecord.js" timestamp="1546843015755">
         <mark key="'" line="181" column="39" />
         <mark key="[" line="181" column="35" />
@@ -340,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="354" column="67" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="103" column="48" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="509" column="14" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -440,6 +430,7 @@
       <jump line="493" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
       <jump line="222" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
       <jump line="41" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="22" column="21" filename="$USER_HOME$/workspace/pproj/jdtx/screens/HomeScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -452,7 +443,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ29CYWNrXD4=</text>
+        <text>搜索</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmRpc3BhdGNoKFN0YWNrQWN0aW9ucy5wb3AoewogICAgICAgICAgICAgICAgbjogMiwKICAgICAgICAgICAgfSkpOwo=</text>
@@ -492,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ29CYWNrXD4=</last-search>
+      <last-search>搜索</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ29CYWNrXD4=</last-pattern>
+      <last-pattern>搜索</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93Q2FzaE9rRGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQmFsYW5jZVw+</entry>
         <entry encoding="base64">XDxiYWxhbmNlXD4=</entry>
         <entry>num</entry>
@@ -522,6 +512,7 @@
         <entry>还有</entry>
         <entry>Detail</entry>
         <entry encoding="base64">XDxfZ29CYWNrXD4=</entry>
+        <entry>搜索</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
