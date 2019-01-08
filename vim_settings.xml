@@ -133,6 +133,13 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/app/router.js" timestamp="1546913123229">
         <mark key="'" line="108" column="9" />
       </file>
+      <file name="/request.js" timestamp="1546916758460">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/bindBankCard.js" timestamp="1546846321664">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="17" />
@@ -264,7 +271,6 @@
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="46" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/ChargeRecord.js" timestamp="1546843015755">
         <mark key="'" line="181" column="39" />
@@ -278,10 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/services/user.js" />
-      <jump line="221" column="18" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
       <jump line="5" column="7" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="143" column="27" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
@@ -378,6 +380,10 @@
       <jump line="6" column="24" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="26" column="32" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" />
       <jump line="31" column="4" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
+      <jump line="20" column="31" filename="/request.js" />
+      <jump line="16" column="3" filename="/request.js" />
+      <jump line="161" column="0" filename="/request.js" />
+      <jump line="19" column="0" filename="/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,22 +402,22 @@
         <text>showPayPwdModal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gYXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vMTE0LjExNS4xMzguMTAyOjE4MDgwLyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd1c2VyL2JhbGFuY2VDYXNoJywKICAgICAgcGF5bG9hZDogewogICAgICAgIGJhbmtDYXJkQ29kZTogdXNlZEJhbmsuQkFOS19DQVJEX0NPREUsCiAgICAgICAgY2FzaDogd2l0aGRyYXdWYWwsCiAgICAgICAgcGF5UHdkLAogICAgICB9LAogICAgICBjYWxsYmFjazogKHJlc3ApID0+IHsKICAgICAgICBpZiAoVXRpbC5vayhyZXNwKSkgewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHNob3dDYXNoT2tEaWFsb2c6IHRydWUgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFV0aWwudG9hc3QocmVzcC5kZXNjIHx8ICfor7fmsYLlpLHotKUnLCAxMDAwLCAnYm90dG9tJyk7CiAgICAgICAgfQogICAgICB9LAogICAgfSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LAogICAgICAgICAgICAoKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5mZXRjaEJhbGFuY2VMaXN0KDEpOwogICAgICAgICAgICB9LA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -423,10 +429,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action $Redo</text>
       </register>
     </registers>
     <search>
@@ -475,13 +481,13 @@
         <entry encoding="base64">JzwsJz5zL3ZhbC9yZWNvcmQudHlwZS9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry>nohl</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL1Byb3YvQ2l0eS9n</entry>
         <entry encoding="base64">JzwsJz5zL1Byb3YvRGlzdC9n</entry>
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2VMaXN0L3JlY29yZExpc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1dpdGhkcmF3L0JpbmRCYW5rQ2FyZC9n</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
+        <entry>action $Redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
