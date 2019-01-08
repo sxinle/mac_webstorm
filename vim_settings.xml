@@ -46,8 +46,8 @@
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/Prize/EditPrize.js" timestamp="1546052882925">
         <mark key="'" line="23" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" timestamp="1546914370940">
-        <mark key="'" line="6" column="24" />
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" timestamp="1546917475847">
+        <mark key="'" line="267" column="34" />
         <mark key="[" line="131" column="60" />
         <mark key="]" line="131" column="60" />
         <mark key="." line="131" column="60" />
@@ -202,7 +202,7 @@
         <mark key="." line="163" column="32" />
         <mark key="^" line="163" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546914894430">
+      <file name="/Dummy.txt" timestamp="1546917414062">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
@@ -284,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
       <jump line="5" column="7" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="143" column="27" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
       <jump line="228" column="22" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BindBankCard.js" />
@@ -315,7 +314,6 @@
       <jump line="214" column="36" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="447" column="35" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="219" column="19" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="249" column="41" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="98" column="57" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="251" column="35" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="272" column="65" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -384,6 +382,8 @@
       <jump line="16" column="3" filename="/request.js" />
       <jump line="161" column="0" filename="/request.js" />
       <jump line="19" column="0" filename="/request.js" />
+      <jump line="249" column="75" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
+      <jump line="267" column="34" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,7 +396,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYWxhbmNlXD4=</text>
+        <text>num</text>
       </register>
       <register name="0" type="4">
         <text>showPayPwdModal</text>
@@ -432,21 +432,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Redo</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYWxhbmNlXD4=</last-search>
+      <last-search>num</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYWxhbmNlXD4=</last-pattern>
+      <last-pattern>num</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Msg</entry>
         <entry encoding="base64">XDxzaG93RGVsRGlhbG9nXD4=</entry>
         <entry>删除</entry>
         <entry>知道了</entry>
@@ -466,6 +465,7 @@
         <entry encoding="base64">XDxzaG93Q2FzaE9rRGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQmFsYW5jZVw+</entry>
         <entry encoding="base64">XDxiYWxhbmNlXD4=</entry>
+        <entry>num</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
@@ -486,8 +486,8 @@
         <entry encoding="base64">JzwsJz5zL2JhbGFuY2VMaXN0L3JlY29yZExpc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1dpdGhkcmF3L0JpbmRCYW5rQ2FyZC9n</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>action $Redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
