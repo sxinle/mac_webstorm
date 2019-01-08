@@ -135,12 +135,19 @@
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" timestamp="1545654635309">
         <mark key="'" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1546937795529">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="41" column="2" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="3" column="33" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/.gitignore" timestamp="1546941313865">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1546942434661">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="67" column="17" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="73" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" timestamp="1546918084500">
         <mark key="'" line="0" column="0" />
@@ -173,6 +180,12 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/router.js" timestamp="1546913123229">
         <mark key="'" line="108" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/config/index.js" timestamp="1546941809114">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="63" column="30" />
+        <mark key="." line="63" column="30" />
       </file>
       <file name="/request.js" timestamp="1546916758460">
         <mark key="'" line="19" column="0" />
@@ -325,6 +338,12 @@
         <mark key="." line="79" column="17" />
         <mark key="^" line="79" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1546942878661">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/ChargeRecord.js" timestamp="1546843015755">
         <mark key="'" line="181" column="39" />
         <mark key="[" line="181" column="35" />
@@ -337,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="67" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
-      <jump line="103" column="48" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="509" column="14" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="508" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
       <jump line="535" column="2" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -398,7 +415,6 @@
       <jump line="15" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="183" column="32" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="107" column="35" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="131" column="17" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
@@ -437,6 +453,9 @@
       <jump line="222" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/SearchResult.js" />
       <jump line="41" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="22" column="21" filename="$USER_HOME$/workspace/pproj/jdtx/screens/HomeScreen.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/.gitignore" />
+      <jump line="58" column="25" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,16 +465,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>30%</text>
       </register>
       <register name="/" type="4">
         <text>搜索</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLmRpc3BhdGNoKFN0YWNrQWN0aW9ucy5wb3AoewogICAgICAgICAgICAgICAgbjogMiwKICAgICAgICAgICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0nbGluZSc+CiAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0nY2FyZCc+CgogICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0nY2FyZCc+CgogICAgICAgICAgICA8L1ZpZXc+CgogICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDms6jlhozljbPpgIE15YWD6K+d6LS55Yi45ZKMMTDlhYPml6Dpl6jmp5vku6Pph5HliLgK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OjsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -464,22 +483,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocGFnZSAhPT0gMSkgewogICAgICAgICAgICAgICAgICAgICAgICBsaXN0LnB1c2gocmVzcC5kYXRhLmxpc3QpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxpc3QgPSByZXNwLmRhdGEubGlzdDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7bGlzdCx9KTsK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpc3QubGVuZ3RoID09PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDms6jlhozljbPpgIE15YWD6K+d6LS55Yi45ZKMMTDlhYPml6Dpl6jmp5vku6Pph5HliLgK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
