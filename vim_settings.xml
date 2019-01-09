@@ -94,13 +94,6 @@
         <mark key="." line="18" column="102" />
         <mark key="^" line="18" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Wallet.js" timestamp="1546918564635">
-        <mark key="'" line="123" column="32" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="^" line="123" column="47" />
-        <mark key="." line="124" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/services/jiujiang.js" timestamp="1546072780649">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="18" column="31" />
@@ -140,7 +133,7 @@
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="11" />
         <mark key="^" line="106" column="14" />
-        <mark key="." line="107" column="13" />
+        <mark key="." line="106" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/jdsc.svg" timestamp="1546945645648">
         <mark key="'" line="38" column="5" />
@@ -285,11 +278,11 @@
         <mark key="^" line="59" column="16" />
         <mark key="." line="59" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/BaiTiaoInvite.js" timestamp="1546940654727">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/BaiTiaoInvite.js" timestamp="1546999778630">
+        <mark key="[" line="93" column="24" />
+        <mark key="]" line="93" column="25" />
+        <mark key="^" line="93" column="25" />
+        <mark key="." line="93" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1546944135046">
         <mark key="'" line="12" column="0" />
@@ -310,6 +303,9 @@
         <mark key="." line="79" column="17" />
         <mark key="^" line="79" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" timestamp="1546999951261">
+        <mark key="'" line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1546951749794">
         <mark key="'" line="34" column="14" />
         <mark key="[" line="15" column="18" />
@@ -326,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="3" filename="/request.js" />
       <jump line="161" column="0" filename="/request.js" />
       <jump line="19" column="0" filename="/request.js" />
       <jump line="249" column="75" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" />
@@ -426,6 +421,7 @@
       <jump line="22" column="26" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="65" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="70" column="20" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="20" column="3" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,7 +431,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>.1em</text>
@@ -484,7 +480,7 @@
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
