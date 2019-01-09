@@ -91,7 +91,8 @@
         <mark key="^" line="91" column="63" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" timestamp="1546937705410">
+      <file name="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" timestamp="1547034929794">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="19" column="33" />
@@ -150,12 +151,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1547031674134">
-        <mark key="'" line="177" column="24" />
-        <mark key="[" line="185" column="12" />
-        <mark key="]" line="185" column="18" />
-        <mark key="." line="185" column="18" />
-        <mark key="^" line="185" column="18" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1547034873394">
+        <mark key="'" line="216" column="21" />
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="141" column="22" />
+        <mark key="." line="141" column="22" />
+        <mark key="^" line="141" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" timestamp="1546918084500">
         <mark key="'" line="0" column="0" />
@@ -378,12 +379,12 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" timestamp="1546999951261">
         <mark key="'" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1547023100047">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="38" column="5" />
-        <mark key="." line="38" column="5" />
-        <mark key="^" line="38" column="5" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1547034315193">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/ChargeRecord.js" timestamp="1546843015755">
         <mark key="'" line="181" column="39" />
@@ -398,11 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="22" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
-      <jump line="96" column="50" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="122" column="14" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
       <jump line="131" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="132" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="23" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" />
@@ -498,6 +494,11 @@
       <jump line="29" column="6" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="47" column="10" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="177" column="24" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="184" column="69" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="192" column="39" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="193" column="65" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="216" column="21" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -507,13 +508,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>tickets</text>
+        <text>phoneNumber</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWdQcmVmaXhcPg==</text>
+        <text>getParam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdjYXJkJyBzdHlsZT17e3dpZHRoOiBzeXNJbmZvIC0gNjAgLyAyfX0+CiAgICAgICAgICAgICAgPEltYWdlIHNyYz17cmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9qZHNjLnN2ZycpfSBzdHlsZT17e3dpZHRoOiAnNDUlJywgaGVpZ2h0OiAnMTAwJSd9fS8+CgogICAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0ndGV4dCc+CiAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRXZWlnaHQ6IDUwMH19PuS6rOS4nOWVhuWfjjwvVGV4dD4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7Y29sb3I6ICcjOUI5QjlCJ319PuS6lOWFg+S7o+mHkeWIuDwvVGV4dD4KICAgICAgICAgICAgICA8L1ZpZXc+CgogICAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0ncmlnaHQtYXJyb3cnPgogICAgICAgICAgICAgICAgPEltYWdlIHNyYz17cmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9yaWdodC1hcnJvdy5zdmcnKX0gY2xhc3NOYW1lPSdhcnJvdyc+PC9JbWFnZT4KCiAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDMwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -522,37 +523,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsKICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAganVzdGlmeS1jb250ZW50OiBmbGV4LWVuZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmFycm93IHsKICB3aWR0aDogMzBweDsKICBoZWlnaHQ6IDEwMCU7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpY2tldHMubGVuZ3RoLCAnWyA9PT09PSB0aWNrZXRzID09PT09IF0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGlja2V0czogW10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgdGlja2V0czogcmVzcC5kYXRhLmRhdGEuTElTVCB8fCBbXSwKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxWaWV3IGNsYXNzTmFtZT0nbGluZSc+Ki99CiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J2NhcmQnIHN0eWxlPXt7d2lkdGg6IHN5c0luZm8gLSA2MCAvIDJ9fSBvbkNsaWNrPXt0aGlzLmdvR2V0VGlja2V0fT4qL30KICAgICAgICAgIHsvKjxJbWFnZSBzcmM9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvamRzYy5zdmcnKX0gc3R5bGU9e3t3aWR0aDogJzQ1JScsIGhlaWdodDogJzEwMCUnfX0gLz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J3RleHQnPiovfQogICAgICAgICAgey8qPFRleHQgc3R5bGU9e3tmb250V2VpZ2h0OiA1MDB9fT7kuqzkuJzllYbln448L1RleHQ+Ki99CiAgICAgICAgICB7Lyo8VGV4dCBzdHlsZT17e2NvbG9yOiAnIzlCOUI5Qid9fT7kupTlhYPku6Pph5HliLg8L1RleHQ+Ki99CiAgICAgICAgICB7Lyo8L1ZpZXc+Ki99CgogICAgICAgICAgey8qPFZpZXcgY2xhc3NOYW1lPSdyaWdodC1hcnJvdyc+Ki99CiAgICAgICAgICB7Lyo8SW1hZ2Ugc3JjPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL3JpZ2h0LWFycm93LnN2ZycpfSBjbGFzc05hbWU9J2Fycm93Jz48L0ltYWdlPiovfQoKICAgICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgICAgIHsvKjxWaWV3IHN0eWxlPXt7d2lkdGg6ICcyMHB4J319IC8+Ki99CiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J2NhcmQnIHN0eWxlPXt7d2lkdGg6IHN5c0luZm8gLSA2MCAvIDJ9fT4qL30KICAgICAgICAgIHsvKjxJbWFnZSBzcmM9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvamRzYy5zdmcnKX0gc3R5bGU9e3t3aWR0aDogJzQ1JScsIGhlaWdodDogJzEwMCUnfX0gLz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J3RleHQnPiovfQogICAgICAgICAgey8qPFRleHQgc3R5bGU9e3tmb250V2VpZ2h0OiA1MDB9fT7kuqzkuJzllYbln448L1RleHQ+Ki99CiAgICAgICAgICB7Lyo8VGV4dCBzdHlsZT17e2NvbG9yOiAnIzlCOUI5Qid9fT7kupTlhYPku6Pph5HliLg8L1RleHQ+Ki99CiAgICAgICAgICB7Lyo8L1ZpZXc+Ki99CgogICAgICAgICAgey8qPFZpZXcgY2xhc3NOYW1lPSdyaWdodC1hcnJvdyc+Ki99CiAgICAgICAgICB7Lyo8SW1hZ2Ugc3JjPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL3JpZ2h0LWFycm93LnN2ZycpfSBjbGFzc05hbWU9J2Fycm93Jz48L0ltYWdlPiovfQoKICAgICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgICAgIHsvKjwvVmlldz4qL30KICAgICAgICAgIHsvKjwvVmlldz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J2xpbmUnPiovfQogICAgICAgICAgey8qPFZpZXcgY2xhc3NOYW1lPSdjYXJkJyBzdHlsZT17e3dpZHRoOiBzeXNJbmZvIC0gNjAgLyAyfX0+Ki99CiAgICAgICAgICB7Lyo8SW1hZ2Ugc3JjPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL3dwaC5zdmcnKX0gc3R5bGU9e3t3aWR0aDogJzQ1JScsIGhlaWdodDogJzEwMCUnfX0gLz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J3RleHQnPiovfQogICAgICAgICAgey8qPFRleHQgc3R5bGU9e3tmb250V2VpZ2h0OiA1MDB9fT7llK/lk4HkvJo8L1RleHQ+Ki99CiAgICAgICAgICB7Lyo8VGV4dCBzdHlsZT17e2NvbG9yOiAnIzlCOUI5Qid9fT4zMOWFg+S8mOaDoOWIuDwvVGV4dD4qL30KICAgICAgICAgIHsvKjwvVmlldz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J3JpZ2h0LWFycm93Jz4qL30KICAgICAgICAgIHsvKjxJbWFnZSBzcmM9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvcmlnaHQtYXJyb3cuc3ZnJyl9IGNsYXNzTmFtZT0nYXJyb3cnPjwvSW1hZ2U+Ki99CgogICAgICAgICAgey8qPC9WaWV3PiovfQogICAgICAgICAgey8qPC9WaWV3PiovfQogICAgICAgICAgey8qPFZpZXcgc3R5bGU9e3t3aWR0aDogJzIwcHgnfX0gLz4qL30KICAgICAgICAgIHsvKjxWaWV3IGNsYXNzTmFtZT0nY2FyZCcgc3R5bGU9e3t3aWR0aDogc3lzSW5mbyAtIDYwIC8gMn19PiovfQogICAgICAgICAgey8qPEltYWdlIHNyYz17cmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9hcXkuc3ZnJyl9IHN0eWxlPXt7d2lkdGg6ICc0NSUnLCBoZWlnaHQ6ICcxMDAlJ319IC8+Ki99CgogICAgICAgICAgey8qPFZpZXcgY2xhc3NOYW1lPSd0ZXh0Jz4qL30KICAgICAgICAgIHsvKjxUZXh0IHN0eWxlPXt7Zm9udFdlaWdodDogNTAwfX0+54ix5aWH6Im6PC9UZXh0PiovfQogICAgICAgICAgey8qPFRleHQgc3R5bGU9e3tjb2xvcjogJyM5QjlCOUInfX0+N+WkqVZJUOS9k+mqjDwvVGV4dD4qL30KICAgICAgICAgIHsvKjwvVmlldz4qL30KCiAgICAgICAgICB7Lyo8VmlldyBjbGFzc05hbWU9J3JpZ2h0LWFycm93Jz4qL30KICAgICAgICAgIHsvKjxJbWFnZSBzcmM9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvcmlnaHQtYXJyb3cuc3ZnJyl9IGNsYXNzTmFtZT0nYXJyb3cnPjwvSW1hZ2U+Ki99CgogICAgICAgICAgey8qPC9WaWV3PiovfQogICAgICAgICAgey8qPC9WaWV3PiovfQogICAgICAgICAgey8qPC9WaWV3PiovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZSBzcmM9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvamRzYy5zdmcnKX0gc3R5bGU9e3t3aWR0aDogJzQ1JScsIGhlaWdodDogJzEwMCUnfX0gLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWdQcmVmaXhcPg==</last-search>
+      <last-search>getParam</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWdQcmVmaXhcPg==</last-pattern>
+      <last-pattern>getParam</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -560,9 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbWFnZUxvYWRcPg==</entry>
-        <entry>确认领取</entry>
-        <entry encoding="base64">XDxjbG9ja0NhbGxcPg==</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry>验证码</entry>
         <entry>获取验证码</entry>
@@ -580,6 +578,9 @@
         <entry encoding="base64">XDx0aWNrZXRzXD4=</entry>
         <entry encoding="base64">XDxTSE9QX05BTUVcPg==</entry>
         <entry encoding="base64">XDxpbWdQcmVmaXhcPg==</entry>
+        <entry>arrow</entry>
+        <entry>json2</entry>
+        <entry>getParam</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
