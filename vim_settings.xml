@@ -233,12 +233,12 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547021362597">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="150" column="20" />
-        <mark key="]" line="150" column="20" />
-        <mark key="." line="150" column="35" />
-        <mark key="^" line="150" column="40" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547021578099">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="91" column="17" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="91" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" timestamp="1547018011676">
         <mark key="'" line="82" column="7" />
@@ -369,12 +369,12 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" timestamp="1546999951261">
         <mark key="'" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1547007266966">
-        <mark key="'" line="61" column="1" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="68" column="1" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" timestamp="1547022047534">
+        <mark key="'" line="43" column="7" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="38" column="5" />
+        <mark key="^" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/ChargeRecord.js" timestamp="1546843015755">
         <mark key="'" line="181" column="39" />
@@ -389,9 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="30" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
-      <jump line="116" column="47" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
-      <jump line="91" column="96" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="23" column="34" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
       <jump line="134" column="43" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="46" column="21" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
@@ -489,6 +486,9 @@
       <jump line="81" column="23" filename="$USER_HOME$/workspace/pproj/jdtx/screens/RegistScreen.js" />
       <jump line="82" column="56" filename="$USER_HOME$/workspace/pproj/jdtx/screens/RegistScreen.js" />
       <jump line="112" column="65" filename="$USER_HOME$/workspace/pproj/jdtx/screens/RegistScreen.js" />
+      <jump line="29" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
+      <jump line="38" column="5" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
+      <jump line="43" column="7" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -498,52 +498,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>100%</text>
       </register>
       <register name="/" type="4">
-        <text>timer</text>
+        <text>text</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsodGhpcy5zdGF0ZS50aW1lciA8IDEgfHwgdGhpcy5zdGF0ZS50aW1lciA9PT0gNjApID8gYOWPkemAgemqjOivgeeggWAgOiBgJHt0aGlzLnN0YXRlLnRpbWVyfXPlkI7ph43lj5FgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvYXN0LnNob3coJ+mqjOivgeeggeW3suWPkemAgScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gdG9hc3Quc2hvdygn6aqM6K+B56CB5bey5Y+R6YCBJyk7CiAgLy8gdGhpcy5jbG9ja0NhbGwgPSBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgLy8gICAgIHRoaXMuZGVjcmVtZW50Q2xvY2soKTsKICAvLyB9LCAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnRpbWVyIDwgMSkgewogICAgICAgY2xlYXJJbnRlcnZhbCh0aGlzLmNsb2NrQ2FsbCkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvYXN0LnNob3coJ+mqjOivgeeggeW3suWPkemAgScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>timer</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>timer</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -551,7 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbmRleFw+</entry>
         <entry encoding="base64">XDxBdE5hdkJhclw+</entry>
         <entry encoding="base64">XDxnb0dldFRpY2tldFw+</entry>
         <entry>select</entry>
@@ -571,6 +570,7 @@
         <entry>获取验证码</entry>
         <entry>timmer</entry>
         <entry>timer</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
