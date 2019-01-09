@@ -179,12 +179,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/getTicket.js" timestamp="1547006148101">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/getTicket.scss" timestamp="1547006183593">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="50" />
@@ -321,10 +315,10 @@
         <mark key="^" line="26" column="44" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" timestamp="1546913276313">
-        <mark key="'" line="188" column="2" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="21" />
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" timestamp="1547034968555">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="122" column="0" />
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
@@ -399,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="132" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="23" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" />
       <jump line="82" column="7" filename="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" />
@@ -499,6 +492,7 @@
       <jump line="193" column="65" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="216" column="21" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" />
+      <jump line="42" column="18" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,10 +505,10 @@
         <text>phoneNumber</text>
       </register>
       <register name="/" type="4">
-        <text>getParam</text>
+        <text>json2get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDMwcHg7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24ganNvbjJnZXRQYXJhbShqc29uKSB7CiAgbGV0IHVybCA9ICcmJzsKICBpZiAoanNvbikgewogICAgdXJsICs9IE9iamVjdC5rZXlzKGpzb24pCiAgICAgIC5tYXAoayA9PiB7CiAgICAgICAgY29uc3QgdiA9IGpzb25ba107CiAgICAgICAgLy8gaWYgKG1vbWVudC5pc01vbWVudCh2KSkgewogICAgICAgIC8vICAgcmV0dXJuIGAke2t9PSR7di5mb3JtYXQoJ1lZWVktTU0tREQgSEg6bW06c3MnKX1gOwogICAgICAgIC8vIH0gZWxzZSB7CiAgICAgICAgY29uc3QgdmFsID0gSlNPTi5zdHJpbmdpZnkodik7CiAgICAgICAgcmV0dXJuIGAke2t9PSR7dmFsID8gdmFsLnJlcGxhY2UoLyIvZywgJycpIDogdmFsfWA7CiAgICAgICAgLy8gfQogICAgICB9KQogICAgICAuam9pbignJicpOwogIH0KICByZXR1cm4gYCR7dXJsfSZgOwp9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -551,9 +545,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getParam</last-search>
+      <last-search>json2get</last-search>
       <last-offset />
-      <last-pattern>getParam</last-pattern>
+      <last-pattern>json2get</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry>验证码</entry>
         <entry>获取验证码</entry>
         <entry>timmer</entry>
@@ -581,6 +574,7 @@
         <entry>arrow</entry>
         <entry>json2</entry>
         <entry>getParam</entry>
+        <entry>json2get</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
