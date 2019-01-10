@@ -153,8 +153,8 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1547106576642">
-        <mark key="'" line="22" column="4" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" timestamp="1547111662421">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="36" column="50" />
         <mark key="]" line="36" column="50" />
         <mark key="." line="36" column="50" />
@@ -237,11 +237,11 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547106647163">
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547111659538">
         <mark key="'" line="190" column="16" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" timestamp="1547018011676">
         <mark key="'" line="82" column="7" />
@@ -299,7 +299,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547106813082">
+      <file name="/Dummy.txt" timestamp="1547111674343">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
@@ -404,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="6" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="167" column="112" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="257" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="199" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="142" column="23" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -504,6 +502,8 @@
       <jump line="22" column="4" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="190" column="16" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/Const.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -513,7 +513,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, AtNavBar</text>
       </register>
       <register name="/" type="4">
         <text>Nav</text>
@@ -522,19 +522,19 @@
         <text>decodeField</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gLCBBdE5hdkJhcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW9rKSB7CiAgICAgICAgICBUYXJvLnJlbW92ZVN0b3JhZ2VTeW5jKCd0b2tlbicpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW9rKSB7CiAgICAgICAgICBUYXJvLnJlbW92ZVN0b3JhZ2VTeW5jKCd0b2tlbicpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -546,10 +546,10 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihvaykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihvaykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
