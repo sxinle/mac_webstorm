@@ -90,8 +90,8 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1547035579909">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1547090022375">
+        <mark key="'" line="81" column="15" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="91" column="63" />
@@ -246,12 +246,12 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547040233550">
-        <mark key="'" line="146" column="28" />
-        <mark key="[" line="137" column="18" />
-        <mark key="]" line="137" column="36" />
-        <mark key="." line="137" column="36" />
-        <mark key="^" line="137" column="36" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547089998750">
+        <mark key="'" line="137" column="19" />
+        <mark key="[" line="139" column="18" />
+        <mark key="]" line="139" column="18" />
+        <mark key="." line="139" column="18" />
+        <mark key="^" line="139" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/input/index.scss" timestamp="1547018011676">
         <mark key="'" line="82" column="7" />
@@ -420,12 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
-      <jump line="368" column="50" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
-      <jump line="117" column="15" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="109" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="39" column="10" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="180" column="21" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
@@ -520,6 +514,12 @@
       <jump line="66" column="28" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="147" column="12" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="144" column="28" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="250" column="56" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="115" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="131" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="137" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="6" column="25" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="81" column="15" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -529,10 +529,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlblw+</text>
+        <text encoding="base64">XDxVdGlsc1w+</text>
       </register>
       <register name="0" type="4">
         <text>toastMsg</text>
@@ -572,9 +572,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2tlblw+</last-search>
+      <last-search encoding="base64">XDxVdGlsc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxVdGlsc1w+</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -582,8 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arrow</entry>
-        <entry>json2</entry>
         <entry>getParam</entry>
         <entry>json2get</entry>
         <entry encoding="base64">XDxnb0dldFRpY2tldFw+</entry>
@@ -602,6 +600,8 @@
         <entry encoding="base64">XDx0b2FzdE1zZ1w+</entry>
         <entry>setSto</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry encoding="base64">XDxzdWJtaXRHZXRUaWNrZXRcPg==</entry>
+        <entry encoding="base64">XDxVdGlsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
