@@ -237,8 +237,8 @@
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547111659538">
-        <mark key="'" line="190" column="16" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1547268111014">
+        <mark key="'" line="239" column="52" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="199" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="142" column="23" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="178" column="113" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -504,6 +503,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/Const.js" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.js" />
+      <jump line="239" column="52" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -516,7 +516,7 @@
         <text>, AtNavBar</text>
       </register>
       <register name="/" type="4">
-        <text>Nav</text>
+        <text>规则</text>
       </register>
       <register name="0" type="4">
         <text>decodeField</text>
@@ -556,9 +556,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Nav</last-search>
+      <last-search>规则</last-search>
       <last-offset />
-      <last-pattern>Nav</last-pattern>
+      <last-pattern>规则</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -566,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeXNJbmZvXD4=</entry>
         <entry>Util</entry>
         <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
         <entry encoding="base64">XDxvblRpbWVVcFw+</entry>
@@ -586,6 +585,7 @@
         <entry encoding="base64">XDx0aXBUaXRsZVw+</entry>
         <entry encoding="base64">XDxzaG93VGlwTW9kYWxcPg==</entry>
         <entry>Nav</entry>
+        <entry>规则</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
