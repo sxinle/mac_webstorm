@@ -241,6 +241,10 @@
         <mark key="." line="163" column="32" />
         <mark key="^" line="163" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/Scan.js" timestamp="1547635577369">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="57" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547525447546">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="15" />
@@ -297,6 +301,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/BarcodeScaner.js" timestamp="1547635370624">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/DeliveryPage.js" timestamp="1547522171815">
         <mark key="'" line="183" column="2" />
         <mark key="[" line="147" column="29" />
@@ -323,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="7" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="195" column="16" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="273" column="76" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -423,6 +431,7 @@
       <jump line="55" column="19" filename="$USER_HOME$/workspace/demo/jhWebApp/node_modules/react-native-barcodescanner/BarcodeScanner.js" />
       <jump line="17" column="24" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="22" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
+      <jump line="7" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/BarcodeScaner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,10 +444,10 @@
         <text>成</text>
       </register>
       <register name="/" type="4">
-        <text>scan</text>
+        <text encoding="base64">XDxSTkNhbWVyYVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>staticDirectory</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IEJhcmNvZGVTY2FubmVyIGZyb20gJ3JlYWN0LW5hdGl2ZS1iYXJjb2Rlc2Nhbm5lcic7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGJhdGNoX25vOiByZWNvcmQuYmF0Y2hfbm8sCg==</text>
@@ -475,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scan</last-search>
+      <last-search encoding="base64">XDxSTkNhbWVyYVw+</last-search>
       <last-offset />
-      <last-pattern>scan</last-pattern>
+      <last-pattern encoding="base64">XDxSTkNhbWVyYVw+</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -485,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aXBUaXRsZVw+</entry>
         <entry encoding="base64">XDxzaG93VGlwTW9kYWxcPg==</entry>
         <entry>Nav</entry>
         <entry>首页</entry>
@@ -505,6 +513,7 @@
         <entry>barcode</entry>
         <entry>scaner</entry>
         <entry>scan</entry>
+        <entry encoding="base64">XDxSTkNhbWVyYVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
