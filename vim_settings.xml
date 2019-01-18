@@ -9,6 +9,9 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" timestamp="1547782346383">
+        <mark key="'" line="539" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/BalanceDetailList.js" timestamp="1547717575142">
         <mark key="'" line="254" column="18" />
         <mark key="[" line="16" column="0" />
@@ -23,6 +26,9 @@
         <mark key="." line="365" column="18" />
         <mark key="^" line="273" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/App.js" timestamp="1547634180580">
+        <mark key="'" line="75" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" timestamp="1547726195987">
         <mark key="'" line="61" column="0" />
       </file>
@@ -34,6 +40,9 @@
         <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1547724824605" />
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/package.json" timestamp="1547635080129">
+        <mark key="'" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/CardIndex.js" timestamp="1547719807567">
         <mark key="'" line="97" column="2" />
         <mark key="[" line="23" column="0" />
@@ -55,6 +64,9 @@
         <mark key="'" line="53" column="34" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/node_modules/react-native-barcodescanner/BarcodeScanner.js" timestamp="1547635030073">
+        <mark key="'" line="55" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/request.js" timestamp="1547724814256" />
       <file name="$USER_HOME$/workspace/pproj/AndPartner/package.json" timestamp="1547726218715">
@@ -89,6 +101,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
+        <mark key="'" line="357" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" timestamp="1547526323879">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/home.js" timestamp="1547724775661" />
       <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1547723126236">
         <mark key="'" line="17" column="0" />
@@ -99,9 +117,6 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1547724811401" />
     </filemarks>
     <jumps>
-      <jump line="197" column="55" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="200" column="41" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="56" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="221" column="65" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -199,6 +214,9 @@
       <jump line="14" column="32" filename="$USER_HOME$/workspace/pproj/jdtx/package.json" />
       <jump line="79" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="49" column="23" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="537" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
+      <jump line="538" column="33" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
+      <jump line="539" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -211,7 +229,7 @@
         <text>// 不是首页</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</text>
+        <text>load</text>
       </register>
       <register name="0" type="4">
         <text>backButtonEnabled</text>
@@ -251,9 +269,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -261,8 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>native</entry>
-        <entry encoding="base64">XDxCVVRUT05TXD4=</entry>
         <entry encoding="base64">XDxzaG93QWN0aW9uU2VldFw+</entry>
         <entry encoding="base64">XDxBY3Rpb25TaGVldFw+</entry>
         <entry encoding="base64">XDxRUkNvZGVcPg==</entry>
@@ -281,6 +297,8 @@
         <entry encoding="base64">XDxtZDVcPg==</entry>
         <entry>moment</entry>
         <entry encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</entry>
+        <entry>progress</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
