@@ -95,11 +95,12 @@
         <mark key="[" line="79" column="16" />
         <mark key="]" line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547785522144">
-        <mark key="'" line="95" column="32" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547788504493">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -117,7 +118,6 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1547724811401" />
     </filemarks>
     <jumps>
-      <jump line="47" column="37" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
       <jump line="18" column="44" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/banner.svg" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/Const.js" />
       <jump line="13" column="39" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/banner.svg" />
@@ -217,6 +217,7 @@
       <jump line="81" column="18" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="85" column="71" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="95" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="23" column="12" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -226,7 +227,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>(): void</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
@@ -235,34 +236,34 @@
         <text>showProgress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqYXZhc2NyaQo=</text>
+        <text encoding="base64">5L2c6ICF77ya5aaE6IeqCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvZmQ4ZjI0ZWI1YjVjCuS+hua6kO+8mueugOS5pgrnroDkuabokZfkvZzmnYPlvZLkvZzogIXmiYDmnInvvIzku7vkvZXlvaLlvI/nmoTovazovb3pg73or7fogZTns7vkvZzogIXojrflvpfmjojmnYPlubbms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQcm9ncmVzc1ZpZXdJT1Mgc3R5bGU9e3N0eWxlcy5wcm9ncmVzc1ZpZXd9IHByb2dyZXNzPXswLjV9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqYXZhc2NyaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PmhlbGxvPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxQcm9ncmVzc1ZpZXdJT1Mgc3R5bGU9e3N0eWxlcy5wcm9ncmVzc1ZpZXd9IHByb2dyZXNzPXswLjV9Lz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvV0tXZWJWaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PmhlbGxvPC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD54eHg8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvV0tXZWJWaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD54eHg8L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
