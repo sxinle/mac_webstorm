@@ -229,7 +229,7 @@
         <text>0.5</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>resume</text>
       </register>
       <register name="0" type="4">
         <text>showProgress</text>
@@ -269,9 +269,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>resume</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>resume</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -279,7 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93QWN0aW9uU2VldFw+</entry>
         <entry encoding="base64">XDxBY3Rpb25TaGVldFw+</entry>
         <entry encoding="base64">XDxRUkNvZGVcPg==</entry>
         <entry encoding="base64">XDxxcmNvZGVcPg==</entry>
@@ -299,6 +298,7 @@
         <entry encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</entry>
         <entry>progress</entry>
         <entry>load</entry>
+        <entry>resume</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
