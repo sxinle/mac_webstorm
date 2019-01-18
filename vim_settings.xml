@@ -83,12 +83,12 @@
         <mark key="[" line="79" column="16" />
         <mark key="]" line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547727132536">
-        <mark key="'" line="79" column="21" />
-        <mark key="[" line="81" column="43" />
-        <mark key="]" line="81" column="43" />
-        <mark key="." line="81" column="43" />
-        <mark key="^" line="81" column="43" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547728185220">
+        <mark key="'" line="50" column="23" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/home.js" timestamp="1547724775661" />
       <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1547723126236">
@@ -100,7 +100,6 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1547724811401" />
     </filemarks>
     <jumps>
-      <jump line="196" column="46" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="197" column="55" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="200" column="41" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="62" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -200,6 +199,7 @@
       <jump line="61" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" />
       <jump line="14" column="32" filename="$USER_HOME$/workspace/pproj/jdtx/package.json" />
       <jump line="79" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="49" column="23" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -209,52 +209,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>webUrl</text>
+        <text>this.state.</text>
       </register>
       <register name="/" type="4">
-        <text>moment</text>
+        <text encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>webUrl</text>
+        <text>backButtonEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8V2ViVmlldz48L1dlYlZpZXc+Cg==</text>
+        <text encoding="base64">5L2c6ICF77ya5pif54Gs57yYCumTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvMGI2YzZlOGYxNGU0CuS+hua6kO+8mueugOS5pgrnroDkuabokZfkvZzmnYPlvZLkvZzogIXmiYDmnInvvIzku7vkvZXlvaLlvI/nmoTovazovb3pg73or7fogZTns7vkvZzogIXojrflvpfmjojmnYPlubbms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQ29udGVudD4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7c2hvd1NoYXJlOiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb250ZW50IHN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnd2hpdGUnfX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoVXRpbC5vaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgc2hvd1NoYXJlOiB0cnVlLAogICAgICAgIH0sICgpID0+IHsKCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyciwgJ1sgPT09PT0gZXJyID09PT09IF0nKTsKICAgICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8V2ViVmlldz48L1dlYlZpZXc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moment</last-search>
+      <last-search encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</last-search>
       <last-offset />
-      <last-pattern>moment</last-pattern>
+      <last-pattern encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -262,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iphone</entry>
         <entry>native</entry>
         <entry encoding="base64">XDxCVVRUT05TXD4=</entry>
         <entry encoding="base64">XDxzaG93QWN0aW9uU2VldFw+</entry>
@@ -282,6 +281,7 @@
         <entry>md5</entry>
         <entry encoding="base64">XDxtZDVcPg==</entry>
         <entry>moment</entry>
+        <entry encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
