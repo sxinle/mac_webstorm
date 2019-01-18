@@ -95,11 +95,12 @@
         <mark key="[" line="79" column="16" />
         <mark key="]" line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547775714664">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1547783783231">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="81" column="22" />
+        <mark key="]" line="81" column="26" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -117,7 +118,6 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1547724811401" />
     </filemarks>
     <jumps>
-      <jump line="56" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="1" column="8" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="221" column="65" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="47" column="37" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/index/index.scss" />
@@ -217,6 +217,7 @@
       <jump line="537" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
       <jump line="538" column="33" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
       <jump line="539" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" />
+      <jump line="81" column="18" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -226,7 +227,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// 不是首页</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
@@ -235,31 +236,31 @@
         <text>backButtonEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvV0tXZWJWaWV3Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dD54eHg8L1RleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAg5a6Y572R5Lit5o+P6L+wOmJhY2tCdXR0b25FbmFibGVkOiBmYWxzZSzooajnpLp3ZWJWaWV35Lit5rKh5pyJ6L+U5Zue5LqL5Lu277yM5Li6dHJ1ZeWImeihqOekuuivpXdlYlZpZXfmnInlm57pgIDkuovku7YK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIC8v6Ieq5a6a5LmJ6L+U5Zue5LqL5Lu2Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAg5a6Y572R5Lit5o+P6L+wOmJhY2tCdXR0b25FbmFibGVkOiBmYWxzZSzooajnpLp3ZWJWaWV35Lit5rKh5pyJ6L+U5Zue5LqL5Lu277yM5Li6dHJ1ZeWImeihqOekuuivpXdlYlZpZXfmnInlm57pgIDkuovku7YK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgaW5zdHJ1Y3Rpb25zID0gUGxhdGZvcm0uc2VsZWN0KHsKLy8gICBpb3M6ICdQcmVzcyBDbWQrUiB0byByZWxvYWQsXG4nICsgJ0NtZCtEIG9yIHNoYWtlIGZvciBkZXYgbWVudScsCi8vICAgYW5kcm9pZDoKLy8gICAgICdEb3VibGUgdGFwIFIgb24geW91ciBrZXlib2FyZCB0byByZWxvYWQsXG4nICsKLy8gICAgICdTaGFrZSBvciBwcmVzcyBtZW51IGJ1dHRvbiBmb3IgZGV2IG1lbnUnLAovLyB9KTsK</text>
+        <text encoding="base64">ICAgIC8vIC8v6Ieq5a6a5LmJ6L+U5Zue5LqL5Lu2Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
