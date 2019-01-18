@@ -48,14 +48,14 @@
         <mark key="^" line="91" column="63" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/Scan.js" timestamp="1547803200232">
-        <mark key="'" line="34" column="24" />
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/Scan.js" timestamp="1547805108279">
+        <mark key="'" line="25" column="21" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jhWebApp/package.json" timestamp="1547803178372">
-        <mark key="'" line="46" column="18" />
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/package.json" timestamp="1547805422767">
+        <mark key="'" line="13" column="12" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -123,8 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="2" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/DeliveryPage.js" />
-      <jump line="93" column="16" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/Const.js" />
       <jump line="105" column="29" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/request.js" />
       <jump line="84" column="41" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/BaiTiaoInvite.js" />
@@ -218,11 +216,13 @@
       <jump line="198" column="28" filename="/LogOn.js" />
       <jump line="116" column="28" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
       <jump line="34" column="24" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/Scan.js" />
-      <jump line="22" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="117" column="28" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
-      <jump line="21" column="38" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="47" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/Scan.js" />
+      <jump line="21" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
+      <jump line="22" column="11" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
+      <jump line="13" column="12" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -235,7 +235,7 @@
         <text>resp</text>
       </register>
       <register name="/" type="4">
-        <text>bar</text>
+        <text>base</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlci5nZXRMb2NhdGlvbigoZSwgaW5mbyk9PnsKICAgICAgICAgICAgY29uc29sZS5sb2coaW5mbywgICdbID09PT09IHJlc3AgPT09PT0gXScpOwogICAgICAgIH0pOwo=</text>
@@ -275,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bar</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>bar</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>BindBankCard</last-replace>
       <last-substitute>Withdraw</last-substitute>
       <last-dir>1</last-dir>
@@ -285,8 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2RhbFw+</entry>
-        <entry>Qr</entry>
         <entry>QR</entry>
         <entry encoding="base64">XDxzaG93U2hhcmVNb2RhbFw+</entry>
         <entry encoding="base64">XDxlbnRlcnNcPg==</entry>
@@ -305,6 +303,8 @@
         <entry encoding="base64">XDxiYXJjb2Rlc2Nhbm5lclw+</entry>
         <entry>came</entry>
         <entry>bar</entry>
+        <entry>native</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
