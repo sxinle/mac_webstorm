@@ -82,8 +82,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1548145427118">
-        <mark key="'" line="43" column="24" />
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" timestamp="1548147857391">
+        <mark key="'" line="81" column="80" />
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="81" column="71" />
+        <mark key="." line="81" column="71" />
       </file>
       <file name="/Dummy.txt" timestamp="1548135425559">
         <mark key="[" line="0" column="0" />
@@ -156,10 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="44" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
-      <jump line="90" column="45" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/BaiTiaoInvite.js" />
-      <jump line="67" column="73" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
       <jump line="75" column="47" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
       <jump line="103" column="22" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
       <jump line="74" column="48" filename="$USER_HOME$/workspace/pproj/AndPartner/App.js" />
@@ -256,6 +255,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/models/card.js" />
       <jump line="29" column="5" filename="$USER_HOME$/workspace/pproj/jfans/app/models/card.js" />
       <jump line="30" column="42" filename="$USER_HOME$/workspace/pproj/jfans/app/models/card.js" />
+      <jump line="146" column="20" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="150" column="4" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="59" column="18" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
+      <jump line="82" column="80" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelTaoCan.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -265,62 +268,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>prods[0].</text>
       </register>
       <register name="/" type="4">
-        <text>setProds</text>
+        <text encoding="base64">XDxHUk9VUF9OQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRpb24ubmF2aWdhdGUodXNlciA/ICdBcHAnIDogJ0F1dGgnKTsK</text>
+        <text encoding="base64">ICAgIGRhdGEucHJvZHNbMF0uR1JPVVBfTkFNRSAmJgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbGVydCh2YWwpOwo=</text>
+        <text encoding="base64">ICAgIGRhdGEucHJvZHNbMF0gJiYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICDljY7lpI/lubjnpo/np7vliqjlip7lhazluJDlj7flnYfmnInlronlhajkv53miqTlip/og73vvIzor7flpqXlloTkv53nrqHmgqjnmoTnlKjmiLflkI3lj4rlr4bnoIHkv6Hmga/jgILljY7lpI/lubjnpo/np7vliqjlip7lhazlsIbpgJrov4flr7nnlKjmiLflr4bnoIHov5vooYzliqDlr4bnrYnlronlhajmjqrmlr3noa7kv53mgqjnmoTkv6Hmga/kuI3kuKLlpLHvvIzkuI3ooqvmu6XnlKjlkozlj5jpgKDjgILlsL3nrqHmnInliY3ov7Dlronlhajmjqrmlr3vvIzkvYblkIzml7bkuZ/or7fmgqjms6jmhI/lnKjkv6Hmga/nvZHnu5zkuIrkuI3lrZjlnKjigJzlrozlloTnmoTlronlhajmjqrmlr3igJ3jgII8YnI+YikKICAgICAgICDlnKjkvb/nlKjljY7lpI/lubjnpo/np7vliqjlip7lhaznvZHnu5zmnI3liqHov5vooYznvZHkuIrkuqTmmJPml7bvvIzmgqjkuI3lj6/pgb/lhY3nmoTopoHlkJHkuqTmmJPlr7nmlrnmiJbmvZzlnKjnmoTkuqTmmJPlr7nmlrnmiqvpnLLoh6rlt7HnmoTkuKrkurrkv6Hmga/vvIzlpoLogZTnu5zmlrnlvI/miJbogIXpgq7mlL/lnLDlnYDjgILor7fmgqjlpqXlloTkv53miqToh6rlt7HnmoTkuKrkurrkv6Hmga/vvIzku4XlnKjlv4XopoHnmoTmg4XlvaLkuIvlkJHku5bkurrmj5DkvpvjgILlpoLmgqjlj5HnjrDoh6rlt7HnmoTkuKrkurrkv6Hmga/ms4Tlr4bvvIzlsKTlhbbmmK/ljY7lpI/lubjnpo/np7vliqjlip7lhaznlKjmiLflkI3lj4rlr4bnoIHlj5HnlJ/ms4TpnLLvvIzor7fmgqjnq4vljbPogZTnu5zljY7lpI/lubjnpo/np7vliqjlip7lhazlrqLmnI3vvIzku6Xkvr/ljY7lpI/lubjnpo/np7vliqjlip7lhazph4flj5bnm7jlupTmjqrmlr3jgIIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaT48cD5Db29raWXnmoTkvb/nlKg8YnI+YSkKICAgICAgICDlnKjmgqjmnKrmi5Lnu53mjqXlj5djb29raWVz55qE5oOF5Ya15LiL77yM5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5Lya5Zyo5oKo55qE6K6h566X5py65LiK6K6+5a6a5oiW5Y+W55SoY29va2llc++8jOS7peS+v+aCqOiDveeZu+W9leaIluS9v+eUqOS+nei1luS6jmNvb2tpZXPnmoTljY7lpI/lubjnpo/np7vliqjlip7lhazlubPlj7DmnI3liqHmiJblip/og73jgILljY7lpI/lubjnpo/np7vliqjlip7lhazkvb/nlKhjb29raWVz5Y+v5Li65oKo5o+Q5L6b5pu05Yqg5ZGo5Yiw55qE5Liq5oCn5YyW5pyN5Yqh77yM5YyF5ous5o6o5bm/5pyN5Yqh44CCCiAgICAgICAgYikg5oKo5pyJ5p2D6YCJ5oup5o6l5Y+X5oiW5ouS57ud5o6l5Y+XY29va2llc+OAguaCqOWPr+S7pemAmui/h+S/ruaUuea1j+iniOWZqOiuvue9rueahOaWueW8j+aLkue7neaOpeWPl2Nvb2tpZXPjgILkvYblpoLmnpzmgqjpgInmi6nmi5Lnu53mjqXlj5djb29raWVz77yM5YiZ5oKo5Y+v6IO95peg5rOV55m75b2V5oiW5L2/55So5L6d6LWW5LqOY29va2llc+eahOWNjuWkj+W5uOemj+enu+WKqOWKnuWFrOe9kee7nOacjeWKoeaIluWKn+iDveOAgjxicj5iKQogICAgICAgIOmAmui/h+WNjuWkj+W5uOemj+enu+WKqOWKnuWFrOaJgOiuvmNvb2tpZXPmiYDlj5blvpfnmoTmnInlhbPkv6Hmga/vvIzlsIbpgILnlKjmnKzmlL/nrZbjgII8L3A+CiAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcHJvZHMubGVuZ3RoOyBpICs9IDEpIHsKICAgICAgY29uc29sZS5sb2cocHJvZHNbaV0ucHJvZHMsICdbID09PT09IHByb2RzW2ldLnByb2RzID09PT09IF0nKTsKICAgICAgLy8gaWYocHJvZHMucHJvZHMgJiYgcHJvZHNbaV0ucHJvZHMgPT0gbnVsbCkgewogICAgICAvLyAgIGRlbGV0ZSBwcm9kc1tpXTsKICAgICAgLy8gfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDljY7lpI/lubjnpo/np7vliqjlip7lhazmlLbpm4bnmoTmnInlhbPmgqjnmoTkv6Hmga/lkozotYTmlpnlsIbkv53lrZjlnKjljY7lpI/lubjnpo/np7vliqjlip7lhazlj4rvvIjmiJbvvInlhbblhbPogZTlhazlj7jnmoTmnI3liqHlmajkuIrvvIzov5nkupvkv6Hmga/lkozotYTmlpnlj6/og73kvKDpgIHoh7PmgqjmiYDlnKjlm73lrrbjgIHlnLDljLrmiJbljY7lpI/lubjnpo/np7vliqjlip7lhazmlLbpm4bkv6Hmga/lkozotYTmlpnmiYDlnKjlnLDnmoTlooPlpJblubblnKjlooPlpJbooqvorr/pl67jgIHlrZjlgqjlkozlsZXnpLrjgIIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">5Zyo5aaC5LiL5oOF5Ya15LiL77yM5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5bCG5L6d5o2u5oKo55qE5Liq5Lq65oSP5oS/5oiW5rOV5b6L55qE6KeE5a6a5YWo6YOo5oiW6YOo5YiG55qE5oqr6Zyy5oKo55qE5Liq5Lq65L+h5oGv77yaPGJyPmEpIOe7j+aCqOS6i+WFiOWQjOaEj++8jOWQkeesrOS4ieaWueaKq+mcsu+8mzxicj5iKQogICAgICAgIOS4uuaPkOS+m+aCqOaJgOimgeaxgueahOS6p+WTgeWSjOacjeWKoe+8jOiAjOW/hemhu+WSjOesrOS4ieaWueWIhuS6q+aCqOeahOS4quS6uuS/oeaBr++8mzxicj5jKSDmoLnmja7ms5XlvovnmoTmnInlhbPop4TlrprvvIzmiJbogIXooYzmlL/miJblj7jms5XmnLrmnoTnmoTopoHmsYLvvIzlkJHnrKzkuInmlrnmiJbogIXooYzmlL/jgIHlj7jms5XmnLrmnoTmiqvpnLLvvJs8YnI+ZCkKICAgICAgICDlpoLmgqjlh7rnjrDov53lj43kuK3lm73mnInlhbPms5XlvovjgIHms5Xop4TmiJbogIXljY7lpI/lubjnpo/np7vliqjlip7lhazmnI3liqHljY/orq7miJbnm7jlhbPop4TliJnnmoTmg4XlhrXvvIzpnIDopoHlkJHnrKzkuInmlrnmiqvpnLLvvJs8YnI+ZSkg5aaC5oKo5piv6YCC5qC855qE55+l6K+G5Lqn5p2D5oqV6K+J5Lq65bm25bey5o+Q6LW35oqV6K+J77yM5bqU6KKr5oqV6K+J5Lq66KaB5rGC77yM5ZCR6KKr5oqV6K+J5Lq65oqr6Zyy77yM5Lul5L6/5Y+M5pa55aSE55CG5Y+v6IO955qE5p2D5Yip57qg57q377ybPGJyPmYpCiAgICAgICAg5Zyo5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5bmz5Y+w5LiK5Yib5bu655qE5p+Q5LiA5Lqk5piT5Lit77yM5aaC5Lqk5piT5Lu75L2V5LiA5pa55bGl6KGM5oiW6YOo5YiG5bGl6KGM5LqG5Lqk5piT5LmJ5Yqh5bm25o+Q5Ye65L+h5oGv5oqr6Zyy6K+35rGC55qE77yM5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5pyJ5p2D5Yaz5a6a5ZCR6K+l55So5oi35o+Q5L6b5YW25Lqk5piT5a+55pa555qE6IGU57uc5pa55byP562J5b+F6KaB5L+h5oGv77yM5Lul5L+D5oiQ5Lqk5piT55qE5a6M5oiQ5oiW57qg57q355qE6Kej5Yaz44CCPGJyPmcpCiAgICAgICAg5YW25a6D5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5qC55o2u5rOV5b6L44CB5rOV6KeE5oiW6ICF572R56uZ5pS/562W6K6k5Li65ZCI6YCC55qE5oqr6Zyy44CC</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzeXMucHJvZHMgPSBwcm9kczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDljY7lpI/lubjnpo/np7vliqjlip7lhazkuI3kvJrlkJHku7vkvZXml6DlhbPnrKzkuInmlrnmj5DkvpvjgIHlh7rllK7jgIHlh7rnp5/jgIHliIbkuqvmiJbkuqTmmJPmgqjnmoTkuKrkurrkv6Hmga/vvIzpmaTpnZ7kuovlhYjlvpfliLDmgqjnmoTorrjlj6/vvIzmiJbor6XnrKzkuInmlrnlkozljY7lpI/lubjnpo/np7vliqjlip7lhazvvIjlkKvljY7lpI/lubjnpo/np7vliqjlip7lhazlhbPogZTlhazlj7jvvInljZXni6zmiJblhbHlkIzkuLrmgqjmj5DkvpvmnI3liqHvvIzkuJTlnKjor6XmnI3liqHnu5PmnZ/lkI7vvIzlhbblsIbooqvnpoHmraLorr/pl67ljIXmi6zlhbbku6XliY3og73lpJ/orr/pl67nmoTmiYDmnInov5nkupvotYTmlpnjgII8YnI+YikKICAgICAgICDljY7lpI/lubjnpo/np7vliqjlip7lhazkuqbkuI3lhYHorrjku7vkvZXnrKzkuInmlrnku6Xku7vkvZXmiYvmrrXmlLbpm4bjgIHnvJbovpHjgIHlh7rllK7miJbogIXml6Dlgb/kvKDmkq3mgqjnmoTkuKrkurrkv6Hmga/jgILku7vkvZXljY7lpI/lubjnpo/np7vliqjlip7lhazlubPlj7DnlKjmiLflpoLku47kuovkuIrov7DmtLvliqjvvIzkuIDnu4/lj5HnjrDvvIzljY7lpI/lubjnpo/np7vliqjlip7lhazmnInmnYPnq4vljbPnu4jmraLkuI7or6XnlKjmiLfnmoTmnI3liqHljY/orq7jgII8YnI+YykKICAgICAgICDkuLrmnI3liqHnlKjmiLfnmoTnm67nmoTvvIzljY7lpI/lubjnpo/np7vliqjlip7lhazlj6/og73pgJrov4fkvb/nlKjmgqjnmoTkuKrkurrkv6Hmga/vvIzlkJHmgqjmj5DkvpvmgqjmhJ/lhbTotqPnmoTkv6Hmga/vvIzljIXmi6zkvYbkuI3pmZDkuo7lkJHmgqjlj5Hlh7rkuqflk4HlkozmnI3liqHkv6Hmga/vvIzmiJbogIXkuI7ljY7lpI/lubjnpo/np7vliqjlip7lhazlkIjkvZzkvJnkvLTlhbHkuqvkv6Hmga/ku6Xkvr/ku5bku6zlkJHmgqjlj5HpgIHmnInlhbPlhbbkuqflk4HlkozmnI3liqHnmoTkv6Hmga/vvIjlkI7ogIXpnIDopoHmgqjnmoTkuovlhYjlkIzmhI/vvInjgIIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiKQogICAgICAgIOWcqOaCqOS9v+eUqOWNjuWkj+W5uOemj+enu+WKqOWKnuWFrOe9kee7nOacjeWKoe+8jOaIluiuv+mXruWNjuWkj+W5uOemj+enu+WKqOWKnuWFrOW5s+WPsOe9kemhteaXtu+8jOWNjuWkj+W5uOemj+enu+WKqOWKnuWFrOiHquWKqOaOpeaUtuW5tuiusOW9leeahOaCqOeahOa1j+iniOWZqOWSjOiuoeeul+acuuS4iueahOS/oeaBr++8jOWMheaLrOS9huS4jemZkOS6juaCqOeahElQ5Zyw5Z2A44CB5rWP6KeI5Zmo55qE57G75Z6L44CB5L2/55So55qE6K+t6KiA44CB6K6/6Zeu5pel5pyf5ZKM5pe26Ze044CB6L2v56Gs5Lu254m55b6B5L+h5oGv5Y+K5oKo6ZyA5rGC55qE572R6aG16K6w5b2V562J5pWw5o2u77ybPGJyPmMpCiAgICAgICAg5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs6YCa6L+H5ZCI5rOV6YCU5b6E5LuO5ZWG5Lia5LyZ5Ly05aSE5Y+W5b6X55qE55So5oi35Liq5Lq65pWw5o2u44CCPGJyPuaCqOS6huino+W5tuWQjOaEj++8jOS7peS4i+S/oeaBr+S4jemAgueUqOacrOmakOengeadg+aUv+etlu+8mjxicj5kKSDmgqjlnKjkvb/nlKjljY7lpI/lubjnpo/np7vliqjlip7lhazlubPlj7Dmj5DkvpvnmoTmkJzntKLmnI3liqHml7bovpPlhaXnmoTlhbPplK7lrZfkv6Hmga/vvJs8YnI+ZSkKICAgICAgICDljY7lpI/lubjnpo/np7vliqjlip7lhazmlLbpm4bliLDnmoTmgqjlnKjljY7lpI/lubjnpo/np7vliqjlip7lhazlj5HluIPnmoTmnInlhbPkv6Hmga/mlbDmja7vvIzljIXmi6zkvYbkuI3pmZDkuo7lj4LkuI7mtLvliqjjgIHmiJDkuqTkv6Hmga/lj4ror4Tku7for6bmg4XvvJs8YnI+Zikg6L+d5Y+N5rOV5b6L6KeE5a6a5oiW6L+d5Y+N5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs6KeE5YiZ6KGM5Li65Y+K5Y2O5aSP5bm456aP56e75Yqo5Yqe5YWs5bey5a+55oKo6YeH5Y+W55qE5o6q5pa944CCPC9wPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkUHJvZHMsICdbID09PT09IHZhbGlkUHJvZHMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CuS9nOiAhe+8mkFwcGxlRmlzaF8K6ZO+5o6l77yaaHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9lZTRhMmU1ZTg2NzcK5L6G5rqQ77ya566A5LmmCueugOS5puiRl+S9nOadg+W9kuS9nOiAheaJgOacie+8jOS7u+S9leW9ouW8j+eahOi9rOi9vemDveivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg+W5tuazqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbGlkUHJvZHMgPSAgcHJvZHM7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>华夏幸福移动办公尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，华夏幸福移动办公会按照本隐私权政策的规定使用和披露您的个人信息。但华夏幸福移动办公将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，华夏幸福移动办公不会将这些信息对外披露或向第三方提供。华夏幸福移动办公会不时更新本隐私权政策。
-    您在同意华夏幸福移动办公服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于华夏幸福移动办公服务使用协议不可分割的一部分。</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setProds</last-search>
+      <last-search encoding="base64">XDxHUk9VUF9OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern>setProds</last-pattern>
-      <last-replace>BindBankCard</last-replace>
-      <last-substitute>Withdraw</last-substitute>
+      <last-pattern encoding="base64">XDxHUk9VUF9OQU1FXD4=</last-pattern>
+      <last-replace>prods</last-replace>
+      <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>came</entry>
-        <entry>bar</entry>
         <entry>native</entry>
         <entry>base</entry>
         <entry encoding="base64">XDxVdGlsXD4=</entry>
@@ -339,9 +339,10 @@
         <entry>empty</entry>
         <entry encoding="base64">XDxnZXRQcm9kdWN0TGlzdFw+</entry>
         <entry>setProds</entry>
+        <entry>validProds</entry>
+        <entry encoding="base64">XDxHUk9VUF9OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyAvLmc=</entry>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
@@ -360,6 +361,7 @@
         <entry>action $Redo</entry>
         <entry>action AceAction</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL3ZhbGlkUHJvZHMvcHJvZHMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
