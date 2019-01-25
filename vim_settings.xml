@@ -34,6 +34,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1548394244690">
+        <mark key="'" line="225" column="72" />
+        <mark key="[" line="234" column="37" />
+        <mark key="]" line="234" column="56" />
+        <mark key="." line="234" column="56" />
+        <mark key="^" line="234" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/supplier/DeliveryPage.js" timestamp="1548300263183">
         <mark key="'" line="62" column="13" />
         <mark key="[" line="144" column="19" />
@@ -155,11 +162,12 @@
       <file name="/Dummy.txt" timestamp="1548316016619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" timestamp="1548388861196">
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" timestamp="1548394115678">
         <mark key="'" line="19" column="19" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="308" column="19" />
+        <mark key="]" line="308" column="20" />
+        <mark key="." line="308" column="20" />
+        <mark key="^" line="308" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" timestamp="1548144775120">
         <mark key="[" line="124" column="0" />
@@ -252,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="10" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/Home.js" />
       <jump line="168" column="24" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/Home.js" />
       <jump line="207" column="44" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/Home.js" />
       <jump line="32" column="34" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/Home.js" />
@@ -352,6 +359,7 @@
       <jump line="19" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
       <jump line="229" column="32" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="269" column="27" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="201" column="72" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -361,43 +369,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
       </register>
-      <register name="0" type="4">
-        <text>require('../../assets/images/shadow.svg')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsKICAgICAgZmxleDoxOwogICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOwoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDoxMDBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+PC9UZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvcDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdpdGVtJz4KICAgICAgICAgICAgICB7Lyo8QXRBdmF0YXIgY2lyY2xlIGltYWdlPXtgJHtDb25zdC5pbWdQcmVmaXh9JHt0aWNrZXQuSU1HX1VSTH1gfSBjbGFzc05hbWU9J2xvZ28taW1hZ2UnIC8+Ki99CiAgICAgICAgICAgICAgPEF0QXZhdGFyIGNpcmNsZQogICAgICAgICAgICAgICAgaW1hZ2U9J2h0dHA6Ly9maWxlLmJsZDM2NS5jb20vaW1hZ2UvZ2V0SW1hZ2U/aW1hZ2VJZD16M21uSmxScVJsNVZsbUFYMVlXc3c5SWRRMm9uLUpIOGRsalpNU2tnelc0JwogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPFRleHQ+54ix5aWH6Im6VklQ5Lya5ZGYPC9UZXh0PgogICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0naXRlbSc+CiAgICAgICAgICAgICAgey8qPEF0QXZhdGFyIGNpcmNsZSBpbWFnZT17YCR7Q29uc3QuaW1nUHJlZml4fSR7dGlja2V0LklNR19VUkx9YH0gY2xhc3NOYW1lPSdsb2dvLWltYWdlJyAvPiovfQogICAgICAgICAgICAgIDxBdEF2YXRhciBjaXJjbGUKICAgICAgICAgICAgICAgIGltYWdlPSdodHRwOi8vZmlsZS5ibGQzNjUuY29tL2ltYWdlL2dldEltYWdlP2ltYWdlSWQ9ejNtbkpsUnFSbDVWbG1BWDFZV3N3OUlkUTJvbi1KSDhkbGpaTVNrZ3pXNCcKICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDxUZXh0PueIseWlh+iJulZJUOS8muWRmDwvVGV4dD4KICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICA8VmlldyBjbGFzc05hbWU9J2l0ZW0nPgogICAgICAgICAgICAgIHsvKjxBdEF2YXRhciBjaXJjbGUgaW1hZ2U9e2Ake0NvbnN0LmltZ1ByZWZpeH0ke3RpY2tldC5JTUdfVVJMfWB9IGNsYXNzTmFtZT0nbG9nby1pbWFnZScgLz4qL30KICAgICAgICAgICAgICA8QXRBdmF0YXIgY2lyY2xlCiAgICAgICAgICAgICAgICBpbWFnZT0naHR0cDovL2ZpbGUuYmxkMzY1LmNvbS9pbWFnZS9nZXRJbWFnZT9pbWFnZUlkPXozbW5KbFJxUmw1VmxtQVgxWVdzdzlJZFEyb24tSkg4ZGxqWk1Ta2d6VzQnCiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8VGV4dD7niLHlpYfoibpWSVDkvJrlkZg8L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvcDogMDsKICAgIHdpZHRoOiAxMDAlOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3toZWlnaHQ6JzIwMDBweCcsIGJhY2tncm91bmRDb2xvcjoncmVkJ319PjwvVmlldz4K</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
