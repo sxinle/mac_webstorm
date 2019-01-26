@@ -178,12 +178,12 @@
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/config/index.js" timestamp="1548415057111">
         <mark key="'" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1548419348557">
-        <mark key="'" line="401" column="38" />
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="49" />
-        <mark key="." line="62" column="49" />
-        <mark key="^" line="62" column="49" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1548471511661">
+        <mark key="'" line="238" column="61" />
+        <mark key="[" line="291" column="118" />
+        <mark key="]" line="291" column="118" />
+        <mark key="." line="291" column="118" />
+        <mark key="^" line="291" column="118" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/supplier/DeliveryPage.js" timestamp="1548300263183">
         <mark key="'" line="62" column="13" />
@@ -240,7 +240,7 @@
         <mark key="." line="152" column="34" />
         <mark key="^" line="152" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548420014916">
+      <file name="/Dummy.txt" timestamp="1548471531797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/common/router.js" timestamp="1548299926231">
@@ -301,11 +301,8 @@
         <mark key="." line="210" column="59" />
         <mark key="^" line="210" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/dist/h5/components/float-layout/index.js" timestamp="1548416458566" />
     </filemarks>
     <jumps>
-      <jump line="14" column="5" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/dashed.svg" />
-      <jump line="257" column="66" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="239" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="253" column="33" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="298" column="53" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -339,7 +336,6 @@
       <jump line="392" column="63" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="367" column="51" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="428" column="58" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="113" column="2" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="121" column="11" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="118" column="8" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="127" column="6" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -404,6 +400,9 @@
       <jump line="368" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
       <jump line="408" column="5" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
       <jump line="399" column="38" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="113" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="212" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="238" column="61" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -413,10 +412,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>jk</text>
+        <text>-100</text>
       </register>
       <register name="/" type="4">
-        <text>领取账户</text>
+        <text>Image</text>
       </register>
       <register name="0" type="4">
         <text>autoFocus</text>
@@ -456,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>领取账户</last-search>
+      <last-search>Image</last-search>
       <last-offset />
-      <last-pattern>领取账户</last-pattern>
+      <last-pattern>Image</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>立即领取</entry>
         <entry>head</entry>
         <entry>天</entry>
         <entry encoding="base64">XDxldmVudFw+</entry>
@@ -486,6 +484,7 @@
         <entry>get-modal</entry>
         <entry>返回</entry>
         <entry>领取账户</entry>
+        <entry>Image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
