@@ -216,8 +216,8 @@
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" timestamp="1548481379198">
-        <mark key="'" line="87" column="27" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" timestamp="1548499862857">
+        <mark key="'" line="368" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/cardimg.svg" timestamp="1548386584772">
         <mark key="'" line="10" column="5" />
@@ -298,12 +298,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548498558642">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="101" column="57" />
-        <mark key="]" line="102" column="55" />
-        <mark key="^" line="102" column="55" />
-        <mark key="." line="102" column="55" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548499411054">
+        <mark key="'" line="82" column="30" />
+        <mark key="[" line="91" column="58" />
+        <mark key="]" line="92" column="7" />
+        <mark key="^" line="92" column="7" />
+        <mark key="." line="92" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -334,14 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
-      <jump line="82" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="378" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="155" column="43" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="403" column="20" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="163" column="10" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="188" column="75" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="132" column="15" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="22" column="21" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="484" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -434,6 +426,14 @@
       <jump line="63" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="85" column="39" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="82" column="30" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="257" column="6" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="302" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="337" column="19" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="351" column="40" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="362" column="35" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="367" column="40" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
+      <jump line="368" column="58" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,10 +446,10 @@
         <text>data.</text>
       </register>
       <register name="/" type="4">
-        <text>moment.now</text>
+        <text>enable</text>
       </register>
       <register name="0" type="4">
-        <text>autoLogin</text>
+        <text>onNavigationStateChange</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -486,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>moment.now</last-search>
+      <last-search>enable</last-search>
       <last-offset />
-      <last-pattern>moment.now</last-pattern>
+      <last-pattern>enable</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -496,9 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry>simple</entry>
-        <entry>focus</entry>
-        <entry>getModal</entry>
         <entry>layout-body</entry>
         <entry>get-modal</entry>
         <entry>返回</entry>
@@ -516,6 +513,9 @@
         <entry>save</entry>
         <entry encoding="base64">XDxUb2FzdFw+</entry>
         <entry>moment.now</entry>
+        <entry encoding="base64">XDxuYXZTdGF0ZVw+</entry>
+        <entry>script</entry>
+        <entry>enable</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
