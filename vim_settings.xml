@@ -230,6 +230,13 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" timestamp="1548490599967">
+        <mark key="'" line="33" column="50" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/fool/aqy.svg" timestamp="1548407186166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -277,11 +284,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548483071102">
-        <mark key="'" line="69" column="21" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="51" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548490689036">
+        <mark key="'" line="114" column="34" />
+        <mark key="[" line="115" column="44" />
+        <mark key="]" line="115" column="43" />
+        <mark key="." line="115" column="43" />
+        <mark key="^" line="115" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -312,9 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="3" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="266" column="42" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="46" column="6" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="48" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="190" column="85" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="244" column="20" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
@@ -412,6 +417,9 @@
       <jump line="8" column="7" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="87" column="27" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
       <jump line="69" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="64" column="5" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="114" column="34" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="15" column="50" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,52 +429,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-100</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>interface</text>
+        <text>webView</text>
       </register>
       <register name="0" type="4">
-        <text>react-native-wkwebview-reborn</text>
+        <text>this.refs['webView']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbk1lc3NhZ2U9eyhtc2cpPT57CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1zZywgJ1sgPT09PT0gbXNnID09PT09IF0nKTsKICAgICAgICAgICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNDAlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5JTUdfVVJMID0gcmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9mb29sL3dwaF9hY3RpdmUuc3ZnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMTAwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5JTUdfVVJMID0gcmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9mb29sL2pkX2FjdGl2ZS5zdmcnKTsK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5JTUdfVVJMID0gcmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9mb29sL2FxeV9hY3RpdmUuc3ZnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzcGFuPuiwg+eUqOWOn+eUn+aWueazlTwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KHRpY2tldCk7Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNwYW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>interface</last-search>
+      <last-search>webView</last-search>
       <last-offset />
-      <last-pattern>interface</last-pattern>
+      <last-pattern>webView</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRUaWNrZXRcPg==</entry>
         <entry>header</entry>
         <entry>display</entry>
         <entry>layout-header</entry>
@@ -494,6 +501,7 @@
         <entry encoding="base64">XDxXS1dlYlZpZXdcPg==</entry>
         <entry>inter</entry>
         <entry>interface</entry>
+        <entry>webView</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
