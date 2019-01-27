@@ -216,8 +216,8 @@
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" timestamp="1548581176308">
-        <mark key="'" line="327" column="66" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" timestamp="1548584444835">
+        <mark key="'" line="201" column="4" />
         <mark key="[" line="255" column="4" />
         <mark key="]" line="255" column="18" />
       </file>
@@ -306,12 +306,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548583687184">
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548584815562">
         <mark key="'" line="162" column="28" />
-        <mark key="[" line="139" column="66" />
-        <mark key="]" line="139" column="70" />
-        <mark key="^" line="139" column="70" />
-        <mark key="." line="139" column="70" />
+        <mark key="[" line="115" column="44" />
+        <mark key="]" line="115" column="53" />
+        <mark key="^" line="115" column="53" />
+        <mark key="." line="115" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -342,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="58" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="485" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="203" column="34" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="204" column="27" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
@@ -442,6 +441,7 @@
       <jump line="256" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
       <jump line="327" column="66" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
       <jump line="162" column="28" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="201" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native-wkwebview-reborn/WKWebView.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -454,49 +454,49 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>origin</text>
+        <text encoding="base64">XDxvbk5hdmlnYXRpb25TdGF0ZUNoYW5nZVw+</text>
       </register>
       <register name="0" type="4">
         <text>getUserAgentSign</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7UmVmZXJlcn0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0LmdldERhdGEoJ2dldFVzZXJBZ2VudFNpZ24nKS50aGVuKHJlc3AgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSBnZXRVc2VyQWdlbnRTaWduID09PT09IF0nKTsKICAgICAgICAgICAgLy8g55m75b2V6YC76L6RCiAgICAgICAgICAgIGlmICh1cmwuaW5kZXhPZignL3JyL2xud2QvaW5kZXgtYWZ0ZXInKSAhPT0gLTEgJiYgdXJsLmluZGV4T2YoJz8nKSAhPT0gLTEpIHsvLyDnmbvpmYYKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVybCwgJ1sgPT09PT0gdXJsID09PT09IF0nKTsKICAgICAgICAgICAgICAgIGNvbnN0IHRva2VuID0gVXRpbC5nZXRVcmxQYXJhbSh1cmwsICd0b2tlbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2codG9rZW4sICdbID09PT09IHRva2VuID09PT09IF0nKTsKICAgICAgICAgICAgICAgIEFzeW5jU3RvcmFnZS5zZXRJdGVtKCd0b2tlbicsIEpTT04uc3RyaW5naWZ5KHRva2VuKSk7CiAgICAgICAgICAgICAgICB0aGlzLnJlcG9ydEFjdGlvbignbG9naW4nLCAn55So5oi355m75b2VJyk7CiAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgICAgICBsYXN0VGltZTogbW9tZW50KCksCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9CgogICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlZmVyZXIgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7UmVmZXJlcn0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmZXJlcjogJycsCg==</text>
+        <text encoding="base64">ICAgIFJlZmVyZXIgPSAnJzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtSZWZlcmVyOiB1cmx9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmZXJlcjogJycsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHtSZWZlcmVyOiB1cmx9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>origin</last-search>
+      <last-search encoding="base64">XDxvbk5hdmlnYXRpb25TdGF0ZUNoYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern>origin</last-pattern>
+      <last-pattern encoding="base64">XDxvbk5hdmlnYXRpb25TdGF0ZUNoYW5nZVw+</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry>领取账户</entry>
         <entry>Image</entry>
         <entry encoding="base64">XDxXS1dlYlZpZXdcPg==</entry>
         <entry>inter</entry>
@@ -524,6 +523,7 @@
         <entry>userAgent</entry>
         <entry>originUrl</entry>
         <entry>origin</entry>
+        <entry encoding="base64">XDxvbk5hdmlnYXRpb25TdGF0ZUNoYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
