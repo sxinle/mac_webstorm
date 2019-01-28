@@ -317,12 +317,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548655687043">
-        <mark key="'" line="112" column="22" />
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548657428393">
+        <mark key="'" line="83" column="63" />
+        <mark key="[" line="145" column="74" />
+        <mark key="]" line="145" column="80" />
+        <mark key="." line="145" column="80" />
+        <mark key="^" line="145" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
       <jump line="15" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/package.json" />
@@ -461,6 +460,7 @@
       <jump line="86" column="38" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="101" column="33" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="108" column="22" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="83" column="63" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,7 +473,7 @@
         <text>loadingIndicatorSource</text>
       </register>
       <register name="/" type="4">
-        <text>位置</text>
+        <text>getUrlParam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlci5nZXRMb2NhdGlvbigoaW5mbykgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhpbmZvLCAnWyA9PT09PSDkvY3nva4gPT09PT0gXScpOwogICAgICAgIH0pOwo=</text>
@@ -513,9 +513,9 @@
       </register>
     </registers>
     <search>
-      <last-search>位置</last-search>
+      <last-search>getUrlParam</last-search>
       <last-offset />
-      <last-pattern>位置</last-pattern>
+      <last-pattern>getUrlParam</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -523,8 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvTG9naW5cPg==</entry>
-        <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry>Util</entry>
         <entry>Util.get</entry>
         <entry>token</entry>
@@ -543,6 +541,8 @@
         <entry encoding="base64">XDxvbk5hdmlnYXRpb25TdGF0ZUNoYW5nZVw+</entry>
         <entry>reload</entry>
         <entry>位置</entry>
+        <entry>match</entry>
+        <entry>getUrlParam</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
