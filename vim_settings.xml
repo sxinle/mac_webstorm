@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js" timestamp="1547782346383">
         <mark key="'" line="539" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/Request.js" timestamp="1548651222889">
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/Request.js" timestamp="1548661058022">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="15" />
@@ -317,12 +317,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548657428393">
-        <mark key="'" line="83" column="63" />
-        <mark key="[" line="145" column="74" />
-        <mark key="]" line="145" column="80" />
-        <mark key="." line="145" column="80" />
-        <mark key="^" line="145" column="80" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548661689995">
+        <mark key="'" line="175" column="42" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="155" column="32" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -361,10 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
-      <jump line="15" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/package.json" />
-      <jump line="54" column="38" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" />
@@ -397,7 +393,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" />
       <jump line="182" column="33" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="15" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
-      <jump line="170" column="47" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
       <jump line="154" column="29" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="171" column="49" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -461,6 +456,11 @@
       <jump line="101" column="33" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="108" column="22" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="83" column="63" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="170" column="27" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="207" column="40" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="206" column="66" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="181" column="27" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="175" column="42" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,13 +470,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>loadingIndicatorSource</text>
+        <text>console.log(, '[ =====  ===== ]');</text>
       </register>
       <register name="/" type="4">
-        <text>getUrlParam</text>
+        <text>options</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpdmVNb2R1bGVzLlJlYWN0TmF0aXZlTWFuYWdlci5nZXRMb2NhdGlvbigoaW5mbykgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhpbmZvLCAnWyA9PT09PSDkvY3nva4gPT09PT0gXScpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBVdGlsLmdldEg1VG9rZW4oKS50aGVuKHQgPT4gewogICAgICAgICAgICBpZiAobnVsbCAhPT0gdCkgewogICAgICAgICAgICAgICAgY29uc3QgdG9rZW4gPSB0LnJlcGxhY2UoLyIvZywgJycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -485,37 +485,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnmbvlvZXpgLvovpEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7d2ViVXJsfSA9IHRoaXMuc3RhdGU7CiAgICAgICAgLy8gaWYgKHVybCA9PT0gd2ViVXJsKSB7CiAgICAgICAgLy8gICAgIGNvbnNvbGUubG9nKCflkIzkuIDkuKpVUkwnLCAnWyA9PT09PSDlkIzkuIDkuKpVUkwgPT09PT0gXScpOwogICAgICAgIC8vICAgICByZXR1cm47CiAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHNob3VsZFNldCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbiA9IHQucmVwbGFjZSgvIi9nLCAnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVDaGFuZ2VUaW1lOiBtb21lbnQoKSwK</text>
+        <text encoding="base64">ICAgICAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyciwgJ1sgPT09PT0gZ2V0VG9rZW4gZXJyb3IgPT09PT0gXScpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7d2ViVXJsfSA9IHRoaXMuc3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVdGlsLmdldEg1VG9rZW4oKS50aGVuKHQgPT4gewogICAgICAgICAgICBpZiAobnVsbCAhPT0gdCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getUrlParam</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>getUrlParam</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -523,7 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Util</entry>
         <entry>Util.get</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxfdG9rZW5JbnZhbGlkXD4=</entry>
@@ -543,6 +542,7 @@
         <entry>位置</entry>
         <entry>match</entry>
         <entry>getUrlParam</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
@@ -562,8 +562,8 @@
         <entry encoding="base64">JzwsJz5zL1dpdGhkcmF3L0JpbmRCYW5rQ2FyZC9n</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbGlkUHJvZHMvcHJvZHMvZw==</entry>
-        <entry>action $Redo</entry>
         <entry>action AceAction</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
