@@ -278,12 +278,12 @@
       <file name="/Dummy.txt" timestamp="1548747163806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" timestamp="1548601508241">
-        <mark key="'" line="28" column="40" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" timestamp="1548755450455">
+        <mark key="'" line="42" column="40" />
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="19" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" timestamp="1548752347617">
         <mark key="'" line="39" column="8" />
@@ -319,12 +319,12 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548753305600">
-        <mark key="'" line="210" column="40" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="51" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548755552417">
+        <mark key="'" line="213" column="0" />
+        <mark key="[" line="268" column="64" />
+        <mark key="]" line="269" column="53" />
+        <mark key="." line="269" column="53" />
+        <mark key="^" line="269" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -363,9 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="14" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="12" column="14" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="69" column="57" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="63" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="85" column="39" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -463,6 +460,9 @@
       <jump line="2" column="9" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
       <jump line="39" column="8" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
       <jump line="210" column="40" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="198" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="353" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,43 +472,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.RESULT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGVydFw+</text>
       </register>
       <register name="0" type="4">
-        <text>Linking</text>
+        <text>onGalleryResult</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudC51cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZXQgdXJsID0gJ0lERU5USVRZQVVUSEVOVElDQVRJT046Ly8nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBBY3Rpb25TaGVldC5zaG93KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICBvcHRpb25zOiBidG5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgY2FuY2VsQnV0dG9uSW5kZXg6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICB0aXRsZTogIuWSjOS8meS8tEFQUOWIhuS6qyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgYnV0dG9uSW5kZXggPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgaWYgKGJ1dHRvbkluZGV4ID09PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgdGhpcy5zaG93U2hhcmVNb2RhbCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIC8vIGZpeG1lIGZvciB0ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgIGNhblNoYXJlV3g6ICFjYW5TaGFyZVd4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KGVycikgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBfaGFuZGxlT3BlblVSTENhbGxiYWNrKGV2ZW50KSB7CiAgICAgICAgY29uc29sZS5sb2coZXZlbnQsICdbID09PT09IGV2ZW50ID09PT09IF0nKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgTGlua2luZyBmcm9tICdyZWFjdC1uYXRpdmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucmVmc1snd2ViVmlldyddLnBvc3RNZXNzYWdlKEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICd0ZXN0TWV0aG9kJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJhbTogJ2FiY2RlZicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
