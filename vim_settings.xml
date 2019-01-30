@@ -223,10 +223,6 @@
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/SignInScreen.js" timestamp="1548496766624">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="83" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/config/dev.js" timestamp="1548318978654">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -324,10 +320,6 @@
         <mark key="^" line="113" column="18" />
         <mark key="." line="113" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/node_modules/taro-ui/@types/float-layout.d.ts" timestamp="1548415638940">
-        <mark key="[" line="34" column="14" />
-        <mark key="]" line="34" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/Home.js" timestamp="1548129628245">
         <mark key="'" line="50" column="13" />
         <mark key="[" line="208" column="44" />
@@ -335,18 +327,24 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548828181472">
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548829512473">
         <mark key="'" line="358" column="0" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="70" />
-        <mark key="." line="260" column="34" />
-        <mark key="^" line="260" column="36" />
+        <mark key="[" line="289" column="36" />
+        <mark key="k" line="288" column="29" />
+        <mark key="]" line="289" column="42" />
+        <mark key="." line="289" column="42" />
+        <mark key="^" line="289" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/app.json" timestamp="1548819092884">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/Touchable/TouchableWithoutFeedback.js" timestamp="1548829357519">
+        <mark key="'" line="79" column="16" />
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="132" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
@@ -391,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="60" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="208" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="131" column="3" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
       <jump line="2" column="9" filename="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" />
@@ -491,6 +488,7 @@
       <jump line="42" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="253" column="15" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="358" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="79" column="16" filename="$USER_HOME$/workspace/pproj/AndPartner/node_modules/react-native/Libraries/Components/Touchable/TouchableWithoutFeedback.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,43 +498,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>每30S签名一次UserAgent</text>
+        <text>onLon</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
       </register>
       <register name="0" type="4">
-        <text>https://www.ln.10086.cn/rr/lm/tWlmlogin/hshapp.wap</text>
+        <text>onLongPress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdC5nZXREYXRhKCdnZXRVc2VyQWdlbnRTaWduJykudGhlbihyZXNwID0+IHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3QuZ2V0RGF0YSgnZ2V0VXNlckFnZW50U2lnbicpLnRoZW4ocmVzcCA9PiB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdC5nZXREYXRhKCdnZXRVc2VyQWdlbnRTaWduJykudGhlbihyZXNwID0+IHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3QuZ2V0RGF0YSgnZ2V0VXNlckFnZW50U2lnbicpLnRoZW4ocmVzcCA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdC5nZXREYXRhKCdnZXRVc2VyQWdlbnRTaWduJykudGhlbihyZXNwID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdVc2VyQWdlbnTnrb7lkI3or7fmsYLlrozmiJAnLCAnWyA9PT09PSBVc2VyQWdlbnTnrb7lkI3or7fmsYLlrozmiJAgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVBIOWPmOWMluWvvOiHtFdlYlZpZXfph43mlrDliqDovb0s5q275b6q546vLi4uICDnm67liY3lj6rlj5HnjrDpppbpobXlrZjlnKjov5nnp43mg4XlhrUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdC5nZXREYXRhKCdnZXRVc2VyQWdlbnRTaWduJykudGhlbihyZXNwID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdVc2VyQWdlbnTnrb7lkI3or7fmsYLlrozmiJAnLCAnWyA9PT09PSBVc2VyQWdlbnTnrb7lkI3or7fmsYLlrozmiJAgPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
