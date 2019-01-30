@@ -219,6 +219,10 @@
       <file name="$USER_HOME$/workspace/demo/jhWebApp/node_modules/react-native-barcodescanner/BarcodeScanner.js" timestamp="1547635030073">
         <mark key="'" line="55" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx/index.ios.js" timestamp="1548819104299">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/screens/SignInScreen.js" timestamp="1548496766624">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="83" />
@@ -285,9 +289,10 @@
         <mark key="." line="152" column="34" />
         <mark key="^" line="152" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548815686864">
+      <file name="/Dummy.txt" timestamp="1548820013929">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" timestamp="1548755450455">
         <mark key="'" line="42" column="40" />
@@ -330,15 +335,27 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548767554551">
-        <mark key="'" line="126" column="73" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="23" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="110" column="11" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548819888111">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="260" column="34" />
+        <mark key="]" line="260" column="34" />
+        <mark key="." line="260" column="34" />
+        <mark key="^" line="260" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/app.json" timestamp="1548819092884">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1547604323276">
         <mark key="'" line="357" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/index.js" timestamp="1548819109638">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" timestamp="1548297434492">
         <mark key="'" line="12" column="7" />
@@ -374,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="19" column="26" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="211" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="214" column="60" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -474,6 +490,7 @@
       <jump line="139" column="16" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="106" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="126" column="73" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="42" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,13 +500,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// UserAgent 变化导致重新渲染，URL跳回了首页,所以这里设置一下webView的页面</text>
+        <text>每30S签名一次UserAgent</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>和伙伴</text>
       </register>
       <register name="0" type="4">
-        <text>lastSignTime</text>
+        <text>codePush(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
@@ -526,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>和伙伴</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>和伙伴</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0QmFja1ByZXNzZWRcPg==</entry>
         <entry encoding="base64">XDxzaGFyZVVybFw+</entry>
         <entry encoding="base64">XDx3ZWJVcmxcPg==</entry>
         <entry encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</entry>
@@ -556,6 +572,7 @@
         <entry encoding="base64">XDxsYXN0VGltZVw+</entry>
         <entry encoding="base64">XDxzZXRVc2VyQWdlbnRTaWduXD4=</entry>
         <entry>build</entry>
+        <entry>和伙伴</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
