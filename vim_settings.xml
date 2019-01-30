@@ -503,7 +503,7 @@
         <text>每30S签名一次UserAgent</text>
       </register>
       <register name="/" type="4">
-        <text>和伙伴</text>
+        <text>long</text>
       </register>
       <register name="0" type="4">
         <text>codePush(</text>
@@ -543,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>和伙伴</last-search>
+      <last-search>long</last-search>
       <last-offset />
-      <last-pattern>和伙伴</last-pattern>
+      <last-pattern>long</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -553,8 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGFyZVVybFw+</entry>
-        <entry encoding="base64">XDx3ZWJVcmxcPg==</entry>
         <entry encoding="base64">XDxiYWNrQnV0dG9uRW5hYmxlZFw+</entry>
         <entry encoding="base64">XDx1c2VyQWdlbnRTaWduXD4=</entry>
         <entry encoding="base64">XDxzZXRVQVNpZ25cPg==</entry>
@@ -573,6 +571,8 @@
         <entry encoding="base64">XDxzZXRVc2VyQWdlbnRTaWduXD4=</entry>
         <entry>build</entry>
         <entry>和伙伴</entry>
+        <entry>hit</entry>
+        <entry>long</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
