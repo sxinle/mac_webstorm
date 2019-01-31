@@ -293,12 +293,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" timestamp="1548901659149">
-        <mark key="'" line="83" column="5" />
-        <mark key="[" line="29" column="62" />
-        <mark key="]" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-        <mark key="^" line="29" column="63" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" timestamp="1548905712707">
+        <mark key="'" line="85" column="36" />
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="55" />
+        <mark key="." line="85" column="55" />
+        <mark key="^" line="85" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/utils/utils.js" timestamp="1548752347617">
         <mark key="'" line="39" column="8" />
@@ -330,13 +330,13 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548904183557">
-        <mark key="'" line="230" column="17" />
-        <mark key="[" line="180" column="27" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548905754324">
+        <mark key="'" line="285" column="8" />
+        <mark key="[" line="286" column="0" />
         <mark key="k" line="288" column="29" />
-        <mark key="]" line="180" column="27" />
-        <mark key="." line="180" column="27" />
-        <mark key="^" line="180" column="27" />
+        <mark key="]" line="303" column="3" />
+        <mark key="." line="286" column="0" />
+        <mark key="^" line="285" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/app.json" timestamp="1548819092884">
         <mark key="[" line="2" column="18" />
@@ -392,11 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="45" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="76" column="17" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="38" column="15" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="70" column="12" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="107" column="8" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="352" column="55" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="61" column="48" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="255" column="26" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -492,6 +487,11 @@
       <jump line="46" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="229" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="230" column="17" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="239" column="10" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="285" column="8" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="68" column="20" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
+      <jump line="70" column="49" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
+      <jump line="85" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,52 +501,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
-        <text>toGallery</text>
+        <text encoding="base64">XDx0b0dhbGxlcnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>react-native-image-picker</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2FtZSBjb2RlIGFzIGluIGFib3ZlIHNlY3Rpb24hCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtaW1hZ2UtcGlja2VyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2ViQXBwSW50ZXJmYWNlLnRvR2FsbGVyeSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGFzdFRpbWUsICdbID09PT09IGxhc3RTaWduVGltZSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2V0VGltCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FtZXJhUm9sbC5zYXZlVG9DYW1lcmFSb2xsKHNhdmVJbWdTcmMsICdwaG90bycpLnRoZW4ocmV0ID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLnRhZywgJ1sgPT09PT0gZGF0YS50YWcgPT09PT0gXScpOwogICAgICAgIGNvbnNvbGUubG9nKGRhdGEuc2l6ZSwgJ1sgPT09PT0gZGF0YS5zaXplID09PT09IF0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KG51bGwgPT09IHQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtaW1hZ2UtcGlja2VyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGFzdFRpbWUsICdbID09PT09IGxhc3RTaWduVGltZSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0SU9TLmFsZXJ0KAogICAgICAgICAgICAgICAgICAgICLmj5DnpLoiLAogICAgICAgICAgICAgICAgICAgICLnoa7orqTkv53lrZjlm77niYfliLDnm7jlhozvvJ8iLAogICAgICAgICAgICAgICAgICAgIFt7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICLlj5bmtogiLAogICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzOiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiAiY2FuY2VsIgogICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDogIuehruWumiIsCiAgICAgICAgICAgICAgICAgICAgICAgIG9uUHJlc3M6ICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENhbWVyYVJvbGwuc2F2ZVRvQ2FtZXJhUm9sbChzYXZlSW1nU3JjLCAncGhvdG8nKS50aGVuKHJldCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOaIkOWKnyd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOWksei0pSd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9XQogICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toGallery</last-search>
+      <last-search encoding="base64">XDx0b0dhbGxlcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>toGallery</last-pattern>
+      <last-pattern encoding="base64">XDx0b0dhbGxlcnlcPg==</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -554,8 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>long</entry>
-        <entry>delayLongPress</entry>
         <entry encoding="base64">XDxXS1dlYlZpZXdcPg==</entry>
         <entry encoding="base64">XDx3ZWJVcmxcPg==</entry>
         <entry encoding="base64">XDxGYWJcPg==</entry>
@@ -574,6 +572,8 @@
         <entry>Async</entry>
         <entry>alert</entry>
         <entry>toGallery</entry>
+        <entry encoding="base64">XDxJbWFnZVBpY2tlclw+</entry>
+        <entry encoding="base64">XDx0b0dhbGxlcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
