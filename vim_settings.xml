@@ -110,13 +110,6 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1547724973830">
-        <mark key="'" line="131" column="31" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="91" column="63" />
-        <mark key="." line="180" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" timestamp="1548144667040">
         <mark key="'" line="107" column="0" />
       </file>
@@ -269,12 +262,12 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/package.json" timestamp="1548841358223">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="20" column="66" />
-        <mark key="^" line="20" column="66" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/package.json" timestamp="1548904511185">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/invokeNative.html" timestamp="1548579607932">
         <mark key="[" line="36" column="0" />
@@ -295,7 +288,7 @@
         <mark key="." line="152" column="34" />
         <mark key="^" line="152" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548901756585">
+      <file name="/Dummy.txt" timestamp="1548904082517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -337,8 +330,8 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="208" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548902831393">
-        <mark key="'" line="114" column="35" />
+      <file name="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" timestamp="1548904183557">
+        <mark key="'" line="230" column="17" />
         <mark key="[" line="180" column="27" />
         <mark key="k" line="288" column="29" />
         <mark key="]" line="180" column="27" />
@@ -399,10 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="313" column="76" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="314" column="56" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="258" column="95" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="73" column="45" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="76" column="17" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="38" column="15" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -479,7 +468,6 @@
       <jump line="322" column="28" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="76" column="16" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
       <jump line="73" column="5" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
-      <jump line="65" column="24" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="161" column="35" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="284" column="5" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="339" column="38" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -499,6 +487,11 @@
       <jump line="186" column="16" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="110" column="115" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="114" column="35" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="65" column="29" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="163" column="32" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="229" column="36" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
+      <jump line="230" column="17" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,49 +504,49 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>退出</text>
+        <text>toGallery</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>react-native-image-picker</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGFzdFRpbWUsICdbID09PT09IGxhc3RTaWduVGltZSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtaW1hZ2UtcGlja2VyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FtZXJhUm9sbC5zYXZlVG9DYW1lcmFSb2xsKHNhdmVJbWdTcmMsICdwaG90bycpLnRoZW4ocmV0ID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGFzdFRpbWUsICdbID09PT09IGxhc3RTaWduVGltZSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KG51bGwgPT09IHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHtzaG91bGRMb2FkOiB0cnVlfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FtZXJhUm9sbC5zYXZlVG9DYW1lcmFSb2xsKHNhdmVJbWdTcmMsICdwaG90bycpLnRoZW4ocmV0ID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KG51bGwgPT09IHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0SU9TLmFsZXJ0KAogICAgICAgICAgICAgICAgICAgICLmj5DnpLoiLAogICAgICAgICAgICAgICAgICAgICLnoa7orqTkv53lrZjlm77niYfliLDnm7jlhozvvJ8iLAogICAgICAgICAgICAgICAgICAgIFt7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICLlj5bmtogiLAogICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzOiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiAiY2FuY2VsIgogICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDogIuehruWumiIsCiAgICAgICAgICAgICAgICAgICAgICAgIG9uUHJlc3M6ICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENhbWVyYVJvbGwuc2F2ZVRvQ2FtZXJhUm9sbChzYXZlSW1nU3JjLCAncGhvdG8nKS50aGVuKHJldCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOaIkOWKnyd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOWksei0pSd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9XQogICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucmVmcy53ZWJWaWV3Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdmFyIGltZ3MgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaW1nJyk7CiAgICAgICAgICAgICAgICAgIGlmKGltZ3MubGVuZ3RoIDwgNSkgey8vIOWbvueJh+WkquWkmueahOmhtemdou+8jOS4jeS8muaYr+mVv+aMieS/neWtmOmhtemdogogICAgICAgICAgICAgICAgICAgIGZvcih2YXIgaT0wOyBpPGltZ3MubGVuZ3RoOyBpKyspewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydChpbWdzW2ldLmNsaWVudEhlaWdodCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KGRvY3VtZW50LmJvZHkuY2xpZW50SGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoaW1nc1tpXS5jbGllbnRIZWlnaHQgPT09IGRvY3VtZW50LmJvZHkuY2xpZW50SGVpZ2h0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5kb3cucG9zdE1lc3NhZ2UoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZDogJ3NhdmVJbWFnZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW06ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmMgOiBpbWdzW2ldLnNyYywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOy8vIOaJvuWIsOWwsemAgOWHumxvb3AKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsZXJ0SU9TLmFsZXJ0KAogICAgICAgICAgICAgICAgICAgICLmj5DnpLoiLAogICAgICAgICAgICAgICAgICAgICLnoa7orqTkv53lrZjlm77niYfliLDnm7jlhozvvJ8iLAogICAgICAgICAgICAgICAgICAgIFt7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICLlj5bmtogiLAogICAgICAgICAgICAgICAgICAgICAgICBvblByZXNzOiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiAiY2FuY2VsIgogICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDogIuehruWumiIsCiAgICAgICAgICAgICAgICAgICAgICAgIG9uUHJlc3M6ICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENhbWVyYVJvbGwuc2F2ZVRvQ2FtZXJhUm9sbChzYXZlSW1nU3JjLCAncGhvdG8nKS50aGVuKHJldCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOaIkOWKnyd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdyh7dGV4dDogJ+S/neWtmOWksei0pSd9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9XQogICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>退出</last-search>
+      <last-search>toGallery</last-search>
       <last-offset />
-      <last-pattern>退出</last-pattern>
+      <last-pattern>toGallery</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -561,9 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry>和伙伴</entry>
-        <entry>hit</entry>
         <entry>long</entry>
         <entry>delayLongPress</entry>
         <entry encoding="base64">XDxXS1dlYlZpZXdcPg==</entry>
@@ -581,6 +571,9 @@
         <entry>auto</entry>
         <entry encoding="base64">XDxhdXRvTG9naW5cPg==</entry>
         <entry>退出</entry>
+        <entry>Async</entry>
+        <entry>alert</entry>
+        <entry>toGallery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
