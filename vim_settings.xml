@@ -113,6 +113,13 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1549166255561">
+        <mark key="'" line="66" column="10" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" timestamp="1548144667040">
         <mark key="'" line="107" column="0" />
       </file>
@@ -413,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="15" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="292" column="68" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="117" column="24" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="116" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -513,6 +518,8 @@
       <jump line="136" column="29" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/SyncPage.js" />
       <jump line="170" column="6" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/SyncPage.js" />
       <jump line="38" column="34" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="58" column="10" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,16 +529,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>创建日期</text>
+        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>react-native-wkwebview-reborn</text>
+        <text>bannermsg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxuMTc4OiAnaHR0cHM6Ly9tYWxsLmxuMTc4LmNvbScsCiAgICBibGQzNjU6ICdodHRwczovL21hbGwuYmxkMzY1LmNvbScsCiAgICBjZG46ICdodHRwczovL2Nkbi5zLmJsZDM2NS5jb20vJywKICAgIHNfYmxkMzY1OiAnaHR0cHM6Ly9zLmJsZDM2NS5jb20nLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbGF0aXR1ZGUgPSByZXMubGF0aXR1ZGUKICAgICAgICB2YXIgbG9uZ2l0dWRlID0gcmVzLmxvbmdpdHVkZQogICAgICAgIHZhciBzcGVlZCA9IHJlcy5zcGVlZAogICAgICAgIHZhciBhY2N1cmFjeSA9IHJlcy5hY2N1cmFjeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -540,22 +547,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyAvLyDkv67mlLnov5nkuKrmipPljIXlvpfliLDnmoRjb29raWXvvIzlsIbmnaXkuIrnur/vvIzmraPlvI/otbBvYXV0aAogIC8vIG9wdC5oZWFkZXIgPSB7CiAgLy8gICBDb29raWU6ICdjb25uZWN0LnNpZD1zJTNBNVJvUWNyUENfVDM3TlRHMTdPb3NlUlJnRERBUXY3NnkuUVRTbTJKV3AwZ2hQY2tYNUFCd1FkUW9UbXdxQXdjSWZYRGtLSTE2aktiSScsCiAgLy8gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2xvbmdQcmVzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB7CiAgICAgICAgLy8gICBpbWFnZTogJ2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzQyL0Y4L0NocGlvMXdCQ3VXQUFadDBBQUFQc0dkZVV4dzExNi5wbmcnLAogICAgICAgIC8vICAgdmFsdWU6ICfmi7zlm6Lnlq/miqInCiAgICAgICAgLy8gfSwKICAgICAgICAvLyB7CiAgICAgICAgLy8gICBpbWFnZTogJ2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzQyL0Y4L0NocGlvMXdCQ3dpQU9VZmFBQUFLTDY1VDM2YzcyMi5wbmcnLAogICAgICAgIC8vICAgdmFsdWU6ICfllYbotoXkvr/liKknCiAgICAgICAgLy8gfSwKICAgICAgICAvLyB7CiAgICAgICAgLy8gICBpbWFnZTogJ2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzQyL0Y5L0NocGlvMXdCQ3kyQVdaX2tBQUFHVHdFcW93UTE3MC5wbmcnLAogICAgICAgIC8vICAgdmFsdWU6ICfppJDppa7lsI/lkIMnCiAgICAgICAgLy8gfSwKICAgICAgICAvLyB7CiAgICAgICAgLy8gICBpbWFnZTogJ2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzQyL0Y5L0NocGlvMXdCQ3pxQWRjZ1lBQUFKWXdXejVDNDU3OC5wbmcnLAogICAgICAgIC8vICAgdmFsdWU6ICfotaDpgIHkuYgnCiAgICAgICAgLy8gfSwKICAgICAgICAvLyB7CiAgICAgICAgLy8gICBpbWFnZTogJ2h0dHBzOi8vaW1nMTIuMzYwYnV5aW1nLmNvbS9qZHBob3RvL3M3Mng3Ml9qZnMvdDYxNjAvMTQvMjAwODcyOTk0Ny8yNzU0LzdkNTEyYTg2LzU5NWMzYWVlTmE4OWRkZjcxLnBuZycsCiAgICAgICAgLy8gICB2YWx1ZTogJ+aenOiUrOeUn+mynCcKICAgICAgICAvLyB9LAogICAgICAgIC8vIHsKICAgICAgICAvLyAgIGltYWdlOiAnaHR0cDovL3ZpZGVvLnNvdXNvdXNoZW5iaWFuLmNuL2dyb3VwMS9NMDAvNDIvRjkvQ2hwaW8xd0JDMS1BVFFWREFBQU9Ield0amxBMDU4LnBuZycsCiAgICAgICAgLy8gICB2YWx1ZTogJ+mynOiKseibi+ezlScKICAgICAgICAvLyB9LAogICAgICAgIC8vIHsKICAgICAgICAvLyAgIGltYWdlOiAnaHR0cHM6Ly9pbWcxMC4zNjBidXlpbWcuY29tL2pkcGhvdG8vczcyeDcyX2pmcy90NTg3Mi8yMDkvNTI0MDE4NzkwNi8yODcyLzhmYTk4Y2QvNTk1YzNiMmFONDE1NWI5MzEucG5nJywKICAgICAgICAvLyAgIHZhbHVlOiAn5p6c54+N6aWu5paZJwogICAgICAgIC8vIH0sCiAgICAgICAgLy8gewogICAgICAgIC8vICAgaW1hZ2U6ICdodHRwOi8vdmlkZW8uc291c291c2hlbmJpYW4uY24vZ3JvdXAxL00wMC80Mi9GOS9DaHBpbzF3QkMzbUFQUzk5QUFBU0ZULW0tZ285NjgucG5nJywKICAgICAgICAvLyAgIHZhbHVlOiAn5LqU6YeR5p2C6LSnJwogICAgICAgIC8vIH0sCiAgICAgICAgLy8gewogICAgICAgIC8vICAgaW1hZ2U6ICdodHRwOi8vdmlkZW8uc291c291c2hlbmJpYW4uY24vZ3JvdXAxL00wMC80Mi9GOS9DaHBpbzF3QkM0S0FjMlYyQUFBSmcyNkRIZGs2NjUucG5nJywKICAgICAgICAvLyAgIHZhbHVlOiAn5Yy76I2v5YGl5bq3JwogICAgICAgIC8vIH0sCiAgICAgICAgLy8gewogICAgICAgIC8vICAgaW1hZ2U6ICdodHRwOi8vdmlkZW8uc291c291c2hlbmJpYW4uY24vZ3JvdXAxL00wMC80Mi9GOS9DaHBpbzF3QkM0MkFaLTY0QUFBSWstR0ppcWs1NzQucG5nJywKICAgICAgICAvLyAgIHZhbHVlOiAn5q+N5am05YS/56ulJwogICAgICAgIC8vIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxuMTc4OiAnaHR0cHM6Ly9tYWxsLmxuMTc4LmNvbScsCiAgICBibGQzNjU6ICdodHRwczovL21hbGwuYmxkMzY1LmNvbScsCiAgICBjZG46ICdodHRwczovL2Nkbi5zLmJsZDM2NS5jb20vJywKICAgIHNfYmxkMzY1OiAnaHR0cHM6Ly9zLmJsZDM2NS5jb20nLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAvLyDkv67mlLnov5nkuKrmipPljIXlvpfliLDnmoRjb29raWXvvIzlsIbmnaXkuIrnur/vvIzmraPlvI/otbBvYXV0aAogIC8vIG9wdC5oZWFkZXIgPSB7CiAgLy8gICBDb29raWU6ICdjb25uZWN0LnNpZD1zJTNBNVJvUWNyUENfVDM3TlRHMTdPb3NlUlJnRERBUXY3NnkuUVRTbTJKV3AwZ2hQY2tYNUFCd1FkUW9UbXdxQXdjSWZYRGtLSTE2aktiSScsCiAgLy8gfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2xvbmdQcmVzcycpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -565,18 +572,16 @@
       </register>
     </registers>
     <search>
-      <last-search>创建日期</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>创建日期</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvTG9naW5cPg==</entry>
-        <entry>退出</entry>
         <entry>Async</entry>
         <entry>toGallery</entry>
         <entry encoding="base64">XDxJbWFnZVBpY2tlclw+</entry>
@@ -595,6 +600,8 @@
         <entry>wkweb</entry>
         <entry>alert</entry>
         <entry>创建日期</entry>
+        <entry encoding="base64">XDxiYW5uZXJtc2dcPg==</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
