@@ -113,9 +113,11 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1549075243426" />
       <file name="$USER_HOME$/workspace/pproj/jdtx/util/Util.js" timestamp="1548144667040">
         <mark key="'" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1549161909015">
+        <mark key="'" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/fool/wph_active.svg" timestamp="1548404226913">
         <mark key="[" line="0" column="0" />
@@ -246,7 +248,11 @@
         <mark key="[" line="480" column="35" />
         <mark key="]" line="480" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/request.js" timestamp="1549074039622" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/request.js" timestamp="1549161902680">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/assets/images/cardimg.svg" timestamp="1548386584772">
         <mark key="'" line="10" column="5" />
         <mark key="[" line="0" column="0" />
@@ -292,7 +298,7 @@
         <mark key="." line="152" column="34" />
         <mark key="^" line="152" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548988414641">
+      <file name="/Dummy.txt" timestamp="1549161659228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -399,9 +405,14 @@
         <mark key="." line="210" column="59" />
         <mark key="^" line="210" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1549161937277">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="30" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="37" column="15" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="292" column="68" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="117" column="24" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
@@ -501,6 +512,7 @@
       <jump line="54" column="30" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
       <jump line="136" column="29" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/SyncPage.js" />
       <jump line="170" column="6" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/SyncPage.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -510,7 +522,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>h5json</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>创建日期</text>
@@ -519,7 +531,7 @@
         <text>react-native-wkwebview-reborn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2xvbmdQcmVzcycpOwo=</text>
+        <text encoding="base64">ICAgIGxuMTc4OiAnaHR0cHM6Ly9tYWxsLmxuMTc4LmNvbScsCiAgICBibGQzNjU6ICdodHRwczovL21hbGwuYmxkMzY1LmNvbScsCiAgICBjZG46ICdodHRwczovL2Nkbi5zLmJsZDM2NS5jb20vJywKICAgIHNfYmxkMzY1OiAnaHR0cHM6Ly9zLmJsZDM2NS5jb20nLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -528,10 +540,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAvLyDkv67mlLnov5nkuKrmipPljIXlvpfliLDnmoRjb29raWXvvIzlsIbmnaXkuIrnur/vvIzmraPlvI/otbBvYXV0aAogIC8vIG9wdC5oZWFkZXIgPSB7CiAgLy8gICBDb29raWU6ICdjb25uZWN0LnNpZD1zJTNBNVJvUWNyUENfVDM3TlRHMTdPb3NlUlJnRERBUXY3NnkuUVRTbTJKV3AwZ2hQY2tYNUFCd1FkUW9UbXdxQXdjSWZYRGtLSTE2aktiSScsCiAgLy8gfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2xvbmdQcmVzcycpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -540,13 +552,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uY2FyZE5vID0ganNvbi5pZDsvLyBoNeimgWNhcmRObwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
