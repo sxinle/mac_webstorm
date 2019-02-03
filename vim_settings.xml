@@ -418,8 +418,8 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/address.js" timestamp="1549171515882">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/address.js" timestamp="1549173010742">
+        <mark key="'" line="88" column="197" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="29" column="3" />
         <mark key="." line="105" column="27" />
@@ -440,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="21" filename="$USER_HOME$/workspace/pproj/AndPartner/src/App.js" />
-      <jump line="55" column="42" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
       <jump line="1" column="4" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
       <jump line="53" column="54" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
       <jump line="59" column="24" filename="$USER_HOME$/workspace/pproj/AndPartner/src/inject.js" />
@@ -540,6 +538,8 @@
       <jump line="21" column="28" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
       <jump line="22" column="19" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
       <jump line="71" column="43" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
+      <jump line="21" column="16" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/address.js" />
+      <jump line="88" column="197" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/address.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -552,7 +552,7 @@
         <text>, record</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb29kc0luZm9zXD4=</text>
+        <text>isDefault</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKC4uLmFyZ3VtZW50cyk7CiAgfQo=</text>
@@ -592,9 +592,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb29kc0luZm9zXD4=</last-search>
+      <last-search>isDefault</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb29kc0luZm9zXD4=</last-pattern>
+      <last-pattern>isDefault</last-pattern>
       <last-replace>prods</last-replace>
       <last-substitute>validProds</last-substitute>
       <last-dir>1</last-dir>
@@ -602,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Image</entry>
         <entry encoding="base64">XDxJbWFnZVJlc2l6ZXJcPg==</entry>
         <entry encoding="base64">XDxfaGFuZGxlT3BlblVSTENhbGxiYWNrXD4=</entry>
         <entry>open</entry>
@@ -622,6 +621,7 @@
         <entry>.map</entry>
         <entry>goodsInfos</entry>
         <entry encoding="base64">XDxnb29kc0luZm9zXD4=</entry>
+        <entry>isDefault</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0LlByb3AvUHJvcC9n</entry>
