@@ -44,12 +44,11 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" timestamp="1549510657074">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="53" column="11" />
-        <mark key="." line="53" column="11" />
-        <mark key="^" line="53" column="11" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" timestamp="1549511938297">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" timestamp="1548642305795">
         <mark key="'" line="18" column="11" />
@@ -189,8 +188,12 @@
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" timestamp="1549509867017">
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" timestamp="1549511336730">
         <mark key="'" line="25" column="6" />
+        <mark key="[" line="108" column="30" />
+        <mark key="]" line="108" column="36" />
+        <mark key="^" line="108" column="36" />
+        <mark key="." line="108" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/request.js" timestamp="1549474789364">
         <mark key="[" line="7" column="0" />
@@ -204,12 +207,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/mine.js" timestamp="1549509478293">
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/mine.js" timestamp="1549511809207">
         <mark key="'" line="29" column="3" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="27" column="34" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shoptypes/search/searchshop.scss" timestamp="1549436408111">
         <mark key="[" line="52" column="24" />
@@ -377,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="11" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="95" column="36" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
-      <jump line="242" column="18" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="208" column="36" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="87" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
       <jump line="72" column="2" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
@@ -477,6 +476,9 @@
       <jump line="75" column="20" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
       <jump line="86" column="29" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/chooseaddr/chooseAddr.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" />
+      <jump line="237" column="31" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" />
+      <jump line="219" column="54" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,52 +488,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnVzZXJuYW1lPSR7cmVjb3JkLnVzZXJuYW1lfSZzdHJlZXQ9JHtyZWNvcmQuc3RyZWV0fSZhZGRyPSR7cmVjb3JkLmFkZHJ9JnBob25lPSR7cmVjb3JkLnBob25lfSZpc0RlZmF1bHQ9JHtyZWNvcmQuaXNEZWZhdWx0fQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NcPg==</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHthZGRyZXNzfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7CiAgICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNEZWZhdWx0OiB2YWwgPyAxIDogMCwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlZXQ6IHZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3RyZWV0OiB2YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGhvbmU6IHZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IHZhbAo=</text>
+        <text encoding="base64">ICAgICAgLy8gYWRkcjogJycsCiAgICAgIC8vIHVzZXJuYW1lOiAnJywKICAgICAgLy8gcGhvbmU6ICcnLAogICAgICAvLyBpc0RlZmF1bHQ6IDAsCiAgICAgIC8vIHN0cmVldDogJycsCiAgICAgIC8vIGlkOiAnJywKICAgICAgLy8gbG5nOiAnJywKICAgICAgLy8gbGF0OiAnJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLi4uYWRkcmVzcwo=</text>
+        <text encoding="base64">ICAgICAgLy8gaWQ6IHBhcmFtcy5pZCB8fCAnJywKICAgICAgLy8gYWRkcjogcGFyYW1zLmFkZHIgfHwgJycsCiAgICAgIC8vIHVzZXJuYW1lOiBwYXJhbXMudXNlcm5hbWUgfHwgJycsCiAgICAgIC8vIHBob25lOiBwYXJhbXMucGhvbmUgfHwgJycsCiAgICAgIC8vIGxuZzogcGFyYW1zLmxuZyB8fCAwLAogICAgICAvLyBsYXQ6IHBhcmFtcy5sYXQgfHwgMCwKICAgICAgLy8gc3RyZWV0OiBwYXJhbXMuc3RyZWV0IHx8ICcnLAogICAgICAvLyBpc0RlZmF1bHQ6IHBhcmFtcy5pc0RlZmF1bHQgfHwgMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFkZHI6IGRldGFpbC5uYW1lLAogICAgICAgICAgbG5nOiBkZXRhaWwubG9uZ2l0dWRlLAogICAgICAgICAgbGF0OiBkZXRhaWwubGF0aXR1ZGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXRhaWwsICdbID09PT09IGRldGFpbCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NcPg==</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NcPg==</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -552,13 +554,13 @@
         <entry>width</entry>
         <entry>Const</entry>
         <entry>text</entry>
-        <entry>map</entry>
         <entry>add</entry>
         <entry>index</entry>
         <entry>确定</entry>
         <entry>delete</entry>
         <entry>`\/api-node</entry>
         <entry encoding="base64">XDxsb2NcPg==</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
