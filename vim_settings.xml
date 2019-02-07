@@ -56,12 +56,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" timestamp="1549551549281">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="66" column="37" />
-        <mark key="." line="66" column="37" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" timestamp="1549552270533">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="66" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/AndPartner/src/Util.js" timestamp="1548642305795">
         <mark key="'" line="18" column="11" />
@@ -403,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="11" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/float-layout/index.js" />
       <jump line="28" column="24" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/float-layout/index.js" />
       <jump line="32" column="2" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/float-layout/index.js" />
       <jump line="62" column="2" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -503,6 +502,7 @@
       <jump line="54" column="4" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="66" column="16" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" />
+      <jump line="25" column="18" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -512,7 +512,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Const</text>
+        <text>: totalPrice,</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
