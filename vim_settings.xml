@@ -33,11 +33,11 @@
         <mark key="^" line="114" column="30" />
         <mark key="." line="114" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" timestamp="1549607740312">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="9" />
-        <mark key="^" line="29" column="68" />
-        <mark key="." line="29" column="68" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" timestamp="1549618515688">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="101" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.scss" timestamp="1549602618807">
         <mark key="'" line="44" column="3" />
@@ -46,12 +46,12 @@
         <mark key="." line="130" column="19" />
         <mark key="^" line="119" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/app.js" timestamp="1549603496958">
-        <mark key="'" line="57" column="22" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="37" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="27" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/app.js" timestamp="1549618369510">
+        <mark key="'" line="58" column="22" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="31" />
+        <mark key="." line="39" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" timestamp="1549608927753">
         <mark key="^" line="63" column="35" />
@@ -105,11 +105,12 @@
         <mark key="." line="79" column="30" />
         <mark key="^" line="79" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1549602934048">
-        <mark key="'" line="88" column="6" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1549617891917">
+        <mark key="'" line="165" column="15" />
+        <mark key="[" line="116" column="25" />
+        <mark key="]" line="116" column="25" />
+        <mark key="^" line="116" column="25" />
+        <mark key="." line="116" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1549616814364">
         <mark key="[" line="0" column="0" />
@@ -178,6 +179,12 @@
         <mark key="^" line="15" column="69" />
         <mark key="." line="15" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderComment/orderComment.js" timestamp="1549618337010">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" timestamp="1549597630992">
         <mark key="[" line="340" column="19" />
         <mark key="]" line="340" column="100" />
@@ -198,13 +205,8 @@
         <mark key="^" line="105" column="104" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1549597239660">
-        <mark key="'" line="14" column="10" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="3" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/mine.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="157" column="23" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" />
       <jump line="145" column="28" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/mine/addr/add/addAddress.js" />
@@ -303,6 +305,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
       <jump line="114" column="30" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
+      <jump line="127" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
+      <jump line="165" column="15" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,16 +316,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>{Const.userInfo.me.avatar}</text>
+        <text encoding="base64">P29yZGVyTm89JHtvcmRlci5vcmRlck5vfSZtb25leT0ke29yZGVyLnRvdGFsUHJpY2V9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5jbGVDb25maXJtXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://video.sousoushenbian.cn/group1/M00/30/BC/Chpio1uQ7BiAcVSNAAAuOWYy9sE274.jpg</text>
+        <text>orderComment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPEltYWdlIHNyYz0naHR0cDovL3ZpZGVvLnNvdXNvdXNoZW5iaWFuLmNuL2dyb3VwMS9NMDAvMzAvQkMvQ2hwaW8xdVE3QmlBY1ZTTkFBQXVPV1l5OXNFMjc0LmpwZycqL30KICAgICAgICAgICAgICB7LypzdHlsZT17e3dpZHRoOiAnNTVweCcsIGhlaWdodDogJzU1cHgnfX0qL30KICAgICAgICAgICAgey8qLz4qL30K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob3JkZXIsICdbID09PT09IG9yZGVyID09PT09IF0nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -330,25 +334,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3BhZ2VzL29yZGVycy9vcmRlcnMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgMzA6CiAgICAgIHJldHVybiAn5bey5pSv5LuYJzsKICAgICAgYnJlYWs7CiAgICBjYXNlIDQwOgogICAgICByZXR1cm4gJ+W3suaOpeWNlSc7CiAgICAgIGJyZWFrOwogICAgY2FzZSA1MDoKICAgICAgcmV0dXJuICfphY3pgIHkuK0nOwogICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNhc2UgMjA6CiAgICAgIHJldHVybiAn5bey5Y+W5raIJzsKICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkb1BheQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgMTA6CiAgICAgIHJldHVybiAn5b6F5pSv5LuYJzsKICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRhcm8uc3dpdGNoVGFiKHsKICAgICAgdXJsOiAnL3BhZ2VzL29yZGVycy9vcmRlcnMnCiAgICB9KQo=</text>
+        <text encoding="base64">ZnVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg6L+Z6YeM5piv5q2j5paH5YaF5a6577yM5qyi6L+O5Yqg5YWl5Lqs5Lic5Ye55Ye45a6e6aqM5a6kCiAgICAgICAgICAgIOi/memHjOaYr+ato+aWh+WGheWuue+8jOasoui/juWKoOWFpeS6rOS4nOWHueWHuOWunumqjOWupAogICAgICAgICAgICDov5nph4zmmK/mraPmloflhoXlrrnvvIzmrKLov47liqDlhaXkuqzkuJzlh7nlh7jlrp7pqozlrqQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPEltYWdlIHNyYz0naHR0cDovL3ZpZGVvLnNvdXNvdXNoZW5iaWFuLmNuL2dyb3VwMS9NMDAvMzAvQkMvQ2hwaW8xdVE3QmlBY1ZTTkFBQXVPV1l5OXNFMjc0LmpwZycqL30KICAgICAgICAgICAgICB7LypzdHlsZT17e3dpZHRoOiAnNTVweCcsIGhlaWdodDogJzU1cHgnfX0qL30KICAgICAgICAgICAgey8qLz4qL30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
