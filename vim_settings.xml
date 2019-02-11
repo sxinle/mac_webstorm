@@ -71,8 +71,8 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" timestamp="1549699366993">
-        <mark key="'" line="56" column="14" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" timestamp="1549850812644">
+        <mark key="'" line="199" column="0" />
         <mark key="[" line="57" column="22" />
         <mark key="]" line="57" column="25" />
         <mark key="^" line="57" column="25" />
@@ -272,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="20" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" />
-      <jump line="23" column="15" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
       <jump line="57" column="20" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderRmk/orderRmk.js" />
       <jump line="122" column="28" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" />
@@ -372,6 +369,9 @@
       <jump line="19" column="18" filename="$USER_HOME$/workspace/pproj/to-mp/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/package.json" />
       <jump line="56" column="14" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
+      <jump line="65" column="3" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
+      <jump line="199" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -430,7 +430,7 @@
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
