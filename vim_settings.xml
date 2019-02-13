@@ -59,6 +59,9 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="224" column="97" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/App.js" timestamp="1550052512270">
+        <mark key="'" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/submitorder/submitOrder.js" timestamp="1549607780846">
         <mark key="'" line="26" column="18" />
         <mark key="[" line="76" column="90" />
@@ -378,9 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="31" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" />
-      <jump line="15" column="10" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
       <jump line="51" column="13" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
       <jump line="64" column="39" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" />
@@ -478,6 +478,9 @@
       <jump line="219" column="21" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/supplier/EditDelivery.js" />
       <jump line="164" column="6" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
       <jump line="120" column="6" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" />
+      <jump line="171" column="13" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
+      <jump line="850" column="0" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -490,7 +493,7 @@
         <text encoding="base64">ICAvIDEwMCw=</text>
       </register>
       <register name="/" type="4">
-        <text>%</text>
+        <text encoding="base64">XDxTdGFja05hdmlnYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIE1hdGguZmxvb3IoKChyZXNwLmRhdGEuY29kZXNfY291bnQgLSAocmVjb3JkLmR1cF9jbnQgKyByZWNvcmQuZXJyX2NudCArIHJlY29yZC5lcnJfZm9ybWF0X2xpbmVfY250KSkgLyAocmVzcC5kYXRhLmNvZGVzX2NvdW50KSkgKiAxMDAwMCkgLyAxMDAsCg==</text>
@@ -530,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>%</last-search>
+      <last-search encoding="base64">XDxTdGFja05hdmlnYXRvclw+</last-search>
       <last-offset />
-      <last-pattern>%</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFja05hdmlnYXRvclw+</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJtaXRDb21tZW50XD4=</entry>
         <entry>综合</entry>
         <entry>元起送</entry>
         <entry>map</entry>
@@ -560,6 +562,7 @@
         <entry>数量</entry>
         <entry>toFix</entry>
         <entry>%</entry>
+        <entry encoding="base64">XDxTdGFja05hdmlnYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
