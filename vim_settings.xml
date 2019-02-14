@@ -31,12 +31,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/LogOn.js" timestamp="1550128925631">
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/LogOn.js" timestamp="1550130259180">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="106" column="20" />
-        <mark key="]" line="106" column="83" />
+        <mark key="[" line="251" column="80" />
+        <mark key="]" line="251" column="80" />
         <mark key="^" line="106" column="15" />
-        <mark key="." line="106" column="15" />
+        <mark key="." line="251" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" timestamp="1549885413272">
         <mark key="'" line="208" column="0" />
@@ -223,11 +223,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" timestamp="1550129109179">
-        <mark key="'" line="28" column="12" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" timestamp="1550129793403">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
         <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" timestamp="1549850812644">
@@ -416,9 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="16" filename="/package.json" />
-      <jump line="0" column="0" filename="/package.json" />
-      <jump line="19" column="18" filename="$USER_HOME$/workspace/pproj/to-mp/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/package.json" />
       <jump line="56" column="14" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
       <jump line="65" column="3" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
@@ -516,6 +513,9 @@
       <jump line="15" column="12" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
       <jump line="73" column="91" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
       <jump line="28" column="12" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
+      <jump line="50" column="30" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
+      <jump line="68" column="17" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,10 +525,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>11112</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc01hbmRhdG9yeVw+</text>
+        <text>View</text>
       </register>
       <register name="0" type="4">
         <text>DHYymV9CVPss1dBBuIQAxyTLJujK787516fa-cf2b-4d3b-923b-ae8d67c2489d</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc01hbmRhdG9yeVw+</last-search>
+      <last-search>View</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc01hbmRhdG9yeVw+</last-pattern>
+      <last-pattern>View</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsU2hvcFw+</entry>
         <entry>banner</entry>
         <entry encoding="base64">XDxteUJhbm5lclw+</entry>
         <entry>effects</entry>
@@ -598,6 +597,7 @@
         <entry encoding="base64">XDxjdXJQZXJjZW50XD4=</entry>
         <entry encoding="base64">XDxDT0RFX1BVU0hfS0VZXD4=</entry>
         <entry encoding="base64">XDxpc01hbmRhdG9yeVw+</entry>
+        <entry>View</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
