@@ -164,6 +164,11 @@
         <mark key="." line="280" column="40" />
         <mark key="^" line="280" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/app/router.js" timestamp="1550125323929">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderRmk/orderRmk.js" timestamp="1549629037988">
         <mark key="'" line="66" column="6" />
         <mark key="[" line="77" column="21" />
@@ -395,10 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
-      <jump line="37" column="50" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/comments/comments.js" />
-      <jump line="180" column="50" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
-      <jump line="27" column="16" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="5" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
       <jump line="72" column="36" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopinfo/shopinfo.js" />
       <jump line="57" column="23" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderDetail.js" />
@@ -495,6 +496,10 @@
       <jump line="154" column="26" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="159" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
+      <jump line="99" column="20" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
+      <jump line="160" column="71" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -507,10 +512,10 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxjdXJQZXJjZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>noMoreData</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYW5kYXRvcnlJbnN0YWxsTW9kZTogQ29kZVB1c2guSW5zdGFsbE1vZGUuSU1NRURJQVRFLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -547,9 +552,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxjdXJQZXJjZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJQZXJjZW50XD4=</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -557,7 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>openTime</entry>
         <entry>atMessage</entry>
         <entry encoding="base64">XDxvcmRlckJ0bkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxjYWxsU2hvcFw+</entry>
@@ -577,6 +581,7 @@
         <entry encoding="base64">XDxzaG9wc1w+</entry>
         <entry encoding="base64">XDxkaXN0YW5jZVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxjdXJQZXJjZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
