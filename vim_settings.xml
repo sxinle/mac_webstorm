@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/workspace/demo/jhWebApp/package.json" timestamp="1550138674804">
         <mark key="'" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" timestamp="1550292421766">
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" timestamp="1550297862130">
         <mark key="'" line="464" column="30" />
         <mark key="[" line="464" column="30" />
         <mark key="]" line="464" column="31" />
@@ -163,12 +163,12 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1550292418302">
-        <mark key="'" line="230" column="29" />
-        <mark key="[" line="235" column="36" />
-        <mark key="]" line="235" column="36" />
-        <mark key="." line="235" column="36" />
-        <mark key="^" line="235" column="45" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1550297850821">
+        <mark key="'" line="269" column="19" />
+        <mark key="[" line="286" column="97" />
+        <mark key="]" line="287" column="22" />
+        <mark key="^" line="287" column="22" />
+        <mark key="." line="287" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" timestamp="1550214770543">
         <mark key="[" line="42" column="113" />
@@ -290,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="41" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
-      <jump line="720" column="8" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
       <jump line="852" column="31" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
       <jump line="863" column="27" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
       <jump line="871" column="7" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
@@ -390,6 +388,8 @@
       <jump line="487" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="230" column="29" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="464" column="30" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
+      <jump line="25" column="15" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="269" column="19" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,52 +399,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>divider_line</text>
+        <text>notice</text>
       </register>
-      <register name="0" type="4">
-        <text>showTip</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxBdE5vdGljZWJhciBtYXJxdWVlIHNpbmdsZT4KICAgICAgICAgICAg5bCK5pWs55qE55So5oi377ya5aaC5p6c5oKo55qE5Lqs5Lic6LSm5oi35bCa5pyq5pyJ6L+H5raI6LS56K6w5b2V5Y+v6IO95Lya6YCg5oiQ5YW25Lit5LiA5byg5Lqs5Yi46aKG5Y+W5aSx6LSl77yM5Zyo5oKo5pyJ6L+H5LiA5qyh5raI6LS55ZCO5Y2z5Y+v5q2j5bi46aKG5Y+W77yMM+aciOi1t+WPr+ato+W4uOS4gOasoeaAp+mihuWPljLlvKDkuqzliLjjgILnu5nmgqjluKbmnaXnmoTkuI3kvr/mlazor7fosIXop6MKICAgICAgICAgIDwvQXROb3RpY2ViYXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxBdE5vdGljZWJhciBtYXJxdWVlIHNpbmdsZT4KICAgICAgICAgICAg5bCK5pWs55qE55So5oi377ya5aaC5p6c5oKo55qE5Lqs5Lic6LSm5oi35bCa5pyq5pyJ6L+H5raI6LS56K6w5b2V5Y+v6IO95Lya6YCg5oiQ5YW25Lit5LiA5byg5Lqs5Yi46aKG5Y+W5aSx6LSl77yM5Zyo5oKo5pyJ6L+H5LiA5qyh5raI6LS55ZCO5Y2z5Y+v5q2j5bi46aKG5Y+W77yMM+aciOi1t+WPr+ato+W4uOS4gOasoeaAp+mihuWPljLlvKDkuqzliLjjgILnu5nmgqjluKbmnaXnmoTkuI3kvr/mlazor7fosIXop6MKICAgICAgICAgIDwvQXROb3RpY2ViYXI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdub3RpY2UnIHN0eWxlPXt7CiAgICAgICAgICAgICAgcG9zaXRpb246ICdmaXhlZCcsCiAgICAgICAgICAgICAgdG9wOiAwLAogICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgaGVpZ2h0OiBub3RpY2VIZWlnaHQsCiAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnIzFGMTkwRCcsCiAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICB6SW5kZXg6IDEwMDAsCiAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8VmlldyBzdHlsZT17ewogICAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPEF0Tm90aWNlYmFyIG1hcnF1ZWU+CiAgICAgICAgICAgICAgICAgIOWwiuaVrOeahOeUqOaIt++8muWmguaenOaCqOeahOS6rOS4nOi0puaIt+Wwmuacquaciei/h+a2iOi0ueiusOW9leWPr+iDveS8mumAoOaIkOWFtuS4reS4gOW8oOS6rOWIuOmihuWPluWksei0pe+8jOWcqOaCqOaciei/h+S4gOasoea2iOi0ueWQjuWNs+WPr+ato+W4uOmihuWPlu+8jDPmnIjotbflj6/mraPluLjkuIDmrKHmgKfpooblj5Yy5byg5Lqs5Yi444CC57uZ5oKo5bim5p2l55qE5LiN5L6/5pWs6K+36LCF6KejCiAgICAgICAgICAgICAgICA8L0F0Tm90aWNlYmFyPgogICAgICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdjbG9zZScgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAogICAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgIHBhZGRpbmdSaWdodDonMTBweCcsCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8SW1hZ2Ugc3JjPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL2Nsb3NlLnBuZycpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7aGVpZ2h0OiAnYXV0bycsIHdpZHRoOiAnMTVweCd9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg6L+Z5pivIE5vdGljZUJhciDpgJrlkYrmoI/vvIzov5nmmK8gTm90aWNlQmFyIOmAmuWRiuagj++8jOi/meaYryBOb3RpY2VCYXIg6YCa5ZGK5qCPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdub3RpY2UnIHN0eWxlPXt7CiAgICAgICAgICAgICAgcG9zaXRpb246ICdmaXhlZCcsCiAgICAgICAgICAgICAgdG9wOiAwLAogICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgaGVpZ2h0OiBub3RpY2VIZWlnaHQsCiAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnIzFGMTkwRCcsCiAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICB6SW5kZXg6IDEwMDAsCiAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8VmlldyBzdHlsZT17ewogICAgICAgICAgICAgICAgZGlzcGxheTogJ2ZsZXgnLAogICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPEF0Tm90aWNlYmFyIG1hcnF1ZWU+CiAgICAgICAgICAgICAgICAgIOWwiuaVrOeahOeUqOaIt++8muWmguaenOaCqOeahOS6rOS4nOi0puaIt+Wwmuacquaciei/h+a2iOi0ueiusOW9leWPr+iDveS8mumAoOaIkOWFtuS4reS4gOW8oOS6rOWIuOmihuWPluWksei0pe+8jOWcqOaCqOaciei/h+S4gOasoea2iOi0ueWQjuWNs+WPr+ato+W4uOmihuWPlu+8jDPmnIjotbflj6/mraPluLjkuIDmrKHmgKfpooblj5Yy5byg5Lqs5Yi444CC57uZ5oKo5bim5p2l55qE5LiN5L6/5pWs6K+36LCF6KejCiAgICAgICAgICAgICAgICA8L0F0Tm90aWNlYmFyPgogICAgICAgICAgICAgICAgPFZpZXcgY2xhc3NOYW1lPSdjbG9zZScgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAogICAgICAgICAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgIHBhZGRpbmdSaWdodDonMTBweCcsCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8SW1hZ2Ugc3JjPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL2Nsb3NlLnBuZycpfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7aGVpZ2h0OiAnYXV0bycsIHdpZHRoOiAnMTVweCd9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAyMHB4OwogIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDIwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAg6L+Z5pivIE5vdGljZUJhciDpgJrlkYrmoI/vvIzov5nmmK8gTm90aWNlQmFyIOmAmuWRiuagj++8jOi/meaYryBOb3RpY2VCYXIg6YCa5ZGK5qCPCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXIK</text>
+        <text encoding="base64">ICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiAyMHB4OwogIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDIwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czonMjBweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBib3JkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAnOTglJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czonMjBweCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWFnZT48L2ltYWdlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAnOTglJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWFnZSBzcj48L2ltYWdlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWFnZT48L2ltYWdlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>divider_line</last-search>
+      <last-search>notice</last-search>
       <last-offset />
-      <last-pattern>divider_line</last-pattern>
+      <last-pattern>notice</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -452,8 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>codepush</entry>
-        <entry>code</entry>
         <entry>CodePUsh</entry>
         <entry>CodePush</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
@@ -472,6 +470,8 @@
         <entry>radius</entry>
         <entry>divider</entry>
         <entry>divider_line</entry>
+        <entry>NOtice</entry>
+        <entry>notice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
