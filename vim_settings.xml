@@ -111,6 +111,12 @@
       <file name="$USER_HOME$/workspace/demo/jhWebApp/package.json" timestamp="1550138674804">
         <mark key="'" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" timestamp="1550284908458">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/shop.js" timestamp="1549633943933">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="36" />
@@ -155,6 +161,13 @@
         <mark key="]" line="10" column="46" />
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" timestamp="1550285066064">
+        <mark key="'" line="209" column="29" />
+        <mark key="[" line="221" column="53" />
+        <mark key="]" line="221" column="53" />
+        <mark key="." line="221" column="53" />
+        <mark key="^" line="221" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/orderitem/orderitem.js" timestamp="1550214770543">
         <mark key="[" line="42" column="113" />
@@ -276,14 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="15" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
-      <jump line="71" column="51" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
-      <jump line="14" column="12" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
-      <jump line="723" column="21" filename="$USER_HOME$/workspace/demo/jhWebApp/App.js" />
-      <jump line="28" column="16" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
-      <jump line="78" column="13" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
-      <jump line="26" column="36" filename="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" />
       <jump line="36" column="37" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="26" column="18" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
       <jump line="10" column="10" filename="$USER_HOME$/workspace/demo/jhWebApp/package.json" />
@@ -376,6 +381,14 @@
       <jump line="153" column="39" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" />
       <jump line="154" column="38" filename="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" />
+      <jump line="208" column="35" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="207" column="39" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="205" column="41" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="204" column="29" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="203" column="27" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="201" column="31" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="206" column="29" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -385,43 +398,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCh7CiAgICB1cmw6IGAke3ByZWZpeH0vYXBpLW5vZGUvbXAvc2hvcC9pbmRleE1vcmVTaG9wPyR7VXRpbHMuanNvbjJnZXRQYXJhbShwYXJhbSl9YCwKICAgIG1ldGhvZDogJ0dFVCcsCiAgICBoaWRlTG9hZGluZzogdHJ1ZSwKICB9KTsK</text>
+      <register name="0" type="4">
+        <text>sysInfo.windowHeight / 12</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjYXJ0UGF5JywgJ1sgPT09PT0gY2FydFBheSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfnoa7orqTmlK/ku5gnLCAnWyA9PT09PSDnoa7orqTmlK/ku5ggPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhpZGVMb2FkaW5nOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIC8vLm5vdGljZSB7CiAgICAvLyAgcG9zaXRpb246IGZpeGVkOwogICAgLy8gIHRvcDogMDsKICAgIC8vICB3aWR0aDogMTAwJTsKICAgIC8vICBoZWlnaHQ6IDEwMHB4OwogICAgLy8gIGJhY2tncm91bmQtY29sb3I6ICM2QTZBNkE7CiAgICAvLyAgZGlzcGxheTogZmxleDsKICAgIC8vICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgIC8vICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgLy8gIHotaW5kZXg6IDEwMDA7CiAgICAvL30K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHN2cld4UGF5KCkgewogIAp9CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFV0aWxzLm9rKHJlc3ApKSB7CiAgICAgICAgaWYgKHJlc3AuZGF0YS5sZW5ndGggPT09IDEpIHsKICAgICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICAgIHR5cGU6ICdzYXZlJywKICAgICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICAgIGRlZkFkZHI6IHJlc3AuZGF0YVswXSwKICAgICAgICAgICAgfQogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VmlldyBzdHlsZT17e3dpZHRoOic4MCUnfX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VmlldyBzdHlsZT17e3dpZHRoOjgwJX19Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QXROb3RpY2ViYXIgaWNvbj0ndm9sdW1lLXBsdXMnIG1hcnF1ZWUgY3VzdG9tU3R5bGU9J3dpZHRoOjEwMCU7Jz4KICAgICAgICAgICAgICAgIOi/meaYryBOb3RpY2VCYXIg6YCa5ZGK5qCP77yM6L+Z5pivIE5vdGljZUJhciDpgJrlkYrmoI/vvIzov5nmmK8gTm90aWNlQmFyIOmAmuWRiuagjwogICAgICAgICAgICAgIDwvQXROb3RpY2ViYXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
