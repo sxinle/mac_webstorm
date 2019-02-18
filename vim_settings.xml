@@ -112,12 +112,12 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1550337986939">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1550460991618">
+        <mark key="'" line="138" column="21" />
+        <mark key="[" line="250" column="86" />
+        <mark key="]" line="250" column="86" />
+        <mark key="." line="250" column="86" />
+        <mark key="^" line="250" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.scss" timestamp="1549608550477">
         <mark key="[" line="79" column="19" />
@@ -332,7 +332,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550414000416">
+      <file name="/Dummy.txt" timestamp="1550460315565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -404,12 +404,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" timestamp="1550121320539">
-        <mark key="'" line="49" column="96" />
-        <mark key="[" line="49" column="76" />
-        <mark key="]" line="49" column="76" />
-        <mark key="." line="49" column="76" />
-        <mark key="^" line="49" column="126" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" timestamp="1550461093731">
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+        <mark key="^" line="82" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1550134456801">
         <mark key="'" line="33" column="26" />
@@ -440,20 +439,17 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="128" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1550335034944">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" timestamp="1550460711496">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/at-icon/index.scss" timestamp="1550300968201">
         <mark key="'" line="220" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="40" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="355" column="37" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
-      <jump line="366" column="40" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="487" column="0" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="230" column="29" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.js" />
       <jump line="464" column="30" filename="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/getTicket/getTicket.scss" />
@@ -551,6 +547,9 @@
       <jump line="196" column="49" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
       <jump line="208" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="214" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
+      <jump line="134" column="3" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="137" column="35" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="138" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -560,60 +559,59 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>价</text>
       </register>
       <register name="/" type="4">
-        <text>antd</text>
+        <text>banner</text>
       </register>
       <register name="0" type="4">
-        <text>/shop/shoparea</text>
+        <text>bannerImgs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvcEluZm8nLCAnWyA9PT09PSBzaG9wSW5mbyA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTd2lwZXJJdGVtIGtleT17MX0gc3R5bGU9e3tib3JkZXJSYWRpdXM6ICc1cHgnfX0+CiAgICAgICAgICAgICAgICAgIDxJbWFnZSBzcmM9J2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzU1L0JEL0NocGlvMXVjMm15QUpERjBBQUtKUGI1Y0hTdzY4MC5wbmcnCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3toZWlnaHQ6ICcxMDAlJywgd2lkdGg6IENvbnN0LnN5c0luZm8ud2luZG93V2lkdGggKyAicHgifX0KICAgICAgICAgICAgICAgICAgICBvbkxvYWQ9e3RoaXMuaW1hZ2VMb2FkfQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9Td2lwZXJJdGVtPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuYW50LXRhYmxlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTd2lwZXJJdGVtIGtleT17MX0gc3R5bGU9e3tib3JkZXJSYWRpdXM6ICc1cHgnfX0+CiAgICAgICAgICAgICAgICAgIDxJbWFnZSBzcmM9J2h0dHA6Ly92aWRlby5zb3Vzb3VzaGVuYmlhbi5jbi9ncm91cDEvTTAwLzJFLzFFL0NocGlvMXZ5WTZhQU9aTzlBQUI1dW8tUmM0TTgwOC5qcGcnCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3toZWlnaHQ6ICcxMDAlJywgd2lkdGg6IENvbnN0LnN5c0luZm8ud2luZG93V2lkdGggKyAicHgifX0KICAgICAgICAgICAgICAgICAgICBvbkxvYWQ9e3RoaXMuaW1hZ2VMb2FkfQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9Td2lwZXJJdGVtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi9yZXNwb25zaXZlJzsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvcEluZm8nLCAnWyA9PT09PSBzaG9wSW5mbyA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IEBzY3JlZW4teHMpIHsKICAuQHt0YWJsZS1wcmVmaXgtY2xzfSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAuYW50LXRhYmxlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IEBzY3JlZW4teHMpIHsKICAuQHt0YWJsZS1wcmVmaXgtY2xzfSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi9yZXNwb25zaXZlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IEBzY3JlZW4teHMpIHsKICAuQHt0YWJsZS1wcmVmaXgtY2xzfSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IEBzY3JlZW4teHMpIHsKICAuQHt0YWJsZS1wcmVmaXgtY2xzfSB7CiAgICAmLXRoZWFkID4gdHIsCiAgICAmLXRib2R5ID4gdHIgewogICAgICA+IHRoLAogICAgICA+IHRkIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogYXV0byAhaW1wb3J0YW50OwogICAgICAgIGJvcmRlcjogbm9uZTsKICAgICAgICAmOmxhc3QtY2hpbGQgewogICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkIEBib3JkZXItY29sb3Itc3BsaXQ7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>antd</last-search>
+      <last-search>banner</last-search>
       <last-offset />
-      <last-pattern>antd</last-pattern>
+      <last-pattern>banner</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scroll</entry>
         <entry encoding="base64">XDxtb25leVw+</entry>
         <entry>radius</entry>
         <entry>divider</entry>
@@ -633,6 +631,7 @@
         <entry>dispatch</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry>antd</entry>
+        <entry>banner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
