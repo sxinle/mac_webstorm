@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/layouts/PageHeaderLayout.js" timestamp="1550021827470">
         <mark key="'" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" timestamp="1550473907053">
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" timestamp="1550476170768">
         <mark key="'" line="119" column="15" />
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="30" />
+        <mark key="^" line="148" column="25" />
+        <mark key="." line="119" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jhWebApp/index.js" timestamp="1550140535619">
         <mark key="[" line="1" column="0" />
@@ -494,10 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" />
       <jump line="63" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orders.js" />
       <jump line="239" column="18" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -594,6 +590,10 @@
       <jump line="81" column="19" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
       <jump line="144" column="9" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
       <jump line="115" column="15" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
+      <jump line="267" column="30" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
+      <jump line="157" column="9" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
+      <jump line="207" column="11" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
+      <jump line="119" column="15" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -603,13 +603,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>fetchUsers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaFVzZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICogcmVzZXRBcmVhSWQoeyBwYXlsb2FkLCBjYWxsYmFjayB9LCB7IGNhbGwgfSkgewogICAgICBjb25zdCByZXNwb25zZSA9IHlpZWxkIGNhbGwodXNlclNlcnZpY2UucmVzZXRBcmVhSWQsIHBheWxvYWQpOwogICAgICBpZiAoY2FsbGJhY2spIGNhbGxiYWNrKHJlc3BvbnNlKTsKICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text>fetchWechatUsers</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
