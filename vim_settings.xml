@@ -45,8 +45,8 @@
         <mark key="^" line="218" column="76" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" timestamp="1550494407846">
-        <mark key="'" line="203" column="12" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" timestamp="1550540170634">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="224" column="13" />
         <mark key="]" line="224" column="19" />
         <mark key="." line="226" column="0" />
@@ -190,12 +190,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/goodstypes/onegoods/onegoods.scss" timestamp="1550465869140">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1550473223857">
-        <mark key="'" line="257" column="16" />
-        <mark key="[" line="279" column="32" />
-        <mark key="]" line="279" column="42" />
-        <mark key="^" line="279" column="42" />
-        <mark key="." line="279" column="42" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1550540210635">
+        <mark key="'" line="279" column="42" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/orderPay/orderPay.js" timestamp="1550482560265">
         <mark key="[" line="70" column="0" />
@@ -277,7 +277,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550494452699">
+      <file name="/Dummy.txt" timestamp="1550540248115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -308,12 +308,12 @@
         <mark key="[" line="90" column="12" />
         <mark key="]" line="90" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/config/router.config.js" timestamp="1550483481309">
+      <file name="$USER_HOME$/workspace/pproj/to-shop/config/router.config.js" timestamp="1550540180238">
         <mark key="'" line="270" column="43" />
         <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/package.json" timestamp="1549697962026">
         <mark key="[" line="0" column="0" />
@@ -402,8 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/models/users.js" />
-      <jump line="45" column="26" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
       <jump line="103" column="32" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" />
       <jump line="257" column="40" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="58" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
@@ -502,6 +500,8 @@
       <jump line="203" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
       <jump line="209" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
+      <jump line="279" column="42" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,7 +511,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>q.jinhuijiu.com.cn</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -560,7 +560,7 @@
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
