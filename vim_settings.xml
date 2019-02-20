@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/layouts/PageHeaderLayout.js" timestamp="1550021827470">
         <mark key="'" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" timestamp="1550572110632">
-        <mark key="'" line="146" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" timestamp="1550629638555">
+        <mark key="'" line="129" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/config/router.config.js" timestamp="1550565032872">
         <mark key="'" line="144" column="30" />
@@ -69,12 +69,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" timestamp="1550571369906">
+      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" timestamp="1550629646409">
         <mark key="'" line="153" column="0" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="20" />
+        <mark key="[" line="118" column="19" />
+        <mark key="]" line="118" column="76" />
         <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="20" />
+        <mark key="." line="19" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/supplier/EditDelivery.js" timestamp="1550051808657">
         <mark key="'" line="219" column="21" />
@@ -278,11 +278,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550571682020">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1550216149720">
         <mark key="'" line="154" column="38" />
         <mark key="[" line="153" column="41" />
@@ -399,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="52" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="222" column="47" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="323" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
@@ -499,6 +493,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/SiderMenu/SiderMenu.js" />
       <jump line="15" column="21" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" />
       <jump line="146" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" />
+      <jump line="129" column="27" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -514,7 +509,7 @@
         <text>Username</text>
       </register>
       <register name="0" type="4">
-        <text>myStyles</text>
+        <text>https://auth.yunzhanghu.com/static/images/login/banner.png</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -557,7 +552,7 @@
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
