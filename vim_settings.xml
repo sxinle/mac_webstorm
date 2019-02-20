@@ -17,11 +17,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/printerservice.js" timestamp="1550644541902">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/printerservice.js" timestamp="1550650080044">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/.umi/router.js" timestamp="1550406517222">
         <mark key="'" line="114" column="26" />
@@ -107,12 +108,12 @@
         <mark key="^" line="33" column="28" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" timestamp="1550648607371">
-        <mark key="'" line="515" column="33" />
-        <mark key="[" line="487" column="0" />
-        <mark key="]" line="487" column="0" />
-        <mark key="." line="487" column="0" />
-        <mark key="^" line="489" column="13" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" timestamp="1550649985671">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="141" column="21" />
+        <mark key="]" line="141" column="30" />
+        <mark key="." line="141" column="30" />
+        <mark key="^" line="141" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1550550402583">
         <mark key="'" line="196" column="55" />
@@ -204,11 +205,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/models/printer.js" timestamp="1550644496109">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/models/printer.js" timestamp="1550650004042">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/Areaadmin.js" timestamp="1550472761297">
         <mark key="'" line="421" column="32" />
@@ -414,12 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="22" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
-      <jump line="54" column="18" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/layouts/UserLayout.js" />
-      <jump line="98" column="23" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/pages/User/Login.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/locales/zh-CN/menu.js" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/SiderMenu/SiderMenu.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/SiderMenu/SiderMenu.js" />
       <jump line="15" column="21" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/LoginItem.js" />
@@ -514,6 +508,12 @@
       <jump line="454" column="33" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="470" column="33" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="515" column="33" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="479" column="30" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="484" column="6" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/services/printerservice.js" />
+      <jump line="360" column="50" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="314" column="6" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="222" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,52 +523,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>PUT</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>settings</text>
+        <text>delPrinter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIGJvZHk6IHBhcmFtLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogZGVsUHJpbnRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuaYvuekuumhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3RoZU9yZGVyJywgewogICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5pi+56S66aG65bqPJyB9XSwKICAgICAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkLnRoZU9yZGVyLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MjB9IC8+KX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpc1Nob3c6IGZpZWxkcy5pc1Nob3cgPyAxIDogMCwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDUgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5YiG57G75ZCN56ewIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgIHJ1bGVzOiBbeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+WQjeensOS4jeiDveS4uuepuicgfV0sCiAgICAgICAgICBpbml0aWFsVmFsdWU6IHJlY29yZC5uYW1lLAogICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiAvPil9CiAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZXJzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDUgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5piv5ZCm5pi+56S6Ij4qL30KICAgICAgey8qe2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2lzU2hvdycsIHsqL30KICAgICAgey8qcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36YCJ5oupJyB9XSwqL30KICAgICAgey8qaW5pdGlhbFZhbHVlOiByZWNvcmQuaXNTaG93ID09PSAxLCovfQogICAgICB7Lyp9KSg8U3dpdGNoKi99CiAgICAgIHsvKmNoZWNrZWRDaGlsZHJlbj0i5pi+56S6IiovfQogICAgICB7Lyp1bkNoZWNrZWRDaGlsZHJlbj0i6ZqQ6JePIiovfQogICAgICB7LypkZWZhdWx0Q2hlY2tlZD17cmVjb3JkLmlzU2hvdyA9PT0gMX0qL30KICAgICAgey8qLz4sKi99CiAgICAgIHsvKil9Ki99CiAgICAgIHsvKjwvRm9ybUl0ZW0+Ki99Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQsICdbID09PT09IHJlY29yZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfnu4jnq6/lj7cnLAogICAgICBkYXRhSW5kZXg6ICdzZXR0aW5ncy50ZXJtaW5hbElkJywKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAn6aaW6aG15pi+56S6JywKICAgICAgZGF0YUluZGV4OiAnaXNTaG93JywKICAgICAgc29ydGVyOiB0cnVlLAogICAgICByZW5kZXI6ICh2YWwsIHJlY29yZCkgPT4KICAgICAgICA8U3dpdGNoCiAgICAgICAgICBvbkNoYW5nZT17KGZsYWcpID0+IHsKICAgICAgICAgICAgdGhpcy5zd2l0Y2hTaG93SGlkZShyZWNvcmQuaWQsIGZsYWcpOwogICAgICAgICAgfX0KICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgY2hlY2tlZENoaWxkcmVuPSLmmL7npLoiCiAgICAgICAgICB1bkNoZWNrZWRDaGlsZHJlbj0i6ZqQ6JePIgogICAgICAgICAgZGVmYXVsdENoZWNrZWQ9e3ZhbCA9PT0gMX0KICAgICAgICAvPiwKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICAgIDwvUm93Pgo=</text>
+        <text encoding="base64">CiAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuaYvuekuumhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3RoZU9yZGVyJywgewogICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn6K+36L6T5YWl5pi+56S66aG65bqPJyB9XSwKICAgICAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkLnRoZU9yZGVyLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MjB9IC8+KX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Um93IGd1dHRlcj17OH0+CiAgICAgICAgICAgICAgICA8Q29sIHNwYW49ezh9Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>settings</last-search>
+      <last-search encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -576,8 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
-        <entry>Image</entry>
         <entry>select</entry>
         <entry>Option</entry>
         <entry encoding="base64">XDxDcmVhdGVGb3JtXD4=</entry>
@@ -596,6 +594,8 @@
         <entry>setting</entry>
         <entry>columns</entry>
         <entry>settings</entry>
+        <entry encoding="base64">XDxoYW5kbGVNb2RcPg==</entry>
+        <entry encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
