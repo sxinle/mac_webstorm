@@ -70,12 +70,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" timestamp="1550630658043">
-        <mark key="'" line="127" column="29" />
-        <mark key="[" line="118" column="19" />
-        <mark key="]" line="118" column="76" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" timestamp="1550634004501">
+        <mark key="'" line="119" column="41" />
+        <mark key="[" line="119" column="18" />
+        <mark key="]" line="119" column="18" />
+        <mark key="^" line="119" column="18" />
+        <mark key="." line="119" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/supplier/EditDelivery.js" timestamp="1550051808657">
         <mark key="'" line="219" column="21" />
@@ -300,7 +300,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550631659569">
+      <file name="/Dummy.txt" timestamp="1550634078167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1550216149720">
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="2" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="306" column="38" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="235" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="117" column="8" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
@@ -492,7 +491,6 @@
       <jump line="109" column="82" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
       <jump line="14" column="49" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
-      <jump line="116" column="37" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/.gitignore" />
       <jump line="35" column="22" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
@@ -514,6 +512,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/utils/authority.js" />
       <jump line="19" column="5" filename="$USER_HOME$/workspace/pproj/to-admin/src/models/user.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/models/user.js" />
+      <jump line="116" column="13" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
+      <jump line="118" column="41" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,13 +523,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>Image,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50VXNlclw+</text>
+        <text>Image</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGRlbGF5IGZyb20gJ3VtaS9keW5hbWljJzsK</text>
+      <register name="0" type="4">
+        <text>Image</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -566,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50VXNlclw+</last-search>
+      <last-search>Image</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50VXNlclw+</last-pattern>
+      <last-pattern>Image</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -576,7 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Table</entry>
         <entry encoding="base64">XDxleHBhbmRlZFJvd1JlbmRlclw+</entry>
         <entry>expand</entry>
         <entry encoding="base64">XDxkZXRhaWxzXD4=</entry>
@@ -596,6 +595,7 @@
         <entry encoding="base64">XDxteVN0eWxlc1w+</entry>
         <entry>Username</entry>
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
+        <entry>Image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
