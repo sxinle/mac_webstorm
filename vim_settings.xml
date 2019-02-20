@@ -182,7 +182,8 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" timestamp="1550657192350">
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" timestamp="1550657933620">
+        <mark key="'" line="44" column="16" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -318,12 +319,12 @@
       <file name="/Dummy.txt" timestamp="1550651242897">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1550657306742">
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1550657970214">
         <mark key="'" line="141" column="12" />
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="129" column="55" />
-        <mark key="." line="129" column="55" />
-        <mark key="^" line="129" column="55" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1550216149720">
         <mark key="'" line="154" column="38" />
@@ -424,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="6" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="302" column="36" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="301" column="35" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="381" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
@@ -524,6 +524,7 @@
       <jump line="2" column="25" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="129" column="36" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="141" column="12" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
+      <jump line="44" column="16" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,10 +534,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rm9ybWF0dGVkTWVzc2FnZSwg</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYWxlc0RhdGFcPg==</text>
+        <text>今日</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgd2hpdGVTcGFjZTogJ25vd3JhcCcsIG92ZXJmbG93OiAnaGlkZGVuJyB9fT4KICAgICAgICAgICAgPFRyZW5kIGZsYWc9InVwIj4KICAgICAgICAgICAgICA8c3Bhbj7ku4rml6XmlrDlop48L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMudHJlbmRUZXh0fT4xMjwvc3Bhbj4KICAgICAgICAgICAgPC9UcmVuZD4KICAgICAgICAgIDwvZGl2Pgo=</text>
@@ -576,9 +577,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYWxlc0RhdGFcPg==</last-search>
+      <last-search>今日</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYWxlc0RhdGFcPg==</last-pattern>
+      <last-pattern>今日</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateStatus</entry>
         <entry>getFieldDecorator</entry>
         <entry encoding="base64">XDxNb2RpZnlGb3JtXD4=</entry>
         <entry>setting</entry>
@@ -606,6 +606,7 @@
         <entry encoding="base64">XDxTYWxlc0NhcmRcPg==</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry encoding="base64">XDxzYWxlc0RhdGFcPg==</entry>
+        <entry>今日</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
