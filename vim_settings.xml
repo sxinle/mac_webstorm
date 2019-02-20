@@ -280,10 +280,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="112" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1550642153649">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="10" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1550646085476">
+        <mark key="[" line="254" column="49" />
+        <mark key="]" line="254" column="50" />
+        <mark key="." line="254" column="50" />
+        <mark key="^" line="254" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/config/config.js" timestamp="1550631087705">
         <mark key="'" line="113" column="0" />
@@ -413,15 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="31" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="33" column="6" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="46" column="8" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="192" column="55" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="144" column="30" filename="$USER_HOME$/workspace/pproj/cntp-frontend/config/router.config.js" />
-      <jump line="75" column="17" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/pages/User/Login.js" />
-      <jump line="87" column="39" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/pages/User/Login.js" />
-      <jump line="26" column="11" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/pages/User/Login.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.less" />
       <jump line="11" column="15" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.less" />
       <jump line="86" column="10" filename="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" />
@@ -513,6 +505,15 @@
       <jump line="21" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/models/user.js" />
       <jump line="11" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/models/shop.js" />
       <jump line="255" column="2" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="247" column="25" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="25" column="10" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="110" column="20" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="140" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="151" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="166" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="191" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="199" column="20" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="215" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,52 +523,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>号</text>
+        <text>业</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVBZGRcPg==</text>
+        <text>getFieldDecorator</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDYgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5omT5Y2w5py657uI56uv5Y+3Ij4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignc2V0dGluZ3MudGVybWluYWxJZCcsIHsKICAgICAgICAgIHJ1bGVzOiBbeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+e7iOerr+WPt+S4jeiDveS4uuepuicgfV0sCiAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLkvovvvJo0MDA0NTY0MTcwIiAvPil9CiAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuiQpeS4muaXtumXtCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDYgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5ZCN56ewIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgIHJ1bGVzOiBbeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+WQjeensOS4jeiDveS4uuepuicgfV0sCiAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLkvovvvJrmgLvlj7AiIC8+KX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Um93IGd1dHRlcj17OH0+CiAgICAgICAgICAgICAgICA8Q29sIHNwYW49ezh9Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29sIHNwYW49ezh9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYoZmFsc2UpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb2wgc3Bhbj17OH0+CiAgICAgICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignb3BlblRpbWUnLCB7CiAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiBteVNob3Aub3BlblRpbWUgPyBtb21lbnQobXlTaG9wLm9wZW5UaW1lLnNwbGl0KCcgJylbMV0sIGZvcm1hdCkgOiBtb21lbnQoJzAwOjAwJywgZm9ybWF0KSwKICAgICAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICAgICAgPFRpbWVQaWNrZXIgcGxhY2Vob2xkZXI9IuW8gOW6l+aXtumXtCIgZm9ybWF0PXtmb3JtYXR9IC8+LAogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgPC9Db2w+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDYgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5ZCN56ewIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgIHJ1bGVzOiBbeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+WQjeensOS4jeiDveS4uuepuicgfV0sCiAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLkvovvvJrmgLvlj7AiIC8+KX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2UgPSB5aWVsZCBjYWxsKHNlcnZpY2UuYWRkUHJpbnRlciwgcGF5bG9hZCk7CiAgICAgIGlmIChjYWxsYmFjaykgY2FsbGJhY2socmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCd4eCcpOwogICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVBZGRcPg==</last-search>
+      <last-search>getFieldDecorator</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVBZGRcPg==</last-pattern>
+      <last-pattern>getFieldDecorator</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -575,9 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93QXV0aFw+</entry>
-        <entry>login</entry>
-        <entry encoding="base64">XDxsb2dpbkZvcm1cPg==</entry>
         <entry encoding="base64">XDxUYWJDaGlsZHJlblw+</entry>
         <entry>margin</entry>
         <entry encoding="base64">XDxteVN0eWxlc1w+</entry>
@@ -595,6 +593,9 @@
         <entry>fetchGoodsTypes</entry>
         <entry>fetchprinter</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRcPg==</entry>
+        <entry>Form.Item</entry>
+        <entry>validateStatus</entry>
+        <entry>getFieldDecorator</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
