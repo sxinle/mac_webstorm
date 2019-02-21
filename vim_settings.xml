@@ -75,6 +75,13 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" timestamp="1550734679903">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/components/Login/index.js" timestamp="1550634004501">
         <mark key="'" line="119" column="41" />
         <mark key="[" line="119" column="18" />
@@ -201,6 +208,9 @@
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Authorized.js" timestamp="1550630048966">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/package.json" timestamp="1550734076280">
+        <mark key="'" line="27" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/models/user.js" timestamp="1550635044618">
         <mark key="'" line="22" column="27" />
@@ -380,6 +390,11 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1550734216809">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" timestamp="1550051801955">
         <mark key="'" line="120" column="6" />
         <mark key="[" line="79" column="0" />
@@ -447,12 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="19" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
-      <jump line="259" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
-      <jump line="144" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
-      <jump line="182" column="9" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
-      <jump line="167" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
-      <jump line="266" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="239" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="189" column="9" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="180" column="9" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
@@ -547,6 +556,12 @@
       <jump line="4" column="16" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/User/Login.js" />
       <jump line="206" column="30" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/workspace/pproj/h5_jfk/package.json" />
+      <jump line="27" column="8" filename="$USER_HOME$/workspace/pproj/h5_jfk/package.json" />
+      <jump line="12" column="33" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" />
+      <jump line="11" column="20" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -556,52 +571,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>token, timestamp, nonceStr</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxteVNob3BcPg==</text>
+        <text encoding="base64">XDxtZDVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeWllbGQgY2FsbChkZWxheSwgNTAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJodHRwOi8vbG9jYWxob3N0OjgwODAvYXBpLXJvb3Qvd2l0aGRyYXcvcmVxV2l0aGRyYXc/a2V5PThjM2E4YmZkNDI3Yzk5NjA0ODY1NTQ2ZjA4MTNiOGRkIj7lj5Hotbfmj5DnjrA8L2E+Cg==</text>
+        <text encoding="base64">ICBqawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gY29uc3QgYmFzZVVybCA9ICdodHRwOi8vMTE0LjExNS4xMzguMTAyOjE4MDgwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGkgPSAxOwogICAgICB3aGlsZSAoIWdldFRva2VuKCkgJiYgaSA8IDE1KSB7CiAgICAgICAgaSArPSAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGkgPSAxOwogICAgICB3aGlsZSAoIWdldFRva2VuKCkgJiYgaSA8IDE1KSB7CiAgICAgICAgaSArPSAxOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHRyYWRlRXhwKGxpbWl0LCB0cmFkZURhdGVTdHIpIHsKICAgIGNvbnN0IG5vdyA9IG1vbWVudChuZXcgRGF0ZSgpKTsKICAgIGNvbnN0IHRyYWRlRGF0ZSA9IG1vbWVudCh0cmFkZURhdGVTdHIsICdZWVlZLU1NLUREIEhIOm1tOnNzJykuYWRkKGxpbWl0LCAnZGF5cycpOwoKICAgIC8vIGNvbnN0IGR1ciA9IG5vdy5pc0FmdGVyKHRyYWRlRGF0ZSkgPyBub3cuZGlmZih0cmFkZURhdGUsICdkYXlzJykgOiAwOwogICAgLy8gcmV0dXJuIGR1ciA+IGxpbWl0OwoKICAgIHJldHVybiBub3cuaXNBZnRlcih0cmFkZURhdGUpOwoKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEV4cEluZm8obGltaXQsIHRyYWRlRGF0ZVN0cikgewogICAgY29uc3Qgbm93ID0gbW9tZW50KG5ldyBEYXRlKCkpOwogICAgY29uc3QgdHJhZGVEYXRlID0gbW9tZW50KHRyYWRlRGF0ZVN0ciwgJ1lZWVktTU0tREQgSEg6bW06c3MnKS5hZGQobGltaXQsICdkYXlzJyk7CgogICAgbGV0IGV4cExpbWl0RGF0ZSA9ICcnOwoKICAgIGxldCBkdXJEYXkgPSAwOwogICAgbGV0IGR1ckhvdXJzID0gMDsKICAgIGxldCBkdXJNaW51dGVzID0gMDsKCiAgICBpZiAobm93LmlzQWZ0ZXIodHJhZGVEYXRlKSkgewogICAgICAgIGR1ckRheSA9IG5vdy5kaWZmKHRyYWRlRGF0ZSwgJ2RheXMnKTsKICAgICAgICBkdXJIb3VycyA9IG5vdy5kaWZmKHRyYWRlRGF0ZSwgJ2hvdXJzJyk7CiAgICAgICAgZHVyTWludXRlcyA9IG5vdy5kaWZmKHRyYWRlRGF0ZSwgJ21pbnV0ZXMnKTsKICAgIH0gZWxzZSB7CiAgICAgICAgZHVyRGF5ID0gdHJhZGVEYXRlLmRpZmYobm93LCAnZGF5cycpOwogICAgICAgIGR1ckhvdXJzID0gdHJhZGVEYXRlLmRpZmYobm93LCAnaG91cnMnKTsKICAgICAgICBkdXJNaW51dGVzID0gdHJhZGVEYXRlLmRpZmYobm93LCAnbWludXRlcycpOwogICAgfQoKICAgIGlmIChkdXJEYXkgPiAwKSB7CiAgICAgICAgZXhwTGltaXREYXRlID0gZHVyRGF5ICsgJ+WkqSc7CiAgICB9IGVsc2UgaWYgKGR1ckhvdXJzID4gMCkgewogICAgICAgIGV4cExpbWl0RGF0ZSA9IGR1ckhvdXJzICsgJ+Wwj+aXtic7CiAgICB9IGVsc2UgewogICAgICAgIGV4cExpbWl0RGF0ZSA9IGR1ck1pbnV0ZXMgKyAn5YiG6ZKfJzsKICAgIH0KCiAgICBjb25zdCByZXQgPSBleHBMaW1pdERhdGUuaW5kZXhPZignTmFOJykgIT09IC0xID8gJycgOiBg6K6i5Y2V5pyJ5pWI5pyf6L+Y5pyJJHtleHBMaW1pdERhdGV9YDsKCiAgICByZXR1cm4gcmV0OwogICAgLy8gbW9tZW50LmR1cmF0aW9uKCkuYXNIb3VycygpOwogICAgLy8gbW9tZW50LmR1cmF0aW9uKCkuYXNNaW51dGVzKCk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBsb2dPdXQoKSB7CiAgICBBc3luY1N0b3JhZ2UuY2xlYXIoKTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSwgNTAwKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFVzZXIoKSB7CiAgICByZXR1cm4gQXN5bmNTdG9yYWdlLmdldEl0ZW0oJ3VzZXInKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldFRva2VuKCkgewogICAgcmV0dXJuIEFzeW5jU3RvcmFnZS5nZXRJdGVtKCd0b2tlbicpOwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKT0+ewo=</text>
+        <text encoding="base64">aW1wb3J0IHtBc3luY1N0b3JhZ2V9IGZyb20gInJlYWN0LW5hdGl2ZSI7CmltcG9ydCBtZDUgZnJvbSAicmVhY3QtbmF0aXZlLW1kNSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJodHRwOi8vbG9jYWxob3N0OjgwODAvYXBpLXJvb3Qvd2l0aGRyYXcvcmVxV2l0aGRyYXc/a2V5PThjM2E4YmZkNDI3Yzk5NjA0ODY1NTQ2ZjA4MTNiOGRkIj7lj5Hotbfmj5DnjrA8L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNhbGxiYWNrKSBjYWxsYmFjayhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxteVNob3BcPg==</last-search>
+      <last-search encoding="base64">XDxtZDVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxteVNob3BcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZDVcPg==</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -609,9 +624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>settings</entry>
-        <entry encoding="base64">XDxoYW5kbGVNb2RcPg==</entry>
-        <entry encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</entry>
         <entry>sorter</entry>
         <entry>area</entry>
         <entry>线上</entry>
@@ -629,6 +641,9 @@
         <entry encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</entry>
         <entry encoding="base64">XDx2aXNpdERhdGFcPg==</entry>
         <entry encoding="base64">XDxteVNob3BcPg==</entry>
+        <entry>moment</entry>
+        <entry>md5</entry>
+        <entry encoding="base64">XDxtZDVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
