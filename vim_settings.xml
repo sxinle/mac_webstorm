@@ -303,11 +303,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jfk/config/dev.js" timestamp="1550820775185">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/config/dev.js" timestamp="1550821633283">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1550817199125">
         <mark key="[" line="0" column="0" />
@@ -435,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="10" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
-      <jump line="129" column="11" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="130" column="24" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="131" column="24" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="132" column="8" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
@@ -535,6 +534,8 @@
       <jump line="111" column="11" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="112" column="30" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/workspace/pproj/h5_jfk/config/dev.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/config/dev.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,36 +554,36 @@
         <text encoding="base64">ICBoNTogewogICAgZGV2U2VydmVyOiB7CiAgICAgIGhvc3Q6ICcwLjAuMC4wJywKICAgICAgcG9ydDogMTAwODYKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRldlNlcnZlcjogewogICAgICBob3N0OiAnMC4wLjAuMCcsCiAgICAgIHBvcnQ6IDEwMDg2CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoNTogewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRldlNlcnZlcjogewogICAgICBkaXNhYmxlSG9zdENoZWNrOiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">ICBoNTogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRldlNlcnZlcjogewogICAgICBkaXNhYmxlSG9zdENoZWNrOiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzeXNDb2RlOiB0aGlzLiRyb3V0ZXIucGFyYW1zLnN5c0NvZGUgfHwgJ1RFTEVDT00nLAogICAgICBzdG9yZUNvZGU6IHRoaXMuJHJvdXRlci5wYXJhbXMuc3RvcmVDb2RlIHx8ICdTVFIyMDE4MTAzMDAwMDInLAogICAgfSwgKCkgPT4gewogICAgICB0aGlzLmZldGNoTG9jUHJvdnMoKTsKICAgICAgdGhpcy5mZXRjaEFkZHJQcm92cygpOwogICAgICB0aGlzLmZldGNoUHJvZHMoKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>true, false, {
 
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldExvY2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
