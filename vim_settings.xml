@@ -368,7 +368,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550889898915">
+      <file name="/Dummy.txt" timestamp="1550895516252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1550748123522">
@@ -431,12 +431,12 @@
         <mark key="." line="275" column="17" />
         <mark key="^" line="275" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1550893262746">
-        <mark key="'" line="113" column="19" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="180" column="29" />
+      <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" timestamp="1550895318537">
+        <mark key="'" line="204" column="18" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/JiuJiang/EditDelivery.js" timestamp="1550750416811">
         <mark key="'" line="120" column="6" />
@@ -515,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="51" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="442" column="26" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="401" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="76" column="26" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -615,6 +614,7 @@
       <jump line="532" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="141" column="2" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="113" column="19" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
+      <jump line="204" column="18" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -624,52 +624,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaFByb2RzXD4=</text>
+        <text>查询</text>
       </register>
-      <register name="0" type="4">
-        <text>查询城市列表...</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmZldGNoTG9jUHJvdnMoKTsKICAgICAgICB0aGlzLmZldGNoQWRkclByb3ZzKCk7CiAgICAgICAgdGhpcy5mZXRjaFByb2RzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnNpbXBsZVRvYXN0KCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRyLmNpdHkgPSAnJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqawo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLnNpbXBsZVRvYXN0KEpTT04uc3RyaW5naWZ5KHJlc3ApKTsK</text>
+        <text encoding="base64">ICAgICAgICBVdGlsLnBvc3QoYXBpLkxPQ19DT0RFXzJfTkFNRSwge3Byb3ZpbmNlTmFtZTogYWRkci5wcm92aW5jZSxlcGFyY2h5TmFtZSA6YWRkci5jaXR5fSkgLnRoZW4ocmVzcCA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3AsICdbID09PT09IOecgeS7veWQjeensOi9rOe8lueggSA9PT09PSBdJyk7CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgIGluaXRMb2NQcm92OiByZXNwLmRhdGEuZGF0YS5QUk9WSU5DRV9DT0RFLAogICAgICAgICAgICAgIGluaXRMb2NDaXR5OiByZXNwLmRhdGEuZGF0YS5FUEFSQ0hZX0NPREUsCiAgICAgICAgICAgIH0sICgpID0+IHsKICAgICAgICAgICAgICB0aGlzLmZldGNoTG9jUHJvdnMoKTsKICAgICAgICAgICAgICB0aGlzLmZldGNoQWRkclByb3ZzKCk7CiAgICAgICAgICAgICAgdGhpcy5mZXRjaFByb2RzKCk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogKHdpbmRvd0hlaWdodCA+IDAgPyB3aW5kb3dIZWlnaHQgLyAyIDogMzQwKSArICdweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWRkci5wcm92aW5jZSAmJiBhZGRyLnByb3ZpbmNlICE9PSAnJyAmJiBhZGRyLmNpdHkgJiYgYWRkci5jaXR5ICE9PSAnJykgewogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhcmFtLnByb3ZpbmNlTmFtZSA9IGFkZHIucHJvdmluY2U7IHBhcmFtLmVwYXJjaHlOYW1lID0gYWRkci5jaXR5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJhbSA9IHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNjcm9sbEhlaWdodCA9IHdpbmRvd0hlaWdodCA+IDAgPyB3aW5kb3dIZWlnaHQgLyAzICogMiA6IDM0MDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWRkci5wcm92aW5jZSAmJiBhZGRyLnByb3ZpbmNlICE9PSAnJyAmJiBhZGRyLmNpdHkgJiYgYWRkci5jaXR5ICE9PSAnJykgewogICAgICAgICAgcGFyYW0ucHJvdmluY2VOYW1lID0gYWRkci5wcm92aW5jZTsKICAgICAgICAgIHBhcmFtLmVwYXJjaHlOYW1lID0gYWRkci5jaXR5OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvd0hlaWdodCwgJ1sgPT09PT0gd2luZG93SGVpZ2h0ID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBVdGlsLnBvc3QoYXBpLkxPQ19DT0RFXzJfTkFNRSwgcGFyYW0pIC50aGVuKHJlc3AgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaFByb2RzXD4=</last-search>
+      <last-search>查询</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaFByb2RzXD4=</last-pattern>
+      <last-pattern>查询</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
@@ -677,9 +677,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NQcm92c1w+</entry>
-        <entry>AtFloat</entry>
-        <entry>收货地址</entry>
         <entry encoding="base64">XDxmZXRjaEFkZHJQcm92c1w+</entry>
         <entry>toast</entry>
         <entry encoding="base64">XDxzaW1wbGVUb2FzdFw+</entry>
@@ -697,6 +694,9 @@
         <entry encoding="base64">XDxsb2NTZWxlY3RlZFByb3ZcPg==</entry>
         <entry encoding="base64">XDxwcm9kc1w+</entry>
         <entry encoding="base64">XDxmZXRjaFByb2RzXD4=</entry>
+        <entry encoding="base64">XDxpbml0TG9jQ2l0eVw+</entry>
+        <entry>查询城市</entry>
+        <entry>查询</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
