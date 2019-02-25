@@ -236,10 +236,12 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1551064586910">
-        <mark key="[" line="669" column="15" />
-        <mark key="]" line="669" column="16" />
-        <mark key="." line="669" column="16" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1551066721916">
+        <mark key="'" line="568" column="42" />
+        <mark key="[" line="546" column="24" />
+        <mark key="]" line="546" column="25" />
+        <mark key="." line="546" column="25" />
+        <mark key="^" line="532" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/shopservice.js" timestamp="1550729938081">
         <mark key="[" line="4" column="0" />
@@ -514,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="13" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="171" column="61" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="233" column="6" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="574" column="13" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -614,6 +615,7 @@
       <jump line="255" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Dashboard/Workplace.js" />
       <jump line="59" column="27" filename="$USER_HOME$/workspace/pproj/to-shop/src/models/login.js" />
       <jump line="51" column="25" filename="$USER_HOME$/workspace/pproj/to-admin/src/models/login.js" />
+      <jump line="568" column="42" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -623,60 +625,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>force</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>statis</text>
+        <text>添加商品</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgYmFzZVVybCA9ICdodHRwczovL3Rvb2xzLmJsZDM2NS5jb20nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXNpY0xheW91dCcsICdbID09PT09IGJhc2ljTGF5b3V0ID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTogMSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE5vdGljZUljb24gZnJvbSAnLi4vTm90aWNlSWNvbic7CmltcG9ydCBIZWFkZXJTZWFyY2ggZnJvbSAnLi4vSGVhZGVyU2VhcmNoJzsKaW1wb3J0IFNlbGVjdExhbmcgZnJvbSAnLi4vU2VsZWN0TGFuZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTogMSwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXNpY0xheW91dCcsICdbID09PT09IGJhc2ljTGF5b3V0ID09PT09IF0nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm91dGU6IHsgcm91dGVzLCBhdXRob3JpdHkgfSwK</text>
+        <text encoding="base64">aW1wb3J0IE5vdGljZUljb24gZnJvbSAnLi4vTm90aWNlSWNvbic7CmltcG9ydCBIZWFkZXJTZWFyY2ggZnJvbSAnLi4vSGVhZGVyU2VhcmNoJzsKaW1wb3J0IFNlbGVjdExhbmcgZnJvbSAnLi4vU2VsZWN0TGFuZyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGNvbnN0IHsKICAgICAgZGlzcGF0Y2gsCiAgICAgIHJvdXRlOiB7IHJvdXRlcywgYXV0aG9yaXR5IH0sCiAgICB9ID0gdGhpcy5wcm9wczsKCiAgICBjb25zb2xlLmxvZygnYmFzaWNMYXlvdXQnLCAnWyA9PT09PSBiYXNpY0xheW91dCA9PT09PSBdJyk7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd1c2VyL2ZldGNoQ3VycmVudCcsCiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXNpY0xheW91dCcsICdbID09PT09IGJhc2ljTGF5b3V0ID09PT09IF0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9qZWN0LAogIGFjdGl2aXRpZXMsCiAgY2hhcnQsCiAgY3VycmVudFVzZXJMb2FkaW5nOiBsb2FkaW5nLmVmZmVjdHNbJ3VzZXIvZmV0Y2hDdXJyZW50J10sCiAgcHJvamVjdExvYWRpbmc6IGxvYWRpbmcuZWZmZWN0c1sncHJvamVjdC9mZXRjaE5vdGljZSddLAogIGFjdGl2aXRpZXNMb2FkaW5nOiBsb2FkaW5nLmVmZmVjdHNbJ2FjdGl2aXRpZXMvZmV0Y2hMaXN0J10sCg==</text>
+        <text encoding="base64">ICAgICAgcm91dGU6IHsgcm91dGVzLCBhdXRob3JpdHkgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGNvbnN0IHsKICAgICAgZGlzcGF0Y2gsCiAgICAgIHJvdXRlOiB7IHJvdXRlcywgYXV0aG9yaXR5IH0sCiAgICB9ID0gdGhpcy5wcm9wczsKCiAgICBjb25zb2xlLmxvZygnYmFzaWNMYXlvdXQnLCAnWyA9PT09PSBiYXNpY0xheW91dCA9PT09PSBdJyk7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICd1c2VyL2ZldGNoQ3VycmVudCcsCiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sIDMwMCk7Cg==</text>
+        <text encoding="base64">ICBwcm9qZWN0LAogIGFjdGl2aXRpZXMsCiAgY2hhcnQsCiAgY3VycmVudFVzZXJMb2FkaW5nOiBsb2FkaW5nLmVmZmVjdHNbJ3VzZXIvZmV0Y2hDdXJyZW50J10sCiAgcHJvamVjdExvYWRpbmc6IGxvYWRpbmcuZWZmZWN0c1sncHJvamVjdC9mZXRjaE5vdGljZSddLAogIGFjdGl2aXRpZXNMb2FkaW5nOiBsb2FkaW5nLmVmZmVjdHNbJ2FjdGl2aXRpZXMvZmV0Y2hMaXN0J10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>statis</last-search>
+      <last-search>添加商品</last-search>
       <last-offset />
-      <last-pattern>statis</last-pattern>
+      <last-pattern>添加商品</last-pattern>
       <last-replace>`${prefix}\/api-node</last-replace>
       <last-substitute>`\/api-node</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NTZWxlY3RlZFByb3ZcPg==</entry>
         <entry encoding="base64">XDxwcm9kc1w+</entry>
         <entry encoding="base64">XDxpbml0TG9jQ2l0eVw+</entry>
         <entry>查询城市</entry>
@@ -696,6 +697,7 @@
         <entry>请选择号码</entry>
         <entry encoding="base64">XDxxdWVyeUN1cnJlbnRcPg==</entry>
         <entry>statis</entry>
+        <entry>添加商品</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
