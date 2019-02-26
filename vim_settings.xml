@@ -397,6 +397,11 @@
         <mark key="." line="17" column="13" />
         <mark key="^" line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/common/router.js" timestamp="1551146888374">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="117" column="6" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/config/router.config.js" timestamp="1550634839983">
         <mark key="'" line="312" column="8" />
         <mark key="[" line="275" column="11" />
@@ -473,6 +478,13 @@
         <mark key="." line="311" column="20" />
         <mark key="^" line="311" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" timestamp="1551146323135">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="209" column="50" />
+        <mark key="]" line="209" column="52" />
+        <mark key="." line="209" column="52" />
+        <mark key="^" line="209" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/models/user.js" timestamp="1550631066856">
         <mark key="'" line="18" column="20" />
         <mark key="[" line="21" column="0" />
@@ -489,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="883" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="12" column="40" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/index.html" />
       <jump line="83" column="32" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/index.html" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
@@ -589,6 +600,7 @@
       <jump line="203" column="12" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="200" column="7" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
       <jump line="247" column="2" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -598,7 +610,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>121</text>
       </register>
       <register name="/" type="4">
         <text>公告</text>
@@ -607,34 +619,34 @@
         <text>canhe</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVvnvJbnoIHnrqHnkIZdPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICAnLyc6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsndXNlcicsICdsb2dpbiddLCAoKSA9PiBpbXBvcnQoJy4uL2xheW91dHMvQmFzaWNMYXlvdXQnKSksCiAgICB9LAogICAgJy9jb2RlL3J1bGUnOiB7CiAgICAgIGNvbXBvbmVudDogZHluYW1pY1dyYXBwZXIoYXBwLCBbJ3J1bGUnXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvUHJpemUvUnVsZXNQYWdlJykpLAogICAgfSwKICAgICcvY29kZS9vcmRlcic6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsnb3JkZXInLCAnYmF0Y2gnLCAndXNlcicsICdydWxlJ10sICgpID0+CiAgICAgICAgaW1wb3J0KCcuLi9yb3V0ZXMvUHJpemUvT3JkZXJzUGFnZScpCiAgICAgICksCiAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3BhbnsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgc3BhbnsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVGV4dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxMHB4OwogICAgICBjb2xvcjpyZWQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxMHB4OwogICAgICBjb2xvcjpyZWQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
