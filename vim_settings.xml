@@ -318,12 +318,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/goodstypes/onegoods/onegoods.scss" timestamp="1551233194294">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551244668545">
-        <mark key="'" line="155" column="2" />
-        <mark key="[" line="283" column="11" />
-        <mark key="]" line="283" column="22" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551352427539">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="287" column="31" />
+        <mark key="]" line="287" column="31" />
+        <mark key="." line="287" column="31" />
+        <mark key="^" line="287" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/layouts/BasicLayout.js" timestamp="1551019909471">
         <mark key="'" line="234" column="0" />
@@ -414,7 +414,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551343704611">
+      <file name="/Dummy.txt" timestamp="1551352005926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1551077953667">
@@ -430,11 +430,6 @@
         <mark key="]" line="385" column="23" />
         <mark key="." line="385" column="15" />
         <mark key="^" line="78" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/.temp/components/orderitem/orderitem.scss" timestamp="1551330155913">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1551329480312">
         <mark key="'" line="118" column="80" />
@@ -573,8 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="41" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
-      <jump line="145" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="179" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="153" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="161" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
@@ -673,6 +666,8 @@
       <jump line="41" column="14" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
       <jump line="1" column="17" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
+      <jump line="308" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -682,7 +677,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>,'area']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVNZXNzYWdlXD4=</text>
@@ -731,7 +726,7 @@
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
