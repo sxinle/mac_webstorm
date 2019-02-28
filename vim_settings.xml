@@ -221,8 +221,8 @@
         <mark key="." line="12" column="78" />
         <mark key="^" line="12" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" timestamp="1551353376511">
-        <mark key="'" line="211" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" timestamp="1551371343560">
+        <mark key="'" line="206" column="30" />
         <mark key="[" line="227" column="27" />
         <mark key="]" line="227" column="27" />
         <mark key="^" line="227" column="27" />
@@ -298,6 +298,12 @@
         <mark key="]" line="34" column="23" />
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/utils/request.js" timestamp="1551372864136">
+        <mark key="'" line="140" column="10" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/Areaadmin.js" timestamp="1551262410239">
         <mark key="'" line="90" column="12" />
@@ -383,6 +389,9 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/request.js" timestamp="1551372896837">
+        <mark key="'" line="156" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jhWebApp/scene/ProgressBar.js" timestamp="1550140852250">
         <mark key="'" line="103" column="42" />
         <mark key="[" line="74" column="0" />
@@ -435,7 +444,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551371293580">
+      <file name="/Dummy.txt" timestamp="1551372900580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1551077953667">
@@ -588,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="4" filename="$USER_HOME$/workspace/pproj/to-admin/src/models/socketpush.js" />
-      <jump line="7" column="14" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="30" column="11" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="226" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="32" column="13" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
@@ -688,6 +693,10 @@
       <jump line="28" column="35" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="125" column="9" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="92" column="38" filename="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="206" column="30" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/request.js" />
+      <jump line="140" column="10" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/request.js" />
+      <jump line="156" column="15" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -700,49 +709,49 @@
         <text>单</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50VXNlclw+</text>
+        <text encoding="base64">XDxjaGVja1N0YXR1c1w+</text>
       </register>
       <register name="0" type="4">
         <text>currentUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpZihmYWxzZSkgewogICAgCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHJvdXRlclJlZHV4LnB1c2goJy9zaG9wL29yZGVycycpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChjdXJyZW50VXNlci5hcmVhSWQgIT09IDApIHsvLyDljLrln5/nrqHnkIblkZjlj6rog73mn6XnnIvoh6rlt7HljLrln5/llYblrrYKICAgICAgcGF5bG9hZC5hcmVhSWQgPSBjdXJyZW50VXNlci5hcmVhSWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKHJvdXRlclJlZHV4LnB1c2goJy9zaG9wL29yZGVycycpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjdXJyZW50VXNlci5hcmVhSWQgIT09IDApIHsvLyDljLrln5/nrqHnkIblkZjlj6rog73mn6XnnIvoh6rlt7HljLrln5/llYblrrYKICAgICAgcGF5bG9hZC5hcmVhSWQgPSBjdXJyZW50VXNlci5hcmVhSWQ7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb2wgbWQ9ezh9IHNtPXsyNH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuaJgOWxnuWMuuWfnyI+CiAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdhcmVhSWQnKSgKICAgICAgICAgICAgICAgIDxTZWxlY3QgcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIgc3R5bGU9e3sgd2lkdGg6ICcxMDAlJyB9fT4KICAgICAgICAgICAgICAgICAge25vdEVtcHR5KGFyZWFEYXRhLmxpc3QpICYmCiAgICAgICAgICAgICAgICAgIGFyZWFEYXRhLmxpc3QubWFwKGFyZWEgPT4gPE9wdGlvbiBrZXk9e2FyZWEuaWR9IHZhbHVlPXthcmVhLmlkfT57YXJlYS5uYW1lfTwvT3B0aW9uPikKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+LAogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgICA8L0NvbD4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgbWQ9ezh9IHNtPXsyNH0+CiAgICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA1IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTUgfX0gbGFiZWw9IuaJgOWxnuWMuuWfnyI+CiAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdhcmVhSWQnKSgKICAgICAgICAgICAgICAgIDxTZWxlY3QgcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIgc3R5bGU9e3sgd2lkdGg6ICcxMDAlJyB9fT4KICAgICAgICAgICAgICAgICAge25vdEVtcHR5KGFyZWFEYXRhLmxpc3QpICYmCiAgICAgICAgICAgICAgICAgIGFyZWFEYXRhLmxpc3QubWFwKGFyZWEgPT4gPE9wdGlvbiBrZXk9e2FyZWEuaWR9IHZhbHVlPXthcmVhLmlkfT57YXJlYS5uYW1lfTwvT3B0aW9uPikKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+LAogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBoYW5kbGVNZXNzYWdlID0gbWVzc2FnZSA9PiB7CiAgICBjb25zb2xlLmxvZyhtZXNzYWdlLCAnWyA9PT09PSBtZXNzYWdlID09PT09IF0nKTsKICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zZXRQYXJhbXMoeyB0aXRsZTogbWVzc2FnZS5uYXRpdmVFdmVudC5kYXRhIH0pOwo=</text>
+        <text encoding="base64">ICBoYW5kbGVNZXNzYWdlID0gbWVzc2FnZSA9PiB7CiAgICBjb25zb2xlLmxvZyhtZXNzYWdlLCAnWyA9PT09PSBtZXNzYWdlID09PT09IF0nKTsKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50VXNlclw+</last-search>
+      <last-search encoding="base64">XDxjaGVja1N0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50VXNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja1N0YXR1c1w+</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
@@ -750,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order-info</entry>
         <entry>共两件</entry>
         <entry>应付</entry>
         <entry>商品信息</entry>
@@ -770,6 +778,7 @@
         <entry>statistic</entry>
         <entry encoding="base64">XDxmZXRjaFNob3BJbmZvc1w+</entry>
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
+        <entry encoding="base64">XDxjaGVja1N0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JweC9weC9n</entry>
