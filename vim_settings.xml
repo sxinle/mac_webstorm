@@ -442,7 +442,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="44" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/common/router.js" timestamp="1551263056552" />
       <file name="$USER_HOME$/workspace/pproj/to-shop/config/router.config.js" timestamp="1550634839983">
         <mark key="'" line="312" column="8" />
         <mark key="[" line="275" column="11" />
@@ -512,12 +511,12 @@
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" timestamp="1551234664784">
-        <mark key="'" line="371" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="132" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="136" column="135" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" timestamp="1551326892483">
+        <mark key="'" line="215" column="47" />
+        <mark key="[" line="215" column="49" />
+        <mark key="]" line="215" column="50" />
+        <mark key="." line="215" column="50" />
+        <mark key="^" line="247" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" timestamp="1551237962610">
         <mark key="'" line="189" column="0" />
@@ -538,12 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" />
-      <jump line="206" column="30" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
-      <jump line="226" column="16" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/workspace/pproj/to-shop/src/components/GlobalHeader/RightContent.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="273" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
       <jump line="52" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
@@ -638,6 +631,12 @@
       <jump line="53" column="38" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="49" column="18" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelNumber.js" />
       <jump line="28" column="5" filename="$USER_HOME$/workspace/pproj/jfans/app/models/card.js" />
+      <jump line="284" column="64" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="259" column="16" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="289" column="41" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="295" column="41" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="247" column="87" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="215" column="47" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -647,13 +646,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHJlc3AgJiYgcmVzcC5saXN0KSB8fCBbXSw=</text>
+        <text>sysInfo.windowHeight / 13</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUZWxlY29tUGhvbmVOdW1iZXJMaXN0XD4=</text>
+        <text encoding="base64">IDEz</text>
       </register>
       <register name="0" type="4">
-        <text>message</text>
+        <text>sysInfo.windowHeight / 13</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -692,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUZWxlY29tUGhvbmVOdW1iZXJMaXN0XD4=</last-search>
+      <last-search encoding="base64">IDEz</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUZWxlY29tUGhvbmVOdW1iZXJMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">IDEz</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
@@ -702,7 +701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>商品信息</entry>
         <entry>wx.getUser</entry>
         <entry encoding="base64">XDxzaG93QXV0aFw+</entry>
         <entry>允许</entry>
@@ -722,6 +720,7 @@
         <entry>message</entry>
         <entry>areaData</entry>
         <entry encoding="base64">XDxnZXRUZWxlY29tUGhvbmVOdW1iZXJMaXN0XD4=</entry>
+        <entry encoding="base64">IDEz</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JweC9weC9n</entry>
