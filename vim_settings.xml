@@ -234,12 +234,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1551608096632">
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1551608865280">
         <mark key="'" line="158" column="10" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="92" />
-        <mark key="." line="243" column="89" />
-        <mark key="^" line="46" column="25" />
+        <mark key="[" line="243" column="89" />
+        <mark key="]" line="243" column="97" />
+        <mark key="." line="243" column="97" />
+        <mark key="^" line="243" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/orderservice.js" timestamp="1550493000105">
         <mark key="'" line="9" column="0" />
@@ -497,12 +497,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/goodstypes/onegoods/onegoods.scss" timestamp="1551233194294">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1551608322227">
-        <mark key="'" line="61" column="56" />
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="55" />
-        <mark key="^" line="61" column="39" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1551608732367">
+        <mark key="'" line="62" column="33" />
+        <mark key="[" line="58" column="46" />
+        <mark key="]" line="58" column="49" />
+        <mark key="." line="58" column="49" />
+        <mark key="^" line="58" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551604555334">
         <mark key="'" line="286" column="2" />
@@ -720,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/util/Util.js" />
       <jump line="26" column="10" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
       <jump line="25" column="5" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.scss" />
       <jump line="52" column="33" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
@@ -820,6 +819,7 @@
       <jump line="144" column="33" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="119" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="61" column="56" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
+      <jump line="62" column="33" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -829,7 +829,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJHtyZWNvcmQudG90YWx9</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text>应发金额</text>
@@ -838,34 +838,34 @@
         <text>Math.floor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVkQXQ6IGZpZWxkc1ZhbHVlLnVwZGF0ZWRBdCAmJiBmaWVsZHNWYWx1ZS51cGRhdGVkQXQudmFsdWVPZigpLAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfmj5DmiJDmr5TkvosnLAogICAgICBkYXRhSW5kZXg6ICdwZXJjZW50JywKICAgICAgcmVuZGVyOiAodmFsKSA9PiBgJHt2YWx9ICVgLAogICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUF0OiBmaWVsZHNWYWx1ZS5jcmVhdGVBdCAmJiAK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj5gJHtNYXRoLmZsb29yKCgxMDAgLSByZWNvcmQucGVyY2VudCkgKiByZWNvcmQudG90YWwpIC8gMTAwfWA8L3NwYW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5wYWdlTm8gPSAxOwogICAgcGFyYW1zLnBhZ2VTaXplID0gMTAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVkQXQ6IGZpZWxkc1ZhbHVlLnVwZGF0ZWRBdCAmJiBmaWVsZHNWYWx1ZS51cGRhdGVkQXQudmFsdWVPZigpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVzRGF0YSwgJ1sgPT09PT0gc2FsZXNEYXRhID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUF0OiBmaWVsZHNWYWx1ZS5jcmVhdGVBdCAmJiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YUluZGV4OiAncGVyY2VudCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHBhcmFtcywgJ1sgPT09PT0gcGFyYW1zID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
