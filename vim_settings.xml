@@ -75,8 +75,8 @@
         <mark key="." line="114" column="81" />
         <mark key="^" line="114" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1551586584800">
-        <mark key="'" line="117" column="30" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1551598284867">
+        <mark key="'" line="206" column="0" />
         <mark key="[" line="170" column="42" />
         <mark key="]" line="170" column="43" />
         <mark key="." line="170" column="43" />
@@ -293,6 +293,12 @@
         <mark key="]" line="31" column="61" />
         <mark key="." line="31" column="61" />
         <mark key="^" line="31" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Users/WechatUsers.js" timestamp="1551590831495">
+        <mark key="[" line="141" column="6" />
+        <mark key="]" line="141" column="11" />
+        <mark key="." line="141" column="11" />
+        <mark key="^" line="141" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/models/shop.js" timestamp="1550750738195">
         <mark key="'" line="26" column="36" />
@@ -577,7 +583,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551586633530">
+      <file name="/Dummy.txt" timestamp="1551590917001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1551077953667">
@@ -707,7 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="2" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="156" column="20" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="250" column="57" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="273" column="13" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/shopdetail/shopdetail.js" />
@@ -807,6 +812,7 @@
       <jump line="212" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="198" column="37" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
+      <jump line="206" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -816,7 +822,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>dayTotal</text>
+        <text>currentPage</text>
       </register>
       <register name="/" type="4">
         <text>资费详情</text>
