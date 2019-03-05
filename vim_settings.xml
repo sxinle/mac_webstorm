@@ -149,6 +149,9 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/grid/index.js" timestamp="1551751516165">
+        <mark key="'" line="93" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/noticebar/index.js" timestamp="1551517422885">
         <mark key="'" line="42" column="9" />
         <mark key="[" line="57" column="0" />
@@ -706,7 +709,6 @@
         <mark key="^" line="62" column="77" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/utils.js" timestamp="1551694319012" />
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/xieyi/xieyi.js" timestamp="1550974521636">
         <mark key="'" line="50" column="34" />
         <mark key="[" line="10" column="31" />
@@ -750,8 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
-      <jump line="212" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="198" column="37" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
       <jump line="237" column="22" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
@@ -850,6 +850,8 @@
       <jump line="208" column="35" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
+      <jump line="13" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/grid/index.js" />
+      <jump line="93" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/grid/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,7 +864,7 @@
         <text>orderId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jbGVPcmRlclw+</text>
+        <text>square</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLi4uZm9ybVZhbHVlcywK</text>
@@ -902,9 +904,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jbGVPcmRlclw+</last-search>
+      <last-search>square</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jbGVPcmRlclw+</last-pattern>
+      <last-pattern>square</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
@@ -912,8 +914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handleMod</entry>
-        <entry encoding="base64">XDxyZW5kZXJTaW1wbGVGb3JtXD4=</entry>
         <entry>添加</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJvd3NcPg==</entry>
         <entry>percent</entry>
@@ -932,6 +932,8 @@
         <entry encoding="base64">XDxNb3JlQnRuXD4=</entry>
         <entry>退款</entry>
         <entry encoding="base64">XDxjYW5jbGVPcmRlclw+</entry>
+        <entry>suare</entry>
+        <entry>square</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2IvYy9n</entry>
