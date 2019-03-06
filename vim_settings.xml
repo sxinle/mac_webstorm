@@ -279,6 +279,13 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="17" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" timestamp="1551753804788">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1551347829731">
         <mark key="[" line="33" column="27" />
       </file>
@@ -403,8 +410,8 @@
         <mark key="." line="141" column="30" />
         <mark key="^" line="141" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1551518331987">
-        <mark key="'" line="321" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1551836717719">
+        <mark key="'" line="298" column="51" />
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
@@ -752,9 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="37" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
-      <jump line="206" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" />
-      <jump line="237" column="22" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
       <jump line="273" column="6" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="120" column="77" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="211" column="3" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
@@ -852,6 +856,9 @@
       <jump line="387" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/grid/index.js" />
       <jump line="93" column="9" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/taroui/grid/index.js" />
+      <jump line="31" column="31" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" />
+      <jump line="298" column="51" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -864,7 +871,7 @@
         <text>orderId</text>
       </register>
       <register name="/" type="4">
-        <text>square</text>
+        <text encoding="base64">XDxjb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLi4uZm9ybVZhbHVlcywK</text>
@@ -904,17 +911,16 @@
       </register>
     </registers>
     <search>
-      <last-search>square</last-search>
+      <last-search encoding="base64">XDxjb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>square</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWluZXJcPg==</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>添加</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJvd3NcPg==</entry>
         <entry>percent</entry>
         <entry>Picker</entry>
@@ -934,6 +940,7 @@
         <entry encoding="base64">XDxjYW5jbGVPcmRlclw+</entry>
         <entry>suare</entry>
         <entry>square</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2IvYy9n</entry>
