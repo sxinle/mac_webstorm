@@ -448,11 +448,11 @@
         <mark key="." line="217" column="27" />
         <mark key="^" line="217" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551604555334">
-        <mark key="'" line="286" column="2" />
-        <mark key="[" line="259" column="24" />
-        <mark key="]" line="259" column="28" />
-        <mark key="." line="259" column="28" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551846285450">
+        <mark key="'" line="306" column="14" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="33" />
+        <mark key="." line="252" column="0" />
         <mark key="^" line="259" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/config/index.js" timestamp="1551429277068">
@@ -516,11 +516,11 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551694322832">
+      <file name="/Dummy.txt" timestamp="1551846406424">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1551845430504">
-        <mark key="'" line="172" column="41" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" timestamp="1551846386461">
+        <mark key="'" line="156" column="47" />
         <mark key="[" line="182" column="14" />
         <mark key="]" line="182" column="30" />
         <mark key="." line="182" column="30" />
@@ -641,8 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="19" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" />
-      <jump line="25" column="20" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" />
       <jump line="11" column="44" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" />
       <jump line="144" column="33" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="119" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
@@ -741,6 +739,8 @@
       <jump line="5" column="6" filename="$USER_HOME$/workspace/pproj/to-admin/src/models/statistic.js" />
       <jump line="140" column="39" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
       <jump line="172" column="41" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
+      <jump line="306" column="14" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
+      <jump line="156" column="47" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/Analysis.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -753,49 +753,49 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</text>
+        <text>Workplace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGlzcGF0Y2gsIHVzZXI6IHsgY3VycmVudFVzZXIgfSB9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml0eTogWydhZG1pbicsICdhcmVhJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml0eTogJ2FkbWluJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FsbGJhY2ssICdbID09PT09IGNhbGxiYWNrID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FsbGJhY2ssICdbID09PT09IGNhbGxiYWNrID09PT09IF0nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVzRGF0YSwgJ1sgPT09PT0gc2FsZXNEYXRhID09PT09IF0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNhbGVzRGF0YSwgJ1sgPT09PT0gc2FsZXNEYXRhID09PT09IF0nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGlzcGF0Y2gsIHVzZXI6IHsgY3VycmVudFVzZXIgfSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7CiAgICBpZiAoY3VycmVudFVzZXIucm9sZSkgewogICAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogJ3VzZXIvZmV0Y2hDdXJyZW50JywKICAgICAgICBjYWxsYmFjazogKCkgPT4gewogICAgICAgICAgdGhpcy5jaGVja0FkbWluQW5kSW5pdCgpOwogICAgICAgIH0sCiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5jaGVja0FkbWluQW5kSW5pdCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGVja0FkbWluQW5kSW5pdCA9ICgpID0+IHsKICAgIGNvbnN0IHsgZGlzcGF0Y2gsIHVzZXI6IHsgY3VycmVudFVzZXIgfSB9ID0gdGhpcy5wcm9wczsKICAgIGlmIChjdXJyZW50VXNlci5yb2xlID09PSAnYWRtaW4nKSB7CiAgICAgIGRpc3BhdGNoKHsKICAgICAgICB0eXBlOiAnc2hvcC9mZXRjaFVzZXJzQXJlYScsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgcGFnZU5vOiAxLAogICAgICAgICAgcGFnZVNpemU6IDEwMCwKICAgICAgICB9LAogICAgICAgIGNhbGxiYWNrOiAocmVzcCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgIGFyZWFEYXRhOiByZXNwLmRhdGEubGlzdCwKICAgICAgICAgICAgYXJlYUlkOiAyNSwvLyDpu5jorqTlkInmnpflnLDljLoKICAgICAgICAgIH0sICgpID0+IHsKICAgICAgICAgICAgdGhpcy5pbml0RGF0YSgpOwogICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLmluaXREYXRhKCk7CiAgICB9CiAgfTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZGlzcGF0Y2gsIHVzZXI6IHsgY3VycmVudFVzZXIgfSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7CiAgICBpZiAoY3VycmVudFVzZXIucm9sZSkgewogICAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogJ3VzZXIvZmV0Y2hDdXJyZW50JywKICAgICAgICBjYWxsYmFjazogKCkgPT4gewogICAgICAgICAgdGhpcy5jaGVja0FkbWluQW5kSW5pdCgpOwogICAgICAgIH0sCiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5jaGVja0FkbWluQW5kSW5pdCgpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjaGVja0FkbWluQW5kSW5pdCA9ICgpID0+IHsKICAgIGNvbnN0IHsgZGlzcGF0Y2gsIHVzZXI6IHsgY3VycmVudFVzZXIgfSB9ID0gdGhpcy5wcm9wczsKICAgIGlmIChjdXJyZW50VXNlci5yb2xlID09PSAnYWRtaW4nKSB7CiAgICAgIGRpc3BhdGNoKHsKICAgICAgICB0eXBlOiAnc2hvcC9mZXRjaFVzZXJzQXJlYScsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgcGFnZU5vOiAxLAogICAgICAgICAgcGFnZVNpemU6IDEwMCwKICAgICAgICB9LAogICAgICAgIGNhbGxiYWNrOiAocmVzcCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgIGFyZWFEYXRhOiByZXNwLmRhdGEubGlzdCwKICAgICAgICAgICAgYXJlYUlkOiAyNSwvLyDpu5jorqTlkInmnpflnLDljLoKICAgICAgICAgIH0sICgpID0+IHsKICAgICAgICAgICAgdGhpcy5pbml0RGF0YSgpOwogICAgICAgICAgfSk7CiAgICAgICAgfSwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLmluaXREYXRhKCk7CiAgICB9CiAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</last-search>
+      <last-search>Workplace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</last-pattern>
+      <last-pattern>Workplace</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>完成派单</entry>
         <entry>充值</entry>
         <entry>重置</entry>
         <entry encoding="base64">XDxNb3JlQnRuXD4=</entry>
@@ -823,6 +822,7 @@
         <entry>countS</entry>
         <entry>销售额排名</entry>
         <entry encoding="base64">XDxyYW5raW5nTGlzdERhdGFcPg==</entry>
+        <entry>Workplace</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2IvYy9n</entry>
