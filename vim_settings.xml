@@ -258,11 +258,12 @@
         <mark key="." line="64" column="15" />
         <mark key="^" line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1551864574806">
-        <mark key="'" line="209" column="26" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1551865874819">
+        <mark key="'" line="72" column="37" />
+        <mark key="[" line="48" column="95" />
+        <mark key="]" line="48" column="95" />
+        <mark key="." line="48" column="95" />
+        <mark key="^" line="48" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" timestamp="1551520193974">
         <mark key="'" line="19" column="5" />
@@ -606,7 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Profile/BasicProfile.js" />
       <jump line="262" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="11" column="42" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
@@ -706,6 +706,7 @@
       <jump line="341" column="28" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="279" column="3" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="209" column="26" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
+      <jump line="72" column="37" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -715,7 +716,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>handleMod</text>
@@ -723,8 +724,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgcGFnaW5hdGlvbiB9ID0gdGhpcy5zdGF0ZTsKICAgICAgICAgIHRoaXMuZmV0Y2hHb29kc0luZm9zKHsKICAgICAgICAgICAgcGFnZU5vOiBwYWdpbmF0aW9uLmN1cnJlbnQgfHwgMSwKICAgICAgICAgICAgcGFnZVNpemU6IHBhZ2luYXRpb24ucGFnZVNpemUgfHwgMTAsCiAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCAoKT0+ewogICAgICAgICAgICAgIHRoaXMuCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -733,25 +734,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRDaGVja2VkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHBvc3Rlcj0iLy92anMuemVuY2RuLm5ldC92L29jZWFucy5wbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRDaGVja2VkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvL3Zqcy56ZW5jZG4ubmV0L3Yvb2NlYW5zLndlYm0iIHR5cGU9InZpZGVvL3dlYm0iPjwvc291cmNlPgogICAgPHNvdXJjZSBzcmM9Ii8vdmpzLnplbmNkbi5uZXQvdi9vY2VhbnMub2d2IiB0eXBlPSJ2aWRlby9vZ2ciPjwvc291cmNlPgo=</text>
+        <text encoding="base64">ICAgICAgIHBvc3Rlcj0iLy92anMuemVuY2RuLm5ldC92L29jZWFucy5wbmciCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dGhvcml0eTogJ2FkbWluJywK</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSIvL3Zqcy56ZW5jZG4ubmV0L3Yvb2NlYW5zLndlYm0iIHR5cGU9InZpZGVvL3dlYm0iPjwvc291cmNlPgogICAgPHNvdXJjZSBzcmM9Ii8vdmpzLnplbmNkbi5uZXQvdi9vY2VhbnMub2d2IiB0eXBlPSJ2aWRlby9vZ2ciPjwvc291cmNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml0eTogJ2FkbWluJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FsbGJhY2ssICdbID09PT09IGNhbGxiYWNrID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJlbnRVc2VyLCAnWyA9PT09PSBjdXJyZW50VXNlciA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FsbGJhY2ssICdbID09PT09IGNhbGxiYWNrID09PT09IF0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
