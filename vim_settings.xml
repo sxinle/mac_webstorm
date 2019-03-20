@@ -241,12 +241,12 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" timestamp="1552392261465">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="^" line="25" column="53" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.js" timestamp="1553046916492">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="59" column="44" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="43" />
+        <mark key="^" line="59" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1551347829731">
         <mark key="[" line="33" column="27" />
@@ -330,8 +330,8 @@
         <mark key="]" line="361" column="62" />
         <mark key="." line="361" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1552389140729">
-        <mark key="'" line="4" column="8" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1553046798709">
+        <mark key="'" line="191" column="19" />
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
@@ -666,8 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" />
-      <jump line="37" column="22" filename="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" />
       <jump line="10" column="22" filename="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" />
       <jump line="275" column="27" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="288" column="28" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
@@ -766,6 +764,8 @@
       <jump line="24" column="17" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/pproj/jfans/app/components/CommonWebView.js" />
+      <jump line="234" column="41" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="191" column="19" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -781,7 +781,7 @@
         <text>webpack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIyLjAuMC1iZXRhLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0IGNsYXNzTmFtZT0naW5mbyc+e3JlY29yZC5hZGRyZXNzfTwvVGV4dD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuMCIsCg==</text>
@@ -824,7 +824,7 @@
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
