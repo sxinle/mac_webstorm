@@ -170,7 +170,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="59" />
       </file>
-      <file name="/request.js" timestamp="1553072368470" />
       <file name="/package.json" timestamp="1552877265140">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="28" />
@@ -637,6 +636,9 @@
         <mark key="^" line="62" column="77" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" timestamp="1553143660675">
+        <mark key="'" line="47" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/xieyi/xieyi.js" timestamp="1550974521636">
         <mark key="'" line="50" column="34" />
         <mark key="[" line="10" column="31" />
@@ -691,8 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="12" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
-      <jump line="180" column="6" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="181" column="11" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="195" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="731" column="53" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
@@ -791,6 +791,8 @@
       <jump line="63" column="14" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="113" column="29" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="110" column="34" filename="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" />
+      <jump line="173" column="45" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
+      <jump line="47" column="72" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -803,7 +805,7 @@
         <text>Default Changelist</text>
       </register>
       <register name="/" type="4">
-        <text>notEmpty</text>
+        <text>toggle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPEltYWdlRm9ybUl0ZW0KICAgICAgICBmb3JtPXtmb3JtfQogICAgICAgIGZpZWxkTmFtZT0ic21hbGxJbWdzIgogICAgICAgIG1heEltYWdlQ250PXsxfQogICAgICAgIGZvcm1JdGVtUHJvcHM9e3sgbGFiZWxDb2w6IHsgc3BhbjogNSB9LCB3cmFwcGVyQ29sOiB7IHNwYW46IDE1IH0sIGxhYmVsOiAn5ZWG5ZOB5Zu+54mHJyB9fQogICAgICAvPgoK</text>
@@ -843,9 +845,9 @@
       </register>
     </registers>
     <search>
-      <last-search>notEmpty</last-search>
+      <last-search>toggle</last-search>
       <last-offset />
-      <last-pattern>notEmpty</last-pattern>
+      <last-pattern>toggle</last-pattern>
       <last-replace>playTimes</last-replace>
       <last-substitute>playTime</last-substitute>
       <last-dir>1</last-dir>
@@ -853,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWRlb1w+</entry>
         <entry>handleSearch</entry>
         <entry encoding="base64">XDxERFw+</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
@@ -873,6 +874,7 @@
         <entry>唯品会</entry>
         <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
         <entry>notEmpty</entry>
+        <entry>toggle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2IvYy9n</entry>
