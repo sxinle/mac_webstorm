@@ -91,6 +91,9 @@
         <mark key="^" line="63" column="4" />
         <mark key="." line="63" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" timestamp="1553219445149">
+        <mark key="'" line="212" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/.gitignore" timestamp="1550571223033">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -332,8 +335,8 @@
         <mark key="^" line="218" column="76" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" timestamp="1551863757294">
-        <mark key="'" line="236" column="23" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" timestamp="1553219520832">
+        <mark key="'" line="180" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/System/Users.js" timestamp="1551091993626">
         <mark key="'" line="92" column="48" />
@@ -375,6 +378,13 @@
         <mark key="]" line="860" column="30" />
         <mark key="^" line="860" column="30" />
         <mark key="." line="860" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" timestamp="1553221435873">
+        <mark key="'" line="132" column="12" />
+        <mark key="[" line="598" column="13" />
+        <mark key="]" line="598" column="21" />
+        <mark key="." line="598" column="21" />
+        <mark key="^" line="598" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1553046798709">
         <mark key="'" line="191" column="19" />
@@ -587,7 +597,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553164449800">
+      <file name="/Dummy.txt" timestamp="1553219536294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -741,10 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="53" column="36" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="54" column="35" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="63" column="14" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="113" column="29" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="110" column="34" filename="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" />
       <jump line="173" column="45" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
@@ -841,6 +847,10 @@
       <jump line="161" column="67" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanDataWedge.js" />
+      <jump line="212" column="22" filename="$USER_HOME$/workspace/pproj/to-admin/src/utils/utils.js" />
+      <jump line="180" column="16" filename="$USER_HOME$/workspace/pproj/to-shop/src/utils/utils.js" />
+      <jump line="430" column="72" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
+      <jump line="132" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -850,52 +860,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb2x5ZmlsbHNcPg==</text>
+        <text encoding="base64">XDxwcmludGVyc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LiovTGlicmFyaWVzL3BvbHlmaWxscy8uKgo=</text>
+        <text encoding="base64">ICBjb2x1bW5zID0gWwogICAgewogICAgICB0aXRsZTogJ+W6j+WPtycsCiAgICAgIGRhdGFJbmRleDogJ2lkJywKICAgICAgLy8gc29ydGVyOiB0cnVlLAogICAgfSwKICAgIHsKICAgICAgdGl0bGU6ICflkI3np7AnLAogICAgICBkYXRhSW5kZXg6ICduYW1lJywKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAn57uI56uv5Y+3JywKICAgICAgZGF0YUluZGV4OiAnc2V0dGluZ3MudGVybWluYWxJZCcsCiAgICB9LAogICAgewogICAgICB0aXRsZTogJ+e7iOerr+enmOmSpScsCiAgICAgIGRhdGFJbmRleDogJ3NldHRpbmdzLnRlcm1pbmFsU2VjcmV0S2V5JywKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAn55So5oi3SUQnLAogICAgICBkYXRhSW5kZXg6ICdzZXR0aW5ncy51c2VySWQnLAogICAgfSwKICAgIHsKICAgICAgdGl0bGU6ICdhcGlLZXknLAogICAgICBkYXRhSW5kZXg6ICdzZXR0aW5ncy5hcGlLZXknLAogICAgfSwKICAgIHsKICAgICAgdGl0bGU6ICfmt7vliqDml7bpl7QnLAogICAgICBkYXRhSW5kZXg6ICdjcmVhdGVBdCcsCiAgICAgIHJlbmRlcjogKHZhbCkgPT4gbW9tZW50KHZhbCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tOnNzJyksCiAgICAgIC8vIHNvcnRlcjogdHJ1ZSwKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAn5pON5L2cJywKICAgICAgcmVuZGVyOiAodGV4dCwgcmVjb3JkKSA9PiAoCiAgICAgICAgPEZyYWdtZW50PgogICAgICAgICAgPGEgb25DbGljaz17KCkgPT4gdGhpcy5tb2RpZnkocmVjb3JkKX0+5L+u5pS5PC9hPgogICAgICAgICAgPERpdmlkZXIgdHlwZT0idmVydGljYWwiIC8+CiAgICAgICAgICA8UG9wY29uZmlybSB0aXRsZT17YOehruWumuWIoOmZpCAke3JlY29yZC5uYW1lfSDvvJ9gfSBvbkNvbmZpcm09eyhlKSA9PiB0aGlzLmRlbGV0ZShlLCByZWNvcmQuaWQpfT4KICAgICAgICAgICAgPGE+5Yig6ZmkPC9hPgogICAgICAgICAgPC9Qb3Bjb25maXJtPgogICAgICAgIDwvRnJhZ21lbnQ+CiAgICAgICksCiAgICB9LAogIF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWRhdGF3ZWRnZS1pbnRlbnRzJykK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfnu4jnq6/np5jpkqUnLAogICAgICBkYXRhSW5kZXg6ICdzZXR0aW5ncy50ZXJtaW5hbFNlY3JldEtleScsCiAgICB9LAogICAgewogICAgICB0aXRsZTogJ+eUqOaIt0lEJywKICAgICAgZGF0YUluZGV4OiAnc2V0dGluZ3MudXNlcklkJywKICAgIH0sCiAgICB7CiAgICAgIHRpdGxlOiAnYXBpS2V5JywKICAgICAgZGF0YUluZGV4OiAnc2V0dGluZ3MuYXBpS2V5JywKICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMnKQogICAgY29tcGlsZSBwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtemVicmEtc2Nhbm5lciI6ICJeMS4wLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewo=</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDYgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5omT5Y2w5py657uI56uv5a+G6ZKlIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignc2V0dGluZ3MudGVybWluYWxTZWNyZXRLZXknLCB7CiAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkLnNldHRpbmdzLnRlcm1pbmFsU2VjcmV0S2V5LAogICAgICAgICAgICBydWxlczogW3sgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfnp5jpkqXkuI3og73kuLrnqbonIH1dLAogICAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLkvovvvJpmeGN6dmluYXhlMjUiIC8+KX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAuMC1icmlkZ2UuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC10ZXN0LXJlbmRlcmVyIjogIjE2LjYuMyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtZXRyby1yZWFjdC1uYXRpdmUtYmFiZWwtcHJlc2V0IjogIjAuNTMuMCIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVJZCwgJ1sgPT09PT0gdHlwZUlkID09PT09IF0nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIjI0LjEuMCIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb2x5ZmlsbHNcPg==</last-search>
+      <last-search encoding="base64">XDxwcmludGVyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb2x5ZmlsbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludGVyc1w+</last-pattern>
       <last-replace>JJScanner</last-replace>
       <last-substitute>ZebraReactNativeDemo</last-substitute>
       <last-dir>1</last-dir>
@@ -903,9 +913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Zebra</entry>
-        <entry encoding="base64">XDxaZWJyYVJlYWN0TmF0aXZlRGVtb1w+</entry>
-        <entry>ZebraReactNativeDemo</entry>
         <entry>sendCommand</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RFeHRyYXNcPg==</entry>
         <entry encoding="base64">XDxyZWFjdG5hdGl2ZWRlbW9cPg==</entry>
@@ -923,6 +930,9 @@
         <entry>profileConfig</entry>
         <entry encoding="base64">XDxkYXRhd2VkZ2VyZWFjdG5hdGl2ZVw+</entry>
         <entry encoding="base64">XDxwb2x5ZmlsbHNcPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VQcmludGVyVHlwZVw+</entry>
+        <entry>selType</entry>
+        <entry encoding="base64">XDxwcmludGVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbC9yZWNvcmQudHlwZS9n</entry>
