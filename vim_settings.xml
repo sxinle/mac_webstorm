@@ -251,12 +251,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553494014729">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="121" column="26" />
-        <mark key="]" line="121" column="30" />
-        <mark key="^" line="121" column="30" />
-        <mark key="." line="121" column="30" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553494896620">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -790,8 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="8" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
-      <jump line="76" column="8" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
       <jump line="86" column="27" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
       <jump line="148" column="43" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
       <jump line="170" column="40" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/scene/ScanEmdk.js" />
@@ -854,7 +852,6 @@
       <jump line="26" column="19" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="57" column="43" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="15" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="43" column="29" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="75" column="20" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="49" column="35" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -890,6 +887,9 @@
       <jump line="78" column="16" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="1" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="42" column="25" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="43" column="29" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -902,10 +902,10 @@
         <text>red</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWlnaHRcPg==</text>
+        <text encoding="base64">XDxTZWdtZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>showsHorizontalScrollIndicator</text>
+        <text>Button</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -942,9 +942,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
+      <last-search encoding="base64">XDxTZWdtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTZWdtZW50XD4=</last-pattern>
       <last-replace>JJScanner</last-replace>
       <last-substitute>ZebraReactNativeDemo</last-substitute>
       <last-dir>1</last-dir>
@@ -952,7 +952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jiujiang</entry>
         <entry>profileConfig</entry>
         <entry encoding="base64">XDxkYXRhd2VkZ2VyZWFjdG5hdGl2ZVw+</entry>
         <entry encoding="base64">XDxwb2x5ZmlsbHNcPg==</entry>
@@ -972,6 +971,7 @@
         <entry encoding="base64">XDxzaG93U2VsXD4=</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDxTZWdtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbC9yZWNvcmQudHlwZS9n</entry>
