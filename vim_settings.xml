@@ -246,12 +246,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553579672559">
-        <mark key="'" line="97" column="23" />
-        <mark key="[" line="106" column="48" />
-        <mark key="]" line="106" column="61" />
-        <mark key="^" line="106" column="61" />
-        <mark key="." line="106" column="61" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553582299547">
+        <mark key="'" line="364" column="4" />
+        <mark key="[" line="283" column="26" />
+        <mark key="]" line="283" column="30" />
+        <mark key="^" line="283" column="30" />
+        <mark key="." line="283" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -790,11 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="31" column="36" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="72" column="30" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="73" column="34" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="78" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="74" column="76" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -890,6 +885,11 @@
       <jump line="198" column="156" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="100" column="14" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="97" column="23" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="160" column="58" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="281" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="278" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="230" column="52" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="364" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -899,52 +899,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>isAfter</text>
+        <text>yellow</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaWNrZXJWYWxpZERhdGVcPg==</text>
+        <text encoding="base64">XDxjYXJkVGl0bGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>activeOpacity</text>
+        <text>cardTitle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgneHh4Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy50aW50Q29sb3IsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5pbXVtRGF0ZT17bW9tZW50KCcxOTY3LTAxLTAxJywgJ1lZWVktTU0tREQnKS50b0RhdGUoKX0K</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgneHh4Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy50aW50Q29sb3IsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtb250aDEgPSBtb250aExpc3Quc2xpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5pbXVtRGF0ZT17bW9tZW50KCcxOTY3LTAxLTAxJywgJ1lZWVktTU0tREQnKS50b0RhdGUoKX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneHh4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGlja2VyRGF0ZTogZW5kRGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtb250aDEgPSBtb250aExpc3Quc2xpY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGlja2VyRGF0ZTogc3RhcnREYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneHh4Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaWNrZXJWYWxpZERhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxjYXJkVGl0bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaWNrZXJWYWxpZERhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYXJkVGl0bGVcPg==</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -952,9 +952,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb250aEl0ZW1cPg==</entry>
-        <entry encoding="base64">XDxzZWxTdGF0SWR4XD4=</entry>
-        <entry encoding="base64">XDxtb250aFNlbFw+</entry>
         <entry encoding="base64">XDx5ZWFyTGlzdFw+</entry>
         <entry>yearList</entry>
         <entry encoding="base64">XDx5ZWFyU2VsSW5kZXhcPg==</entry>
@@ -972,6 +969,9 @@
         <entry encoding="base64">XDxwaWNrZXJEYXRlXD4=</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDxwaWNrZXJWYWxpZERhdGVcPg==</entry>
+        <entry>yellow</entry>
+        <entry encoding="base64">XDxvbmVDYXJkXD4=</entry>
+        <entry encoding="base64">XDxjYXJkVGl0bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
