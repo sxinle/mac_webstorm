@@ -250,12 +250,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553514413642">
-        <mark key="'" line="137" column="44" />
-        <mark key="[" line="143" column="59" />
-        <mark key="]" line="143" column="64" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553514867131">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="2" column="80" />
+        <mark key="]" line="2" column="80" />
         <mark key="^" line="143" column="64" />
-        <mark key="." line="143" column="64" />
+        <mark key="." line="2" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -891,10 +891,10 @@
       <jump line="14" column="30" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="113" column="74" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="18" column="46" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="135" column="29" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="270" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="2" column="82" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="137" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -904,7 +904,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>customStyles</text>
+        <text>, DatePickerIOS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRlUGlja2VySU9TXD4=</text>
@@ -913,7 +913,7 @@
         <text>DatePickerIOS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEYXRlUGlja2VySU9TCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZT17bmV3IERhdGUoKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlPXsnZGF0ZSd9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gbWluaW11bURhdGU9e21pbkRhdGUgJiYgdGhpcy5nZXREYXRlKG1pbkRhdGUpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1heGltdW1EYXRlPXttYXhEYXRlICYmIHRoaXMuZ2V0RGF0ZShtYXhEYXRlKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBvbkRhdGVDaGFuZ2U9e3RoaXMub25EYXRlQ2hhbmdlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG1pbnV0ZUludGVydmFsPXttaW51dGVJbnRlcnZhbH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB0aW1lWm9uZU9mZnNldEluTWludXRlcz17dGltZVpvbmVPZmZzZXRJbk1pbnV0ZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e1tzdHlsZXMuZGF0ZVBpY2tlciwgc3R5bGVzLmRhdGVQaWNrZXJdfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsZT0iemgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -922,25 +922,25 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5tb250aFNlbH0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2l4SXRlbSBpdGVtcz17bW9udGhMaXN0LnNsaWNlKDAsIDYpfSBzZWxJbmRleD17bW9udGhTZWxJbmRleH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMubW9udGhDbGlja30gcHJlQ250PXswfSB0eXBlPXsnbSd9Lz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxTaXhJdGVtIGl0ZW1zPXttb250aExpc3Quc2xpY2UoNiwgMTIpfSBzZWxJbmRleD17bW9udGhTZWxJbmRleH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMubW9udGhDbGlja30gcHJlQ250PXs2fSB0eXBlPXsnbSd9Lz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5tb250aFNlbH0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2l4SXRlbSBpdGVtcz17bW9udGhMaXN0LnNsaWNlKDAsIDYpfSBzZWxJbmRleD17bW9udGhTZWxJbmRleH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMubW9udGhDbGlja30gcHJlQ250PXswfSB0eXBlPXsnbSd9Lz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxTaXhJdGVtIGl0ZW1zPXttb250aExpc3Quc2xpY2UoNiwgMTIpfSBzZWxJbmRleD17bW9udGhTZWxJbmRleH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMubW9udGhDbGlja30gcHJlQ250PXs2fSB0eXBlPXsnbSd9Lz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
