@@ -246,12 +246,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553582299547">
-        <mark key="'" line="364" column="4" />
-        <mark key="[" line="283" column="26" />
-        <mark key="]" line="283" column="30" />
-        <mark key="^" line="283" column="30" />
-        <mark key="." line="283" column="30" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553595456120">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="286" column="34" />
+        <mark key="^" line="275" column="53" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -790,8 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="76" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="167" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="174" column="5" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -827,7 +825,6 @@
       <jump line="14" column="30" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="113" column="74" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="18" column="46" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="270" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="137" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="135" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="138" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -890,6 +887,9 @@
       <jump line="278" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="230" column="52" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="364" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="295" column="5" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="270" column="61" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="10" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -899,43 +899,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>yellow</text>
+        <text>styles.chart</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJkVGl0bGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>cardTitle</text>
+        <text>processColor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJhckNoYXJ0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2ZsZXg6IDF9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YT17dGhpcy5zdGF0ZS5kYXRhfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeEF4aXM9e3RoaXMuc3RhdGUueEF4aXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmltYXRpb249e3tkdXJhdGlvblg6IDIwMDB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVnZW5kPXt0aGlzLnN0YXRlLmxlZ2VuZH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdyaWRCYWNrZ3JvdW5kQ29sb3I9e3Byb2Nlc3NDb2xvcignI2ZmZmZmZicpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJhd0JhclNoYWRvdz17ZmFsc2V9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcmF3VmFsdWVBYm92ZUJhcj17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYXdIaWdobGlnaHRBcnJvdz17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uU2VsZWN0PXt0aGlzLmhhbmRsZVNlbGVjdC5iaW5kKHRoaXMpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgneHh4Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy50aW50Q29sb3IsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5pbXVtRGF0ZT17bW9tZW50KCcxOTY3LTAxLTAxJywgJ1lZWVktTU0tREQnKS50b0RhdGUoKX0K</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgneHh4Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy50aW50Q29sb3IsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtb250aDEgPSBtb250aExpc3Quc2xpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW5pbXVtRGF0ZT17bW9tZW50KCcxOTY3LTAxLTAxJywgJ1lZWVktTU0tREQnKS50b0RhdGUoKX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneHh4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
