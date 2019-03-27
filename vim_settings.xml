@@ -250,12 +250,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553654077629">
-        <mark key="'" line="278" column="70" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="49" />
-        <mark key="^" line="278" column="71" />
-        <mark key="." line="74" column="49" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553656118373">
+        <mark key="'" line="62" column="50" />
+        <mark key="[" line="327" column="47" />
+        <mark key="]" line="327" column="52" />
+        <mark key="^" line="327" column="52" />
+        <mark key="." line="327" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -807,17 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="25" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="234" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="104" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="248" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="41" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="47" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="49" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="51" column="23" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="62" column="62" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="233" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="43" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="134" column="34" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="113" column="74" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -893,7 +882,6 @@
       <jump line="295" column="55" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="61" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="298" column="43" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="293" column="38" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="271" column="37" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="290" column="52" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="65" column="23" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -907,6 +895,18 @@
       <jump line="75" column="48" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="421" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="278" column="70" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="71" column="40" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="423" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="338" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="344" column="16" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="266" column="93" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="261" column="48" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="293" column="49" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="25" column="28" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="265" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="49" column="22" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="44" column="35" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="62" column="50" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -916,52 +916,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXJkVGl0bGVcPg==</text>
+        <text encoding="base64">XDxwcm9wc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>styledCenterText</text>
+        <text>centerVal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtbc3R5bGVzLm9uZUNhcmQsIHttYXJnaW5Cb3R0b206IDcwfV19PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVGb3JtYXR0ZXI6ICIjLiMjJyUnIiwKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVMaW5lQ29sb3I6IHByb2Nlc3NDb2xvcignIzAwMCcpLAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9uU2VsZWN0PXt0aGlzLmhhbmRsZVNlbGVjdC5iaW5kKHRoaXMpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRyYW5zcGFyZW50Q2lyY2xlUmFkaXVzPXs0NX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHRyYW5zcGFyZW50Q2lyY2xlQ29sb3I9e3Byb2Nlc3NDb2xvcignI2YwZjBmMDg4Jyl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHJvdGF0aW9uQW5nbGU9ezQ1fQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW5Cb3R0b206IDIwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNoYXJ0QmFja2dyb3VuZENvbG9yPXtwcm9jZXNzQ29sb3IoJ3BpbmsnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNoYXJ0RGVzY3JpcHRpb249e3RoaXMuc3RhdGUuZGVzY3JpcHRpb259Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGxlZ2VuZD17dGhpcy5zdGF0ZS5sZWdlbmR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBoaWdobGlnaHRzPXt0aGlzLnN0YXRlLmhpZ2hsaWdodHN9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbDogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXJkVGl0bGVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9wc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXJkVGl0bGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9wc1w+</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -969,7 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlUGlja2VySU9TXD4=</entry>
         <entry encoding="base64">XDxkYXRlU2VsSW5kZXhcPg==</entry>
         <entry encoding="base64">XDxjaG9vc2VCdG5cPg==</entry>
         <entry>setDate</entry>
@@ -982,13 +981,14 @@
         <entry>valid</entry>
         <entry encoding="base64">XDxwaWNrZXJWYWxpZERhdGVcPg==</entry>
         <entry>yellow</entry>
-        <entry encoding="base64">XDxvbmVDYXJkXD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxsZWdlbmRcPg==</entry>
         <entry>entryLabelColor</entry>
         <entry encoding="base64">XDx5VmFsdWVQb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxoaWdobGlnaHRzXD4=</entry>
         <entry encoding="base64">XDxjYXJkVGl0bGVcPg==</entry>
+        <entry encoding="base64">XDxvbmVDYXJkXD4=</entry>
+        <entry encoding="base64">XDxwcm9wc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
