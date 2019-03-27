@@ -246,12 +246,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553602228572">
-        <mark key="'" line="65" column="23" />
-        <mark key="[" line="290" column="52" />
-        <mark key="]" line="290" column="53" />
-        <mark key="^" line="271" column="64" />
-        <mark key="." line="290" column="53" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553602693125">
+        <mark key="'" line="73" column="24" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="27" />
+        <mark key="^" line="65" column="27" />
+        <mark key="." line="65" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -778,9 +778,9 @@
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" timestamp="1553162063742">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native-charts-wrapper/lib/PieChart.js" timestamp="1553601352030">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="11" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native-charts-wrapper/lib/PieChart.js" timestamp="1553603018729">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/cntp-frontend/src/models/user.js" timestamp="1550631066856">
         <mark key="'" line="18" column="20" />
@@ -798,9 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="216" column="32" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="214" column="24" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="39" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="55" column="24" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -898,6 +895,9 @@
       <jump line="271" column="37" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="290" column="52" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="65" column="23" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="277" column="45" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="282" column="61" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="73" column="24" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -907,52 +907,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Salads</text>
+        <text>Pie dataset</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaWdobGlnaHRzXD4=</text>
+        <text encoding="base64">XDx5VmFsdWVQb3NpdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>holeRadius</text>
+        <text>entryLabelColor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UGllQ2hhcnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3tmbGV4OiAxfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nRW5hYmxlZD17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gY2hhcnRCYWNrZ3JvdW5kQ29sb3I9e3Byb2Nlc3NDb2xvcigncGluaycpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjaGFydERlc2NyaXB0aW9uPXt0aGlzLnN0YXRlLmRlc2NyaXB0aW9ufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnN0YXRlLmRhdGF9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGxlZ2VuZD17dGhpcy5zdGF0ZS5sZWdlbmR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGhpZ2hsaWdodHM9e3RoaXMuc3RhdGUuaGlnaGxpZ2h0c30KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5TGFiZWxDb2xvcj17cHJvY2Vzc0NvbG9yKCdncmVlbicpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBlbnRyeUxhYmVsVGV4dFNpemU9ezEwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBkcmF3RW50cnlMYWJlbHM9e3RydWV9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3RhdGlvbkVuYWJsZWQ9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyByb3RhdGlvbkFuZ2xlPXs0NX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlUGVyY2VudFZhbHVlcz17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGVkQ2VudGVyVGV4dD17e3RleHQ6ICcxMlxu5a6a5Y2V57uf6K6hJywgY29sb3I6IHByb2Nlc3NDb2xvcignYmxhY2snKSwgc2l6ZTogMTJ9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZW50ZXJUZXh0UmFkaXVzUGVyY2VudD17MTAwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBob2xlUmFkaXVzPXs2NX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaG9sZUNvbG9yPXtwcm9jZXNzQ29sb3IoJyNGRkZGRkYnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gdHJhbnNwYXJlbnRDaXJjbGVSYWRpdXM9ezQ1fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB0cmFuc3BhcmVudENpcmNsZUNvbG9yPXtwcm9jZXNzQ29sb3IoJyNmMGYwZjA4OCcpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhBbmdsZT17MzYwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBvblNlbGVjdD17dGhpcy5oYW5kbGVTZWxlY3QuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhldmVudCkgPT4gY29uc29sZS5sb2coZXZlbnQubmF0aXZlRXZlbnQpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYXdFbnRyeUxhYmVscz17ZmFsc2V9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2VudGVyVGV4dD17J2hlbGxvJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UGllQ2hhcnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3tmbGV4OiAxfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nRW5hYmxlZD17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gY2hhcnRCYWNrZ3JvdW5kQ29sb3I9e3Byb2Nlc3NDb2xvcigncGluaycpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjaGFydERlc2NyaXB0aW9uPXt0aGlzLnN0YXRlLmRlc2NyaXB0aW9ufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnN0YXRlLmRhdGF9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGxlZ2VuZD17dGhpcy5zdGF0ZS5sZWdlbmR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGhpZ2hsaWdodHM9e3RoaXMuc3RhdGUuaGlnaGxpZ2h0c30KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5TGFiZWxDb2xvcj17cHJvY2Vzc0NvbG9yKCdncmVlbicpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBlbnRyeUxhYmVsVGV4dFNpemU9ezEwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBkcmF3RW50cnlMYWJlbHM9e3RydWV9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3RhdGlvbkVuYWJsZWQ9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyByb3RhdGlvbkFuZ2xlPXs0NX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlUGVyY2VudFZhbHVlcz17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGVkQ2VudGVyVGV4dD17e3RleHQ6ICcxMlxu5a6a5Y2V57uf6K6hJywgY29sb3I6IHByb2Nlc3NDb2xvcignYmxhY2snKSwgc2l6ZTogMTJ9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZW50ZXJUZXh0UmFkaXVzUGVyY2VudD17MTAwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBob2xlUmFkaXVzPXs2NX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaG9sZUNvbG9yPXtwcm9jZXNzQ29sb3IoJyNGRkZGRkYnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gdHJhbnNwYXJlbnRDaXJjbGVSYWRpdXM9ezQ1fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyB0cmFuc3BhcmVudENpcmNsZUNvbG9yPXtwcm9jZXNzQ29sb3IoJyNmMGYwZjA4OCcpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhBbmdsZT17MzYwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBvblNlbGVjdD17dGhpcy5oYW5kbGVTZWxlY3QuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhldmVudCkgPT4gY29uc29sZS5sb2coZXZlbnQubmF0aXZlRXZlbnQpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVMaW5lUGFydDFPZmZzZXRQZXJjZW50YWdlOiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2VudGVyVGV4dD17J2hlbGxvJ30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVMaW5lUGFydDFPZmZzZXRQZXJjZW50YWdlOiAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiA5LCBsYWJlbDogJ0JldmVyYWdlcyd9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdTb3VwJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiA5LCBsYWJlbDogJ0JldmVyYWdlcyd9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdTb3VwJ30sCiAgICAgICAgICAgICAgICAgICAgICAgIHt2YWx1ZTogOSwgbGFiZWw6ICdCZXZlcmFnZXMnfSwKICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdEZXNzZXJ0cyd9XSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdTb3VwJ30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaGlnaGxpZ2h0czogW3t4OiAyfV0sCiAgICAgICAgICAgIC8vIGRlc2NyaXB0aW9uOiB7CiAgICAgICAgICAgIC8vICAgICB0ZXh0OiAnVGhpcyBpcyBQaWUgY2hhcnQgZGVzY3JpcHRpb24nLAogICAgICAgICAgICAvLyAgICAgdGV4dFNpemU6IDE1LAogICAgICAgICAgICAvLyAgICAgdGV4dENvbG9yOiBwcm9jZXNzQ29sb3IoJ2RhcmtncmF5JyksCiAgICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdTb3VwJ30sCiAgICAgICAgICAgICAgICAgICAgICAgIHt2YWx1ZTogOSwgbGFiZWw6ICdCZXZlcmFnZXMnfSwKICAgICAgICAgICAgICAgICAgICAgICAge3ZhbHVlOiAxNSwgbGFiZWw6ICdEZXNzZXJ0cyd9XSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVnZW5kOiB7CiAgICAgICAgICAgICAgICBlbmFibGVkOiB0cnVlLAogICAgICAgICAgICAgICAgdGV4dFNpemU6IDE1LAogICAgICAgICAgICAgICAgZm9ybTogJ0NJUkNMRScsCgogICAgICAgICAgICAgICAgaG9yaXpvbnRhbEFsaWdubWVudDogIlJJR0hUIiwKICAgICAgICAgICAgICAgIHZlcnRpY2FsQWxpZ25tZW50OiAiQ0VOVEVSIiwKICAgICAgICAgICAgICAgIG9yaWVudGF0aW9uOiAiVkVSVElDQUwiLAogICAgICAgICAgICAgICAgd29yZFdyYXBFbmFibGVkOiB0cnVlCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaGlnaGxpZ2h0czogW3t4OiAyfV0sCiAgICAgICAgICAgIC8vIGRlc2NyaXB0aW9uOiB7CiAgICAgICAgICAgIC8vICAgICB0ZXh0OiAnVGhpcyBpcyBQaWUgY2hhcnQgZGVzY3JpcHRpb24nLAogICAgICAgICAgICAvLyAgICAgdGV4dFNpemU6IDE1LAogICAgICAgICAgICAvLyAgICAgdGV4dENvbG9yOiBwcm9jZXNzQ29sb3IoJ2RhcmtncmF5JyksCiAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaWdobGlnaHRzXD4=</last-search>
+      <last-search encoding="base64">XDx5VmFsdWVQb3NpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaWdobGlnaHRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx5VmFsdWVQb3NpdGlvblw+</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -960,8 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>monthSel</entry>
-        <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxEYXRlUGlja2VySU9TXD4=</entry>
         <entry encoding="base64">XDxkYXRlU2VsSW5kZXhcPg==</entry>
         <entry encoding="base64">XDxjaG9vc2VCdG5cPg==</entry>
@@ -980,6 +978,8 @@
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxsZWdlbmRcPg==</entry>
         <entry encoding="base64">XDxoaWdobGlnaHRzXD4=</entry>
+        <entry>entryLabelColor</entry>
+        <entry encoding="base64">XDx5VmFsdWVQb3NpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
