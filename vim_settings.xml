@@ -266,12 +266,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553774050757">
-        <mark key="'" line="513" column="55" />
-        <mark key="[" line="679" column="60" />
-        <mark key="]" line="680" column="7" />
-        <mark key="." line="680" column="7" />
-        <mark key="^" line="680" column="7" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553774999432">
+        <mark key="'" line="257" column="8" />
+        <mark key="[" line="680" column="91" />
+        <mark key="]" line="680" column="94" />
+        <mark key="." line="680" column="94" />
+        <mark key="^" line="680" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -827,9 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="620" column="88" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="572" column="73" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="413" column="44" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="454" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="421" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="446" column="34" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -927,6 +924,9 @@
       <jump line="510" column="39" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="511" column="48" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="513" column="55" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="688" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="844" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="257" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -936,22 +936,22 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>direction</text>
       </register>
       <register name="0" type="4">
-        <text>|| moment(startDate).isBefore(moment(yearList[0], 'YYYY'))</text>
+        <text>yearSelIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZXQsICdbID09PT09IG9mZnNldCA9PT09PSBdJyk7CiAgICAgICAgY29uc29sZS5sb2cod2lkdGggLSA0MCwgJ1sgPT09PT0gd2lkdGgtNDAgPT09PT0gXScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -960,19 +960,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kRGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb21lbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kRGF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudChzdGFydERhdGUpLnllYXIoeWVhciArIG9mZnNldCkuZm9ybWF0KGZvcm1hdCksICdbID09PT09IG1vbWVudChzdGFydERhdGUpLnllYXIoKSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb21lbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHllYXIsICdbID09PT09IHllYXIgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudChzdGFydERhdGUpLnllYXIoeWVhciArIG9mZnNldCkuZm9ybWF0KGZvcm1hdCksICdbID09PT09IG1vbWVudChzdGFydERhdGUpLnllYXIoKSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
