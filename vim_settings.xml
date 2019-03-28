@@ -266,12 +266,12 @@
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553764622678">
-        <mark key="'" line="468" column="29" />
-        <mark key="[" line="484" column="68" />
-        <mark key="]" line="485" column="7" />
-        <mark key="." line="485" column="7" />
-        <mark key="^" line="485" column="7" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553765452569">
+        <mark key="'" line="269" column="24" />
+        <mark key="[" line="484" column="0" />
+        <mark key="]" line="484" column="0" />
+        <mark key="." line="484" column="0" />
+        <mark key="^" line="483" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/demo/railway/index.html" timestamp="1551956185351">
         <mark key="'" line="39" column="8" />
@@ -822,8 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="33" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="174" column="6" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="245" column="6" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="520" column="26" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="6" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -894,7 +892,6 @@
       <jump line="434" column="34" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="357" column="6" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="433" column="84" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="455" column="72" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="626" column="17" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="255" column="10" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="267" column="40" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -919,9 +916,12 @@
       <jump line="167" column="40" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="631" column="19" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="638" column="98" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="482" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="458" column="25" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="468" column="29" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="482" column="15" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="589" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="455" column="20" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
+      <jump line="269" column="24" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -931,13 +931,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>that</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZW5kUGllRGF0YVw+</text>
+        <text>this.sv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXJyZW50U2VsVHlwZSA9PT0gJ20nKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG1vbnRoU2VsSW5kZXggPT09IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb250aFNlbEluZGV4OiAxMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHllYXJTZWxJbmRleDogeWVhclNlbEluZGV4IC0gMSwKICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVmPXsocikgPT4gdGhhdC5zdiA9IHJ9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -946,16 +946,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnBlbmRQaWVEYXRhKHJlc3AsIGZhbHNlLCBmYWxzZSwgZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -964,19 +964,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZW5kUGllRGF0YVw+</last-search>
+      <last-search>this.sv</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZW5kUGllRGF0YVw+</last-pattern>
+      <last-pattern>this.sv</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -984,7 +984,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXJkVmlld3NcPg==</entry>
         <entry>Request</entry>
         <entry encoding="base64">XDxtb250aExpc3RcPg==</entry>
         <entry encoding="base64">XDxmZXRjaFN0YXRpc3RpY0RhdGFcPg==</entry>
@@ -1004,6 +1003,7 @@
         <entry>offset</entry>
         <entry encoding="base64">XDxjdXJyZW50U2VsVHlwZVw+</entry>
         <entry encoding="base64">XDxwZW5kUGllRGF0YVw+</entry>
+        <entry>this.sv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
