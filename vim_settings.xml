@@ -49,6 +49,9 @@
         <mark key="[" line="132" column="20" />
         <mark key="]" line="132" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jdtx/ios/main.jsbundle" timestamp="1553845959383">
+        <mark key="'" line="140" column="3981" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/noticebar/index.scss" timestamp="1550300496061">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="1" column="15" />
@@ -86,12 +89,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" timestamp="1551863874809">
         <mark key="'" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553845163152">
-        <mark key="'" line="463" column="37" />
-        <mark key="[" line="141" column="23" />
-        <mark key="]" line="141" column="25" />
-        <mark key="." line="141" column="25" />
-        <mark key="^" line="141" column="25" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553845815652">
+        <mark key="'" line="399" column="48" />
+        <mark key="[" line="399" column="46" />
+        <mark key="]" line="399" column="48" />
+        <mark key="." line="399" column="48" />
+        <mark key="^" line="399" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1553227640834">
         <mark key="'" line="213" column="2" />
@@ -359,6 +362,11 @@
         <mark key="]" line="225" column="61" />
         <mark key="." line="225" column="45" />
         <mark key="^" line="222" column="70" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/jfans/package.json" timestamp="1553846216917">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/services/api.js" timestamp="1550337645238">
         <mark key="'" line="18" column="4" />
@@ -842,11 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="904" column="6" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
-      <jump line="418" column="2" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
-      <jump line="915" column="33" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
-      <jump line="924" column="63" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
-      <jump line="926" column="85" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="930" column="27" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="931" column="88" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="935" column="27" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
@@ -942,6 +945,11 @@
       <jump line="988" column="0" filename="$USER_HOME$/workspace/pproj/h5_jfk/src/pages/index/index.js" />
       <jump line="397" column="71" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="461" column="37" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="200" column="60" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="399" column="48" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="140" column="3981" filename="$USER_HOME$/workspace/pproj/jdtx/ios/main.jsbundle" />
+      <jump line="29" column="36" filename="$USER_HOME$/workspace/pproj/jfans/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -954,10 +962,10 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>refs.modal</text>
+        <text>linear</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWZzLm1vZGFsLm9wZW4oKTsK</text>
+      <register name="0" type="4">
+        <text>react-native-linear-gradient</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -994,9 +1002,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refs.modal</last-search>
+      <last-search>linear</last-search>
       <last-offset />
-      <last-pattern>refs.modal</last-pattern>
+      <last-pattern>linear</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -1004,8 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetching</entry>
-        <entry>loading</entry>
         <entry>overRender</entry>
         <entry>over</entry>
         <entry encoding="base64">XDxnZXRTdGFydERhdGVcPg==</entry>
@@ -1024,6 +1030,8 @@
         <entry encoding="base64">XDxtb2RhbFw+</entry>
         <entry>ref.modal</entry>
         <entry>refs.modal</entry>
+        <entry encoding="base64">XDxNb2RhbFw+</entry>
+        <entry>linear</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
