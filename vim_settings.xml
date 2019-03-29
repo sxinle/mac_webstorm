@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" timestamp="1551863874809">
         <mark key="'" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553845815652">
-        <mark key="'" line="399" column="48" />
-        <mark key="[" line="399" column="46" />
-        <mark key="]" line="399" column="48" />
-        <mark key="." line="399" column="48" />
-        <mark key="^" line="399" column="48" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553848260833">
+        <mark key="'" line="402" column="121" />
+        <mark key="[" line="402" column="121" />
+        <mark key="]" line="402" column="134" />
+        <mark key="." line="402" column="134" />
+        <mark key="^" line="402" column="134" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1553227640834">
         <mark key="'" line="213" column="2" />
@@ -850,8 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="930" column="27" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
-      <jump line="931" column="88" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="935" column="27" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="85" column="46" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
       <jump line="89" column="9" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js" />
@@ -947,9 +945,11 @@
       <jump line="461" column="37" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="200" column="60" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="0" column="7" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
-      <jump line="399" column="48" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="140" column="3981" filename="$USER_HOME$/workspace/pproj/jdtx/ios/main.jsbundle" />
       <jump line="29" column="36" filename="$USER_HOME$/workspace/pproj/jfans/package.json" />
+      <jump line="399" column="51" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="402" column="121" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -959,13 +959,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>linear</text>
       </register>
       <register name="0" type="4">
-        <text>react-native-linear-gradient</text>
+        <text>ImageBackground</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -974,28 +974,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZXQsICdbID09PT09IG9mZnNldCA9PT09PSBdJyk7CiAgICAgICAgY29uc29sZS5sb2cod2lkdGggLSA0MCwgJ1sgPT09PT0gd2lkdGgtNDAgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJUb3BDb2xvcjogJ2dyYXknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyVG9wV2lkdGg6IC4yLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiA2MCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWJldHdlZW4nCiAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRvdWNoYWJsZU9wYWNpdHkgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucmVmcy5tb2RhbC5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAnNTAlJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3t3aWR0aDogJzEwMCUnLCB0ZXh0QWxpZ246ICdjZW50ZXInLCBhbGlnblNlbGY6ICdjZW50ZXInfX0+5YWz6ZetPC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3t3aWR0aDogLjIsIGhlaWdodDogJzEwMCUnLCBiYWNrZ3JvdW5kQ29sb3I6ICdncmF5J319Lz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUb3VjaGFibGVPcGFjaXR5IG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpcm1SZWZ1c2VkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ICc1MCUnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17e3dpZHRoOiAnMTAwJScsIHRleHRBbGlnbjogJ2NlbnRlcid9fT7noa7orqQ8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CgogICAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kSW1hZ2U6Jy4uL2Fzc2V0cy8nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtyZWZ1c2VSZXNvbnMubWFwKChyZXNvbiwgaW5kZXgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gPFZpZXcgc3R5bGU9e3twYWRkaW5nOiAxNSwgcGFkZGluZ0JvdHRvbTogMCwgZmxleERpcmVjdGlvbjogJ2NvbHVtbid9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9e3Jlc29uLlJFRlVTRV9SRUFTT059PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VG91Y2hhYmxlT3BhY2l0eSBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZ1c2VTZWxJbmRleDogaW5kZXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVmdXNlUmVzb25JZDogcmVzb24uUkVGVVNFX1JFQVNPTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZ1c2VSZXNvbkNvbnRlbnQ6IHJlc29uLlJFRlVTRV9SRUFTT05fQ09OVEVOVCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4RGlyZWN0aW9uOiAncm93JywganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJ319PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PntyZXNvbi5SRUZVU0VfUkVBU09OX0NPTlRFTlQgfHwgJyd9PC9UZXh0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtpbmRleCA9PT0gcmVmdXNlU2VsSW5kZXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SW1hZ2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vYXNzZXRzL2ltYWdlcy9pY29uX2NpcmNsZV9zZWxlY3RlZC5wbmcnKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IDEyLCBoZWlnaHQ6IDEyfX0vPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuLi8uLi9hc3NldHMvaW1hZ2VzL2ljb25fY2lyY2xlX3Vuc2VsZWN0ZWQucG5nJyl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e3dpZHRoOiAxMiwgaGVpZ2h0OiAxMn19Lz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVG91Y2hhYmxlT3BhY2l0eT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7YmFja2dyb3VuZENvbG9yOiAnZ3JheScsIHdpZHRoOiAnMTAwJScsIGhlaWdodDogMSwgbWFyZ2luVG9wOiAxNX19Lz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvcmRlclRvcExlZnRSYWRpdXM6IDIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyVG9wUmlnaHRSYWRpdXM6IDIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMzAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZWVlZWVlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogJzQwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19PuaLkuaUtuWOn+WboDwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZXQsICdbID09PT09IG9mZnNldCA9PT09PSBdJyk7CiAgICAgICAgY29uc29sZS5sb2cod2lkdGggLSA0MCwgJ1sgPT09PT0gd2lkdGgtNDAgPT09PT0gXScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5kRGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb21lbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
