@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" timestamp="1551863874809">
         <mark key="'" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553855234673">
-        <mark key="'" line="441" column="109" />
-        <mark key="[" line="407" column="48" />
-        <mark key="]" line="407" column="49" />
-        <mark key="." line="407" column="49" />
-        <mark key="^" line="407" column="48" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553857100072">
+        <mark key="'" line="485" column="4" />
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="0" />
+        <mark key="." line="445" column="0" />
+        <mark key="^" line="443" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1553227640834">
         <mark key="'" line="213" column="2" />
@@ -856,13 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="455" column="20" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="593" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="444" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="585" column="10" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="496" column="38" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="103" column="34" filename="$USER_HOME$/workspace/pproj/jdtx/screens/ActiveOrders.js" />
       <jump line="7" column="38" filename="$USER_HOME$/workspace/pproj/jdtx/screens/ActiveOrders.js" />
       <jump line="34" column="22" filename="$USER_HOME$/workspace/pproj/jdtx/screens/ActiveOrders.js" />
@@ -942,7 +935,6 @@
       <jump line="29" column="36" filename="$USER_HOME$/workspace/pproj/jfans/package.json" />
       <jump line="399" column="51" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="12" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
-      <jump line="402" column="122" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="48" column="35" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Image/ImageBackground.js" />
       <jump line="3" column="8" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Image/ImageBackground.js" />
       <jump line="4" column="46" filename="$USER_HOME$/workspace/pproj/jdtx/node_modules/react-native/Libraries/Image/ImageBackground.js" />
@@ -956,6 +948,14 @@
       <jump line="419" column="43" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="404" column="70" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="435" column="109" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="402" column="45" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="222" column="95" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="282" column="67" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="286" column="39" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="223" column="38" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="406" column="74" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="443" column="38" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="474" column="4" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -965,52 +965,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'http://'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</text>
+        <text encoding="base64">XDxtb2RhbEF0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7YWxpZ25TZWxmOiAnY2VudGVyJ319PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxRUkNvZGUgdmFsdWU9e2ZpcnN0RG9tYWluLnFyY29kZVVybH0gc2l6ZT17MTgwfSBzdHlsZT17e2FsaWduU2VsZjogJ2NlbnRlcid9fS8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
+      <register name="0" type="4">
+        <text>getAtyQrCodeUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UVJDb2RlIHZhbHVlPXt0aGlzLnN0YXRlLnFyY29kZX0gc2l6ZT17MTMwfSBzdHlsZT17e2FsaWduU2VsZjogJ2NlbnRlcid9fS8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+5omr5o+P5LqM57u056CB5Y+C5LiO5a2Y6LS56YCB6LS55rS75YqoPC9UZXh0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PuaJq+aPj+S6jOe7tOeggeWPguS4juWtmOi0uemAgei0uea0u+WKqDwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTIwLAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnMubW9kYWxBdHkub3BlbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</last-search>
+      <last-search encoding="base64">XDxtb2RhbEF0eVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RhbEF0eVw+</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -1018,8 +1018,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdGFydERhdGVcPg==</entry>
-        <entry>yearClick</entry>
         <entry encoding="base64">XDxzY3JvbGxDYXJkTGlzdFw+</entry>
         <entry encoding="base64">XDxzY3JvbGxPZmZzZXRcPg==</entry>
         <entry>onScroll</entry>
@@ -1038,6 +1036,8 @@
         <entry>linear</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</entry>
+        <entry encoding="base64">XDxUUkFERV9TVEFUVVNcPg==</entry>
+        <entry encoding="base64">XDxtb2RhbEF0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
