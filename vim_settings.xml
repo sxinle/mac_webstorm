@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/services/goodsservice.js" timestamp="1551863874809">
         <mark key="'" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553852620753">
-        <mark key="'" line="403" column="84" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="410" column="0" />
-        <mark key="." line="410" column="0" />
-        <mark key="^" line="408" column="107" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" timestamp="1553855234673">
+        <mark key="'" line="441" column="109" />
+        <mark key="[" line="407" column="48" />
+        <mark key="]" line="407" column="49" />
+        <mark key="." line="407" column="49" />
+        <mark key="^" line="407" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/utils/utils.js" timestamp="1553227640834">
         <mark key="'" line="213" column="2" />
@@ -274,9 +274,9 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/FirstCharge.js" timestamp="1553485685013">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="18" />
+      <file name="$USER_HOME$/workspace/pproj/jdtx/screens/FirstCharge.js" timestamp="1553853473144">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="85" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" timestamp="1553824862092">
         <mark key="'" line="844" column="0" />
@@ -856,12 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="29" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="442" column="66" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="445" column="32" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="269" column="47" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="549" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
-      <jump line="437" column="31" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="589" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="455" column="20" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
       <jump line="593" column="12" filename="$USER_HOME$/workspace/pproj/jdtx/screens/Statistic.js" />
@@ -956,6 +950,12 @@
       <jump line="1" column="7" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/goodsConfirm/AllotDetail.js" />
       <jump line="193" column="25" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/goodsConfirm/AllotDetail.js" />
       <jump line="403" column="84" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="413" column="32" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="419" column="43" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="404" column="70" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
+      <jump line="435" column="109" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -965,16 +965,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>maxHeight: devHeight / 10 * 8</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7YWxpZ25TZWxmOiAnY2VudGVyJ319PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxRUkNvZGUgdmFsdWU9e2ZpcnN0RG9tYWluLnFyY29kZVVybH0gc2l6ZT17MTgwfSBzdHlsZT17e2FsaWduU2VsZjogJ2NlbnRlcid9fS8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENvbnRlbnQgc2Nyb2xsRW5hYmxlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZ0xlZnQ6IDIwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZ1JpZ2h0OiAyMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3doaXRlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD5oZWxsbzwvVGV4dD4KCgogICAgICAgICAgICAgICAgICAgICAgICA8L0NvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBibwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -983,25 +983,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbGxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGV4OiAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEF1dG9IZWlnaHRJbWFnZSBzb3VyY2U9e3JlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvZmlyc3RfcmV3YXJkX2JnLnBuZycpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+5omr5o+P5LqM57u056CB5Y+C5LiO5a2Y6LS56YCB6LS55rS75YqoPC9UZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9JbWFnZUJhY2tncm91bmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PuaJq+aPj+S6jOe7tOeggeWPguS4juWtmOi0uemAgei0uea0u+WKqDwvVGV4dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29udGVudD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogMTIwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlQmFja2dyb3VuZCBzb3VyY2U9e3t1cmk6IHJlcXVpcmUoJy4uLy4uL2Fzc2V0cy9pbWFnZXMvZmlyc3RfcmV3YXJkX2JnLnBuZycpfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e3dpZHRoOiAnMTAwJScsIGhlaWdodDogJzEwMCUnfX0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnd2hpdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
