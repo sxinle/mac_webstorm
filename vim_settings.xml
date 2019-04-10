@@ -238,12 +238,12 @@
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Dashboard/Analysis.js" timestamp="1554199648254">
         <mark key="'" line="57" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" timestamp="1553072406615">
-        <mark key="'" line="110" column="34" />
-        <mark key="[" line="216" column="50" />
-        <mark key="]" line="216" column="53" />
-        <mark key="." line="216" column="53" />
-        <mark key="^" line="216" column="53" />
+      <file name="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" timestamp="1554889029654">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="228" column="40" />
+        <mark key="]" line="228" column="53" />
+        <mark key="." line="228" column="53" />
+        <mark key="^" line="228" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/App.js" timestamp="1553160479403">
         <mark key="'" line="108" column="0" />
@@ -809,7 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="46" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="428" column="54" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="104" column="17" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/atyorders/AtyNewDetail.js" />
@@ -909,6 +908,7 @@
       <jump line="108" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/app.js" />
       <jump line="23" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" />
       <jump line="254" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -918,10 +918,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>自定义转发标题</text>
+        <text>218.241.202.82:9391</text>
       </register>
       <register name="/" type="4">
-        <text>今日业绩</text>
+        <text>localhost</text>
       </register>
       <register name="0" type="4">
         <text>pages/home/home</text>
@@ -961,17 +961,16 @@
       </register>
     </registers>
     <search>
-      <last-search>今日业绩</last-search>
+      <last-search>localhost</last-search>
       <last-offset />
-      <last-pattern>今日业绩</last-pattern>
+      <last-pattern>localhost</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaW5lYXJHcmFkaWVudFw+</entry>
         <entry encoding="base64">XDxUUkFERV9TVEFUVVNcPg==</entry>
         <entry encoding="base64">XDxtb2RhbEF0eVw+</entry>
         <entry>Segment</entry>
@@ -991,6 +990,7 @@
         <entry encoding="base64">XDxyYW5nZVBpY2tlclZhbHVlXD4=</entry>
         <entry>reset</entry>
         <entry>今日业绩</entry>
+        <entry>localhost</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
