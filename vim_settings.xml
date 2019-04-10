@@ -410,12 +410,11 @@
         <mark key="." line="598" column="21" />
         <mark key="^" line="598" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1553046798709">
-        <mark key="'" line="191" column="19" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" timestamp="1554883031667">
+        <mark key="'" line="257" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/home/card/SelNumber.js" timestamp="1551263956106">
         <mark key="'" line="49" column="18" />
@@ -603,8 +602,10 @@
         <mark key="^" line="157" column="116" />
         <mark key="." line="157" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-mp/src/app.js" timestamp="1554877021421">
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/app.js" timestamp="1554882834940">
         <mark key="'" line="108" column="0" />
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1553066238472">
         <mark key="'" line="113" column="29" />
@@ -703,12 +704,6 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/node_modules/native-base/index.d.ts" timestamp="1553490806594">
         <mark key="'" line="464" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/jdtx-sdk/util/Util.js" timestamp="1554090533809">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="79" />
-        <mark key="." line="9" column="43" />
-        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/bldSDK/bldSDK.xcodeproj/project.pbxproj" timestamp="1554102630191">
         <mark key="'" line="882" column="36" />
@@ -814,7 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="31" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="14" column="46" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="428" column="54" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/jdtx/screens/atyorders/AtyNewDetail.js" />
@@ -914,6 +908,7 @@
       <jump line="15" column="22" filename="$USER_HOME$/workspace/pproj/to-mp/src/app.js" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/app.js" />
       <jump line="23" column="21" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" />
+      <jump line="254" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -923,43 +918,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>自定义转发标题</text>
       </register>
       <register name="/" type="4">
         <text>今日业绩</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ2pmYW5zJywgKCkgPT4gamZhbnMpOwo=</text>
+      <register name="0" type="4">
+        <text>pages/home/home</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hPcmRlcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgdGl0bGU6ICflrablk6XkvbPorqLppJDlubPlj7AnLAogICAgICBwYXRoOiBgL3BhZ2VzL2hvbWUvaG9tZWAsCiAgICAgIGltYWdlVXJsOiAn6Ieq5a6a5LmJ6L2s5Y+R55qE5Zu+54mHJywKICAgICAgc3VjY2VzczogZnVuY3Rpb24gKCkgewogICAgICB9LAogICAgICBmYWlsOiBmdW5jdGlvbiAoKSB7CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDovazlj5HlpLHotKUKICAgICAgICBjb25zb2xlLmxvZygi6L2s5Y+R5aSx6LSlOiIgKyBKU09OLnN0cmluZ2lmeShyZXMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0ID0gcmFuZ2VQaWNrZXJWYWx1ZVswXS5mb3JtYXQoJ1lZWVktTU0tREQnKTsKICAgIGNvbnN0IGVuZCA9IHJhbmdlUGlja2VyVmFsdWVbMV0uZm9ybWF0KCdZWVlZLU1NLUREJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwogICAgICAgIGNvbnNvbGUubG9nKCLovazlj5HmiJDlip86IiArIEpTT04uc3RyaW5naWZ5KHJlcykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8v6L+Z5Liq5YiG5Lqr55qE5Ye95pWw5b+F6aG75YaZ5Zyo5YWl5Y+j5Lit77yM5YaZ5Zyo5a2Q57uE5Lu25Lit5LiN55Sf5pWICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBheWxvYWQuc3RhcnQgPSBzdGFydDsKICAgIHBheWxvYWQuZW5kID0gZW5kOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zdCB7IHJhbmdlUGlja2VyVmFsdWUgfSA9IHRoaXMuc3RhdGU7CiAgICBjb25zdCBzdGFydCA9IHJhbmdlUGlja2VyVmFsdWVbMF0uZm9ybWF0KCdZWVlZLU1NLUREJyk7CiAgICBjb25zdCBlbmQgPSByYW5nZVBpY2tlclZhbHVlWzFdLmZvcm1hdCgnWVlZWS1NTS1ERCcpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hPcmRlcnMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQsIGVuZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0ID0gcmFuZ2VQaWNrZXJWYWx1ZVswXS5mb3JtYXQoJ1lZWVktTU0tREQnKTsKICAgIGNvbnN0IGVuZCA9IHJhbmdlUGlja2VyVmFsdWVbMV0uZm9ybWF0KCdZWVlZLU1NLUREJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
