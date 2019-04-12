@@ -533,10 +533,12 @@
         <mark key="." line="411" column="57" />
         <mark key="^" line="411" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555048241725">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="133" column="20" />
-        <mark key="]" line="133" column="38" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555051556988">
+        <mark key="'" line="144" column="29" />
+        <mark key="[" line="378" column="41" />
+        <mark key="]" line="378" column="57" />
+        <mark key="." line="378" column="41" />
+        <mark key="^" line="378" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1554261837841">
         <mark key="'" line="18" column="29" />
@@ -813,7 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="34" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="460" column="16" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="517" column="21" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="20" column="21" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/App.js" />
@@ -913,6 +914,7 @@
       <jump line="132" column="26" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="285" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
+      <jump line="144" column="29" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -922,13 +924,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>couldWithdraw</text>
+        <text>money</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5XaXRoZHJhd01vbmV5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNvdWxkV2l0aGRyYXcoKSB7CiAgcmV0dXJuIHJlcXVlc3QoYCR7dXRpbHMuYXBpTm9kZX0vd2l0aGRyYXcvY291bGRXaXRoZHJhd2AsIHsKICAgIG1ldGhvZDogJ0dFVCcsCiAgfSk7Cn0K</text>
+      <register name="0" type="4">
+        <text>canWithdrawMoney</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
