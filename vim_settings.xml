@@ -434,12 +434,12 @@
         <mark key="^" line="53" column="102" />
         <mark key="." line="53" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Withdraw/Withdraw.js" timestamp="1550751642975">
-        <mark key="'" line="207" column="15" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="45" />
-        <mark key="." line="62" column="39" />
-        <mark key="^" line="65" column="44" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Withdraw/Withdraw.js" timestamp="1555055382176">
+        <mark key="'" line="66" column="17" />
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="43" />
+        <mark key="." line="68" column="43" />
+        <mark key="^" line="68" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/components/GlobalHeader/RightContent.js" timestamp="1554987941367">
         <mark key="'" line="18" column="7" />
@@ -547,11 +547,11 @@
         <mark key="." line="206" column="32" />
         <mark key="^" line="206" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1551846285450">
-        <mark key="'" line="306" column="14" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="33" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1555055430826">
+        <mark key="'" line="261" column="2" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="267" column="4" />
+        <mark key="." line="261" column="0" />
         <mark key="^" line="259" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/code_flow_front/package.json" timestamp="1552877267588">
@@ -664,7 +664,7 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1553498006480">
         <mark key="'" line="202" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554883080953">
+      <file name="/Dummy.txt" timestamp="1555055444098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1551329480312">
@@ -815,8 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="16" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
-      <jump line="517" column="21" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/screens/Statistic.js" />
       <jump line="20" column="21" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/App.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/pproj/jdtx-sdk/App.js" />
       <jump line="11" column="5" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/statistic/SalesCard.js" />
@@ -915,6 +913,8 @@
       <jump line="285" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="144" column="29" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
+      <jump line="66" column="17" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Withdraw/Withdraw.js" />
+      <jump line="261" column="2" filename="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -924,7 +924,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>money</text>
+        <text>lime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5XaXRoZHJhd01vbmV5XD4=</text>
@@ -933,7 +933,7 @@
         <text>canWithdrawMoney</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAnL3Nob3Avd2l0aGRyYXcnLAogICAgbmFtZTogJ3dpdGhkcmF3JywKICAgIGljb246ICdkb2xsYXInLAogICAgY29tcG9uZW50OiAnLi9UYWtlb3V0L1Nob3AvV2l0aGRyYXcvV2l0aGRyYXcnLAogICAgYXV0aG9yaXR5OiAnYWRtaW4nLAogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -942,25 +942,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7d2l0aGRyYXdGbGFnICYmIDxEaXZpZGVyIHR5cGU9InZlcnRpY2FsIiAvPn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7d2l0aGRyYXdGbGFnICYmCiAgICAgICAgICAgICAgPFBvcGNvbmZpcm0gdGl0bGU9e2Dnoa7lrprmj5DnjrAgJHttb25leX3lhYPvvJ9gfSBvbkNvbmZpcm09eygpID0+IHRoaXMuZG9XaXRoRHJhdyhtb25leSl9PgogICAgICAgICAgICAgICAgPEJ1dHRvbiBpY29uPSJ3ZWNoYXQiIHR5cGU9ImRhbmdlciIgZ2hvc3Qgc2l6ZT0ic21hbGwiPgogICAgICAgICAgICAgICAgICDmj5DnjrAKICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDwvUG9wY29uZmlybT4KICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7d2l0aGRyYXdGbGFnICYmIDxEaXZpZGVyIHR5cGU9InZlcnRpY2FsIiAvPn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7d2l0aGRyYXdGbGFnICYmCiAgICAgICAgICAgICAgPFBvcGNvbmZpcm0gdGl0bGU9e2Dnoa7lrprmj5DnjrAgJHttb25leX3lhYPvvJ9gfSBvbkNvbmZpcm09eygpID0+IHRoaXMuZG9XaXRoRHJhdyhtb25leSl9PgogICAgICAgICAgICAgICAgPEJ1dHRvbiBpY29uPSJ3ZWNoYXQiIHR5cGU9ImRhbmdlciIgZ2hvc3Qgc2l6ZT0ic21hbGwiPgogICAgICAgICAgICAgICAgICDmj5DnjrAKICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDwvUG9wY29uZmlybT4KICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdhc2Rmc2FkZmFzZnNhZicpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
