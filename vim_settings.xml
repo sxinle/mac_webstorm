@@ -465,6 +465,12 @@
         <mark key="." line="125" column="11" />
         <mark key="^" line="125" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/project.config.json" timestamp="1555219778007">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/nomore/nomore.js" timestamp="1550201697091">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="12" column="66" />
@@ -495,6 +501,9 @@
         <mark key="]" line="146" column="17" />
         <mark key="." line="146" column="17" />
         <mark key="^" line="451" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" timestamp="1555220014546">
+        <mark key="'" line="42" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/front/cprize_front/src/routes/Prize/Home.js" timestamp="1552874568920">
         <mark key="'" line="92" column="0" />
@@ -834,9 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="34" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
-      <jump line="126" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="101" column="13" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="245" column="25" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="98" column="18" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
@@ -934,6 +940,9 @@
       <jump line="121" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/utils.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/utils/utils.js" />
+      <jump line="44" column="34" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" />
+      <jump line="157" column="73" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" />
+      <jump line="42" column="85" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -943,10 +952,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ant-design-pro</text>
+        <text>卖</text>
       </register>
       <register name="/" type="4">
-        <text>销量汇总</text>
+        <text>totalPrice</text>
       </register>
       <register name="0" type="4">
         <text>decodeURIComponent(msg)</text>
@@ -958,45 +967,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdWxkV2l0aGRyYXcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IGNsYXNzTmFtZT0nb3JkZXItdG90YWwnPgogICAgICAgICAgICA8VGV4dCBjbGFzc05hbWU9J2luZm8nPuWFsXtvcmRlckluZm8uZGV0YWlsTGlzdC5sZW5ndGh95Lu25ZWG5ZOBIOW6lOS7mDo8L1RleHQ+CiAgICAgICAgICAgIDxUZXh0IGNsYXNzTmFtZT0ncHJpY2UnPsKle1V0aWxzLnRvRml4ZWQocGFyc2VGbG9hdChvcmRlckluZm8udG90YWxQcmljZSkgKyBwYXJzZUZsb2F0KG9yZGVySW5mby5kaXN0TW9uZXkpKX08L1RleHQ+CiAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvdWxkV2l0aGRyYXcgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZS5lcnJvcihkZWNvZGVVUklDb21wb25lbnQobXNnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2NvdWxkV2l0aGRyYXcgJiYK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdpdGhkcmF3RmxhZyA9IGNvdWxkV2l0aGRyYXc7Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZS5lcnJvcihkZWNvZGVVUklDb21wb25lbnQobXNnKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge2NvdWxkV2l0aGRyYXcgJiYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>销量汇总</last-search>
+      <last-search>totalPrice</last-search>
       <last-offset />
-      <last-pattern>销量汇总</last-pattern>
+      <last-pattern>totalPrice</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>下单日期</entry>
         <entry encoding="base64">XDxoYW5kbGVSYW5nZVBpY2tlckNoYW5nZVw+</entry>
         <entry encoding="base64">XDxyYW5nZVBpY2tlclZhbHVlXD4=</entry>
         <entry>reset</entry>
@@ -1016,6 +1024,7 @@
         <entry>提现失败</entry>
         <entry>message</entry>
         <entry>销量汇总</entry>
+        <entry>totalPrice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
