@@ -530,12 +530,12 @@
         <mark key="." line="57" column="67" />
         <mark key="^" line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1553049816381">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="570" column="24" />
-        <mark key="]" line="570" column="40" />
-        <mark key="." line="570" column="40" />
-        <mark key="^" line="570" column="40" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1555340716667">
+        <mark key="'" line="442" column="36" />
+        <mark key="[" line="531" column="35" />
+        <mark key="]" line="531" column="36" />
+        <mark key="." line="531" column="36" />
+        <mark key="^" line="531" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jdtx/navigation/MainTabNavigator.js" timestamp="1554089272751">
         <mark key="'" line="0" column="0" />
@@ -586,6 +586,9 @@
         <mark key="]" line="206" column="32" />
         <mark key="." line="206" column="32" />
         <mark key="^" line="206" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/to-admin/mp.json" timestamp="1555391235266">
+        <mark key="'" line="4254" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1555055430826">
         <mark key="'" line="261" column="2" />
@@ -699,7 +702,7 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1553498006480">
         <mark key="'" line="202" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555337937068">
+      <file name="/Dummy.txt" timestamp="1555340721202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1551329480312">
@@ -865,9 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="0" filename="$USER_HOME$/workspace/pproj/to-mp/src/pages/home/home.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/workspace/micro-service/front/code_flow_front/src/utils/utils.js" />
-      <jump line="17" column="16" filename="$USER_HOME$/workspace/pproj/to-mp/src/utils/Const.js" />
       <jump line="300" column="59" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="74" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="76" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
@@ -965,6 +965,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/jfans/.babelrc" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/.babelrc" />
       <jump line="105" column="32" filename="$USER_HOME$/workspace/pegas/pegasDelivery/pages/containers/auth/Login.js" />
+      <jump line="531" column="33" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="442" column="36" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="4254" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/mp.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -974,13 +977,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>4月16日起，</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>V</text>
+        <text>最长11个字符</text>
       </register>
       <register name="0" type="4">
-        <text>pegasDelivery</text>
+        <text>最长11个字符</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ewogICJwcmVzZXRzIjogWyJtb2R1bGU6bWV0cm8tcmVhY3QtbmF0aXZlLWJhYmVsLXByZXNldCJdCn0K</text>
@@ -1017,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search>V</last-search>
+      <last-search>最长11个字符</last-search>
       <last-offset />
-      <last-pattern>V</last-pattern>
+      <last-pattern>最长11个字符</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,7 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYW5nZVBpY2tlclZhbHVlXD4=</entry>
         <entry>reset</entry>
         <entry>今日业绩</entry>
         <entry>localhost</entry>
@@ -1047,6 +1049,7 @@
         <entry>销量汇总</entry>
         <entry>totalPrice</entry>
         <entry>V</entry>
+        <entry>最长11个字符</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
