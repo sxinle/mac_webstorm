@@ -311,6 +311,12 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555426765277">
+        <mark key="[" line="394" column="0" />
+        <mark key="]" line="394" column="78" />
+        <mark key="^" line="394" column="16" />
+        <mark key="." line="394" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/src/components/GlobalHeader/RightContent.js" timestamp="1551844428005">
         <mark key="'" line="58" column="11" />
         <mark key="[" line="33" column="6" />
@@ -594,10 +600,11 @@
         <mark key="." line="282" column="47" />
         <mark key="^" line="282" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555337668177">
-        <mark key="[" line="368" column="52" />
-        <mark key="]" line="368" column="52" />
-        <mark key="." line="368" column="52" />
+      <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555426787131">
+        <mark key="[" line="372" column="48" />
+        <mark key="]" line="372" column="51" />
+        <mark key="." line="372" column="51" />
+        <mark key="^" line="372" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/pages/router.js" timestamp="1555325644982">
         <mark key="'" line="171" column="0" />
@@ -609,12 +616,12 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/User/Login.js" timestamp="1555404907984">
         <mark key="'" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1554261837841">
+      <file name="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1555426549981">
         <mark key="'" line="18" column="29" />
-        <mark key="[" line="205" column="26" />
-        <mark key="]" line="206" column="32" />
-        <mark key="." line="206" column="32" />
-        <mark key="^" line="206" column="32" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="71" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/mp.json" timestamp="1555397192027">
         <mark key="'" line="2" column="5" />
@@ -729,7 +736,7 @@
       <file name="$USER_HOME$/workspace/pproj/jfans/node_modules/react-native/Libraries/Modal/Modal.js" timestamp="1553498006480">
         <mark key="'" line="202" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555416375787">
+      <file name="/Dummy.txt" timestamp="1555426854930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/models/cart.js" timestamp="1551329480312">
@@ -794,6 +801,12 @@
         <mark key="]" line="80" column="190" />
         <mark key="." line="232" column="118" />
         <mark key="^" line="232" column="118" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" timestamp="1555426638700">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/pages/index.js" timestamp="1555325995601">
         <mark key="[" line="38" column="82" />
@@ -898,7 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="30" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="381" column="39" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="9" column="23" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/package.json" />
@@ -998,6 +1010,7 @@
       <jump line="34" column="21" filename="$USER_HOME$/workspace/pproj/to-shop/package.json" />
       <jump line="12" column="34" filename="$USER_HOME$/workspace/pproj/to-shop/package.json" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/pproj/to-shop/package.json" />
+      <jump line="377" column="25" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1007,61 +1020,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.jsonStr,</text>
+        <text>floor</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>floor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJhbnRkIjogIl4zLjEyLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgPyBNYXRoLmNlaWwoKDEwMCAtIHRvZGF5U2FsZXNEYXRhLnBlcmNlbnQpICogdG9kYXlTYWxlc0RhdGEudG90YWwpIC8gMTAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbnRkIjogIl4zLjEwLjkiLAo=</text>
+        <text encoding="base64">ICAgICAgc29ydGVyOiB0cnVlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbnRkIjogIl4zLjEwLjkiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfllYblk4HlkI0nLAogICAgICBkYXRhSW5kZXg6ICduYW1lJywKICAgICAgd2lkdGg6IDgwLAogICAgICBmaXhlZDogJ2xlZnQnLAogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmllbGRzVmFsdWUsICdbID09PT09IGZpZWxkc1ZhbHVlID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfllYblk4HlkI0nLAogICAgICBkYXRhSW5kZXg6ICduYW1lJywKICAgICAgd2lkdGg6IDgwLAogICAgICBmaXhlZDogJ2xlZnQnLAogICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmllbGRzVmFsdWUsICdbID09PT09IGZpZWxkc1ZhbHVlID09PT09IF0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVycikge31yZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGVycikge31yZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>floor</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>floor</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry encoding="base64">XDxjYW5XaXRoZHJhd01vbmV5XD4=</entry>
         <entry>提现失败</entry>
         <entry>message</entry>
         <entry>销量汇总</entry>
@@ -1080,6 +1091,8 @@
         <entry>pwd</entry>
         <entry>密码</entry>
         <entry>password</entry>
+        <entry>订单号</entry>
+        <entry>floor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
