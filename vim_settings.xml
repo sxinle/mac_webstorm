@@ -587,10 +587,10 @@
         <mark key="." line="206" column="32" />
         <mark key="^" line="206" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/to-admin/mp.json" timestamp="1555393018600">
-        <mark key="'" line="4254" column="0" />
-        <mark key="[" line="1032" column="13" />
-        <mark key="]" line="1032" column="48" />
+      <file name="$USER_HOME$/workspace/pproj/to-admin/mp.json" timestamp="1555393896338">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="1023" column="25" />
+        <mark key="]" line="1023" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/config/router.config.js" timestamp="1555055430826">
         <mark key="'" line="261" column="2" />
@@ -870,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="59" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="74" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="76" column="12" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
       <jump line="108" column="11" filename="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" />
@@ -970,6 +969,7 @@
       <jump line="531" column="33" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="442" column="36" filename="$USER_HOME$/workspace/pproj/to-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="4254" column="0" filename="$USER_HOME$/workspace/pproj/to-admin/mp.json" />
+      <jump line="26" column="27" filename="$USER_HOME$/workspace/pproj/to-admin/mp.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -982,7 +982,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>最长11个字符</text>
+        <text>95</text>
       </register>
       <register name="0" type="4">
         <text>4ca3e9eada1f1c46fc5d658cadaf3befjpeg</text>
@@ -1022,17 +1022,16 @@
       </register>
     </registers>
     <search>
-      <last-search>最长11个字符</last-search>
+      <last-search>95</last-search>
       <last-offset />
-      <last-pattern>最长11个字符</last-pattern>
+      <last-pattern>95</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
         <entry>今日业绩</entry>
         <entry>localhost</entry>
         <entry encoding="base64">XDxQb3Bjb25maXJtXD4=</entry>
@@ -1052,6 +1051,7 @@
         <entry>totalPrice</entry>
         <entry>V</entry>
         <entry>最长11个字符</entry>
+        <entry>95</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
