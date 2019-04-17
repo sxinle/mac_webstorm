@@ -168,11 +168,11 @@
         <mark key="^" line="69" column="25" />
         <mark key="." line="69" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" timestamp="1555486299995">
-        <mark key="'" line="56" column="29" />
-        <mark key="[" line="56" column="56" />
-        <mark key="]" line="56" column="80" />
-        <mark key="." line="56" column="80" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" timestamp="1555487636694">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
         <mark key="^" line="56" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" timestamp="1555325047249">
@@ -539,11 +539,12 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/users.js" timestamp="1555486307846">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/users.js" timestamp="1555487609901">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="23" />
-        <mark key="." line="51" column="64" />
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jfk/src/app.js" timestamp="1551520193974">
         <mark key="'" line="19" column="5" />
@@ -662,12 +663,12 @@
         <mark key="^" line="157" column="116" />
         <mark key="." line="157" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" timestamp="1555486395705">
-        <mark key="'" line="244" column="4" />
-        <mark key="[" line="439" column="35" />
-        <mark key="]" line="439" column="36" />
-        <mark key="." line="439" column="36" />
-        <mark key="^" line="439" column="36" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" timestamp="1555487691000">
+        <mark key="'" line="436" column="45" />
+        <mark key="[" line="186" column="8" />
+        <mark key="]" line="186" column="15" />
+        <mark key="." line="186" column="15" />
+        <mark key="^" line="186" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-mp/src/pages/orders/timeline/timeline.js" timestamp="1550817179006">
         <mark key="'" line="33" column="13" />
@@ -849,9 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/node_modules/antd/lib/modal/Modal.d.ts" />
-      <jump line="32" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/node_modules/antd/lib/modal/Modal.d.ts" />
-      <jump line="117" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/node_modules/antd/lib/modal/Modal.d.ts" />
       <jump line="15" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/node_modules/antd/lib/modal/Modal.d.ts" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/node_modules/antd/lib/modal/Modal.d.ts" />
       <jump line="45" column="37" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/User/Login.js" />
@@ -949,6 +947,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/users.js" />
       <jump line="49" column="29" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" />
       <jump line="244" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
+      <jump line="436" column="45" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
+      <jump line="56" column="30" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -958,55 +959,55 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>人</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
-        <text>送餐人员</text>
+        <text>确定重置</text>
       </register>
-      <register name="0" type="4">
-        <text>fetchDeliveryUsers</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG1vZFVzZXIocGFyYW0pIHsKICByZXR1cm4gcmVxdWVzdChgJHt1dGlscy5hcGlSb290fS9hZG1pbi91c2VyYCwgewogICAgbWV0aG9kOiAnUFVUJywKICAgIGJvZHk6IHBhcmFtLAogIH0pOwp9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>, {
     method: 'POST',
     body: param,
   }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTogJzEyMzQ1NicsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDUgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5omA5bGe5Yy65Z+fIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignYXJlYUlkJywgewogICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlIH1dLAogICAgICAgICAgaW5pdGlhbFZhbHVlOiBVdGlsLm5vdEVtcHR5KGFyZWFEYXRhLmxpc3QpID8gYXJlYURhdGEubGlzdFswXS5pZCA6IC0xLAogICAgICAgIH0pKAogICAgICAgICAgPFNlbGVjdCBwbGFjZWhvbGRlcj0i6K+36YCJ5oupIiBzdHlsZT17eyB3aWR0aDogJzEwMCUnIH19PgogICAgICAgICAgICB7VXRpbC5ub3RFbXB0eShhcmVhRGF0YS5saXN0KSAmJgogICAgICAgICAgICBhcmVhRGF0YS5saXN0Lm1hcChhcmVhID0+IDxPcHRpb24ga2V5PXthcmVhLmlkfSB2YWx1ZT17YXJlYS5pZH0+e2FyZWEubmFtZX08L09wdGlvbj4pCiAgICAgICAgICAgIH0KICAgICAgICAgIDwvU2VsZWN0PiwKICAgICAgICApfQogICAgICA8L0Zvcm1JdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTogJzEyMzQ1NicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxhYmVsQ29sPXt7IHNwYW46IDUgfX0gd3JhcHBlckNvbD17eyBzcGFuOiAxNSB9fSBsYWJlbD0i5omA5bGe5Yy65Z+fIj4KICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignYXJlYUlkJywgewogICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlIH1dLAogICAgICAgICAgaW5pdGlhbFZhbHVlOiBVdGlsLm5vdEVtcHR5KGFyZWFEYXRhLmxpc3QpID8gYXJlYURhdGEubGlzdFswXS5pZCA6IC0xLAogICAgICAgIH0pKAogICAgICAgICAgPFNlbGVjdCBwbGFjZWhvbGRlcj0i6K+36YCJ5oupIiBzdHlsZT17eyB3aWR0aDogJzEwMCUnIH19PgogICAgICAgICAgICB7VXRpbC5ub3RFbXB0eShhcmVhRGF0YS5saXN0KSAmJgogICAgICAgICAgICBhcmVhRGF0YS5saXN0Lm1hcChhcmVhID0+IDxPcHRpb24ga2V5PXthcmVhLmlkfSB2YWx1ZT17YXJlYS5pZH0+e2FyZWEubmFtZX08L09wdGlvbj4pCiAgICAgICAgICAgIH0KICAgICAgICAgIDwvU2VsZWN0PiwKICAgICAgICApfQogICAgICA8L0Zvcm1JdGVtPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>送餐人员</last-search>
+      <last-search>确定重置</last-search>
       <last-offset />
-      <last-pattern>送餐人员</last-pattern>
+      <last-pattern>确定重置</last-pattern>
       <last-replace>yearSel</last-replace>
       <last-substitute>monthSel</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,7 +1015,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pwd</entry>
         <entry>密码</entry>
         <entry>password</entry>
         <entry>订单号</entry>
@@ -1034,6 +1034,7 @@
         <entry>添加骑手</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRcPg==</entry>
         <entry>送餐人员</entry>
+        <entry>确定重置</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
