@@ -58,12 +58,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555590513662">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555599412933">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="50" column="59" />
-        <mark key="]" line="50" column="59" />
-        <mark key="^" line="50" column="59" />
-        <mark key="." line="50" column="59" />
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+        <mark key="." line="74" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/noticebar/index.scss" timestamp="1550300496061">
         <mark key="'" line="128" column="0" />
@@ -395,6 +395,13 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/PullToRefreshLayout.js" timestamp="1555599364075">
+        <mark key="'" line="304" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1555430437842">
         <mark key="'" line="404" column="9" />
@@ -1006,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/demo.js" />
       <jump line="89" column="114" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/DrawerNavigator.js" />
       <jump line="60" column="29" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/DrawerNavigator.js" />
       <jump line="4" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/DrawerNavigator.js" />
@@ -1106,6 +1112,7 @@
       <jump line="43" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
+      <jump line="300" column="2" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/PullToRefreshLayout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1115,7 +1122,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>bold</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>任务列表</text>
@@ -1164,7 +1171,7 @@
       <last-replace>Drawer</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
