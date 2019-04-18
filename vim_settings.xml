@@ -45,10 +45,17 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555563554705">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/CommonWebView.js" timestamp="1555566778557">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555567033000">
         <mark key="'" line="4" column="16" />
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="31" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="29" />
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
       </file>
@@ -524,12 +531,12 @@
         <mark key="^" line="860" column="30" />
         <mark key="." line="860" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/AppNavigator.js" timestamp="1555563046642">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="79" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/AppNavigator.js" timestamp="1555566646636">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="15" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-shop/src/pages/Takeout/Shop/Printer/Printer.js" timestamp="1554984433705">
         <mark key="'" line="0" column="0" />
@@ -952,9 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="45" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
-      <jump line="42" column="46" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/myusers.js" />
-      <jump line="198" column="15" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="393" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
       <jump line="189" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/ShopSalesData/ShopSalesData.js" />
       <jump line="406" column="23" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
@@ -1052,6 +1056,9 @@
       <jump line="24" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
       <jump line="32" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
       <jump line="33" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
+      <jump line="17" column="5" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/AppNavigator.js" />
+      <jump line="24" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/CommonWebView.js" />
+      <jump line="2" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/CommonWebView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1061,21 +1068,36 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
         <text>naviga</text>
       </register>
-      <register name="0" type="4">
-        <text>Button</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB0aXRsZT0iaGVsbG8iIG9uUHJlc3M9eygpPT57CiAgICAgICAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCdEcmF3ZXInKTsKICAgICAgICAgICAgfX0+aGVsbG88L0J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtd2t3ZWJ2aWV3LXJlYm9ybiI6ICJodHRwczovL2dpdGh1Yi5jb20vc3hpbmxlL3JlYWN0LW5hdGl2ZS13a3dlYnZpZXciCg==</text>
+        <text encoding="base64">aW1wb3J0IFdLV2ViVmlldyBmcm9tICdyZWFjdC1uYXRpdmUtd2t3ZWJ2aWV3LXJlYm9ybic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>createSwitchNavigator(
+  { AuthLoading: AuthLoadingScreen, Auth: AuthStack, App: AppNavigator },
+  { initialRouteName: 'AuthLoading' },
+)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtd2t3ZWJ2aWV3LXJlYm9ybiI6ICJodHRwczovL2dpdGh1Yi5jb20vc3hpbmxlL3JlYWN0LW5hdGl2ZS13a3dlYnZpZXciCg==</text>
+      </register>
+      <register name="6" type="8">
         <text>+
 +
 +
@@ -1085,26 +1107,14 @@
 +
 +</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text encoding="base64">KyAKKyAKKyA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IE5hdmlTZXJ2aWNlIGZyb20gJy4vY29udGFpbmVycy9uYXYvTmF2aVNlcnZpY2UnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBtZW51Rm9udDogewogICAgZm9udFNpemU6IENvbnN0LmYuZm9udFNpemVMYWdnZXIsCiAgICBjb2xvcjogQ29uc3QuYy5jX21haW5fYmFyLAogIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goeyB0eXBlOiAndXNlci9sb2FkVXNlcicgfSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbmZvOiB7CiAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICB9LAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3dpcGVySGVpZ2h0OiAxMjUsCiAgICAgIGhhc0NvbXB1dGU6IGZhbHNlLAogICAgICBwcmljZTogMCwKICAgICAgd3BoUHJpY2U6IDAsCg==</text>
+        <text encoding="base64">ICBtZW51Rm9udDogewogICAgZm9udFNpemU6IENvbnN0LmYuZm9udFNpemVMYWdnZXIsCiAgICBjb2xvcjogQ29uc3QuYy5jX21haW5fYmFyLAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
