@@ -137,6 +137,9 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/MyLoading.js" timestamp="1555553995219">
         <mark key="'" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" timestamp="1555692578963">
+        <mark key="'" line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/my/myStore/MyStorage.js" timestamp="1555640887878">
         <mark key="'" line="18" column="11" />
         <mark key="[" line="34" column="17" />
@@ -144,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="103" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
       <jump line="111" column="81" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
@@ -244,6 +246,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
       <jump line="46" column="46" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="17" column="34" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -256,7 +259,7 @@
         <text encoding="base64">anVzdGlmeUNvbnRlbnQ6J2NlbnRlcicsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>navigation</text>
+        <text>code</text>
       </register>
       <register name="0" type="4">
         <text>com.pegasdelivery</text>
@@ -296,17 +299,16 @@
       </register>
     </registers>
     <search>
-      <last-search>navigation</last-search>
+      <last-search>code</last-search>
       <last-offset />
-      <last-pattern>navigation</last-pattern>
+      <last-pattern>code</last-pattern>
       <last-replace>Drawer</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>已取单</entry>
         <entry>btnText</entry>
         <entry>alert</entry>
         <entry>万德福</entry>
@@ -326,6 +328,7 @@
         <entry encoding="base64">XDxoZWFkZXJCb2R5XD4=</entry>
         <entry>SearchOrder</entry>
         <entry>navigation</entry>
+        <entry>code</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb3YvQ2l0eS9n</entry>
