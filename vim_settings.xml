@@ -64,12 +64,12 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555657337814">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1555659217602">
         <mark key="'" line="89" column="98" />
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="72" />
-        <mark key="." line="59" column="72" />
-        <mark key="^" line="59" column="72" />
+        <mark key="[" line="72" column="52" />
+        <mark key="]" line="72" column="55" />
+        <mark key="." line="72" column="55" />
+        <mark key="^" line="72" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/h5_jmtq/src/pages/noticebar/index.scss" timestamp="1550300496061">
         <mark key="'" line="128" column="0" />
@@ -378,12 +378,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555657641384">
-        <mark key="'" line="42" column="50" />
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="20" />
-        <mark key="^" line="92" column="20" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555659917180">
+        <mark key="[" line="117" column="66" />
+        <mark key="]" line="117" column="66" />
+        <mark key="." line="117" column="66" />
+        <mark key="^" line="117" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555564425285">
         <mark key="'" line="2" column="0" />
@@ -735,12 +734,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" timestamp="1555657873491">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="71" column="98" />
-        <mark key="]" line="71" column="105" />
-        <mark key="." line="71" column="98" />
-        <mark key="^" line="71" column="85" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" timestamp="1555659615928">
+        <mark key="'" line="47" column="48" />
+        <mark key="[" line="53" column="63" />
+        <mark key="]" line="53" column="71" />
+        <mark key="." line="53" column="71" />
+        <mark key="^" line="53" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/my/myStore/MyStorage.js" timestamp="1555640887878">
         <mark key="'" line="18" column="11" />
@@ -1040,9 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderHeader.js" />
-      <jump line="41" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="301" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/Header.js" />
       <jump line="324" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/Header.js" />
       <jump line="332" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/Header.js" />
@@ -1140,6 +1136,9 @@
       <jump line="50" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/TabBar.js" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/TabBar.js" />
       <jump line="42" column="50" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="53" column="78" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
+      <jump line="47" column="48" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
+      <jump line="115" column="76" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1149,52 +1148,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#4CAF50</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>btnText</text>
+        <text>已取单</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q29udGVudCBzdHlsZT17eyBwYWRkaW5nTGVmdDogMTAsIHBhZGRpbmdSaWdodDogMTAsIGJhY2tncm91bmRDb2xvcjogQ29uc3QuYy5iZ2dyYXkgfX0+CiAgICAgICAgICAgICAgICA8RmxhdExpc3QKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAzMCB9fQogICAgICAgICAgICAgICAgICBkYXRhPXtbeyBrOiAxIH0sIHsgazogMiB9XX0KICAgICAgICAgICAgICAgICAga2V5RXh0cmFjdG9yPXtpdGVtID0+IGl0ZW0ua30KICAgICAgICAgICAgICAgICAgcmVuZGVySXRlbT17KHsgaXRlbSwgaW5kZXggfSkgPT4gKDxPcmRlckl0ZW0gaXRlbSBpbmRleCBidG5UZXh0PSflt7Llj5bljZUnIGJ0bkNvbG9yPScjNENBRjUwJy8+KX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgPFRvdWNoYWJsZQogICAgICAgIHN0eWxlPXt7CiAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGJ0bkNvbG9yLAogICAgICAgICAgcGFkZGluZ1RvcDogNSwKICAgICAgICAgIHBhZGRpbmdCb3R0b206IDUsCiAgICAgICAgICBwYWRkaW5nTGVmdDogaGFzT3duZXIgPyAxNSA6IDMwLAogICAgICAgICAgcGFkZGluZ1JpZ2h0OiBoYXNPd25lciA/IDE1IDogMzAsCiAgICAgICAgICBib3JkZXJSYWRpdXM6IDEwMCwKICAgICAgICB9fQogICAgICA+CiAgICAgICAgPFRleHQgc3R5bGU9e3sgZm9udFNpemU6IDE1LCBjb2xvcjogJ3doaXRlJywgZm9udFdlaWdodDogJzkwMCcgfX0+e2J0blRleHQgfHwgJ+aOpeWNlSd9PC9UZXh0PgogICAgICA8L1RvdWNoYWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamtrawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8VG91Y2hhYmxlCiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGJ0bkNvbG9yLAogICAgICAgICAgICBwYWRkaW5nVG9wOiA1LAogICAgICAgICAgICBwYWRkaW5nQm90dG9tOiA1LAogICAgICAgICAgICBwYWRkaW5nTGVmdDogaGFzT3duZXIgPyAxNSA6IDMwLAogICAgICAgICAgICBwYWRkaW5nUmlnaHQ6IGhhc093bmVyID8gMTUgOiAzMCwKICAgICAgICAgICAgYm9yZGVyUmFkaXVzOiAxMDAsCiAgICAgICAgICAgIG1hcmdpblJpZ2h0OiAxMCwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFRleHQgc3R5bGU9e3sgZm9udFNpemU6IDE1LCBjb2xvcjogJ3doaXRlJywgZm9udFdlaWdodDogJzkwMCcgfX0+eyfovazljZXmsYLliqknfTwvVGV4dD4KICAgICAgICAgIDxJY29uIG5hbWU9J3BlcnNvbicgc3R5bGU9e3sgd2lkdGg6IDEwLCBoZWlnaHQ6IDEwLCBjb2xvcjogJ3doaXRlJyB9fS8+CiAgICAgICAgPC9Ub3VjaGFibGU+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>接单</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxJY29uIG5hbWU9J3BlcnNvbicgc3R5bGU9e3sgd2lkdGg6IDEwLCBoZWlnaHQ6IDEwLCBjb2xvcjogd2hpdGUgfX0vPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamtrawo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Tm9SZWNvcmRQYWdlIHRleHQ9e2ZhbHNlID8gJ+aKouWNlee+pOmHjOayoeacieaWsOeahOiuouWNlX5+JyA6ICfmsqHmnInmlrDnmoTmjIfmtL7ljZV+fid9Lz4K</text>
+      <register name="6" type="4">
+        <text>接单</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L0NvbnRlbnQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29udGVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Tm9SZWNvcmRQYWdlIHRleHQ9e2ZhbHNlID8gJ+aKouWNlee+pOmHjOayoeacieaWsOeahOiuouWNlX5+JyA6ICfmsqHmnInmlrDnmoTmjIfmtL7ljZV+fid9Lz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>btnText</last-search>
+      <last-search>已取单</last-search>
       <last-offset />
-      <last-pattern>btnText</last-pattern>
+      <last-pattern>已取单</last-pattern>
       <last-replace>Drawer</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
@@ -1202,8 +1201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
-        <entry>送达</entry>
         <entry>Touch</entry>
         <entry>OrderHeader</entry>
         <entry>OrderPage</entry>
@@ -1222,6 +1219,8 @@
         <entry>fff</entry>
         <entry>border</entry>
         <entry>btnText</entry>
+        <entry>接单</entry>
+        <entry>已取单</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb3YvQ2l0eS9n</entry>
@@ -1239,10 +1238,10 @@
         <entry encoding="base64">JzwsJz5zL1xcbi88YnJcXC8+L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1plYnJhUmVhY3ROYXRpdmVEZW1vL0pKU2Nhbm5lci9n</entry>
         <entry encoding="base64">JzwsJz5zL21vbnRoU2VsL3llYXJTZWwvZw==</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
         <entry encoding="base64">JzwsJz5zL0FwcC9EcmF3ZXIvZw==</entry>
         <entry>action AceAction</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
