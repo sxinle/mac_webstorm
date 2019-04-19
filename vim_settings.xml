@@ -45,6 +45,12 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1555687924586">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" timestamp="1555582002169">
         <mark key="'" line="111" column="6" />
       </file>
@@ -55,11 +61,12 @@
         <mark key="^" line="10" column="71" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555665214632">
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="65" />
-        <mark key="^" line="68" column="56" />
-        <mark key="." line="37" column="50" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555688156470">
+        <mark key="'" line="46" column="46" />
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="40" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="41" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderPageHeader.js" timestamp="1555673727652">
         <mark key="'" line="3" column="0" />
@@ -137,9 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
-      <jump line="63" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
-      <jump line="58" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="103" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
@@ -237,6 +241,9 @@
       <jump line="29" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="31" column="50" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="88" column="61" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
+      <jump line="46" column="46" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,34 +262,34 @@
         <text>com.pegasdelivery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgSlB1c2hNb2R1bGUgZnJvbSAnanB1c2gtcmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udHNpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIHRyYW5zcGFyZW50IHNtYWxsCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDUsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiBDb25zdC53aW4ud2lkdGggLyAxMCwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICB9fT7mkJzntKI8L1RleHQ+CiAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udHNpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIHRyYW5zcGFyZW50IHNtYWxsCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDUsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiBDb25zdC53aW4ud2lkdGggLyAxMCwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICB9fT7mkJzntKI8L1RleHQ+CiAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJvcmRlclJhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
