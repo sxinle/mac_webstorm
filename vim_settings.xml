@@ -45,6 +45,11 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555725819874">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1555687924586">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="28" column="0" />
@@ -67,6 +72,12 @@
         <mark key="]" line="41" column="40" />
         <mark key="^" line="41" column="40" />
         <mark key="." line="41" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555725833475">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderPageHeader.js" timestamp="1555673727652">
         <mark key="'" line="3" column="0" />
@@ -147,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="103" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
       <jump line="111" column="81" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
       <jump line="89" column="98" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
@@ -247,6 +257,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
       <jump line="46" column="46" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
       <jump line="17" column="34" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
+      <jump line="106" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -265,34 +276,34 @@
         <text>com.pegasdelivery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgSlB1c2hNb2R1bGUgZnJvbSAnanB1c2gtcmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmpwdXNoLXJlYWN0LW5hdGl2ZScKcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL2pwdXNoLXJlYWN0LW5hdGl2ZS9hbmRyb2lkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgoK</text>
+        <text encoding="base64">ICBpbXBvcnQgSlB1c2hNb2R1bGUgZnJvbSAnanB1c2gtcmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udHNpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIHRyYW5zcGFyZW50IHNtYWxsCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLAogICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IDUsCiAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiBDb25zdC53aW4ud2lkdGggLyAxMCwKICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICB9fT4KICAgICAgICAgICAgICAgIDxUZXh0IHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgIHdpZHRoOiAnMTAwJScsCiAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgICB9fT7mkJzntKI8L1RleHQ+CiAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYWxpZ25JdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udHNpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -305,7 +316,7 @@
       <last-replace>Drawer</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
