@@ -61,8 +61,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="63" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1555733744406">
-        <mark key="'" line="23" column="21" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1555734542453">
+        <mark key="'" line="11" column="16" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -75,6 +75,9 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/jfans/app/containers/wallet/Withdraw.js" timestamp="1555582002169">
         <mark key="'" line="111" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/jpush-react-native/index.d.ts" timestamp="1555734422094">
+        <mark key="'" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/BlankPage.js" timestamp="1555652535604">
         <mark key="'" line="12" column="0" />
@@ -134,12 +137,12 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/native-base-theme/components/index.js" timestamp="1555586220396">
         <mark key="'" line="104" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1555733637795">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="26" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1555734535025">
+        <mark key="'" line="54" column="6" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/pages/index.js" timestamp="1555552978153">
         <mark key="'" line="39" column="0" />
@@ -182,10 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="59" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
-      <jump line="24" column="5" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/NoRecordPage.js" />
-      <jump line="22" column="18" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/NoRecordPage.js" />
-      <jump line="53" column="12" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/My.js" />
       <jump line="205" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="51" column="17" filename="$USER_HOME$/workspace/pproj/jfans/app/containers/my/My.js" />
       <jump line="18" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
@@ -282,6 +281,10 @@
       <jump line="119" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="143" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="38" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="323" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/jpush-react-native/index.d.ts" />
+      <jump line="12" column="10" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/jpush-react-native/index.d.ts" />
+      <jump line="54" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="11" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,10 +294,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>kHKwVxbIPSi1PUgQmk_N5fAY_TIF792a1d96-81f9-4b57-b557-7436ba22a724</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZWVkVXBkYXRlXD4=</text>
+        <text encoding="base64">XDxMb2NhbE5vdGlmaWNhdGlvbk9wdGlvbnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>kHKwVxbIPSi1PUgQmk_N5fAY_TIF792a1d96-81f9-4b57-b557-7436ba22a724</text>
@@ -306,37 +309,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEpQdXNoTW9kdWxlIGZyb20gJ2pwdXNoLXJlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgYWxlcnQobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChmYWxzZSkgewo=</text>
+        <text encoding="base64">QXBwUmVnaXN0cnkucmVnaXN0ZXJDb21wb25lbnQoJ3BlZ2FzRGVsaXZlcnknLCAoKSA9PiBwZWdhc0RlbGl2ZXJ5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEpQdXNoTW9kdWxlIGZyb20gJ2pwdXNoLXJlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChmYWxzZSkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIEpQdXNoTW9kdWxlLnJlbW92ZVJlY2VpdmVDdXN0b21Nc2dMaXN0ZW5lcigpOwogICAgSlB1c2hNb2R1bGUucmVtb3ZlUmVjZWl2ZU5vdGlmaWNhdGlvbkxpc3RlbmVyKCk7CiAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZWVkVXBkYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxMb2NhbE5vdGlmaWNhdGlvbk9wdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZWVkVXBkYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMb2NhbE5vdGlmaWNhdGlvbk9wdGlvbnNcPg==</last-pattern>
       <last-replace>Drawer</last-replace>
       <last-substitute>App</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eve</entry>
         <entry>ev</entry>
         <entry encoding="base64">XDxUaHVtYm5haWxcPg==</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
@@ -364,6 +366,7 @@
         <entry encoding="base64">XDxSTlZpZXdTaG90UGFja2FnZVw+</entry>
         <entry>下载更新</entry>
         <entry encoding="base64">XDxuZWVkVXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxMb2NhbE5vdGlmaWNhdGlvbk9wdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb3YvQ2l0eS9n</entry>
