@@ -148,12 +148,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555826624587">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="85" />
-        <mark key="^" line="40" column="85" />
-        <mark key="." line="40" column="85" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555827033815">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="56" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/native-base/src/basic/Tabs/index.js" timestamp="1555822681684">
         <mark key="'" line="0" column="0" />
@@ -162,10 +162,6 @@
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="220" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555740058911">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/yarn.lock" timestamp="1555564746360">
         <mark key="'" line="5811" column="72" />
@@ -183,12 +179,12 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/pages/index.js" timestamp="1555552978153">
         <mark key="'" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/to-mp/src/components/goods/goods.scss" timestamp="1555827023663">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/config/config.js" timestamp="1555478274401">
         <mark key="'" line="105" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730470142">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" timestamp="1555826114569">
         <mark key="'" line="81" column="5" />
@@ -206,11 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
-      <jump line="58" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
-      <jump line="97" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
-      <jump line="119" column="12" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
-      <jump line="13" column="32" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="37" column="21" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/auth/Login.js" />
       <jump line="8" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/auth/Login.js" />
       <jump line="112" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/auth/Login.js" />
@@ -306,6 +297,11 @@
       <jump line="51" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabGrab.js" />
       <jump line="10" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" />
       <jump line="81" column="5" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" />
+      <jump line="40" column="93" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="43" column="51" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="53" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="54" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
+      <jump line="56" column="34" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,13 +311,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>6.5</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUYWJzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>TabAssign</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -333,25 +329,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtLCAnWyA9PT09PSBpdGVtID09PT09IF0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7bGlzdCAmJiBsaXN0Lmxlbmd0aCA+IDAgJiYKICAgICAgICAgICAgICA8Q29udGVudCBzdHlsZT17eyBwYWRkaW5nTGVmdDogMTAsIHBhZGRpbmdSaWdodDogMTAsIGJhY2tncm91bmRDb2xvcjogQ29uc3QuYy5iZ2dyYXkgfX0+CiAgICAgICAgICAgICAgICA8RmxhdExpc3QKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAzMCB9fQogICAgICAgICAgICAgICAgICBkYXRhPXtsaXN0fQogICAgICAgICAgICAgICAgICBrZXlFeHRyYWN0b3I9e2l0ZW0gPT4gaXRlbS5vcmRlcklkLnRvU3RyaW5nfQogICAgICAgICAgICAgICAgICByZW5kZXJJdGVtPXsoeyBpdGVtLCBpbmRleCB9KSA9PgogICAgICAgICAgICAgICAgICAgIDxPcmRlckl0ZW0gaXRlbT17aXRlbX0gaW5kZXg9e2luZGV4fSBidG5Db2xvcj17JyNGRkMxMDcnfSBidG5UZXh0PXsn5o6l5Y2VJ30vPn0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9Db250ZW50Pn0KICAgICAgICAgICAgICB7KCFsaXN0IHx8IGxpc3QubGVuZ3RoID09IDApICYmIDxOb1JlY29yZFBhZ2UgdGV4dD17ZmFsc2UgPyAn5oqi5Y2V576k6YeM5rKh5pyJ5paw55qE6K6i5Y2Vfn4nIDogJ+ayoeacieaWsOeahOaMh+a0vuWNlX5+J30vPn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9UYWI+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpdGVtLCAnWyA9PT09PSBpdGVtID09PT09IF0nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFRhYiBoZWFkaW5nPXsKICAgICAgICA8VGFiSGVhZGluZz4KICAgICAgICAgIDxUZXh0Pue+pOaKouWNlTwvVGV4dD4KICAgICAgICAgIDxCYWRnZSBzdHlsZT17eyBtYXJnaW5MZWZ0OiAtOCB9fT4KICAgICAgICAgICAgPFRleHQ+MjwvVGV4dD4KICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgPC9UYWJIZWFkaW5nPgogICAgICB9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7bGlzdCAmJiBsaXN0Lmxlbmd0aCA+IDAgJiYKICAgICAgICAgICAgICA8Q29udGVudCBzdHlsZT17eyBwYWRkaW5nTGVmdDogMTAsIHBhZGRpbmdSaWdodDogMTAsIGJhY2tncm91bmRDb2xvcjogQ29uc3QuYy5iZ2dyYXkgfX0+CiAgICAgICAgICAgICAgICA8RmxhdExpc3QKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luQm90dG9tOiAzMCB9fQogICAgICAgICAgICAgICAgICBkYXRhPXtsaXN0fQogICAgICAgICAgICAgICAgICBrZXlFeHRyYWN0b3I9e2l0ZW0gPT4gaXRlbS5vcmRlcklkLnRvU3RyaW5nfQogICAgICAgICAgICAgICAgICByZW5kZXJJdGVtPXsoeyBpdGVtLCBpbmRleCB9KSA9PgogICAgICAgICAgICAgICAgICAgIDxPcmRlckl0ZW0gaXRlbT17aXRlbX0gaW5kZXg9e2luZGV4fSBidG5Db2xvcj17JyNGRkMxMDcnfSBidG5UZXh0PXsn5o6l5Y2VJ30vPn0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9Db250ZW50Pn0KICAgICAgICAgICAgICB7KCFsaXN0IHx8IGxpc3QubGVuZ3RoID09IDApICYmIDxOb1JlY29yZFBhZ2UgdGV4dD17ZmFsc2UgPyAn5oqi5Y2V576k6YeM5rKh5pyJ5paw55qE6K6i5Y2Vfn4nIDogJ+ayoeacieaWsOeahOaMh+a0vuWNlX5+J30vPn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9UYWI+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9UYWI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29udGVudCB9IGZyb20gJ25hdGl2ZS1iYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgPFRhYiBoZWFkaW5nPXsKICAgICAgICA8VGFiSGVhZGluZz4KICAgICAgICAgIDxUZXh0Pue+pOaKouWNlTwvVGV4dD4KICAgICAgICAgIDxCYWRnZSBzdHlsZT17eyBtYXJnaW5MZWZ0OiAtOCB9fT4KICAgICAgICAgICAgPFRleHQ+MjwvVGV4dD4KICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgPC9UYWJIZWFkaW5nPgogICAgICB9Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRhYiBoZWFkaW5nPXsKICAgICAgICAgICAgICA8VGFiSGVhZGluZz4KICAgICAgICAgICAgICAgIDxUZXh0Pue+pOaKouWNlTwvVGV4dD4KICAgICAgICAgICAgICAgIDxCYWRnZSBzdHlsZT17eyBtYXJnaW5MZWZ0OiAtOCB9fT4KICAgICAgICAgICAgICAgICAgPFRleHQ+MjwvVGV4dD4KICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgPC9UYWJIZWFkaW5nPgogICAgICAgICAgICB9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9UYWI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
