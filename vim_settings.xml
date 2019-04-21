@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/MyLoading.js" timestamp="1555553995219">
         <mark key="'" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1555852100142">
-        <mark key="[" line="74" column="28" />
-        <mark key="]" line="75" column="61" />
-        <mark key="." line="75" column="61" />
-        <mark key="^" line="75" column="61" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1555858097045">
+        <mark key="[" line="120" column="97" />
+        <mark key="]" line="120" column="98" />
+        <mark key="." line="120" column="98" />
+        <mark key="^" line="120" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/auth/Login.js" timestamp="1555855098451">
         <mark key="'" line="22" column="6" />
@@ -158,12 +158,12 @@
         <mark key="^" line="221" column="16" />
         <mark key="." line="221" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" timestamp="1555855663130">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" timestamp="1555858592441">
         <mark key="'" line="8" column="17" />
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="33" />
+        <mark key="." line="61" column="33" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" timestamp="1555854171290">
         <mark key="'" line="137" column="75" />
@@ -174,6 +174,10 @@
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/native-base/src/basic/Tabs/index.js" timestamp="1555822681684">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555858770922">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/native-base/index.d.ts" timestamp="1555833793099">
         <mark key="[" line="117" column="6" />
@@ -205,6 +209,10 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/to-admin/config/config.js" timestamp="1555478274401">
         <mark key="'" line="105" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730470142">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" timestamp="1555852669676">
         <mark key="'" line="33" column="12" />
@@ -331,37 +339,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>deliveryTraceId, traceStat</text>
       </register>
       <register name="/" type="4">
-        <text>前送达</text>
+        <text>刷新</text>
       </register>
       <register name="0" type="4">
-        <text>onChangeText</text>
+        <text>deliveryTraceId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlbGl2ZXJ5VHJhY2VJZCwgJ1sgPT09PT0gZGVsaXZlcnlUcmFjZUlkID09PT09IF0nKTsKICAgIGNvbnNvbGUubG9nKHRyYWNlU3RhdCwgJ1sgPT09PT0gb3JkZXJUeXBlID09PT09IF0nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOb1JlY29yZFBhZ2UgdGV4dD17J+aKouWNlee+pOmHjOayoeacieaWsOeahOiuouWNlX5+J30gcmVmcmVzaEZ1bmM9eygpID0+IHRoaXMuZmV0Y2hHcm91cEdyYWJPcmRlcnMoMSl9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb250ZW50IGNvbnRlbnRDb250YWluZXJTdHlsZT17eyBoZWlnaHQ6ICcxMDAlJyB9fT4KICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgogICAgICAgICAgPC9Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZmV0Y2hNeURlbGl2ZXJ5T3JkZXJzKDEsIG9yZGVyVHlwZSk7CiAgICAgICAgICB0aGlzLmZldGNoTXlEZWxpdmVyeU9yZGVycygxLCBvcmRlclR5cGUgPT09IDIgPyAzIDogb3JkZXJUeXBlID09PSAzID8gNCA6IC0xKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYWluQWN0aW9uPXsob3JkZXJJZCkgPT4gdGhpcy5idG5DbGlja0Z1bmMob3JkZXJJZCwgKGl0ZW0ub3JnRGVsaXZlcnlJZCAmJiBpdGVtLm9yZ0RlbGl2ZXJ5SWQgIT09IDApLCBpdGVtLnRyYWNlSWQpfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxOb1JlY29yZFBhZ2UgdGV4dD17J+aKouWNlee+pOmHjOayoeacieaWsOeahOiuouWNlX5+J30gcmVmcmVzaEZ1bmM9eygpID0+IHRoaXMuZmV0Y2hHcm91cEdyYWJPcmRlcnMoMSl9Lz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb250ZW50IGNvbnRlbnRDb250YWluZXJTdHlsZT17eyBoZWlnaHQ6ICcxMDAlJyB9fT4KICAgICAgICAgICAgPE5vUmVjb3JkUGFnZSB0ZXh0PXsn56m656m65aaC5LmfJ30vPgogICAgICAgICAgPC9Db250ZW50Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>前送达</last-search>
+      <last-search>刷新</last-search>
       <last-offset />
-      <last-pattern>前送达</last-pattern>
+      <last-pattern>刷新</last-pattern>
       <last-replace>assignCnt</last-replace>
       <last-substitute>grabCnt</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>休息中</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
         <entry>抢单</entry>
         <entry encoding="base64">XDxoYXNPd25lclw+</entry>
@@ -404,6 +411,7 @@
         <entry>转单求助</entry>
         <entry>转</entry>
         <entry>前送达</entry>
+        <entry>刷新</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb3YvRGlzdC9n</entry>
