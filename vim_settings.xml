@@ -68,12 +68,12 @@
         <mark key="^" line="71" column="7" />
         <mark key="." line="72" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1555993788365">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="87" column="9" />
-        <mark key="." line="87" column="9" />
-        <mark key="^" line="50" column="20" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1556009008405">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1556001168150">
         <mark key="'" line="50" column="6" />
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabGrab.js" />
       <jump line="60" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" />
       <jump line="43" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabAssign.js" />
       <jump line="19" column="3" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/MyLoading.js" />
@@ -286,6 +285,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,7 +304,7 @@
         <text>bindJPushID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgcmVjZWl2ZSBub3RpZmljYXRpb246ICR7bWVzc2FnZX1gKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -313,25 +313,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHZhciBiaW5kSlB1c2hJRCA9IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHZhciBiaW5kSlB1c2hJRCA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFV0aWwub2socmVzcCkpIHsKICAgICAgICB5aWVsZCBwdXQoeyB0eXBlOiAndXBkYXRlU3RhdGUnLCBwYXlsb2FkIH0pOwogICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWYgKFV0aWwub2socmVzcCkpIHsKICAgICAgICB5aWVsZCBwdXQoeyB0eXBlOiAndXBkYXRlU3RhdGUnLCBwYXlsb2FkIH0pOwogICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcCwgJ1sgPT09PT0gcmVzcCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1uZXN0ZWQtdGVybmFyeQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1uZXN0ZWQtdGVybmFyeSxuby1uZXN0ZWQtdGVybmFyeQo=</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBuby1uZXN0ZWQtdGVybmFyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
