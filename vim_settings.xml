@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1556087904573">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="55" column="28" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1556092313388">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" timestamp="1556031325913">
         <mark key="'" line="1" column="0" />
@@ -234,11 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/ModPassword.js" />
-      <jump line="64" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/ModPassword.js" />
-      <jump line="48" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/ModPassword.js" />
-      <jump line="48" column="29" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
       <jump line="42" column="20" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" />
@@ -334,6 +329,11 @@
       <jump line="147" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="49" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="47" column="51" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="140" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -343,7 +343,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>未安装️</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZUNhbGxcPg==</text>
