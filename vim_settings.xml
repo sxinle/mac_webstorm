@@ -31,6 +31,13 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" timestamp="1556174444703">
+        <mark key="'" line="336" column="22" />
+        <mark key="[" line="333" column="23" />
+        <mark key="]" line="333" column="23" />
+        <mark key="." line="333" column="23" />
+        <mark key="^" line="333" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/user.js" timestamp="1556031159553">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="20" />
@@ -69,10 +76,10 @@
         <mark key="." line="108" column="67" />
         <mark key="^" line="108" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556172318574">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556173275005">
         <mark key="'" line="326" column="0" />
-        <mark key="[" line="194" column="58" />
-        <mark key="]" line="194" column="58" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="185" column="23" />
         <mark key="^" line="194" column="58" />
         <mark key="." line="194" column="58" />
       </file>
@@ -209,6 +216,10 @@
         <mark key="^" line="189" column="60" />
         <mark key="." line="189" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Forms/BasicForm.js" timestamp="1556173251052">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="173" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730470142">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="22" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/delivery.js" />
-      <jump line="13" column="46" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/delivery.js" />
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/delivery.js" />
-      <jump line="4" column="14" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/delivery.js" />
       <jump line="0" column="44" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/delivery.js" />
       <jump line="127" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Withdraw/WithdrawDelivery.js" />
       <jump line="8" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/models/delivery.js" />
@@ -339,6 +346,10 @@
       <jump line="180" column="58" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="326" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="189" column="25" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
+      <jump line="385" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
+      <jump line="161" column="39" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
+      <jump line="336" column="22" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -348,16 +359,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>optional</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbWdTcmNcPg==</text>
+        <text>经度</text>
       </register>
-      <register name="0" type="4">
-        <text>getAutoHeightImage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTpyZWNvcmQubG5nIHx8IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXhtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -366,34 +377,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0U2hvcEluZm9Mb2dvSW1hZ2UocmVjb3JkLCBrZXksIHdpZHRoLCBoZWlnaHQpIHsKICByZXR1cm4gZ2V0SW1nU3JjKHJlY29yZCwga2V5KSArIGA/aW1hZ2VNb2dyMi9mb3JtYXQvanBlZy90aHVtYm5haWwvISR7d2lkdGh9eCR7aGVpZ2h0fXIvZ3Jhdml0eS9DZW50ZXIvY3JvcC8ke3dpZHRofXgke2hlaWdodH0vYDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXRTaG9wSW5mb0xvZ29JbWFnZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9ImZvcm0ucmVxdWlyZWQiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldEdvb2RzRGV0YWlsSW1hZ2UocmVjb3JkLCBrZXksIHdpZHRoLCBoZWlnaHQpIHsKICByZXR1cm4gZ2V0SW1nU3JjKHJlY29yZCwga2V5KSArIGA/aW1hZ2VNb2dyMi9mb3JtYXQvd2VicC90aHVtYm5haWwvISR7d2lkdGh9eCR7aGVpZ2h0fXIvZ3Jhdml0eS9DZW50ZXIvY3JvcC8ke3dpZHRofXgke2hlaWdodH0vYDsKfQo=</text>
+        <text encoding="base64">ICAgICAgPFJvdz4KICAgICAgICA8Q29sIG9mZnNldD17NX0gc3Bhbj17OH0+CiAgICAgICAgICA8YSBocmVmPScnIHRhcmdldD0nX2JsYW5rJz7ojrflj5bnu4/nuqzluqY8L2E+CiAgICAgICAgPC9Db2w+CiAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXRHb29kc0RldGFpbEltYWdlLAo=</text>
+        <text encoding="base64">ICAgICAgPFJvdz4KICAgICAgICA8Q29sIG9mZnNldD17NX0gc3Bhbj17OH0+CiAgICAgICAgICA8YSBocmVmPScnIHRhcmdldD0nX2JsYW5rJz7ojrflj5bnu4/nuqzluqY8L2E+CiAgICAgICAgPC9Db2w+CiAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRIb21lUmVjb21tZW50R29vZHNJbWcsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0SG9tZVJlY29tbWVudEdvb2RzSW1nKHJlY29yZCwga2V5LCB3aWR0aCwgaGVpZ2h0KSB7CiAgd2lkdGggPSAxMzA7Ly8g5Lyg5p2l55qE5a695bqm77yM5pWI5p6c5LiN5aW9CiAgaGVpZ2h0ID0gMTMwOwogIHJldHVybiBnZXRJbWdTcmMocmVjb3JkLCBrZXkpICsgYD9pbWFnZU1vZ3IyL2Zvcm1hdC93ZWJwL3RodW1ibmFpbC8hJHt3aWR0aH14JHtoZWlnaHR9ci9ncmF2aXR5L0NlbnRlci9jcm9wLyR7d2lkdGh9eCR7aGVpZ2h0fS9gOwp9Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0U2hvcEluZm9Mb2dvSW1hZ2UocmVjb3JkLCBrZXksIHdpZHRoLCBoZWlnaHQpIHsKICByZXR1cm4gZ2V0SW1nU3JjKHJlY29yZCwga2V5KSArIGA/aW1hZ2VNb2dyMi9mb3JtYXQvanBlZy90aHVtYm5haWwvISR7d2lkdGh9eCR7aGVpZ2h0fXIvZ3Jhdml0eS9DZW50ZXIvY3JvcC8ke3dpZHRofXgke2hlaWdodH0vYDsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbWdTcmNcPg==</last-search>
+      <last-search>经度</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbWdTcmNcPg==</last-pattern>
+      <last-pattern>经度</last-pattern>
       <last-replace>new2</last-replace>
       <last-substitute>new</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateAt</entry>
         <entry encoding="base64">XDxkZWxpdmVyeVVzZXJzXD4=</entry>
         <entry encoding="base64">XDxkZWxpdmVyeVw+</entry>
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
@@ -421,6 +431,7 @@
         <entry encoding="base64">XDxnZXRHb29kc0RldGFpbEltYWdlXD4=</entry>
         <entry encoding="base64">XDxnZXRTaG9wSW5mb0xvZ29JbWFnZVw+</entry>
         <entry encoding="base64">XDxnZXRJbWdTcmNcPg==</entry>
+        <entry>经度</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
