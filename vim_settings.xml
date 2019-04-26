@@ -17,12 +17,12 @@
         <mark key="^" line="36" column="53" />
         <mark key="." line="36" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" timestamp="1556212965809">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-        <mark key="^" line="44" column="24" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" timestamp="1556244442527">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orderDetail.js" timestamp="1556210164131">
         <mark key="'" line="56" column="13" />
@@ -342,8 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" />
-      <jump line="8" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="3" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="21" column="5" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
       <jump line="22" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
@@ -410,7 +408,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orderComment/orderComment.js" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/mine.js" />
       <jump line="77" column="11" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/mine.js" />
-      <jump line="75" column="41" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
       <jump line="15" column="32" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
@@ -442,6 +439,9 @@
       <jump line="17" column="3" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/chooseaddr/chooseAddr.scss" />
       <jump line="130" column="67" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/addr/address.js" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/chooseaddr/chooseAddr.js" />
+      <jump line="75" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/platformComment/platComment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +451,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NcPg==</text>
@@ -500,7 +500,7 @@
       <last-replace>new2</last-replace>
       <last-substitute>new</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
