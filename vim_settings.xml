@@ -10,11 +10,10 @@
         <mark key="." line="141" column="76" />
         <mark key="^" line="141" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.scss" timestamp="1556259433865">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.scss" timestamp="1556260642993">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/component/ImageUpload.js" timestamp="1556172092202">
         <mark key="'" line="50" column="0" />
@@ -324,12 +323,11 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" timestamp="1556259265320">
-        <mark key="'" line="6" column="38" />
-        <mark key="[" line="46" column="82" />
-        <mark key="]" line="46" column="83" />
-        <mark key="^" line="44" column="71" />
-        <mark key="." line="46" column="83" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" timestamp="1556260630104">
+        <mark key="'" line="75" column="9" />
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730470142">
         <mark key="[" line="0" column="0" />
@@ -374,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/utils/utils.js" />
       <jump line="293" column="67" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="150" column="28" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/goodstypes/goodstypes.js" />
       <jump line="25" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.scss" />
@@ -474,6 +471,7 @@
       <jump line="44" column="48" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="6" column="38" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="80" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="75" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,57 +484,56 @@
         <text>cover</text>
       </register>
       <register name="/" type="4">
-        <text>navigateTo</text>
+        <text>view</text>
       </register>
       <register name="0" type="4">
         <text>screenHeight</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjCg==</text>
+        <text encoding="base64">ICAudG9wIHsKICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsKICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgiLi4vLi4vLi4vYXNzZXRzL2ltYWdlcy9pbnZpdGVfYmFubmVyLnBuZyIpOwogICAgYmFja2dyb3VuZC1zaXplOiBjb250YWluOwogICAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDsKICB9CgogIC5ib3R0b20gewogICAgYmFja2dyb3VuZC1jb2xvcjogYmx1ZTsKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBjbGFzc05hbWU9J3RvcCcgc3R5bGU9e3toZWlnaHQ6IENvbnN0LnN5c0luZm8uc2NyZWVuSGVpZ2h0IC8gNCArICdweCd9fSAvPgoKICAgICAgICA8VmlldyBjbGFzc05hbWU9J2JvdHRvbScgc3R5bGU9e3toZWlnaHQ6IENvbnN0LnN5c0luZm8uc2NyZWVuSGVpZ2h0IC8gNCAqIDMgKyAncHgnfX0gLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENvbnN0LnN5c0luZm8sICdbID09PT09IENvbnN0LnN5c0luZm8gPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgIHNjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3BhZGRpbmctbGVmdDogMjBweDsKICAvL3BhZGRpbmctcmlnaHQ6IDIwcHg7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXJsOidwYWdlcy8nCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENvbnN0LnN5c0luZm8sICdbID09PT09IENvbnN0LnN5c0luZm8gPT09PT0gXScpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvL3BhZGRpbmctbGVmdDogMjBweDsKICAvL3BhZGRpbmctcmlnaHQ6IDIwcHg7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3BhZ2VzL21pbmUvaW52aXRlL2ludml0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgdXJsOidwYWdlcy8nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tqamsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldwo=</text>
+        <text encoding="base64">ICAgICAgJ3BhZ2VzL21pbmUvaW52aXRlL2ludml0ZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>navigateTo</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>navigateTo</last-pattern>
-      <last-replace>new2</last-replace>
-      <last-substitute>new</last-substitute>
+      <last-pattern>view</last-pattern>
+      <last-replace>View</last-replace>
+      <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>经度</entry>
         <entry>格式</entry>
         <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
         <entry encoding="base64">XDx0YWJzX19pdGVtXD4=</entry>
@@ -556,9 +553,9 @@
         <entry>share</entry>
         <entry>fa-bug</entry>
         <entry>navigateTo</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbGlkUHJvZHMvcHJvZHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Nob3AvY2FydC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMuJHJvdXRlci4vL2c=</entry>
@@ -577,6 +574,7 @@
         <entry encoding="base64">JzwsJz5zL29sZC9uZXcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25ldy9uZXcyL2c=</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zL3ZpZXcvVmlldy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
