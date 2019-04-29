@@ -64,10 +64,6 @@
         <mark key="." line="34" column="25" />
         <mark key="^" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/List/List.js" timestamp="1556448619769">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="56" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" timestamp="1556506788966">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="48" column="15" />
@@ -77,6 +73,12 @@
         <mark key="]" line="9" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/package-lock.json" timestamp="1556517447043">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" timestamp="1556501616344">
         <mark key="'" line="400" column="0" />
@@ -95,6 +97,9 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1556461434668">
         <mark key="'" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/package.json" timestamp="1556517308849">
+        <mark key="'" line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/settingservice.js" timestamp="1556430189586">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="43" />
@@ -103,10 +108,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1556515929850">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/node_modules/@tarojs/components/src/components/swiper/index.js" timestamp="1556439635802">
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="82" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/config/router.config.js" timestamp="1556464307539">
         <mark key="'" line="20" column="9" />
@@ -134,10 +135,6 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/global.js" timestamp="1556433866185">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556502676823">
         <mark key="[" line="163" column="26" />
         <mark key="]" line="163" column="26" />
@@ -149,12 +146,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1556515473078">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1556517264633">
         <mark key="'" line="814" column="85" />
-        <mark key="[" line="840" column="80" />
-        <mark key="]" line="840" column="80" />
-        <mark key="^" line="848" column="79" />
-        <mark key="." line="840" column="80" />
+        <mark key="[" line="824" column="0" />
+        <mark key="]" line="824" column="0" />
+        <mark key="." line="824" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/Login.js" timestamp="1556515890679">
         <mark key="[" line="49" column="24" />
@@ -187,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
-      <jump line="229" column="39" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="283" column="93" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="282" column="55" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="107" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
@@ -287,6 +281,8 @@
       <jump line="64" column="49" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" />
       <jump line="210" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" />
       <jump line="16" column="14" filename="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/utils/utils.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/package.json" />
+      <jump line="123" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -296,43 +292,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>聊</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmljZUZvcm1cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>salePrice</text>
+        <text>price</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgb2YgVGFiIFBhbmUgMgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd4eHh4eCcsICdbID09PT09IHh4eHh4ID09PT09IF0nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgb2YgVGFiIFBhbmUgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgb2YgVGFiIFBhbmUgMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgb2YgVGFiIFBhbmUgMQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4+5b+r5o236LCD5Lu377ya6L6T5YWl5ZWG5ZOB5oiQ5pys5Lu377yM57O757uf5qC55o2u5o+Q5oiQ77yM6Ieq5Yqo6K6h566X5Ye65ZSu5Y2W5Lu35qC8PGJyIC8+5omL5Yqo6L6T5YWl77ya5omL5bel6K6h566X5bqU5Y2W5Lu35qC877yM6L6T5YWlPC9zcGFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFiUGFuZSB0YWI9IlRhYiAzIiBrZXk9IjMiPkNvbnRlbnQgb2YgVGFiIFBhbmUgMzwvVGFiUGFuZT4K</text>
+        <text encoding="base64">ICAgICAgPHNwYW4+5b+r5o236LCD5Lu377ya6L6T5YWl5ZWG5ZOB5oiQ5pys5Lu377yM57O757uf5qC55o2u5o+Q5oiQ77yM6Ieq5Yqo6K6h566X5Ye65ZSu5Y2W5Lu35qC8PGJyIC8+5omL5Yqo6L6T5YWl77ya5omL5bel6K6h566X5bqU5Y2W5Lu35qC877yM6L6T5YWlPC9zcGFuPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGFiUGFuZSB0YWI9IlRhYiAzIiBrZXk9IjMiPkNvbnRlbnQgb2YgVGFiIFBhbmUgMzwvVGFiUGFuZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8RGl2aWRlciB0eXBlPSJ2ZXJ0aWNhbCIgLz4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj57dmFsfTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICA8RGl2aWRlciB0eXBlPSJ2ZXJ0aWNhbCIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
