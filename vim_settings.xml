@@ -59,11 +59,12 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556503931906">
-        <mark key="[" line="468" column="0" />
-        <mark key="]" line="468" column="0" />
-        <mark key="." line="468" column="0" />
-        <mark key="^" line="467" column="4" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556507770825">
+        <mark key="'" line="522" column="52" />
+        <mark key="[" line="743" column="0" />
+        <mark key="]" line="743" column="38" />
+        <mark key="^" line="728" column="0" />
+        <mark key="." line="615" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/TopNavHeader/index.js" timestamp="1556421953441">
         <mark key="[" line="34" column="25" />
@@ -74,6 +75,10 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/List/List.js" timestamp="1556448619769">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="56" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoparea/Shoparea.js" timestamp="1556506788966">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/goods/goods.js" timestamp="1556443938629">
         <mark key="[" line="9" column="19" />
@@ -196,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageFormItem.js" />
-      <jump line="45" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageFormItem.js" />
-      <jump line="25" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageFormItem.js" />
-      <jump line="334" column="32" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="337" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="184" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="183" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="33" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="193" column="35" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
@@ -296,6 +295,12 @@
       <jump line="555" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="508" column="72" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="525" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="637" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="638" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="644" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="461" column="19" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="526" column="52" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -305,13 +310,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>labelCol={{ span: 2 }} wrapperCol={{ span: 10 }}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>店铺名称</text>
+        <text>经度</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiA2IH19IHdyYXBwZXJDb2w9e3sgc3BhbjogMTQgfX0gbGFiZWw9IueZu+mZhueUqOaIt+WQjSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxWYWx1ZTogcmVjb3JkLmFyZWFJZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -320,37 +325,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9Gb3JtSXRlbT4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdXNlciB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnNvbGUubG9nKHVzZXIsICdbID09PT09IHVzZXIgPT09PT0gXScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIGxheW91dD0naW5saW5lJz4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIsICdbID09PT09IHVzZXIgPT09PT0gXScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9Gb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm0gey4uLmZvcm1JdGVtTGF5b3V0fT4K</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIHJlYWN0L2pzeC1uby10YXJnZXQtYmxhbmsgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSByZWFjdC9qc3gtbm8tdGFyZ2V0LWJsYW5rICovfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSByZWFjdC9qc3gtbm8tdGFyZ2V0LWJsYW5rICovfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBmb3JtSXRlbUxheW91dCA9IHsKICAgIGxhYmVsQ29sOiB7CiAgICAgIHhzOiB7IHNwYW46IDI0IH0sCiAgICAgIHNtOiB7IHNwYW46IDUgfSwKICAgIH0sCiAgICB3cmFwcGVyQ29sOiB7CiAgICAgIHhzOiB7IHNwYW46IDI0IH0sCiAgICAgIHNtOiB7IHNwYW46IDEyIH0sCiAgICB9LAogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q29sIHNwYW49ezV9IG9mZnNldD17MX0+CiAgICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgcmVhY3QvanN4LW5vLXRhcmdldC1ibGFuayAqL30KICAgICAgICAgICAgPGEgaHJlZj0naHR0cDovL2FwaS5tYXAuYmFpZHUuY29tL2xic2FwaS9nZXRwb2ludC9pbmRleC5odG1sJyB0YXJnZXQ9J19ibGFuayc+5p+l6K+i57uP57qs5bqmIDwvYT4KICAgICAgICAgICAgPGVtIGNsYXNzTmFtZT17c3R5bGVzLm9wdGlvbmFsfT4KICAgICAgICAgICAgICA8VG9vbHRpcCBvdmVybGF5PXs8c3Bhbj7nu4/nuqzluqbnpLrkvos8YnIgLz7nu4/luqbvvJoxMjMuNDQ4MjI1PGJyIC8+57qs5bqm77yaNDEuNzE4NzYxPC9zcGFuPn0+CiAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJpbmZvLWNpcmNsZS1vIiBzdHlsZT17eyBtYXJnaW5SaWdodDogNCwgY29sb3I6ICcjMTg5MEZGJyB9fSAvPgogICAgICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICAgICAgPC9lbT4KICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25mCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>店铺名称</last-search>
+      <last-search>经度</last-search>
       <last-offset />
-      <last-pattern>店铺名称</last-pattern>
+      <last-pattern>经度</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -358,9 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzd2lwZXJJbmRleFw+</entry>
-        <entry encoding="base64">XDxnb29kc1w+</entry>
-        <entry encoding="base64">bGVuZ3RoID4gMA==</entry>
         <entry>showCaty</entry>
         <entry>showCart</entry>
         <entry encoding="base64">XDxzaG91bGRTaG93XD4=</entry>
@@ -378,6 +380,9 @@
         <entry>fixed</entry>
         <entry>详细地址</entry>
         <entry>店铺名称</entry>
+        <entry>em</entry>
+        <entry>纬度</entry>
+        <entry>经度</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuLzxici8+</entry>
