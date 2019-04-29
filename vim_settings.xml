@@ -100,7 +100,7 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556515929850">
+      <file name="/Dummy.txt" timestamp="1556523761832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/models/login.js" timestamp="1556519870182">
@@ -134,8 +134,8 @@
         <mark key="." line="37" column="44" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556520057056">
-        <mark key="'" line="113" column="21" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556523329247">
+        <mark key="'" line="143" column="51" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="69" column="7" />
         <mark key="." line="163" column="26" />
@@ -144,12 +144,12 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/config/config.js" timestamp="1556522864413">
         <mark key="'" line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1556521926655">
-        <mark key="'" line="809" column="75" />
-        <mark key="[" line="422" column="35" />
-        <mark key="]" line="422" column="35" />
-        <mark key="^" line="422" column="35" />
-        <mark key="." line="422" column="35" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" timestamp="1556523804418">
+        <mark key="'" line="928" column="0" />
+        <mark key="[" line="879" column="0" />
+        <mark key="]" line="879" column="0" />
+        <mark key="^" line="879" column="38" />
+        <mark key="." line="879" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/jj_front/src/routes/Prize/Login.js" timestamp="1556515890679">
         <mark key="[" line="49" column="24" />
@@ -185,11 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="637" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="638" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="644" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="461" column="19" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
-      <jump line="526" column="52" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
       <jump line="481" column="32" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="616" column="59" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="121" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
@@ -285,6 +280,11 @@
       <jump line="380" column="37" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
       <jump line="400" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shopdetail/shopdetail.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="143" column="51" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
+      <jump line="411" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
+      <jump line="883" column="19" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
+      <jump line="928" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -294,52 +294,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>包装费</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>包装费</text>
+        <text>costPrice</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Jm5ic3A7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bGVzOiBbeyByZXF1aXJlZDogZmFsLCBtZXNzYWdlOiAn6K+36L6T5YWlJyB9XSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgY29uc3QgY29zdFByaWNlTGFiZWwgPSAoCiAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snIH19PgogICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogJyMzMzk5RkYnIH19PuaIkOacrOS7t+agvDwvc3Bhbj4KICAgICAgPGJyIC8+CiAgICAgICZuYnNwOy8mbmJzcDsKICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjRjUyMTJEJyB9fT7loILpo5/ku7fmoLwgPC9zcGFuPgogICAgPC9kaXY+CiAgKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgY29uc3QgY29zdFByaWNlTGFiZWwgPSAoCiAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snIH19PgogICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogJyMzMzk5RkYnIH19PuaIkOacrOS7t+agvDwvc3Bhbj4KICAgICAgPGJyIC8+CiAgICAgICZuYnNwOy8mbmJzcDsKICAgICAgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICcjRjUyMTJEJyB9fT7loILpo5/ku7fmoLwgPC9zcGFuPgogICAgPC9kaXY+CiAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZS5lcnJvcign5oq95oiQMTAwJe+8jOezu+e7n+mUmeivr++8jOivt+mHjeivle+8gScpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVwb3NpdEZlZSwgJ1sgPT09PT0gZGVwb3NpdEZlZSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZS5lcnJvcign5oq95oiQMTAwJe+8jOezu+e7n+mUmeivr++8jOivt+mHjeivle+8gScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZm9ybS5zZXRGaWVsZHNWYWx1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVwb3NpdEZlZSwgJ1sgPT09PT0gZGVwb3NpdEZlZSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9ybS5zZXRGaWVsZHNWYWx1ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsICogKDEwMC1kZXBvc2l0RmVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHZhbCAvICgxIC0gKGRlcG9zaXRGZWUgLyAxMDApKSA9IHRvdGFsUHJpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsICogKDEwMC1kZXBvc2l0RmVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>包装费</last-search>
+      <last-search>costPrice</last-search>
       <last-offset />
-      <last-pattern>包装费</last-pattern>
+      <last-pattern>costPrice</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>详细地址</entry>
         <entry>店铺名称</entry>
         <entry>em</entry>
         <entry>纬度</entry>
@@ -367,6 +366,7 @@
         <entry encoding="base64">XDxoYW5kbGVNb2RcPg==</entry>
         <entry encoding="base64">XDxtYW51YWxQcmljZVw+</entry>
         <entry>包装费</entry>
+        <entry>costPrice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuLzxici8+</entry>
