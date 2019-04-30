@@ -161,12 +161,12 @@
         <mark key="^" line="57" column="44" />
         <mark key="." line="57" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1556643800151">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="104" column="11" />
-        <mark key="^" line="104" column="11" />
-        <mark key="." line="104" column="11" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1556646357824">
+        <mark key="'" line="87" column="14" />
+        <mark key="[" line="163" column="33" />
+        <mark key="]" line="163" column="33" />
+        <mark key="." line="163" column="33" />
+        <mark key="^" line="163" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556523329247">
         <mark key="'" line="143" column="51" />
@@ -255,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="14" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="47" column="20" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="540" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Goodsinfo/Goodsinfo.js" />
       <jump line="46" column="24" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" />
@@ -355,6 +354,7 @@
       <jump line="175" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/delivery.js" />
       <jump line="76" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/delivery.js" />
+      <jump line="87" column="14" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -364,43 +364,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>mchsettings</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlckRhdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBnb0RldGFpbD17KCkgPT4gbmF2Lm5hdmlnYXRlKCdPcmRlckRldGFpbCcsIHsgb3JkZXJJZDogaXRlbS5vcmRlcklkIH0pfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEluZm9MaW5lIGxlZnQ9IueUteivnSIgcmlnaHQ9e2luZm8uYWRkclBob25lfS8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ29EZXRhaWw9eygpID0+IG5hdi5uYXZpZ2F0ZSgnT3JkZXJEZXRhaWwnKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHsgdHlwZTogJ3VwZGF0ZVN0YXRlJywgcGF5bG9hZDogeyBtY2hTZXR0aW5nczogcmVzcC5kYXRhIH0gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sgZmxleERpcmVjdGlvbjogJ3JvdycsIHBhZGRpbmc6IDEwIH19PgogICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGZsZXg6IDEgfX0+CiAgICAgICAgICAgICAgICAgICAgICA8SW1hZ2UKICAgICAgICAgICAgICAgICAgICAgICAgcmVzaXplTW9kZT0ic3RyZXRjaCIKICAgICAgICAgICAgICAgICAgICAgICAgcmVzaXplTWV0aG9kPSJyZXNpemUiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiA1MCwgaGVpZ2h0OiA1MCB9fQogICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2U9e3sgdXJpOiAnaHR0cDovL3BxZ2pvZTFkeS5ia3QuY2xvdWRkbi5jb20vMDIwYWMxMTBlZTZmNDM1OGIzN2M4M2VmZDAyMDc5YzgnIH19Lz4KICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sgZmxleERpcmVjdGlvbjogJ2NvbHVtbicsIGZsZXg6IDMsIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicgfX0+CiAgICAgICAgICAgICAgICAgICAgICA8VmlldyBzdHlsZT17eyBmbGV4RGlyZWN0aW9uOiAncm93JywganVzdGlmeUNvbnRlbnQ6ICdzcGFjZS1iZXR3ZWVuJyB9fT4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sgZm9udFNpemU6IDEzIH19PumbqueipzwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sgZm9udFNpemU6IDEzIH19PsKlIDIuMzwvVGV4dD4KICAgICAgICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IGZsZXhEaXJlY3Rpb246ICdyb3cnLCBqdXN0aWZ5Q29udGVudDogJ2ZsZXgtZW5kJywgZm9udFNpemU6IDEzIH19PgogICAgICAgICAgICAgICAgICAgICAgICA8VGV4dD54IDM8L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgICAgICAgICAgPC9WaWV3PgogICAgICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEluZm9MaW5lIGxlZnQ9IueUteivnSIgcmlnaHQ9e2luZm8uYWRkclBob25lfS8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZ29EZXRhaWw9eygpID0+IG5hdi5uYXZpZ2F0ZSgnT3JkZXJEZXRhaWwnKX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ2RlbGl2ZXJ5L29yZGVyRGV0YWlsJywKICAgICAgcGF5bG9hZDogeyBvcmRlcklkIH0sCiAgICAgIGNhbGxiYWNrOiByZXNwID0+IHsKICAgICAgICBpZiAodXRpbHMub2socmVzcCkpIHsKICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBkZXRhaWw6IHJlc3AuZGF0YSwKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfSwKICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHsgdHlwZTogJ3VwZGF0ZVN0YXRlJywgcGF5bG9hZDogeyBtY2hTZXR0aW5nczogcmVzcC5kYXRhIH0gfSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgb2sgfSBmcm9tICdub2RlJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
