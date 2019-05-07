@@ -56,18 +56,19 @@
         <mark key="^" line="77" column="47" />
         <mark key="." line="77" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.scss" timestamp="1557203432770">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.scss" timestamp="1557208648673">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="99" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" timestamp="1557204923099">
-        <mark key="'" line="130" column="19" />
-        <mark key="[" line="154" column="112" />
-        <mark key="]" line="154" column="131" />
-        <mark key="." line="154" column="131" />
-        <mark key="^" line="154" column="131" />
+      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" timestamp="1557208443528">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="155" column="63" />
+        <mark key="]" line="155" column="66" />
+        <mark key="." line="155" column="66" />
+        <mark key="^" line="155" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" timestamp="1556643830366">
         <mark key="'" line="21" column="6" />
@@ -230,11 +231,12 @@
         <mark key="^" line="89" column="79" />
         <mark key="." line="89" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.js" timestamp="1557204528078">
-        <mark key="[" line="106" column="84" />
-        <mark key="]" line="106" column="84" />
-        <mark key="." line="106" column="84" />
-        <mark key="^" line="106" column="84" />
+      <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.js" timestamp="1557208673005">
+        <mark key="'" line="105" column="32" />
+        <mark key="[" line="96" column="62" />
+        <mark key="]" line="96" column="68" />
+        <mark key="." line="96" column="68" />
+        <mark key="^" line="96" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/utils/utils.js" timestamp="1557055857377">
         <mark key="'" line="24" column="20" />
@@ -269,8 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="18" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
@@ -357,7 +357,6 @@
       <jump line="102" column="83" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.js" />
       <jump line="22" column="24" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/utils/Const.js" />
       <jump line="18" column="4" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.scss" />
-      <jump line="9" column="21" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
       <jump line="109" column="6" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
       <jump line="122" column="9" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
       <jump line="138" column="42" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
@@ -369,6 +368,9 @@
       <jump line="58" column="7" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/app.js" />
       <jump line="113" column="28" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.js" />
       <jump line="129" column="19" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
+      <jump line="105" column="32" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.js" />
+      <jump line="67" column="19" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/home/home.scss" />
+      <jump line="9" column="21" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/components/taroui/noticebar/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +380,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>require('../../assets/images/notice.svg')</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
         <text>icon</text>
@@ -387,34 +389,34 @@
         <text>image</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlIHNyYz17aW1hZ2V9IC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlIHNyYz17aW1hZ2V9IC8+Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PEF0SWNvbiBjdXN0b21TdHlsZT17e2ZvbnRTaXplOiAnMTZweCd9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17aWNvbn0KICAgICAgICAgID48L0F0SWNvbj4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycsCiAgICAgICAgICAgIGZsZXg6IDEKICAgICAgICAgIH19CiAgICAgICAgICA+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3sKICAgICAgICAgICAgICBkaXNwbGF5OiAiZmxleCIsCiAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgfX0KICAgICAgICAgICAgPuWFrOWRijwvVGV4dD4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGl0bGUsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aXRsZSAmJgogICAgICAgICAgICA8Vmlldz48VGV4dD57dGl0bGV9PC9UZXh0PjwvVmlldz4KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGl0bGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
