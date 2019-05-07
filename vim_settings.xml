@@ -159,17 +159,19 @@
         <mark key="." line="163" column="33" />
         <mark key="^" line="163" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1557133803170">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="181" column="20" />
-        <mark key="]" line="181" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556523329247">
         <mark key="'" line="143" column="51" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="69" column="7" />
         <mark key="." line="163" column="26" />
         <mark key="^" line="163" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557223233082">
+        <mark key="'" line="19" column="45" />
+        <mark key="[" line="133" column="53" />
+        <mark key="]" line="133" column="68" />
+        <mark key="." line="133" column="68" />
+        <mark key="^" line="133" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/mine/mine.js" timestamp="1557201306686">
         <mark key="'" line="42" column="11" />
@@ -277,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/components/OrderItem.js" />
       <jump line="146" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
       <jump line="148" column="26" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
       <jump line="8" column="44" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
@@ -377,6 +377,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/orders/orders.js" />
       <jump line="48" column="13" filename="$USER_HOME$/workspace/soil/soil-f-mp/src/app.js" />
       <jump line="58" column="15" filename="$USER_HOME$/workspace/soil/soil-f-mp/node_modules/@tarojs/components/types/ScrollView.d.ts" />
+      <jump line="130" column="21" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="19" column="45" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -386,52 +388,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>screenHeight</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>scrollX</text>
+        <text>img</text>
       </register>
-      <register name="0" type="4">
-        <text>one-person</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBzcmM9J2ltZ3MvamR0eC5wbmcnIHN0eWxlPSJ3aWR0aDo1MHB4O2hlaWdodDo1MHB4O21hcmdpbi1yaWdodDogMjBweDtib3JkZXItcmFkaXVzOiAxNXB4Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOjkwJTsKICAgIG1hcmdpbi1sZWZ0OiAzJTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cHM6Ly9hcHAuYmxkMzY1LmNvbS9qZHR4LWlvcy9tYW5pZmVzdC5wbGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOjk1JTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9hcHAuYmxkMzY1LmNvbS9qZGNvbW0taW9zL2luZGV4Lmh0bWwiIHRhcmdldD0nX2JsYW5rJz7kuqzkuJzpgJrkv6HllYbmiLfniYjvvIhpT1PlrqLmiLfnq6/vvIxSTitPQ+a3t+WQiOW8gOWPke+8iTwvYT4KICAgICAgICAgICAgICBodHRwczovL2FwcC5ibGQzNjUuY29tL2pkdHgtaW9zL21hbmlmZXN0LnBsaXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPHVsPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxsaT7mk43kvZzns7vnu58oODXliIYgLyDkuJPkuJrmjpLlkI0xOC8xMDAp77yM5pWw5o2u57uT5p6EKDkw5YiGIC8g5LiT5Lia5o6S5ZCNMTAvMTAwKTwvbGk+CiAgICAgICAgICA8bGk+MjAxNS0yMDE25a2m5bm06I635b6X576O5Zu95aSn5a2m55Sf5pWw5a2m5bu65qih56ue6LWb5LiA562J5aWWPC9saT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Lm9uZS1wZXJzb24gewogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwogIGJvcmRlci1yYWRpdXM6IDE1cHg7CiAgaGVpZ2h0OjEwMHB4OwoKfQo=</text>
+        <text encoding="base64">ICAgICAgPHVsPgogICAgICAgICAgPGxpPuaTjeS9nOezu+e7nyg4NeWIhiAvIOS4k+S4muaOkuWQjTE4LzEwMCnvvIzmlbDmja7nu5PmnoQoOTDliIYgLyDkuJPkuJrmjpLlkI0xMC8xMDApPC9saT4KICAgICAgICAgIDxsaT4yMDE1LTIwMTblrablubTojrflvpfnvo7lm73lpKflrabnlJ/mlbDlrablu7rmqKHnq57otZvkuIDnrYnlpZY8L2xpPgogICAgICA8dWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDoxMDAlOwo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOjkwJTsKICAgIG1hcmdpbi1sZWZ0OiAzJTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scrollX</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>scrollX</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -439,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVNb2RcPg==</entry>
         <entry encoding="base64">XDxtYW51YWxQcmljZVw+</entry>
         <entry>包装费</entry>
         <entry>costPrice</entry>
@@ -459,6 +460,7 @@
         <entry>主页</entry>
         <entry>icon</entry>
         <entry>scrollX</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
@@ -476,10 +478,10 @@
         <entry encoding="base64">JzwsJz5zL3JweC9weC9n</entry>
         <entry encoding="base64">JzwsJz5zL2ludml0ZU9wZW4vaGFzUHVsbE5ld0F0eQ==</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L2VuZC9n</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry encoding="base64">JzwsJz5zL1RleFQvVGV4dC9n</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
