@@ -166,12 +166,12 @@
         <mark key="." line="163" column="26" />
         <mark key="^" line="163" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557229547700">
-        <mark key="'" line="156" column="40" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="17" column="23" />
+      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557285514109">
+        <mark key="'" line="245" column="42" />
+        <mark key="[" line="37" column="62" />
+        <mark key="]" line="37" column="62" />
+        <mark key="." line="37" column="62" />
+        <mark key="^" line="201" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/mine/mine.js" timestamp="1557201306686">
         <mark key="'" line="42" column="11" />
@@ -279,10 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="14" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" />
-      <jump line="87" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabGrab.js" />
-      <jump line="16" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/TabGrab.js" />
-      <jump line="78" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
       <jump line="13" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
       <jump line="149" column="56" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
       <jump line="29" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
@@ -379,6 +375,10 @@
       <jump line="138" column="19" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="42" column="65" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="154" column="40" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="147" column="29" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="168" column="79" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="245" column="42" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,52 +388,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Mongo</text>
+        <text>慢SQL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLXBhcGVyLXBsYW5lIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOW8gOWniyAtLT4KICAgICAgICA8aHIvPgogICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYnVpbGRpbmciPjwvaT4KICAgICAgICA8Yj7ljJfkuqznmb7lvrfkupHljZrkv6Hmga/mioDmnK/mnInpmZDlhazlj7ggPC9iPgogICAgICAgIDxwPjIwMDnlubQ55pyILTIwMTHlubQ15pyIIHwg5Yid57qnSmF2YeW8gOWPkeW3peeoi+W4iCA8L3A+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+5Yid57qn5byA5Y+R44CB5pel5bi4RGVidWfjgIHmipPlj5blm6LotK3lr7zoiKrmlbDmja7nrYkuLi48L2xpPgogICAgICAgIDwvdWw+CgogICAgICAgIDwhLS0g56ys5LiA5Liq6aG555uu55qE5LuL57uN77yM5aSa5Liq6aG555uu5Y+v5Lul5aSN5Yi2cHJvamVjdC1zcGFu5Yy65Z2XLS0+CiAgICAgICAgPHNwYW4gY2xhc3M9InByb2plY3Qtc3BhbiI+CiAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWNvZGUiPjwvaT4KICAgICAgICAgIDxiPuS6uuS6uuaKmOWboui0reWvvOiIque9keermTwvYj4KICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPui0n+i0o++8muWboui0ree9keermUFQSeWvueaOpe+8jOiuuuWdm+enr+WIhueuoeeQhu+8jOeUqOaIt+adg+mZkOaOp+WItuOAguWQjuWPsOeuoeeQhuezu+e7n+W8gOWPkTwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvc3Bhbj4gPCEtLSBlbmQgcHJvamVjdC1zcGFuIC0tPgoKICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOe7k+adnyAtLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhOnZpc2l0ZWR7Y29sb3I6YmxhY2s7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgRXhhbXBsZSBvZiBwYXBlci1wbGFuZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOW8gOWniyAtLT4KICAgICAgICA8aHIvPgogICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYnVpbGRpbmciPjwvaT4KICAgICAgICA8Yj7ljJfkuqznmb7lvrfkupHljZrkv6Hmga/mioDmnK/mnInpmZDlhazlj7ggPC9iPgogICAgICAgIDxwPjIwMDnlubQ55pyILTIwMTHlubQ15pyIIHwg5Yid57qnSmF2YeW8gOWPkeW3peeoi+W4iCA8L3A+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+5Yid57qn5byA5Y+R44CB5pel5bi4RGVidWfjgIHmipPlj5blm6LotK3lr7zoiKrmlbDmja7nrYkuLi48L2xpPgogICAgICAgIDwvdWw+CgogICAgICAgIDwhLS0g56ys5LiA5Liq6aG555uu55qE5LuL57uN77yM5aSa5Liq6aG555uu5Y+v5Lul5aSN5Yi2cHJvamVjdC1zcGFu5Yy65Z2XLS0+CiAgICAgICAgPHNwYW4gY2xhc3M9InByb2plY3Qtc3BhbiI+CiAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWNvZGUiPjwvaT4KICAgICAgICAgIDxiPuS6uuS6uuaKmOWboui0reWvvOiIque9keermTwvYj4KICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPui0n+i0o++8muWboui0ree9keermUFQSeWvueaOpe+8jOiuuuWdm+enr+WIhueuoeeQhu+8jOeUqOaIt+adg+mZkOaOp+WItuOAguWQjuWPsOeuoeeQhuezu+e7n+W8gOWPkTwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvc3Bhbj4gPCEtLSBlbmQgcHJvamVjdC1zcGFuIC0tPgoKICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOe7k+adnyAtLT4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">5pyJ5Luj56CB5rSB55mWICYKICAgICAgICAgICAg5oqA5pyv6L+95rGC</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPuaKgOacr++8mkpTUOOAgVNlcnZsZXQ8L2xpPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNza2lsbHN7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LXN0eWxlOiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIOesrOS4gOS4qumhueebrueahOS7i+e7je+8jOWkmuS4qumhueebruWPr+S7peWkjeWItnByb2plY3Qtc3BhbuWMuuWdly0tPgogICAgICAgIDxzcGFuIGNsYXNzPSJwcm9qZWN0LXNwYW4iPgogICAgICAgICAgPGkgY2xhc3M9ImZhcyBmYS1jb2RlIj48L2k+CiAgICAgICAgICA8Yj7phbfmiJHlkKzlkKzvvIjor63pn7Por4bliKvvvIk8L2I+CiAgICAgICAgICA8dWw+CiAgICAgICAgICAgIDxsaT7otJ/otKPvvJrpkojlr7nphbfmiJHnmoTnibnmrorpnIDmsYLvvIzlnKjljp/mnInor63pn7Por4bliKvmnI3liqHln7rnoYDkuIrvvIzlvIDlj5HphbfmiJHmrYzlkI3or4bliKvmqKHlnZfjgILkvb/nlKjlvIDmupDnmoRJS0FuYWx5emVy6L+b6KGM5Lit5paH5q2M5ZCN55qE5YiG6K+N77yM5a+55q2M5ZCN5Lit55qE5pWw5a2X6L+b6KGM5aSn5YaZ6L2s5o2i77yM5bu656uL6K+t5rOV5py66K+N6KGo562JPC9saT4KICAgICAgICAgICAgPGxpPuaKgOacr++8mkpTUOOAgVNlcnZsZXQ8L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L3NwYW4+IDwhLS0gZW5kIHByb2plY3Qtc3BhbiAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiPuWkluivrTo8L2I+IOWkp+WtpuiLseivreWbm+e6p++8jOiDvea1geeVhemYheivu+iLseaWh+aWh+ahowo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxiPuW3peWFtzo8L2I+IERvY2tlciwgSmVua2lucywgR2l0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Mongo</last-search>
+      <last-search>慢SQL</last-search>
       <last-offset />
-      <last-pattern>Mongo</last-pattern>
+      <last-pattern>慢SQL</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -441,9 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb0RldGFpbFw+</entry>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
-        <entry encoding="base64">XDxuYXZcPg==</entry>
         <entry encoding="base64">XDxvcmRlckRhdGFcPg==</entry>
         <entry encoding="base64">XDxjb3VsZFdpdGhkcmF3XD4=</entry>
         <entry>sysInfo</entry>
@@ -461,6 +458,9 @@
         <entry>Taro</entry>
         <entry>独立</entry>
         <entry>Mongo</entry>
+        <entry>近期</entry>
+        <entry>工具</entry>
+        <entry>慢SQL</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
