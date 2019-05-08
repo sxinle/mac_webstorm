@@ -166,12 +166,12 @@
         <mark key="." line="163" column="26" />
         <mark key="^" line="163" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557286246985">
-        <mark key="'" line="245" column="42" />
-        <mark key="[" line="146" column="43" />
-        <mark key="]" line="146" column="44" />
-        <mark key="." line="146" column="44" />
-        <mark key="^" line="146" column="44" />
+      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557286792659">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="116" column="66" />
+        <mark key="]" line="116" column="70" />
+        <mark key="." line="116" column="70" />
+        <mark key="^" line="116" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/soil/soil-f-mp/src/pages/mine/mine.js" timestamp="1557201306686">
         <mark key="'" line="42" column="11" />
@@ -279,9 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
-      <jump line="149" column="56" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/SearchOrder.js" />
-      <jump line="29" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
       <jump line="53" column="3" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
       <jump line="16" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
       <jump line="48" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" />
@@ -379,6 +376,9 @@
       <jump line="147" column="29" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="168" column="79" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="245" column="42" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="213" column="13" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="95" column="74" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="111" column="8" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,10 +388,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>立</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>慢SQL</text>
+        <text>技能列表</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOW8gOWniyAtLT4KICAgICAgICA8aHIvPgogICAgICAgIDxpIGNsYXNzPSJmYXMgZmEtYnVpbGRpbmciPjwvaT4KICAgICAgICA8Yj7ljJfkuqznmb7lvrfkupHljZrkv6Hmga/mioDmnK/mnInpmZDlhazlj7ggPC9iPgogICAgICAgIDxwPjIwMDnlubQ55pyILTIwMTHlubQ15pyIIHwg5Yid57qnSmF2YeW8gOWPkeW3peeoi+W4iCA8L3A+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+5Yid57qn5byA5Y+R44CB5pel5bi4RGVidWfjgIHmipPlj5blm6LotK3lr7zoiKrmlbDmja7nrYkuLi48L2xpPgogICAgICAgIDwvdWw+CgogICAgICAgIDwhLS0g56ys5LiA5Liq6aG555uu55qE5LuL57uN77yM5aSa5Liq6aG555uu5Y+v5Lul5aSN5Yi2cHJvamVjdC1zcGFu5Yy65Z2XLS0+CiAgICAgICAgPHNwYW4gY2xhc3M9InByb2plY3Qtc3BhbiI+CiAgICAgICAgICA8aSBjbGFzcz0iZmFzIGZhLWNvZGUiPjwvaT4KICAgICAgICAgIDxiPuS6uuS6uuaKmOWboui0reWvvOiIque9keermTwvYj4KICAgICAgICAgIDx1bD4KICAgICAgICAgICAgPGxpPui0n+i0o++8muWboui0ree9keermUFQSeWvueaOpe+8jOiuuuWdm+enr+WIhueuoeeQhu+8jOeUqOaIt+adg+mZkOaOp+WItuOAguWQjuWPsOeuoeeQhuezu+e7n+W8gOWPkTwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvc3Bhbj4gPCEtLSBlbmQgcHJvamVjdC1zcGFuIC0tPgoKICAgICAgICA8IS0tIOesrOWbm+S7veW3peS9nOe7k+adnyAtLT4K</text>
@@ -431,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>慢SQL</last-search>
+      <last-search>技能列表</last-search>
       <last-offset />
-      <last-pattern>慢SQL</last-pattern>
+      <last-pattern>技能列表</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlckRhdGFcPg==</entry>
         <entry encoding="base64">XDxjb3VsZFdpdGhkcmF3XD4=</entry>
         <entry>sysInfo</entry>
         <entry encoding="base64">XDxzaW5nbGVcPg==</entry>
@@ -461,6 +460,7 @@
         <entry>近期</entry>
         <entry>工具</entry>
         <entry>慢SQL</entry>
+        <entry>技能列表</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
