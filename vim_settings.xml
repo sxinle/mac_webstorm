@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1557827363003">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="46" column="24" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1557893770292">
+        <mark key="a" line="38" column="26" />
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="41" />
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="41" />
@@ -192,8 +193,8 @@
         <mark key="." line="163" column="26" />
         <mark key="^" line="163" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557366682383">
-        <mark key="'" line="223" column="63" />
+      <file name="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" timestamp="1557894284301">
+        <mark key="'" line="312" column="0" />
         <mark key="[" line="223" column="57" />
         <mark key="]" line="223" column="63" />
         <mark key="." line="223" column="63" />
@@ -318,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
-      <jump line="429" column="15" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="48" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" />
       <jump line="14" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
       <jump line="3" column="14" filename="$USER_HOME$/workspace/soil/soil-f-mp/dist/utils/Const.js" />
@@ -409,15 +408,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="19" column="29" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.org.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.org.html" />
-      <jump line="312" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="223" column="63" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
-      <jump line="38" column="26" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="5" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="46" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="47" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="90" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="38" column="26" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="8" column="7" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="109" column="63" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
+      <jump line="312" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -430,7 +431,7 @@
         <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZUNoYXRcPg==</text>
+        <text>近期</text>
       </register>
       <register name="0" type="4">
         <text>react-native-wechat</text>
@@ -478,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZUNoYXRcPg==</last-search>
+      <last-search>近期</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZUNoYXRcPg==</last-pattern>
+      <last-pattern>近期</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +495,6 @@
         <entry>Taro</entry>
         <entry>独立</entry>
         <entry>Mongo</entry>
-        <entry>近期</entry>
         <entry>工具</entry>
         <entry>慢SQL</entry>
         <entry>技能列表</entry>
@@ -508,6 +508,7 @@
         <entry>数组</entry>
         <entry>wech</entry>
         <entry encoding="base64">XDxXZUNoYXRcPg==</entry>
+        <entry>近期</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
