@@ -127,12 +127,12 @@
         <mark key="^" line="879" column="38" />
         <mark key="." line="879" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1557827007229">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1561080410205">
+        <mark key="'" line="109" column="0" />
         <mark key="[" line="107" column="21" />
-        <mark key="]" line="107" column="33" />
-        <mark key="." line="107" column="33" />
-        <mark key="^" line="107" column="33" />
+        <mark key="]" line="107" column="31" />
+        <mark key="." line="107" column="31" />
+        <mark key="^" line="107" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" timestamp="1557129506802">
         <mark key="[" line="8" column="54" />
@@ -374,10 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="29" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
-      <jump line="168" column="79" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
-      <jump line="245" column="42" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
-      <jump line="213" column="13" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="95" column="74" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="111" column="8" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="89" column="16" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
@@ -474,6 +470,10 @@
       <jump line="59" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="312" column="0" filename="$USER_HOME$/workspace/demo/awesome-resume/free/free_resume.html" />
       <jump line="21" column="8" filename="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CameraPage.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="86" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,7 +483,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>固本堂五宝茶红枣桂圆枸杞男肾茶老公八宝组合茶小包装</text>
+        <text>192.168.1.112</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW9sb2NhdGlvblw+</text>
@@ -536,7 +536,7 @@
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
