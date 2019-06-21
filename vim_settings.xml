@@ -174,13 +174,13 @@
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/scene/CameraPage.js" timestamp="1558419445436">
         <mark key="'" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1561087426095">
-        <mark key="a" line="38" column="26" />
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="63" column="28" />
-        <mark key="^" line="63" column="28" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1561093352527">
+        <mark key="a" line="73" column="11" />
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="154" column="50" />
+        <mark key="]" line="154" column="50" />
+        <mark key="." line="154" column="50" />
+        <mark key="^" line="154" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/RootNavigator.js" timestamp="1556611542223">
         <mark key="'" line="17" column="13" />
@@ -378,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="4" filename="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" />
-      <jump line="95" column="4" filename="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" />
       <jump line="57" column="33" filename="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" />
       <jump line="53" column="22" filename="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" />
       <jump line="118" column="2" filename="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" />
@@ -478,6 +476,8 @@
       <jump line="63" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/delivery.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,40 +487,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>?${Util.json2getParam(param)}</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyTmFtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCh7CiAgICB1cmw6IGBvcmRlckRldGFpbD8ke1V0aWwuanNvbjJnZXRQYXJhbShwYXJhbSl9YCwKICAgIG1ldGhvZDogJ0dFVCcsCiAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>withDrawMoney</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBjYW5XaXRoRHJhd01vbmV5KCkgewogIAp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbwo=</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBjYW5XaXRoRHJhd01vbmV5KCkgewogIAp9Cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
