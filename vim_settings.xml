@@ -130,12 +130,11 @@
         <mark key="." line="107" column="31" />
         <mark key="^" line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1556643888368">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="89" />
-        <mark key="^" line="88" column="73" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1561448488824">
+        <mark key="'" line="93" column="10" />
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="51" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/settings/Settings.js" timestamp="1556448974895">
         <mark key="'" line="200" column="24" />
@@ -185,10 +184,10 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="150" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/delivery.js" timestamp="1561096066955">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/services/delivery.js" timestamp="1561448519268">
         <mark key="'" line="90" column="7" />
-        <mark key="[" line="92" column="10" />
-        <mark key="]" line="92" column="19" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="21" />
         <mark key="^" line="92" column="19" />
         <mark key="." line="92" column="19" />
       </file>
@@ -279,8 +278,8 @@
         <mark key="." line="163" column="33" />
         <mark key="^" line="163" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" timestamp="1561095990518">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" timestamp="1561448496842">
+        <mark key="'" line="155" column="37" />
         <mark key="[" line="200" column="50" />
         <mark key="]" line="201" column="53" />
         <mark key="." line="201" column="53" />
@@ -358,15 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
-      <jump line="19" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
-      <jump line="13" column="51" filename="$USER_HOME$/workspace/pegas/pegas-html-site/index.html" />
-      <jump line="58" column="49" filename="$USER_HOME$/workspace/pegas/pegas-html-site/index.html" />
-      <jump line="251" column="75" filename="$USER_HOME$/workspace/pegas/pegas-html-site/index.html" />
-      <jump line="496" column="233" filename="$USER_HOME$/workspace/pegas/pegas-html-site/index.html" />
-      <jump line="33" column="23" filename="$USER_HOME$/workspace/pegas/syxinsl.com/c01.html" />
-      <jump line="225" column="53" filename="$USER_HOME$/workspace/pegas/syxinsl.com/c01.html" />
       <jump line="226" column="28" filename="$USER_HOME$/workspace/pegas/syxinsl.com/c01.html" />
       <jump line="124" column="44" filename="$USER_HOME$/Desktop/sjrz.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/sjrz.html" />
@@ -458,6 +448,15 @@
       <jump line="99" column="11" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="110" column="31" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="139" column="32" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
+      <jump line="117" column="10" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" />
+      <jump line="93" column="10" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" />
+      <jump line="201" column="53" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="43" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="93" column="10" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="98" column="22" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="153" column="56" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
+      <jump line="155" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,49 +469,49 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RhbE1vbmV5XD4=</text>
+        <text>has</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjb21taXNzaW9uczogW10sCiAgICAgIHBhZ2VJbmZvOiB7fSwKICAgICAgbm9Nb3JlOiBmYWxzZSwKICAgIH0sICgpID0+IHsKICAgICAgdGhpcy5xdWVyeUNvbW1pc3Npb25zKCk7CiAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>hasTakeOrder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhsaXN0RGF0YS5saXN0LCAnWyA9PT09PSBsaXN0RGF0YS5saXN0ID09PT09IF0nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGNvbW1pc2lvbldpdGhkcmF3KCkgewogIAp9CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGNvbW1pc2lvbldpdGhkcmF3KCkgewogIAp9CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVGFyby5hdE1lc3NhZ2UoewogICAgICAgICdtZXNzYWdlJzogYOW3suWIsOi0piR7dG90YWxNb25leX3lhYNgLAogICAgICAgICd0eXBlJzogJ2luZm8nLAogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RhbE1vbmV5XD4=</last-search>
+      <last-search>has</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RhbE1vbmV5XD4=</last-pattern>
+      <last-pattern>has</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img09</entry>
-        <entry>ko-16</entry>
         <entry>img</entry>
         <entry>img15</entry>
         <entry>ko-</entry>
@@ -540,6 +537,8 @@
         <entry>message</entry>
         <entry>total</entry>
         <entry encoding="base64">XDx0b3RhbE1vbmV5XD4=</entry>
+        <entry encoding="base64">XDxidG5UZXh0XD4=</entry>
+        <entry>has</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
