@@ -146,14 +146,14 @@
         <mark key="^" line="879" column="38" />
         <mark key="." line="879" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562290964508">
-        <mark key="'" line="51" column="22" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562295101600">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="36" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1562293530080">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1562294997394">
+        <mark key="'" line="106" column="20" />
         <mark key="[" line="108" column="42" />
         <mark key="]" line="108" column="42" />
         <mark key="." line="108" column="42" />
@@ -420,10 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="15" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
-      <jump line="117" column="32" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
-      <jump line="151" column="39" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
-      <jump line="152" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="58" column="7" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="85" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/services/api.js" />
@@ -520,6 +516,10 @@
       <jump line="57" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/request.js" />
       <jump line="1" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
       <jump line="13" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
+      <jump line="106" column="20" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="72" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,10 +532,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdG9yYWdlXD4=</text>
+        <text>JPush</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uc3QsIFN0b3JhZ2UsIFV0aWwgfSBmcm9tICcuL2luZGV4JzsK</text>
+      <register name="0" type="4">
+        <text>jpush-react-native</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLy8gcGVyaW9kOiAxMDAwICogNjAgKiA1LAo=</text>
@@ -572,9 +572,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdG9yYWdlXD4=</last-search>
+      <last-search>JPush</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdG9yYWdlXD4=</last-pattern>
+      <last-pattern>JPush</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>message</entry>
         <entry>total</entry>
         <entry encoding="base64">XDx0b3RhbE1vbmV5XD4=</entry>
         <entry encoding="base64">XDxidG5UZXh0XD4=</entry>
@@ -602,6 +601,7 @@
         <entry>console.log</entry>
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uXD4=</entry>
         <entry encoding="base64">XDxTdG9yYWdlXD4=</entry>
+        <entry>JPush</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
