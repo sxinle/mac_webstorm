@@ -173,6 +173,11 @@
         <mark key="." line="196" column="50" />
         <mark key="^" line="196" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" timestamp="1562302758187">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" timestamp="1556461375243">
         <mark key="'" line="149" column="22" />
         <mark key="[" line="119" column="26" />
@@ -326,7 +331,7 @@
         <mark key="." line="121" column="43" />
         <mark key="^" line="121" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562294345369">
+      <file name="/Dummy.txt" timestamp="1562303322875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1556646357824">
@@ -420,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="7" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="85" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/services/api.js" />
       <jump line="70" column="3" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
@@ -520,6 +524,7 @@
       <jump line="72" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="0" column="7" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,10 +537,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>JPush</text>
+        <text>wechat</text>
       </register>
       <register name="0" type="4">
-        <text>jpush-react-native</text>
+        <text>react-native-wechat</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLy8gcGVyaW9kOiAxMDAwICogNjAgKiA1LAo=</text>
@@ -572,9 +577,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JPush</last-search>
+      <last-search>wechat</last-search>
       <last-offset />
-      <last-pattern>JPush</last-pattern>
+      <last-pattern>wechat</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>total</entry>
         <entry encoding="base64">XDx0b3RhbE1vbmV5XD4=</entry>
         <entry encoding="base64">XDxidG5UZXh0XD4=</entry>
         <entry>has</entry>
@@ -602,6 +606,7 @@
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uXD4=</entry>
         <entry encoding="base64">XDxTdG9yYWdlXD4=</entry>
         <entry>JPush</entry>
+        <entry>wechat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
