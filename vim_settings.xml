@@ -69,10 +69,10 @@
         <mark key="]" line="154" column="18" />
         <mark key="." line="154" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1562730542208">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1562737737418">
         <mark key="'" line="16" column="12" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="42" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="5" column="0" />
       </file>
@@ -95,6 +95,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/addr/address.js" timestamp="1562737957266">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Shopinfo/Shopinfo.js" timestamp="1556523329247">
         <mark key="'" line="143" column="51" />
@@ -165,11 +168,11 @@
         <mark key="." line="108" column="42" />
         <mark key="^" line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" timestamp="1562736922435">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" timestamp="1562737942024">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1561451237849">
         <mark key="'" line="132" column="47" />
@@ -357,7 +360,7 @@
         <mark key="." line="121" column="43" />
         <mark key="^" line="121" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562735325661">
+      <file name="/Dummy.txt" timestamp="1562738087882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1556646357824">
@@ -454,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="47" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" />
       <jump line="144" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="30" column="2" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
       <jump line="99" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
@@ -554,6 +556,7 @@
       <jump line="284" column="48" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="286" column="48" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="289" column="48" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/addr/address.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -563,52 +566,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>餐</text>
+        <text>defaultPng</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>console.log</text>
       </register>
-      <register name="0" type="4">
-        <text>getMinutes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBgJHtDb25zdC5zdnIuaW1nX3VybH1kZWZhdWx0LnBuZ2A7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWNvcmQpOwogIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGFwaV9ob3N0OiAnaHR0cDovL2xvY2FsaG9zdDo4MDgwJywK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvYWRpbmdHaWYgZnJvbSAnLi4vLi4vYXNzZXRzL2ltYWdlcy9sb2FkaW5nLmdpZic7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkZWZhdWx0UG5nID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0IGZyb20gIi4uLy4uL3V0aWxzL0NvbnN0IjsK</text>
+        <text encoding="base64">ICAgIGlmICghcmVjb3JkW2tleV0pIHsKICAgICAgcmV0dXJuIGRlZmF1bHRQbmc7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uc3QsICB9IGZyb20gJy4vdXRpbHMvaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBgJHtDb25zdC5zdnIuaW1nX3VybH1kZWZhdWx0LnBuZ2A7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICdkZWZhdWx0LnBuZyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcGVyaW9kOiAxMDAwICogNjAgKiA1LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9rZW4sICdbID09PT09IHRva2VuID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVjb3JkLCBrZXkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29uc3QsIFN0b3JhZ2UgfSBmcm9tICcuL3V0aWxzL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +630,6 @@
         <entry>wechat</entry>
         <entry encoding="base64">XDxzaG93UmVkUGFja1w+</entry>
         <entry encoding="base64">XDxoYXNQdWxsTmV3QXR5XD4=</entry>
-        <entry>console.log</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxzdGFydEhlYXJ0QmVhdFw+</entry>
         <entry>share</entry>
@@ -636,6 +638,7 @@
         <entry encoding="base64">XDxwYWdlRXh0cmFGbnNcPg==</entry>
         <entry encoding="base64">XDxpbml0VXNlckluZm9cPg==</entry>
         <entry>image</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
