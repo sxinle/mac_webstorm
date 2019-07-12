@@ -162,11 +162,12 @@
         <mark key="^" line="879" column="38" />
         <mark key="." line="879" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562919306706">
-        <mark key="'" line="80" column="6" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562922050678">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="59" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1562916228696">
         <mark key="'" line="1" column="0" />
@@ -195,10 +196,10 @@
         <mark key="." line="196" column="50" />
         <mark key="^" line="196" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" timestamp="1562919187027">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/package.json" timestamp="1562921963381">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="22" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" timestamp="1556461375243">
         <mark key="'" line="149" column="22" />
@@ -474,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="3" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="187" column="22" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="235" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="41" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
@@ -574,6 +574,7 @@
       <jump line="118" column="2" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
       <jump line="80" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="8" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -583,43 +584,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>heartBeatAnyway</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>QQL</text>
       </register>
       <register name="0" type="4">
-        <text>heartBeatAnyway</text>
+        <text>react-native-gm-baidu-location</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWFydEJlYXRBbnl3YXkgPSAobG5nLCBsYXQpID0+IHsKICAgIFN0b3JhZ2UuZ2V0KCd0b2tlbicpLnRoZW4odG9rZW4gPT4gewogICAgICBmZXRjaChgJHtDb25zdC5hcHAuYmFzZVVybH0vaGVhcnRCZWF0P2xuZz0ke2xuZ30mbGF0PSR7bGF0fWAsIHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgIEF1dGhvcml6YXRpb246IHRva2VuLAogICAgICAgIH0sCiAgICAgIH0pLnRoZW4ocmVzcCA9PiBjb25zb2xlLmxvZyhyZXNwLmpzb24oKSwgJ+W/g+i3sycpKTsKICAgIH0pOwogIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0b3JhZ2UuZ2V0KCd0b2tlbicpLnRoZW4odG9rZW4gPT4gewogICAgICBmZXRjaChgJHtDb25zdC5hcHAuYmFzZVVybH0vaGVhcnRCZWF0YCwgewogICAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgICAgaGVhZGVyczogewogICAgICAgICAgQXV0aG9yaXphdGlvbjogdG9rZW4sCiAgICAgICAgfSwKICAgICAgfSkudGhlbihyZXNwID0+IGNvbnNvbGUubG9nKHJlc3AuanNvbigpLCAn5b+D6LezJykpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWFydEJlYXRBbnl3YXkgPSAobG5nLCBsYXQpID0+IHsKICAgIFN0b3JhZ2UuZ2V0KCd0b2tlbicpLnRoZW4odG9rZW4gPT4gewogICAgICBmZXRjaChgJHtDb25zdC5hcHAuYmFzZVVybH0vaGVhcnRCZWF0P2xuZz0ke2xuZ30mbGF0PSR7bGF0fWAsIHsKICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgIEF1dGhvcml6YXRpb246IHRva2VuLAogICAgICAgIH0sCiAgICAgIH0pLnRoZW4ocmVzcCA9PiBjb25zb2xlLmxvZyhyZXNwLmpzb24oKSwgJ+W/g+i3sycpKTsKICAgIH0pOwogIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0b3JhZ2UuZ2V0KCd0b2tlbicpLnRoZW4odG9rZW4gPT4gewogICAgICBmZXRjaChgJHtDb25zdC5hcHAuYmFzZVVybH0vaGVhcnRCZWF0YCwgewogICAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgICAgaGVhZGVyczogewogICAgICAgICAgQXV0aG9yaXphdGlvbjogdG9rZW4sCiAgICAgICAgfSwKICAgICAgfSkudGhlbihyZXNwID0+IGNvbnNvbGUubG9nKHJlc3AuanNvbigpLCAn5b+D6LezJykpOwogICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWFydEJlYXRKb2InLCAnWyA9PT09PSBoZWFydEJlYXRKb2IgPT09PT0gXScpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGVhcnRCZWF0QW55d2F5KGxvYy5jb29yZHMubG9uZ2l0dWRlKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWFydEJlYXRKb2InLCAnWyA9PT09PSBoZWFydEJlYXRKb2IgPT09PT0gXScpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgaGVhcnRCZWF0QW55d2F5KGxvYy5jb29yZHMubG9uZ2l0dWRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
