@@ -50,11 +50,11 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1562916476829">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" timestamp="1562918261497">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/syxinsl.com/c06.html" timestamp="1558411027821">
@@ -162,11 +162,12 @@
         <mark key="^" line="879" column="38" />
         <mark key="." line="879" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562310295066">
-        <mark key="'" line="48" column="23" />
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1562918468975">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="94" column="34" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1562916228696">
         <mark key="'" line="1" column="0" />
@@ -228,12 +229,6 @@
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1562231118272">
         <mark key="'" line="235" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" timestamp="1562309998583">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/RootNavigator.js" timestamp="1556611542223">
         <mark key="'" line="17" column="13" />
@@ -474,8 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="9" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/MyOrders.js" />
-      <jump line="203" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/utils.js" />
       <jump line="140" column="48" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
       <jump line="13" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
@@ -574,6 +567,8 @@
       <jump line="5" column="14" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="15" column="14" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="83" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,34 +587,34 @@
         <text>Const.userInfo.loc.lng</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgfTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUVFMQlMgZnJvbSAncmVhY3QtbmF0aXZlLXFxbGJzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3h4eCcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUVFMQlMgfSBmcm9tICdyZWFjdC1uYXRpdmUtcXFsYnMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHtRUUxCU30gZnJvbSAncmVhY3QtbmF0aXZlLXFxbGJzJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgYWxlcnQoJ3h4eCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHNob3ctbG9jYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TWFwIHN0eWxlPSdoZWlnaHQ6IDIwMHB4O3dpZHRoOjEwMCU7Jy8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgR2VvbG9jYXRpb24gPSByZXF1aXJlKCdHZW9sb2NhdGlvbicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TWFwIHN0eWxlPSd3aWR0aDogMTAwJTsgaGVpZ2h0OiAzMDBweDsnIC8+Cg==</text>
+        <text encoding="base64">ICAgIEdlb2xvY2F0aW9uLmdldEN1cnJlbnRQb3NpdGlvbigKICAgICAgbG9jYXRpb24gPT4gewogICAgICAgIHZhciByZXN1bHQgPSAn6YCf5bqm77yaJyArIGxvY2F0aW9uLmNvb3Jkcy5zcGVlZCArCiAgICAgICAgICAnXG7nu4/luqbvvJonICsgbG9jYXRpb24uY29vcmRzLmxvbmdpdHVkZSArCiAgICAgICAgICAnXG7nuqzluqbvvJonICsgbG9jYXRpb24uY29vcmRzLmxhdGl0dWRlICsKICAgICAgICAgICdcbuWHhuehruW6pu+8micgKyBsb2NhdGlvbi5jb29yZHMuYWNjdXJhY3kgKwogICAgICAgICAgJ1xu6KGM6L+b5pa55ZCR77yaJyArIGxvY2F0aW9uLmNvb3Jkcy5oZWFkaW5nICsKICAgICAgICAgICdcbua1t+aLlO+8micgKyBsb2NhdGlvbi5jb29yZHMuYWx0aXR1ZGUgKwogICAgICAgICAgJ1xu5rW35ouU5YeG56Gu5bqm77yaJyArIGxvY2F0aW9uLmNvb3Jkcy5hbHRpdHVkZUFjY3VyYWN5ICsKICAgICAgICAgICdcbuaXtumXtOaIs++8micgKyBsb2NhdGlvbi50aW1lc3RhbXA7CiAgICAgICAgYWxlcnQocmVzdWx0KTsKICAgICAgfSwKICAgICAgZXJyb3IgPT4gewogICAgICAgIGFsZXJ0KCfojrflj5bkvY3nva7lpLHotKXvvJonICsgZXJyb3IpOwogICAgICB9LAogICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
