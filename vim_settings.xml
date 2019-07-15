@@ -151,12 +151,12 @@
         <mark key="^" line="879" column="38" />
         <mark key="." line="879" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1563153482491">
-        <mark key="'" line="57" column="42" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="36" />
-        <mark key="^" line="60" column="36" />
-        <mark key="." line="60" column="36" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" timestamp="1563158416173">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="40" />
+        <mark key="^" line="88" column="40" />
+        <mark key="." line="88" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1562923887599">
         <mark key="'" line="100" column="9" />
@@ -457,9 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="19" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
-      <jump line="104" column="24" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
-      <jump line="90" column="24" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
       <jump line="37" column="6" filename="$USER_HOME$/workspace/pproj/jfans/app/router.js" />
       <jump line="21" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/index.js" />
@@ -557,6 +554,9 @@
       <jump line="146" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/timeline/timeline.js" />
       <jump line="181" column="82" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
       <jump line="17" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
+      <jump line="70" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,60 +566,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>ACCESS_WIFI_STATE</text>
       </register>
       <register name="/" type="4">
-        <text>Map</text>
+        <text>WIFI</text>
       </register>
       <register name="0" type="4">
-        <text>http://img.pegas.syxinsl.com/</text>
+        <text>READ_PHONE_STATE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gbm93LmdldEhvdXJzKCk7Ly8gKyAiOiIgKyAobm93LmdldE1pbnV0ZXMoKSA8IDEwKSA/ICgiMCIgKyBub3cuZ2V0TWludXRlcygpKSA6IG5vdy5nZXRNaW51dGVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gbm93LmdldEhvdXJzKCk7Ly8gKyAiOiIgKyAobm93LmdldE1pbnV0ZXMoKSA8IDEwKSA/ICgiMCIgKyBub3cuZ2V0TWludXRlcygpKSA6IG5vdy5nZXRNaW51dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGdyYW50ZWQgPSBQZXJtaXNzaW9uc0FuZHJvaWQuY2hlY2soCiAgICAgIFBlcm1pc3Npb25zQW5kcm9pZC5QRVJNSVNTSU9OUy5BQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OLAogICAgKTsKICAgIGlmIChmYWlsKGdyYW50ZWQpKSB7CiAgICAgIFBlcm1pc3Npb25zQW5kcm9pZC5yZXF1ZXN0KFBlcm1pc3Npb25zQW5kcm9pZC5QRVJNSVNTSU9OUy5XUklURV9FWFRFUk5BTF9TVE9SQUdFKTsKICAgIH0KCiAgICBncmFudGVkID0gUGVybWlzc2lvbnNBbmRyb2lkLmNoZWNrKAogICAgICBQZXJtaXNzaW9uc0FuZHJvaWQuUEVSTUlTU0lPTlMuQUNDRVNTX0NPQVJTRV9MT0NBVElPTiwKICAgICk7CiAgICBpZiAoZmFpbChncmFudGVkKSkgewogICAgICBQZXJtaXNzaW9uc0FuZHJvaWQucmVxdWVzdChQZXJtaXNzaW9uc0FuZHJvaWQuUEVSTUlTU0lPTlMuV1JJVEVfRVhURVJOQUxfU1RPUkFHRSk7CiAgICB9CgogICAgZ3JhbnRlZCA9IFBlcm1pc3Npb25zQW5kcm9pZC5jaGVjaygKICAgICAgUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLkFDQ0VTU19DT0FSU0VfTE9DQVRJT04sCiAgICApOwogICAgaWYgKGZhaWwoZ3JhbnRlZCkpIHsKICAgICAgUGVybWlzc2lvbnNBbmRyb2lkLnJlcXVlc3QoUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLldSSVRFX0VYVEVSTkFMX1NUT1JBR0UpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLklOVEVSTkVULAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgVGFyby5tYWtlUGhvbmVDYWxsKHsKICAgICAgICAgICAgICAgICAgICAgICBwaG9uZU51bWJlcjogJzE1ODQwNTg2OTU3JywKICAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgUGVybWlzc2lvbnNBbmRyb2lkLlBFUk1JU1NJT05TLkFDQ0VTU19XSUZJX1NUQVRFLAogICAgICBQZXJtaXNzaW9uc0FuZHJvaWQuUEVSTUlTU0lPTlMuQUNDRVNTX05FVFdPUktfU1RBVEUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2goYCR7Q29uc3QuYXBwLmJhc2VVcmx9L2hlYXJ0QmVhdGAsIHsK</text>
+        <text encoding="base64">ICAgIGlmIChncmFudGVkICE9PSBQZXJtaXNzaW9uc0FuZHJvaWQuUkVTVUxUUy5HUkFOVEVEKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChncmFudGVkICE9PSBQZXJtaXNzaW9uc0FuZHJvaWQuUkVTVUxUUy5HUkFOVEVEKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVG9hc3QgfSBmcm9tICduYXRpdmUtYmFzZSc7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChncmFudGVkICE9PSBQZXJtaXNzaW9uc0FuZHJvaWQuUkVTVUxUUy5HUkFOVEVEKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChncmFudGVkICE9PSBQZXJtaXNzaW9uc0FuZHJvaWQuUkVTVUxUUy5HUkFOVEVEKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Map</last-search>
+      <last-search>WIFI</last-search>
       <last-offset />
-      <last-pattern>Map</last-pattern>
+      <last-pattern>WIFI</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dispatch</entry>
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uXD4=</entry>
         <entry encoding="base64">XDxTdG9yYWdlXD4=</entry>
         <entry>JPush</entry>
@@ -639,6 +638,7 @@
         <entry>zoom</entry>
         <entry>QQL</entry>
         <entry>Map</entry>
+        <entry>WIFI</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
