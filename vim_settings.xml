@@ -62,12 +62,12 @@
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/timeline/timeline.js" timestamp="1563171701672">
-        <mark key="'" line="146" column="12" />
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="130" column="61" />
-        <mark key="^" line="130" column="61" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/timeline/timeline.js" timestamp="1563173247676">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="149" column="34" />
+        <mark key="]" line="149" column="35" />
+        <mark key="." line="149" column="35" />
+        <mark key="^" line="147" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1563155817020">
         <mark key="'" line="17" column="16" />
@@ -377,10 +377,10 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="163" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/node_modules/@tarojs/components/types/Map.d.ts" timestamp="1562924437363">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/node_modules/@tarojs/components/types/Map.d.ts" timestamp="1563172969079">
         <mark key="'" line="293" column="14" />
-        <mark key="[" line="268" column="2" />
-        <mark key="]" line="268" column="12" />
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/config/index.js" timestamp="1562911522120">
         <mark key="'" line="27" column="79" />
@@ -475,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="62" column="22" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="99" column="12" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
       <jump line="110" column="73" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" />
@@ -575,6 +574,7 @@
       <jump line="66" column="5" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.scss" />
       <jump line="91" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.scss" />
       <jump line="178" column="59" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/orderitem/orderitem.js" />
+      <jump line="35" column="31" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/timeline/timeline.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -584,13 +584,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>map-pin</text>
+        <text>'距您100米'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlclw+</text>
+        <text>Map</text>
       </register>
       <register name="0" type="4">
-        <text>orders/timeline</text>
+        <text>anchorX</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -627,13 +627,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlclw+</last-search>
+      <last-search>Map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlclw+</last-pattern>
+      <last-pattern>Map</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -654,9 +654,9 @@
         <entry>onClick</entry>
         <entry>zoom</entry>
         <entry>QQL</entry>
-        <entry>Map</entry>
         <entry>WIFI</entry>
         <entry encoding="base64">XDxvcmRlclw+</entry>
+        <entry>Map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
