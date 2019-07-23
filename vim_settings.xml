@@ -374,7 +374,7 @@
         <mark key="." line="121" column="43" />
         <mark key="^" line="121" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563240031050">
+      <file name="/Dummy.txt" timestamp="1563861276332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1563155824240">
@@ -591,7 +591,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dvV2lkdGhcPg==</text>
+        <text>已派单</text>
       </register>
       <register name="0" type="4">
         <text>deliveryScore</text>
@@ -631,17 +631,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dvV2lkdGhcPg==</last-search>
+      <last-search>已派单</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dvV2lkdGhcPg==</last-pattern>
+      <last-pattern>已派单</last-pattern>
       <last-replace>Text</last-replace>
       <last-substitute>TexT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>JPush</entry>
         <entry>wechat</entry>
         <entry encoding="base64">XDxzaG93UmVkUGFja1w+</entry>
         <entry encoding="base64">XDxoYXNQdWxsTmV3QXR5XD4=</entry>
@@ -661,6 +660,7 @@
         <entry>Map</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxsb2dvV2lkdGhcPg==</entry>
+        <entry>已派单</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnIvPi9n</entry>
