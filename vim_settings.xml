@@ -16,6 +16,13 @@
         <mark key="^" line="111" column="14" />
         <mark key="." line="111" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/weixin.js" timestamp="1564380765723">
+        <mark key="'" line="567" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="569" column="2" />
+        <mark key="^" line="569" column="2" />
+        <mark key="." line="569" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/shopservice.js" timestamp="1556458226565">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="38" column="61" />
@@ -64,6 +71,10 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="147" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/weixin-just-demo.js" timestamp="1564380837262">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1563858702482">
         <mark key="'" line="24" column="0" />
@@ -195,11 +206,12 @@
         <mark key="." line="99" column="40" />
         <mark key="^" line="99" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/index.html" timestamp="1564377209332">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/index.html" timestamp="1564380852030">
+        <mark key="'" line="32" column="32" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="127" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1561451237849">
         <mark key="'" line="132" column="47" />
@@ -215,11 +227,11 @@
         <mark key="." line="196" column="50" />
         <mark key="^" line="196" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" timestamp="1564377198186">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" timestamp="1564380864935">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="127" column="12" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Shop/Shoptype/Shoptype.js" timestamp="1556461375243">
         <mark key="'" line="149" column="22" />
@@ -433,6 +445,12 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/config/vendors.js" timestamp="1564380670164">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="19" column="2" />
+      </file>
       <file name="$USER_HOME$/Desktop/sjrz.html" timestamp="1558408243237">
         <mark key="'" line="10744" column="147" />
         <mark key="[" line="9" column="35" />
@@ -510,8 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="21" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
-      <jump line="219" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="53" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
       <jump line="60" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="6" column="5" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
@@ -610,6 +626,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
+      <jump line="32" column="32" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/index.html" />
+      <jump line="567" column="2" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/weixin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,61 +637,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>flip</text>
+        <text>checkJsApi</text>
       </register>
       <register name="/" type="4">
-        <text>imageMogr</text>
+        <text>injectjs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfllYblrrbor4TliIYnLAogICAgICBkYXRhSW5kZXg6ICdzY29yZScsCiAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>item-text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN5c0luZm8ud2luZG93V2lkdGgsICdbID09PT09IHN5c0luZm8ud2luZG93V2lkdGggPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN5c0luZm8ud2luZG93V2lkdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN5c0luZm8ud2luZG93V2lkdGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfllYblrrbor4TliIYnLAogICAgICBkYXRhSW5kZXg6ICdzY29yZScsCiAgICB9LAogICAgewogICAgICB0aXRsZTogJ+mqkeaJi+ivhOWIhicsCiAgICAgIGRhdGFJbmRleDogJ2RlbGl2ZXJ5U2NvcmUnLAogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDms6jmhI/vvJoKICAgICAgICAgKiAxLiDmiYDmnInnmoRKU+aOpeWPo+WPquiDveWcqOWFrOS8l+WPt+e7keWumueahOWfn+WQjeS4i+iwg+eUqO+8jOWFrOS8l+WPt+W8gOWPkeiAhemcgOimgeWFiOeZu+W9leW+ruS/oeWFrOS8l+W5s+WPsOi/m+WFpeKAnOWFrOS8l+WPt+iuvue9ruKAneeahOKAnOWKn+iDveiuvue9ruKAnemHjOWhq+WGmeKAnEpT5o6l5Y+j5a6J5YWo5Z+f5ZCN4oCd44CCCiAgICAgICAgICogMi4g5aaC5p6c5Y+R546w5ZyoIEFuZHJvaWQg5LiN6IO95YiG5Lqr6Ieq5a6a5LmJ5YaF5a6577yM6K+35Yiw5a6Y572R5LiL6L295pyA5paw55qE5YyF6KaG55uW5a6J6KOF77yMQW5kcm9pZCDoh6rlrprkuYnliIbkuqvmjqXlj6PpnIDljYfnuqfoh7MgNi4wLjIuNTgg54mI5pys5Y+K5Lul5LiK44CCCiAgICAgICAgICogMy4g5bi46KeB6Zeu6aKY5Y+K5a6M5pW0IEpTLVNESyDmlofmoaPlnLDlnYDvvJpodHRwOi8vbXAud2VpeGluLnFxLmNvbS93aWtpLzcvYWFhMTM3YjU1ZmIyZTA0NTZiZjhkZDkxNDhkZDYxM2YuaHRtbAogICAgICAgICAqCiAgICAgICAgICog5byA5Y+R5Lit6YGH5Yiw6Zeu6aKY6K+m6KeB5paH5qGj4oCc6ZmE5b2VNS3luLjop4HplJnor6/lj4rop6PlhrPlip7ms5XigJ3op6PlhrPvvIzlpoLku43mnKrog73op6PlhrPlj6/pgJrov4fku6XkuIvmuKDpgZPlj43ppojvvJoKICAgICAgICAgKiDpgq7nrrHlnLDlnYDvvJp3ZWl4aW4tb3BlbkBxcS5jb20KICAgICAgICAgKiDpgq7ku7bkuLvpopjvvJrjgJDlvq7kv6FKUy1TREvlj43ppojjgJHlhbfkvZPpl67popgKICAgICAgICAgKiDpgq7ku7blhoXlrrnor7TmmI7vvJrnlKjnroDmmI7nmoTor63oqIDmj4/ov7Dpl67popjmiYDlnKjvvIzlubbkuqTku6PmuIXmpZrpgYfliLDor6Xpl67popjnmoTlnLrmma/vvIzlj6/pmYTkuIrmiKrlsY/lm77niYfvvIzlvq7kv6Hlm6LpmJ/kvJrlsL3lv6vlpITnkIbkvaDnmoTlj43ppojjgIIKICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfnlKjmiLcnLAogICAgICBkYXRhSW5kZXg6ICduaWNrTmFtZScsCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyOiAodmFsKSA9PiB7CiAgICAgICAgbGV0IHN0ciA9ICfmj5DnjrDlpLHotKUnOwogICAgICAgIHN3aXRjaCAodmFsKSB7CiAgICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgIHN0ciA9IDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAncmVkJyB9fT7mj5DnjrDlpLHotKU8L3NwYW4+OwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgMTA6CiAgICAgICAgICAgIHN0ciA9IDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnb3JhbmdlJyB9fT7lvq7kv6HlpITnkIbkuK08L3NwYW4+OwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgMjA6CiAgICAgICAgICAgIHN0ciA9IDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAnZ3JlZW4nIH19PuW3suWIsOi0pjwvc3Bhbj47CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdHI7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyOiAodmFsKSA9PiBgJHsodmFsIC8gMTAwKS50b0ZpeGVkKDIpfeWFg2AsCg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHA6Ly9yZXMyLnd4LnFxLmNvbS9vcGVuL2pzL2p3ZWl4aW4tMS40LjAuanMiLz4KPHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvZGF5ID0gbW9tZW50KCkuZm9ybWF0KCdZWVlZLU1NLUREIEhIOm1tOnNzJyk7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZm9ybVZhbHVlczogewogICAgICAgIGNyZWF0ZUF0OiB0b2RheSwKICAgICAgfSwKICAgIH0sICgpID0+IHsK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgICAgICog5rOo5oSP77yaCiAgICAgICAgICogMS4g5omA5pyJ55qESlPmjqXlj6Plj6rog73lnKjlhazkvJflj7fnu5HlrprnmoTln5/lkI3kuIvosIPnlKjvvIzlhazkvJflj7flvIDlj5HogIXpnIDopoHlhYjnmbvlvZXlvq7kv6HlhazkvJflubPlj7Dov5vlhaXigJzlhazkvJflj7forr7nva7igJ3nmoTigJzlip/og73orr7nva7igJ3ph4zloavlhpnigJxKU+aOpeWPo+WuieWFqOWfn+WQjeKAneOAggogICAgICAgICAqIDIuIOWmguaenOWPkeeOsOWcqCBBbmRyb2lkIOS4jeiDveWIhuS6q+iHquWumuS5ieWGheWuue+8jOivt+WIsOWumOe9keS4i+i9veacgOaWsOeahOWMheimhuebluWuieijhe+8jEFuZHJvaWQg6Ieq5a6a5LmJ5YiG5Lqr5o6l5Y+j6ZyA5Y2H57qn6IezIDYuMC4yLjU4IOeJiOacrOWPiuS7peS4iuOAggogICAgICAgICAqIDMuIOW4uOingemXrumimOWPiuWujOaVtCBKUy1TREsg5paH5qGj5Zyw5Z2A77yaaHR0cDovL21wLndlaXhpbi5xcS5jb20vd2lraS83L2FhYTEzN2I1NWZiMmUwNDU2YmY4ZGQ5MTQ4ZGQ2MTNmLmh0bWwKICAgICAgICAgKgogICAgICAgICAqIOW8gOWPkeS4remBh+WIsOmXrumimOivpuingeaWh+aho+KAnOmZhOW9lTUt5bi46KeB6ZSZ6K+v5Y+K6Kej5Yaz5Yqe5rOV4oCd6Kej5Yaz77yM5aaC5LuN5pyq6IO96Kej5Yaz5Y+v6YCa6L+H5Lul5LiL5rig6YGT5Y+N6aaI77yaCiAgICAgICAgICog6YKu566x5Zyw5Z2A77yad2VpeGluLW9wZW5AcXEuY29tCiAgICAgICAgICog6YKu5Lu25Li76aKY77ya44CQ5b6u5L+hSlMtU0RL5Y+N6aaI44CR5YW35L2T6Zeu6aKYCiAgICAgICAgICog6YKu5Lu25YaF5a656K+05piO77ya55So566A5piO55qE6K+t6KiA5o+P6L+w6Zeu6aKY5omA5Zyo77yM5bm25Lqk5Luj5riF5qWa6YGH5Yiw6K+l6Zeu6aKY55qE5Zy65pmv77yM5Y+v6ZmE5LiK5oiq5bGP5Zu+54mH77yM5b6u5L+h5Zui6Zif5Lya5bC95b+r5aSE55CG5L2g55qE5Y+N6aaI44CCCiAgICAgICAgICovCiAgICB3eC5jb25maWcoewogICAgICAgIGRlYnVnOiB0cnVlLAogICAgICAgIGFwcElkOiAnW2FwcGlk55qE5YC8XScsCiAgICAgICAgdGltZXN0YW1wOiBAVmlld0JhZy50aW1lc3RhbXAsCiAgICAgICAgbm9uY2VTdHI6ICdAVmlld0JhZy5ub25jZV9zdHInLAogICAgICAgIHNpZ25hdHVyZTogJ0BWaWV3QmFnLnNpZ25hdHVyZScsCiAgICAgICAganNBcGlMaXN0OiBbCiAgICAgICAgICAgICdjaGVja0pzQXBpJywKICAgICAgICAgICAgJ29uTWVudVNoYXJlVGltZWxpbmUnLAogICAgICAgICAgICAnb25NZW51U2hhcmVBcHBNZXNzYWdlJywKICAgICAgICAgICAgJ29uTWVudVNoYXJlUVEnLAogICAgICAgICAgICAnb25NZW51U2hhcmVXZWlibycsCiAgICAgICAgICAgICdvbk1lbnVTaGFyZVFab25lJywKICAgICAgICAgICAgJ2hpZGVNZW51SXRlbXMnLAogICAgICAgICAgICAnc2hvd01lbnVJdGVtcycsCiAgICAgICAgICAgICdoaWRlQWxsTm9uQmFzZU1lbnVJdGVtJywKICAgICAgICAgICAgJ3Nob3dBbGxOb25CYXNlTWVudUl0ZW0nLAogICAgICAgICAgICAndHJhbnNsYXRlVm9pY2UnLAogICAgICAgICAgICAnc3RhcnRSZWNvcmQnLAogICAgICAgICAgICAnc3RvcFJlY29yZCcsCiAgICAgICAgICAgICdvblZvaWNlUmVjb3JkRW5kJywKICAgICAgICAgICAgJ3BsYXlWb2ljZScsCiAgICAgICAgICAgICdvblZvaWNlUGxheUVuZCcsCiAgICAgICAgICAgICdwYXVzZVZvaWNlJywKICAgICAgICAgICAgJ3N0b3BWb2ljZScsCiAgICAgICAgICAgICd1cGxvYWRWb2ljZScsCiAgICAgICAgICAgICdkb3dubG9hZFZvaWNlJywKICAgICAgICAgICAgJ2Nob29zZUltYWdlJywKICAgICAgICAgICAgJ3ByZXZpZXdJbWFnZScsCiAgICAgICAgICAgICd1cGxvYWRJbWFnZScsCiAgICAgICAgICAgICdkb3dubG9hZEltYWdlJywKICAgICAgICAgICAgJ2dldE5ldHdvcmtUeXBlJywKICAgICAgICAgICAgJ29wZW5Mb2NhdGlvbicsCiAgICAgICAgICAgICdnZXRMb2NhdGlvbicsCiAgICAgICAgICAgICdoaWRlT3B0aW9uTWVudScsCiAgICAgICAgICAgICdzaG93T3B0aW9uTWVudScsCiAgICAgICAgICAgICdjbG9zZVdpbmRvdycsCiAgICAgICAgICAgICdzY2FuUVJDb2RlJywKICAgICAgICAgICAgJ2Nob29zZVdYUGF5JywKICAgICAgICAgICAgJ29wZW5Qcm9kdWN0U3BlY2lmaWNWaWV3JywKICAgICAgICAgICAgJ2FkZENhcmQnLAogICAgICAgICAgICAnY2hvb3NlQ2FyZCcsCiAgICAgICAgICAgICdvcGVuQ2FyZCcKICAgICAgICBdCiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imageMogr</last-search>
+      <last-search>injectjs</last-search>
       <last-offset />
-      <last-pattern>imageMogr</last-pattern>
+      <last-pattern>injectjs</last-pattern>
       <last-replace>fetchComments</last-replace>
       <last-substitute>fetchWithdrawLogs</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onClick</entry>
-        <entry>zoom</entry>
         <entry>QQL</entry>
         <entry>WIFI</entry>
         <entry encoding="base64">XDxvcmRlclw+</entry>
@@ -692,6 +708,8 @@
         <entry>taro</entry>
         <entry>image</entry>
         <entry>imageMogr</entry>
+        <entry>inject-js</entry>
+        <entry>injectjs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnJcXC8+L2c=</entry>
