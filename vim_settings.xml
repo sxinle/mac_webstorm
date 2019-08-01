@@ -451,7 +451,7 @@
         <mark key="." line="121" column="43" />
         <mark key="^" line="121" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564636348643">
+      <file name="/Dummy.txt" timestamp="1564638524715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/singlepages/OrderDetail.js" timestamp="1563155824240">
@@ -526,8 +526,8 @@
         <mark key="." line="122" column="42" />
         <mark key="^" line="53" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" timestamp="1564636158851">
-        <mark key="'" line="76" column="17" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" timestamp="1564638536243">
+        <mark key="'" line="63" column="40" />
         <mark key="[" line="51" column="5" />
         <mark key="]" line="51" column="5" />
         <mark key="^" line="53" column="0" />
@@ -594,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/package.json" />
       <jump line="15" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="19" column="22" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="16" column="36" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
@@ -694,6 +693,7 @@
       <jump line="99" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="18" column="24" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="76" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
+      <jump line="63" column="40" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -706,7 +706,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text>md5</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNsYXNzPSJhbmltYXRlZCIKICAgICAgICAgICAgICAgICBkYXRhLWFuaS1kZWxheT0iMXMiIGRhdGEtYW5pLWR1cmF0aW9uPSIxcyIgZGF0YS1hbmktbmFtZT0icm9sbEluIg==</text>
@@ -746,9 +746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search>md5</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern>md5</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
@@ -773,9 +773,9 @@
         <entry encoding="base64">XDxzaWduVXBCdG5cPg==</entry>
         <entry encoding="base64">XDxpbWFnZXNXaXRob3V0U1ZHXD4=</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
-        <entry>md5</entry>
         <entry>clicked</entry>
         <entry>click</entry>
+        <entry>md5</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
