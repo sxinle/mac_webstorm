@@ -240,12 +240,12 @@
         <mark key="." line="99" column="40" />
         <mark key="^" line="99" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/index.html" timestamp="1564636267885">
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/index.html" timestamp="1564648137560">
         <mark key="'" line="22" column="22" />
-        <mark key="[" line="73" column="82" />
-        <mark key="]" line="73" column="99" />
-        <mark key="." line="73" column="99" />
-        <mark key="^" line="73" column="99" />
+        <mark key="[" line="121" column="51" />
+        <mark key="]" line="121" column="51" />
+        <mark key="^" line="121" column="51" />
+        <mark key="." line="121" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-my/SmartTypeOrders.js" timestamp="1561451237849">
         <mark key="'" line="132" column="47" />
@@ -493,11 +493,12 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/slides/_slide-4.scss" timestamp="1564552401884">
-        <mark key="[" line="31" column="10" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-        <mark key="^" line="31" column="10" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/slides/_slide-4.scss" timestamp="1564646290714">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="40" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/sjrz.html" timestamp="1558408243237">
         <mark key="'" line="10744" column="147" />
@@ -526,8 +527,8 @@
         <mark key="." line="122" column="42" />
         <mark key="^" line="53" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" timestamp="1564638536243">
-        <mark key="'" line="63" column="40" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" timestamp="1564644959337">
+        <mark key="'" line="77" column="17" />
         <mark key="[" line="51" column="5" />
         <mark key="]" line="51" column="5" />
         <mark key="^" line="53" column="0" />
@@ -594,8 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="36" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
-      <jump line="12" column="36" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/cdn.js" />
@@ -687,13 +686,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
       <jump line="66" column="23" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="133" column="24" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
-      <jump line="77" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="99" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
-      <jump line="18" column="24" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
-      <jump line="76" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="63" column="40" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="186" column="16" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
       <jump line="309" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
+      <jump line="76" column="14" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
+      <jump line="18" column="24" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
+      <jump line="77" column="17" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
+      <jump line="17" column="20" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/slides/_slide-4.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -703,43 +704,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>heartBeat</text>
       </register>
       <register name="/" type="4">
         <text>md5</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSJhbmltYXRlZCIKICAgICAgICAgICAgICAgICBkYXRhLWFuaS1kZWxheT0iMXMiIGRhdGEtYW5pLWR1cmF0aW9uPSIxcyIgZGF0YS1hbmktbmFtZT0icm9sbEluIg==</text>
+        <text>rotateIn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3Bob25lLnBuZyIgc3R5bGU9IndpZHRoOjgwJTsiPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgc3R5bGU9IndpZHRoOjEwMCU7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I0ZGRTJCQzttYXJnaW4tdG9wOiAwO2ZvbnQtc2l6ZTogLjhyZW0iPumVv+aMieivhuWIq+S6jOe7tOeggTwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3Bob25lLnBuZyIgc3R5bGU9IndpZHRoOjgwJTsiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIHN0eWxlPSJjb2xvcjojRkZFMkJDIj7plb/mjInor4bliKvkuoznu7TnoIE8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPumVv+aMieivhuWIq+S6jOe7tOeggTwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxici8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPumVv+aMieivhuWIq+S6jOe7tOeggTwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPumVv+aMieivhuWIq+S6jOe7tOeggTwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShtZHQoOCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJwaG9uZSI+MTUyNDI1NDAxMDjvvIjotbXlkIzlrabvvIk8L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgPHNlbGVjdCBzdHlsZT0iY29sb3I6I2ZmZjhkNiIgY2xhc3M9Imp1c3RzZWxlY3QiIGlkPSJzY2hvb2wiPi0tPgogICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0i5rKI6Ziz5biI6IyD5aSn5a2mIj7msojpmLPluIjojIPlpKflraY8L29wdGlvbj4tLT4KICAgICAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgPC9zZWxlY3Q+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwaG9uZS1saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy10b3AgYW5pbWF0ZWQiIGRhdGEtYW5pLW5hbWU9InJvdGF0ZUluIiBkYXRhLWFuaS1kdXJhdGlvbj0iMXMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1hbmktZGVsYXk9IjBzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvcXJjb2RlLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj7plb/mjInor4bliKvkuoznu7TnoIE8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1ib3R0b20gYW5pbWF0ZWQiIGRhdGEtYW5pLW5hbWU9ImxpZ2h0U3BlZWRJbiIgZGF0YS1hbmktZHVyYXRpb249IjFzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtYW5pLWRlbGF5PSIxcyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ0ZWw6MTc4OTYyMDY5NTciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvcGhvbmUucG5nIiBzdHlsZT0id2lkdGg6ODAlOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icGhvbmUiPjE1MjQyNTQwMTA477yI6LW15ZCM5a2m77yJPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwaG9uZS1saW5lIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwaG9uZS1saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy10b3AiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9xcmNvZGUucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPumVv+aMieivhuWIq+S6jOe7tOeggTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWJvdHRvbSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ0ZWw6MTc4OTYyMDY5NTciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvcGhvbmUucG5nIiBzdHlsZT0id2lkdGg6ODAlOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icGhvbmUiPjE3ODk2MjA2OTU377yI5byg5ZCM5a2m77yJPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGhvbmUtbGluZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtdG9wIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvcXJjb2RlLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj7plb/mjInor4bliKvkuoznu7TnoIE8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1ib3R0b20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0idGVsOjE3ODk2MjA2OTU3Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL3Bob25lLnBuZyIgc3R5bGU9IndpZHRoOjgwJTsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InBob25lIj4xNzg5NjIwNjk1N++8iOW8oOWQjOWtpu+8iTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
