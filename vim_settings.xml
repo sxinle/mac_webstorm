@@ -43,8 +43,8 @@
         <mark key="^" line="38" column="65" />
         <mark key="." line="38" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" timestamp="1564985216872">
-        <mark key="'" line="330" column="15" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" timestamp="1564996623594">
+        <mark key="'" line="170" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow-pub-front/src/layouts/BasicLayout.js" timestamp="1557306112651">
         <mark key="'" line="119" column="12" />
@@ -605,7 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="57" column="19" filename="$USER_HOME$/workspace/pegas/pegas-jobs/gulpfile.js" />
       <jump line="140" column="73" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
       <jump line="9208" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/slides/font.css" />
@@ -705,6 +704,7 @@
       <jump line="326" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="327" column="28" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="330" column="15" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="170" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -717,7 +717,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>banner</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>ff5359</text>
@@ -757,9 +757,9 @@
       </register>
     </registers>
     <search>
-      <last-search>banner</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>banner</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
@@ -767,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
         <entry>slideInLeft</entry>
         <entry>SlideIn</entry>
         <entry encoding="base64">XDxzZWxlY3QyXD4=</entry>
@@ -787,6 +786,7 @@
         <entry>md5</entry>
         <entry>wx.config</entry>
         <entry>banner</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
