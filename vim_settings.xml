@@ -30,12 +30,11 @@
         <mark key="^" line="38" column="65" />
         <mark key="." line="38" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" timestamp="1565098530771">
-        <mark key="'" line="47" column="2" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="196" column="12" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="197" column="5" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" timestamp="1565143771035">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="254" column="56" />
+        <mark key="]" line="254" column="56" />
+        <mark key="^" line="254" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/main.scss" timestamp="1565097720241">
         <mark key="[" line="0" column="15" />
@@ -659,20 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="18" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
-      <jump line="122" column="18" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
-      <jump line="309" column="0" filename="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/javascripts/main.js" />
-      <jump line="325" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="326" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="327" column="28" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="330" column="15" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="170" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/models/home.js" />
-      <jump line="53" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
-      <jump line="141" column="58" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="117" column="16" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="143" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="55" column="14" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
@@ -759,6 +744,20 @@
       <jump line="29" column="34" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.scss" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shoptypes/shoptypes.scss" />
       <jump line="3" column="23" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.scss" />
+      <jump line="137" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="259" column="40" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="251" column="66" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="144" column="20" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="260" column="40" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="12" column="46" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="252" column="66" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="173" column="31" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="172" column="34" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="365" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -768,52 +767,52 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Utils</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>loading</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh1dGlscy5pc0d1ZXN0KCkpIHsKICAgICAgdXRpbHMuZ29Ub0xvZ2luUGFnZSgpOwogICAgfSBlbHNlIHsK</text>
+      <register name="0" type="4">
+        <text>bannerImgs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscy5sb2dpbkludGVyY2VwdG9yKCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLmxvZ2luSW50ZXJjZXB0b3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLmxvZ2luSW50ZXJjZXB0b3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLmxvZ2luSW50ZXJjZXB0b3IoKTsK</text>
+        <text encoding="base64">CiAgb3BlblNldHRpbmdzID0gKHJldCkgPT4gewogICAgaWYgKHJldC5kZXRhaWwuYXV0aFNldHRpbmdbJ3Njb3BlLnVzZXJMb2NhdGlvbiddKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIHJlcXVlc3RMb2M6IGZhbHNlLAogICAgICB9LCAoKSA9PiB7CiAgICAgICAgdGhpcy5jaGVja1Blcm1pc3Npb24oKQogICAgICB9KQogICAgfQogIH07Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLmxvZ2luSW50ZXJjZXB0b3IoKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgICAgICAgICAgICAgdGhhdC5zZXRTdGF0ZSh7bG9hZGluZzogZmFsc2V9KTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKFV0aWxzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFubmVySW1nczogW10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LCAyMDAwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRhcm8ubmF2aWdhdGVUbyh7CiAgICAgIHVybDogJy9wYWdlcy9ob21lL2Nob29zZWFkZHIvY2hvb3NlQWRkcicsCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFV0aWxzLmxvZ2luSW50ZXJjZXB0b3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdoaWRlIGxvYWRpbmcnLCAnWyA9PT09PSBoaWRlIGxvYWRpbmcgPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>button</last-search>
+      <last-search>loading</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>loading</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
@@ -821,8 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</entry>
-        <entry>auth</entry>
         <entry>需要</entry>
         <entry>132</entry>
         <entry>font</entry>
@@ -836,11 +833,13 @@
         <entry>storage</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxyZXF1ZXN0TG9jXD4=</entry>
-        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxvcGVuU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkludGVyY2VwdG9yXD4=</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry>button</entry>
+        <entry encoding="base64">XDxpbml0SG9tZVw+</entry>
+        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry>loading</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
