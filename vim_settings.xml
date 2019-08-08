@@ -56,10 +56,10 @@
         <mark key="." line="127" column="6" />
         <mark key="^" line="264" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1563239989640">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/orders-all/AllOrders.js" timestamp="1565233982801">
         <mark key="'" line="67" column="22" />
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="24" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="32" />
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
@@ -292,6 +292,12 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
         <mark key="^" line="153" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1565233974656">
+        <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" timestamp="1565233958681">
+        <mark key="'" line="45" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/nav/RootNavigator.js" timestamp="1556611542223">
         <mark key="'" line="17" column="13" />
@@ -574,9 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="266" column="94" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="274" column="38" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="110" column="26" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="63" column="28" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
       <jump line="35" column="8" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
@@ -674,6 +677,9 @@
       <jump line="165" column="31" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="177" column="12" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
       <jump line="84" column="25" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
+      <jump line="86" column="59" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="45" column="51" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,7 +695,7 @@
         <text>已到账</text>
       </register>
       <register name="0" type="4">
-        <text>#e0e0e0</text>
+        <text>delivery/mchSettings</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHt0b3RhbE1vbmV5fSA9IHRoaXMuc3RhdGU7Cg==</text>
