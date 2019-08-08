@@ -119,6 +119,9 @@
         <mark key="." line="43" column="18" />
         <mark key="^" line="218" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/index.js" timestamp="1565235966228">
+        <mark key="'" line="155" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/services/commentservice.js" timestamp="1563864833763">
         <mark key="'" line="4" column="14" />
         <mark key="[" line="5" column="56" />
@@ -293,8 +296,10 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1565233974656">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1565235884593">
         <mark key="'" line="15" column="0" />
+        <mark key="[" line="97" column="56" />
+        <mark key="]" line="97" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" timestamp="1565233958681">
         <mark key="'" line="45" column="51" />
@@ -580,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="26" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
       <jump line="63" column="28" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
       <jump line="35" column="8" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
       <jump line="97" column="40" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/mine.js" />
@@ -680,6 +684,7 @@
       <jump line="86" column="59" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
       <jump line="45" column="51" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" />
+      <jump line="155" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -692,10 +697,10 @@
         <text>info</text>
       </register>
       <register name="/" type="4">
-        <text>已到账</text>
+        <text encoding="base64">XDxzZW5kQXV0aFJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>delivery/mchSettings</text>
+        <text>sns/oauth2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHt0b3RhbE1vbmV5fSA9IHRoaXMuc3RhdGU7Cg==</text>
@@ -732,9 +737,9 @@
       </register>
     </registers>
     <search>
-      <last-search>已到账</last-search>
+      <last-search encoding="base64">XDxzZW5kQXV0aFJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>已到账</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kQXV0aFJlcXVlc3RcPg==</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
@@ -742,7 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVuU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkludGVyY2VwdG9yXD4=</entry>
         <entry encoding="base64">XDxVdGlsc1w+</entry>
         <entry>button</entry>
@@ -762,6 +766,7 @@
         <entry>可提现</entry>
         <entry>可提现佣金</entry>
         <entry>已到账</entry>
+        <entry encoding="base64">XDxzZW5kQXV0aFJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
