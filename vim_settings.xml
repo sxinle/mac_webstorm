@@ -199,8 +199,8 @@
         <mark key="^" line="151" column="62" />
         <mark key="." line="151" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1565241851662">
-        <mark key="'" line="100" column="9" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" timestamp="1565246986993">
+        <mark key="'" line="112" column="0" />
         <mark key="[" line="111" column="21" />
         <mark key="]" line="111" column="29" />
         <mark key="." line="111" column="29" />
@@ -296,11 +296,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1565244889157">
-        <mark key="[" line="101" column="48" />
-        <mark key="]" line="101" column="50" />
-        <mark key="." line="101" column="50" />
-        <mark key="^" line="101" column="50" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/containers/my/My.js" timestamp="1565246970208">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/user.js" timestamp="1565233958681">
         <mark key="'" line="45" column="51" />
@@ -441,7 +441,7 @@
         <mark key="." line="50" column="18" />
         <mark key="^" line="50" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565233570948">
+      <file name="/Dummy.txt" timestamp="1565247031780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/config/index.js" timestamp="1563441330953">
@@ -589,9 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
-      <jump line="73" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="67" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="41" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
@@ -689,6 +686,9 @@
       <jump line="105" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/android/src/main/java/com/theweflex/react/WeChatModule.java" />
       <jump line="106" column="30" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/android/src/main/java/com/theweflex/react/WeChatModule.java" />
       <jump line="111" column="12" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/android/src/main/java/com/theweflex/react/WeChatModule.java" />
+      <jump line="92" column="22" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -698,43 +698,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>知</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICAgICBkaXNwYXRjaCh7CiAgICAgIC8vICAgICAgICAgICB0eXBlOiAnZGVsaXZlcnkvZG9XaXRoRHJhdycsCiAgICAgIC8vICAgICAgICAgICBwYXlsb2FkOiB7CiAgICAgIC8vICAgICAgICAgICAgIG9wZW5JZDoganNvbi5vcGVuaWQsCiAgICAgIC8vICAgICAgICAgICB9LAogICAgICAvLyAgICAgICAgICAgY2FsbGJhY2s6IHJlc3AgPT4gewogICAgICAvLyAgICAgICAgICAgICB0aGlzLmRpYWxvZ2JveC50aXAoewogICAgICAvLyAgICAgICAgICAgICAgIHRpdGxlOiAn6YCa55+lJywKICAgICAgLy8gICAgICAgICAgICAgICBjb250ZW50OiBVdGlsLm9rKHJlc3ApID8gJ+aPkOeOsOaIkOWKnycgOiAn5o+Q546w5aSx6LSlJywKICAgICAgLy8gICAgICAgICAgICAgfSk7CiAgICAgIC8vICAgICAgICAgICB9LAogICAgICAvLyAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZGlhbG9nYm94LnRpcCh7CiAgICAgICAgICAgIHRpdGxlOiAn6YCa55+lJywKICAgICAgICAgICAgY29udGVudDogVXRpbC5vayhyZXNwKSA/ICfmj5DnjrDmiJDlip/vvIzor7fliY3lvoDlvq7kv6HlrqLmiLfnq6/mn6XnnIsnIDogJ+aPkOeOsOWksei0pScsCiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wZW5JZDoganNvbi5vcGVuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9wZW5JZDoganNvbi5vcGVuaWQsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcXVlc3RVcmwsICdbID09PT09IHJlcXVlc3RVcmwgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGxvZ2luUmVzcCwgJ1sgPT09PT0gbG9naW5SZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcXVlc3RVcmwsICdbID09PT09IHJlcXVlc3RVcmwgPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
