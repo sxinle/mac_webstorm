@@ -40,10 +40,6 @@
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/main.scss" timestamp="1565097720241">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/models/invite.js" timestamp="1565189342270">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -118,6 +114,12 @@
         <mark key="]" line="43" column="25" />
         <mark key="." line="43" column="18" />
         <mark key="^" line="218" column="87" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/config/index.js" timestamp="1565248094794">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/index.js" timestamp="1565242065991">
         <mark key="'" line="155" column="11" />
@@ -319,6 +321,10 @@
         <mark key="^" line="0" column="145847" />
         <mark key="." line="0" column="145847" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/h5_jmtq/config/index.js" timestamp="1565248078574">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="69" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/locales/zh-CN/menu.js" timestamp="1563863378522">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="42" column="18" />
@@ -458,20 +464,12 @@
         <mark key="." line="172" column="72" />
         <mark key="^" line="163" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-shop/src/pages/Takeout/Shop/Orders/Orders.js" timestamp="1565170070422">
-        <mark key="[" line="249" column="88" />
-        <mark key="]" line="249" column="90" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/app/models/delivery.js" timestamp="1565244918253">
         <mark key="'" line="176" column="48" />
         <mark key="[" line="187" column="16" />
         <mark key="]" line="187" column="16" />
         <mark key="." line="187" column="16" />
         <mark key="^" line="187" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/components/empty/empty.js" timestamp="1565097016405">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="106" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/slides/_slide-4.scss" timestamp="1564646290714">
         <mark key="'" line="17" column="20" />
@@ -589,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="3" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="67" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="41" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
       <jump line="76" column="44" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/login.js" />
@@ -689,6 +686,7 @@
       <jump line="92" column="22" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/app/utils/Const.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/config/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -698,13 +696,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>知</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlcPg==</text>
+        <text>h5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZGlhbG9nYm94LnRpcCh7CiAgICAgICAgICAgIHRpdGxlOiAn6YCa55+lJywKICAgICAgICAgICAgY29udGVudDogVXRpbC5vayhyZXNwKSA/ICfmj5DnjrDmiJDlip/vvIzor7fliY3lvoDlvq7kv6HlrqLmiLfnq6/mn6XnnIsnIDogJ+aPkOeOsOWksei0pScsCiAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIG91dHB1dDogewogICAgICBmaWxlbmFtZTogJ2pzL1tuYW1lXS5baGFzaF0uanMnLAogICAgICBjaHVua0ZpbGVuYW1lOiAnanMvW25hbWVdLltjaHVua2hhc2hdLmpzJwogICAgfSwKICAgIGltYWdlVXJsTG9hZGVyT3B0aW9uOiB7CiAgICAgIGxpbWl0OiA1MDAwLAogICAgICBuYW1lOiAnc3RhdGljL2ltYWdlcy9bbmFtZV0uW2hhc2hdLltleHRdJwogICAgfSwKICAgIG1pbmlDc3NFeHRyYWN0UGx1Z2luT3B0aW9uOiB7CiAgICAgIGZpbGVuYW1lOiAnY3NzL1tuYW1lXS5baGFzaF0uY3NzJywKICAgICAgY2h1bmtGaWxlbmFtZTogJ2Nzcy9bbmFtZV0uW2NodW5raGFzaF0uY3NzJwogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -713,37 +711,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wZW5JZDoganNvbi5vcGVuaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9wZW5JZDoganNvbi5vcGVuaWQsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcXVlc3RVcmwsICdbID09PT09IHJlcXVlc3RVcmwgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlcPg==</last-search>
+      <last-search>h5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
+      <last-pattern>h5</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
@@ -751,7 +749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry encoding="base64">XDxpbml0SG9tZVw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry>loading</entry>
@@ -771,6 +768,7 @@
         <entry encoding="base64">XDxzZW5kQXV0aFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxTZW5kQXV0aFw+</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry>h5</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
