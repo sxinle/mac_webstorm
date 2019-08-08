@@ -87,12 +87,12 @@
         <mark key="." line="150" column="0" />
         <mark key="^" line="147" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1565189724533">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" timestamp="1565229398922">
         <mark key="'" line="17" column="4" />
-        <mark key="[" line="9" column="65" />
-        <mark key="]" line="9" column="65" />
-        <mark key="^" line="9" column="72" />
-        <mark key="." line="9" column="65" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/defaultSettings.js" timestamp="1556421884273">
         <mark key="'" line="7" column="2" />
@@ -226,11 +226,10 @@
         <mark key="." line="132" column="18" />
         <mark key="^" line="132" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/withdraw.js" timestamp="1565227314474">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/withdraw.js" timestamp="1565228612445">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/settings/Settings.js" timestamp="1556448974895">
         <mark key="'" line="200" column="24" />
@@ -361,10 +360,10 @@
         <mark key="^" line="146" column="103" />
         <mark key="." line="146" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/app.js" timestamp="1565227820872">
-        <mark key="'" line="32" column="11" />
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="32" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/app.js" timestamp="1565228620727">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="39" column="7" />
+        <mark key="]" line="39" column="30" />
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
@@ -503,12 +502,12 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/shoptypes/shoptypes.scss" timestamp="1565097744656">
         <mark key="'" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" timestamp="1565227943495">
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/mine/invite/invite.js" timestamp="1565229396902">
         <mark key="'" line="101" column="3" />
-        <mark key="[" line="80" column="48" />
-        <mark key="]" line="80" column="101" />
-        <mark key="^" line="80" column="101" />
-        <mark key="." line="80" column="101" />
+        <mark key="[" line="119" column="81" />
+        <mark key="]" line="119" column="91" />
+        <mark key="^" line="119" column="91" />
+        <mark key="." line="119" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-jobs/app/src/scss/main.scss" timestamp="1564544869167">
         <mark key="'" line="3" column="9" />
@@ -670,7 +669,7 @@
       <jump line="151" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/services/api.js" />
       <jump line="126" column="20" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
       <jump line="15" column="4" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/Const.js" />
-      <jump line="32" column="11" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/app.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -680,16 +679,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>navigateTo</text>
+        <text>getOauthUrl</text>
       </register>
       <register name="/" type="4">
-        <text>invi</text>
+        <text>invite</text>
       </register>
       <register name="0" type="4">
-        <text>this.$router.params.inviteUserId</text>
+        <text>getOAuthUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB3aXRoRHJhd0NvbmZpcm06IHRydWUsCiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -698,42 +697,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJHJvdXRlci5wYXJhbXMudXJsLCAnWyA9PT09PSB0aGlzLiRyb3V0ZXIucGFyYW1zLnVybCA9PT09PSBdJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3BhZ2VzL21pbmUvc2hvcFdlYlZpZXcnLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICogZ2V0T2F1dGhVcmwoe3BheWxvYWQsIGNhbGxiYWNrfSwge2NhbGx9KSB7CiAgICAgIGxldCByZXNwID0geWllbGQgY2FsbChhcGkuZ2V0T2F1dGhVcmwsIHBheWxvYWQpOwogICAgICBpZiAoY2FsbGJhY2spIGNhbGxiYWNrKHJlc3ApOwogICAgfSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgVGFyby5hdE1lc3NhZ2UoewogICAgICAgICdtZXNzYWdlJzogYOaPkOeOsOWksei0pWAsCiAgICAgICAgJ3R5cGUnOiAnZXJyb3InLAogICAgICB9KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjb21taXNzaW9uczogW10sCiAgICAgIHBhZ2VJbmZvOiB7fSwKICAgICAgbm9Nb3JlOiBmYWxzZSwKICAgIH0sICgpID0+IHsKICAgICAgdGhpcy5xdWVyeUNvbW1pc3Npb25zKCk7CiAgICB9KTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldE9hdXRoVXJsKHBhcmFtKSB7CiAgcmV0dXJuIHJlcXVlc3QoewogICAgdXJsOiBgJHtwcmVmaXh9L2FwaS1ub2RlL3dpdGhkcmF3L29wZW4vZ2V0UHVsbE5ld1dpdGhkcmF3T2F1dGhVcmw/JHtVdGlscy5qc29uMmdldFBhcmFtKHBhcmFtKX1gLAogICAgbWV0aG9kOiAnR0VUJywKICAgIGhpZGVMb2FkaW5nOiB0cnVlLAogIH0pOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdpbnZpdGUvZ2V0T2F1dGhVcmwnLAogICAgICAgIHBheWxvYWQ6IHt1c2VySWQ6IENvbnN0LnVzZXJJbmZvLm1lLmlkfSwKICAgICAgICBjYWxsYmFjazogKHJlc3ApID0+IHsK</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC8vICAgY29tbWlzc2lvbnM6IFtdLAogICAgICAvLyAgIHBhZ2VJbmZvOiB7fSwKICAgICAgLy8gICBub01vcmU6IGZhbHNlLAogICAgICAvLyB9LCAoKSA9PiB7CiAgICAgIC8vICAgdGhpcy5xdWVyeUNvbW1pc3Npb25zKCk7CiAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>invi</last-search>
+      <last-search>invite</last-search>
       <last-offset />
-      <last-pattern>invi</last-pattern>
+      <last-pattern>invite</last-pattern>
       <last-replace>name</last-replace>
       <last-substitute>school</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZpdGVVc2VySWRcPg==</entry>
         <entry>storage</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxyZXF1ZXN0TG9jXD4=</entry>
@@ -753,6 +751,7 @@
         <entry>提现</entry>
         <entry>commisionWithdraw</entry>
         <entry>invi</entry>
+        <entry>invite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsbC9NeS9n</entry>
