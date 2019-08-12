@@ -238,8 +238,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" timestamp="1565338952415">
-        <mark key="'" line="137" column="65" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" timestamp="1565574794182">
+        <mark key="'" line="96" column="34" />
         <mark key="[" line="137" column="46" />
         <mark key="]" line="137" column="62" />
         <mark key="^" line="137" column="62" />
@@ -602,9 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/home/home.js" />
-      <jump line="110" column="31" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
-      <jump line="242" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/utils/utils.js" />
       <jump line="92" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
       <jump line="6" column="25" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
       <jump line="7" column="7" filename="$USER_HOME$/workspace/pegas/pegas-f-mp/src/pages/orders/orders.js" />
@@ -702,6 +699,9 @@
       <jump line="20" column="21" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.scss" />
       <jump line="34" column="33" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.scss" />
       <jump line="137" column="65" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" />
+      <jump line="104" column="21" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" />
+      <jump line="94" column="34" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" />
+      <jump line="96" column="34" filename="$USER_HOME$/workspace/pegas/pegas-delivery-withdraw/src/pages/index/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -714,7 +714,7 @@
         <text>, border: 0</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text>微信认证</text>
       </register>
       <register name="0" type="4">
         <text>#E74C3C</text>
@@ -754,17 +754,16 @@
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search>微信认证</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern>微信认证</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">bG9hZGluZzog</entry>
         <entry encoding="base64">XDxiYW5uZXJJbWdzXD4=</entry>
         <entry>提现</entry>
         <entry>commisionWithdraw</entry>
@@ -784,6 +783,7 @@
         <entry>listen</entry>
         <entry>console</entry>
         <entry>scroll</entry>
+        <entry>微信认证</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FwcC9EcmF3ZXIvZw==</entry>
