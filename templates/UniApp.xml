@@ -1,3 +1,8 @@
 <templateSet group="UniApp">
-  <template name="tt" value="ttt" toReformat="false" toShortenFQNames="true" />
+<template name="ttu" value="import { store } from &apos;./store/store&apos;;&#10;" description="Import Vuex store into main.js" toReformat="true" toShortenFQNames="true">
+<context>
+  <option name="VUE_SCRIPT" value="true" />
+</context>
+</template>
+
 </templateSet>
