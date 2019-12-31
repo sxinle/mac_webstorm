@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="ifdef" value="&lt;!-- #ifdef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="ifndef" value="&lt;!-- #ifndef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
