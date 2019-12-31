@@ -1,0 +1,26 @@
+<templateSet group="UniApp">
+  <template name="ifdef" value="&lt;!-- #ifdef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="ifndef" value="&lt;!-- #ifndef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vbase" value="&lt;template&gt;&#10;&#9;&lt;$div$&gt;&#10;&#10;&#9;&lt;/$div$&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;&#9;export default {&#10;&#9;&#9;$END$&#10;&#9;}&#10;&lt;/script&gt;&#10;&#10;&lt;style scoped&gt;&#10;&#10;&lt;/style&gt;&#10;" description="Base for Vue File" toReformat="false" toShortenFQNames="true">
+    <variable name="div" expression="" defaultValue="&quot;div&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vnuxtl" value="&lt;nuxt-link to=&quot;/$page$&quot;&gt;$page$&lt;/nuxt-link&gt;$END$&#10;" description="nuxt routing link" toReformat="false" toShortenFQNames="true">
+    <variable name="page" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
