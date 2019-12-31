@@ -2,7 +2,7 @@
   <template name="ttu" value="import { $store$ } from './store/store';&#10;" description="Import Vuex store into main.js" toReformat="true" toShortenFQNames="true">
     <variable name="store" expression="enum(&quot;a&quot;,&quot;b&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="OTHER" value="true" />
+      <option name="Vue" value="true" />
     </context>
   </template>
 </templateSet>
