@@ -371,7 +371,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uSwiperDot" value="&lt;uni-swiper-dot :info=&quot;$1$&quot; :current=&quot;$2$&quot; field=&quot;$3$&quot; :mode=&quot;$4$&quot;&gt;&lt;/uni-swiper-dot&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uSwiperDot" value="&lt;uni-swiper-dot :info=&quot;$1$&quot; :current=&quot;$2$&quot; field=&quot;$3$&quot; :mode=&quot;$4$&quot;&gt;&lt;/uni-swiper-dot&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
@@ -380,13 +380,13 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uSearchBar" value="&lt;uni-search-bar @confirm=&quot;$1$&quot; @input=&quot;$END$&quot; /&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uSearchBar" value="&lt;uni-search-bar @confirm=&quot;$1$&quot; @input=&quot;$END$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uIndexedList" value="&lt;uni-indexed-list :options=&quot;$1$&quot; :showSelect=&quot;$2$&quot; @click=&quot;$3$&quot;&gt;&lt;/uni-indexed-list&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uIndexedList" value="&lt;uni-indexed-list :options=&quot;$1$&quot; :showSelect=&quot;$2$&quot; @click=&quot;$3$&quot;&gt;&lt;/uni-indexed-list&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
@@ -394,7 +394,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uGoodsNav" value="&lt;uni-goods-nav :fill=&quot;$1$&quot; :options=&quot;$2$&quot; :button-group=&quot;$3$&quot; @click=&quot;$4$&quot; @buttonClick=&quot;$5$&quot; /&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uGoodsNav" value="&lt;uni-goods-nav :fill=&quot;$1$&quot; :options=&quot;$2$&quot; :button-group=&quot;$3$&quot; @click=&quot;$4$&quot; @buttonClick=&quot;$5$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
@@ -404,14 +404,14 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uFav" value="&lt;uni-fav :checked=&quot;$1$&quot; @click=&quot;$2$&quot;&gt;&lt;/uni-fav&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uFav" value="&lt;uni-fav :checked=&quot;$1$&quot; @click=&quot;$2$&quot;&gt;&lt;/uni-fav&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uFab" value="&lt;uni-fab :pattern=&quot;$1$&quot; :content=&quot;$2$&quot; :horizontal=&quot;$3$&quot; :vertical=&quot;$4$&quot; :direction=&quot;$5$&quot; @trigger=&quot;$6$&quot;&gt;&lt;/uni-fab&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uFab" value="&lt;uni-fab :pattern=&quot;$1$&quot; :content=&quot;$2$&quot; :horizontal=&quot;$3$&quot; :vertical=&quot;$4$&quot; :direction=&quot;$5$&quot; @trigger=&quot;$6$&quot;&gt;&lt;/uni-fab&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
