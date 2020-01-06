@@ -264,8 +264,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uScrollView" value="&lt;scroll-view scroll-y=&quot;true&quot; $1$&gt;&#10;&#9;&lt;view&gt;$END$&lt;/view&gt;&#10;&lt;/scroll-view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="uScrollView" value="&lt;scroll-view scroll-y=&quot;true&quot;&gt;&#10;&#9;&lt;view&gt;$END$&lt;/view&gt;&#10;&lt;/scroll-view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Vue" value="true" />
     </context>
