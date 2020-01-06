@@ -1,0 +1,425 @@
+<templateSet group="UniApp">
+  <template name="ifdef" value="&lt;!-- #ifdef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="ifndef" value="&lt;!-- #ifndef $types$ --&gt;&#10;    $END$&#10;&lt;!-- #endif --&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="types" expression="enum(&quot;APP-PLUS&quot;, &quot;APP-VUE&quot;, &quot;APP-NVUE&quot;, &quot;MP&quot;, &quot;MP-ALIPAY&quot;, &quot;MP-BAIDU&quot;, &quot;MP-WEIXIN&quot;, &quot;MP-QQ&quot;, &quot;H5&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vbase" value="&lt;template&gt;&#10;&#9;&lt;$div$&gt;&#10;&#10;&#9;&lt;/$div$&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;&#9;export default {&#10;&#9;&#9;$END$&#10;&#9;}&#10;&lt;/script&gt;&#10;&#10;&lt;style scoped&gt;&#10;&#10;&lt;/style&gt;&#10;" description="Base for Vue File" toReformat="false" toShortenFQNames="true">
+    <variable name="div" expression="" defaultValue="&quot;div&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vnuxtl" value="&lt;nuxt-link to=&quot;/$page$&quot;&gt;$page$&lt;/nuxt-link&gt;$END$&#10;" description="nuxt routing link" toReformat="false" toShortenFQNames="true">
+    <variable name="page" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="von" value="@click=&quot;handler(arg, $event$)&quot;$END$&#10;" description="v-on click handler with arguments" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="&quot;event&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uAccordion" value="&lt;view class=&quot;uni-list&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-list-cell uni-collapse&quot; v-for=&quot;(item,index) in $list$&quot; :key=&quot;index&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-list-cell-navigate uni-navigate-bottom&quot; :class=&quot;item.show ? 'uni-active' : ''&quot; @click=&quot;trigerCollapse$END$(index)&quot;&gt;&#10;&#9;&#9;&#9;折叠面板{{index}}&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-collapse-content&quot; :class=&quot;item.show ? 'uni-active' : ''&quot;&gt;&#10;&#9;&#9;&#9;&lt;view class=&quot;page-pd&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h1&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h2&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h3&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="list" expression="" defaultValue="&quot;list&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uAudio" value="&lt;audio :src=&quot;$src$&quot; :poster=&quot;$poster$&quot; :name=&quot;$name$&quot; :author=&quot;$author$&quot; :action=&quot;$action$&quot; controls&gt;&lt;/audio&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="src" expression="" defaultValue="&quot;src&quot;" alwaysStopAt="true" />
+    <variable name="poster" expression="" defaultValue="&quot;poster&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="author" expression="" defaultValue="&quot;author&quot;" alwaysStopAt="true" />
+    <variable name="action" expression="" defaultValue="&quot;action&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uBadge" value="&lt;uni-badge text=&quot;$text$&quot; type=&quot;$type$&quot;&gt;&lt;/uni-badge&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="&quot;type&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uButton" value="&lt;button type=&quot;primary&quot;&gt;$1$&lt;/button&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCalendar" value="&lt;uni-calendar lunar=&quot;&quot; @change=&quot;$change$&quot;&gt;&lt;/uni-calendar&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="change" expression="" defaultValue="&quot;change&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCard" value="&lt;uni-card title=&quot;标题文字&quot; thumbnail=&quot;$thumb$&quot; extra=&quot;$extra$&quot; note=&quot;$tips$&quot;&gt;&#10;&#9;内容主体，可自定义内容及样式$END$&#10;&lt;/uni-card&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="thumb" expression="" defaultValue="&quot;thumb&quot;" alwaysStopAt="true" />
+    <variable name="extra" expression="" defaultValue="&quot;额外信息&quot;" alwaysStopAt="true" />
+    <variable name="tips" expression="" defaultValue="&quot;tips&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCheckbox" value="&lt;label&gt;&#10;&#9;&lt;checkbox :value=&quot;$value$&quot; /&gt;&lt;text&gt;$text$&lt;/text&gt;&#10;&lt;/label&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCheckboxGroup" value="&lt;checkbox-group name=&quot;$name$&quot;&gt;&#10;&#9;&lt;label&gt;&#10;&#9;&#9;&lt;checkbox :value=&quot;$value$&quot; /&gt;&lt;text&gt;$text$&lt;/text&gt;&#10;&#9;&lt;/label&gt;&#10;&lt;/checkbox-group&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCollapse" value="&lt;uni-collapse @change=&quot;$change$&quot;&gt;&#10;&#9;&lt;uni-collapse-item title=&quot;$title$&quot;&gt;&#10;&#9;&#9;内容$END$&#10;&#9;&lt;/uni-collapse-item&gt;&#10;&lt;/uni-collapse&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="change" expression="" defaultValue="&quot;change&quot;" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="&quot;title&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uCountDown" value="&lt;uni-countdown font-color=&quot;$fontcolor$&quot; background-color=&quot;$bgcolor$&quot; :day=&quot;$day$&quot; :hour=&quot;$hour$&quot; :minute=&quot;$minute$&quot; :second=\&quot;$sec$&quot;&gt;&lt;/uni-countdown&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="fontcolor" expression="" defaultValue="&quot;black&quot;" alwaysStopAt="true" />
+    <variable name="bgcolor" expression="" defaultValue="&quot;green&quot;" alwaysStopAt="true" />
+    <variable name="day" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="hour" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="minute" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sec" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uDrawer" value="&lt;uni-drawer :visible=&quot;$true$&quot;&gt;&#10;&#9;&lt;view style=&quot;padding:30rpx;&quot;&gt;&#10;&#9;&#9;$END$&#10;&#9;&lt;/view&gt;&#10;&lt;/uni-drawer&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="true" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uEditor" value="&lt;editor placeholder=&quot;$END$&quot;&gt;&lt;/editor&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uForm" value="&lt;form @submit=&quot;&quot; @reset=&quot;&quot;&gt;&#10;&#9;$END$&#10;&#9;&lt;button form-type=&quot;submit&quot;&gt;Submit&lt;/button&gt;&#10;&#9;&lt;button form-type=&quot;reset&quot;&gt;Reset&lt;/button&gt;&#10;&lt;/form&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uGrid" value="&lt;uni-grid :data=&quot;$1$&quot;&gt;&#10;    &lt;uni-grid-item&gt;$END$&lt;/uni-grid-item&gt;&#10;&lt;/uni-grid&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uIcons" value="&lt;uni-icons type=&quot;$END$&quot;&gt;&lt;/uni-icons&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uImage" value="&lt;image src=&quot;$src$&quot; mode=&quot;$mode$&quot;&gt;&lt;/image&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="src" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="mode" expression="enum(&quot;scaleToFill&quot;, &quot;aspectFit&quot;, &quot;aspectFill&quot;, &quot;widthFix&quot;, &quot;top&quot;, &quot;bottom&quot;, &quot;center&quot;, &quot;left&quot;, &quot;right&quot;, &quot;top left&quot;, &quot;top right&quot;, &quot;bottom left&quot;, &quot;bottom right&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uInput" value="&lt;input type=&quot;text&quot; value=&quot;$END$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uList" value="&lt;uni-list&gt;&#10;&#9;&lt;uni-list-item title=&quot;$title1$&quot; note=&quot;$note1$&quot;&gt;&lt;/uni-list-item&gt;&#10;&#9;&lt;uni-list-item title=&quot;$title2$&quot; note=&quot;$note2$&quot;&gt;&lt;/uni-list-item&gt;&#10;&lt;/uni-list&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="title1" expression="" defaultValue="&quot;title1&quot;" alwaysStopAt="true" />
+    <variable name="note1" expression="" defaultValue="&quot;note1&quot;" alwaysStopAt="true" />
+    <variable name="title2" expression="" defaultValue="&quot;title2&quot;" alwaysStopAt="true" />
+    <variable name="note2" expression="" defaultValue="&quot;note2&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uListMedia" value="&lt;view class=&quot;uni-list&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-list-cell&quot; hover-class=&quot;uni-list-cell-hover&quot; v-for=&quot;(item,index) in list$1$&quot; :key=&quot;index&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-media-list&quot;&gt;&#10;&#9;&#9;&#9;&lt;image class=&quot;uni-media-list-logo&quot; :src=&quot;item.img$2$&quot;&gt;&lt;/image&gt;&#10;&#9;&#9;&#9;&lt;view class=&quot;uni-media-list-body&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-media-list-text-top&quot;&gt;{{item.title$3$}}&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-media-list-text-bottom uni-ellipsis&quot;&gt;{{item.content$4$}}&lt;/view&gt;&#10;&#9;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uLoadMore" value="&lt;uni-load-more :status=&quot;$END$&quot;&gt;&lt;/uni-load-more&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uMap" value="&lt;map :latitude=&quot;$lat$&quot; :longitude=&quot;$lon$&quot;&gt;&lt;/map&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="lat" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="lon" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uNavBar" value="&lt;uni-nav-bar left-icon=&quot;back&quot; left-text=&quot;返回&quot; right-text=&quot;菜单&quot; title=&quot;标题$END$&quot;&gt;&lt;/uni-nav-bar&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uNavigator" value="&lt;navigator url=&quot;$1$&quot;&gt;$END$&lt;/navigator&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uNoticeBar" value="&lt;uni-notice-bar single=&quot;$1$&quot; text=&quot;$END$&quot;&gt;&lt;/uni-notice-bar&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uNumberBox" value="&lt;uni-number-box @change=&quot;$END$&quot;&gt;&lt;/uni-number-box&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uPagination" value="&lt;uni-pagination title=&quot;$title$&quot; show-icon=&quot;$showIcon$&quot; total=&quot;$0$&quot; current=&quot;$1$&quot;&gt;&lt;/uni-pagination&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="showIcon" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uPicker" value="&lt;picker mode=&quot;$mode$&quot; :range=&quot;$2$&quot; @change=&quot;$3$&quot;&gt;&#10;&#9;&lt;view&gt;{{$END$}}&lt;/view&gt;&#10;&lt;/picker&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="mode" expression="enum(&quot;date&quot;,&quot;selector&quot;,&quot;multiSelector&quot;,&quot;time&quot;,&quot;region&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uPickerView" value="&lt;picker-view indicator-style=&quot;height: 50px;&quot; :value=&quot;value$1$&quot; @change=&quot;bindChange&quot;&gt;&#10;&#9;&lt;picker-view-column&gt;&#10;&#9;&#9;$0$&#10;&#9;&lt;/picker-view-column&gt;&#10;&#9;&lt;picker-view-column&gt;&#10;&#9;&#9;$END$&#10;&#9;&lt;/picker-view-column&gt;&#10;&lt;/picker-view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uPopup" value="&lt;uni-popup type=&quot;middle$END$&quot;&gt;&lt;/uni-popup&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uProductList" value="&lt;view class=&quot;uni-product-list&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-product&quot; v-for=&quot;(product,index) in productList$1$&quot; :key=&quot;index&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;image-view&quot;&gt;&#10;&#9;&#9;&#9;&lt;image v-if=&quot;renderImage&quot; class=&quot;uni-product-image&quot; :src=&quot;product.image&quot;&gt;&lt;/image&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-product-title&quot;&gt;{{product.title}}&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-product-price&quot;&gt;&#10;&#9;&#9;&#9;&lt;text class=&quot;uni-product-price-favour&quot;&gt;￥{{product.originalPrice}}&lt;/text&gt;&#10;&#9;&#9;&#9;&lt;text class=&quot;uni-product-price-original&quot;&gt;￥{{product.favourPrice}}&lt;/text&gt;&#10;&#9;&#9;&#9;&lt;text class=&quot;uni-product-tip&quot;&gt;{{product.tip}}&lt;/text&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uProgress" value=" &lt;progress percent=&quot;$1$&quot; show-info /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;80&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uRadio" value="&lt;label class=&quot;radio&quot;&gt;&#10;&#9;&lt;radio value=&quot;$value$&quot; /&gt;&lt;text&gt;$END$&lt;/text&gt;&#10;&lt;/label&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uRadioGroup" value="&lt;radio-group name=&quot;$1$&quot;&gt;&#10;&#9;&lt;label&gt;&#10;&#9;&#9;&lt;radio :value=&quot;$2$&quot; /&gt;&lt;text&gt;$3$&lt;/text&gt;&#10;&#9;&#9;&lt;radio :value=&quot;$4$&quot; /&gt;&lt;text&gt;$0$&lt;/text&gt;&#10;&#9;&lt;/label&gt;&#10;&lt;/radio-group&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uRate" value="&lt;uni-rate value=&quot;$END$&quot;&gt;&lt;/uni-rate&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uRichText" value="&lt;rich-text :nodes=&quot;$1$&quot;&gt;&lt;/rich-text&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uScrollView" value="&lt;scroll-view scroll-y=&quot;true&quot; $1$&gt;&#10;&#9;&lt;view&gt;$END$&lt;/view&gt;&#10;&lt;/scroll-view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSegmentedControl" value="&lt;uni-segmented-control :current=&quot;current$1$&quot; :values=&quot;$0$&quot; @clickItem=&quot;$2$&quot;&gt;&lt;/uni-segmented-control&gt;&#10;&lt;view class=&quot;content&quot;&gt;&#10;&#9;&lt;view v-show=&quot;current === 0&quot;&gt;&#10;&#9;&#9;选项卡1的内容&#10;&#9;&lt;/view&gt;&#10;&#9;&lt;view v-show=&quot;current === 1&quot;&gt;&#10;&#9;&#9;选项卡2的内容&#10;&#9;&lt;/view&gt;&#10;&#9;&lt;view v-show=&quot;current === 2&quot;&gt;&#10;&#9;&#9;选项卡3的内容&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSlider" value="&lt;slider @change=&quot;$END$&quot;/&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSteps" value="&lt;uni-steps :options=&quot;$1$&quot; :active=&quot;0$END$&quot;&gt;&lt;/uni-steps&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSwipeAction" value="&lt;uni-swipe-action :options=&quot;$1$&quot;&gt;&#10;    &lt;uni-swipe-action-item :options=&quot;$2$&quot; @click=&quot;$3$&quot;&gt;&lt;/uni-swipe-action-item&gt;&#10;&lt;/uni-swipe-action&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSwiper" value="&lt;swiper :indicator-dots=&quot;true&quot; :autoplay=&quot;true&quot; :interval=&quot;3000&quot; :duration=&quot;1000&quot;&gt;&#10;&#9;&lt;swiper-item&gt;&#10;&#9;&#9;&lt;view class=&quot;swiper-item&quot;&gt;$1$&lt;/view&gt;&#10;&#9;&lt;/swiper-item&gt;&#10;&#9;&lt;swiper-item&gt;&#10;&#9;&#9;&lt;view class=&quot;swiper-item&quot;&gt;$2$&lt;/view&gt;&#10;&#9;&lt;/swiper-item&gt;&#10;&lt;/swiper&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSwipermsg" value="&lt;view class=&quot;uni-swiper-msg&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-swiper-msg-icon&quot;&gt;&#10;&#9;&#9;&lt;image src=&quot;$1$&quot; mode=&quot;widthFix&quot;&gt;&lt;/image&gt;&#10;&#9;&lt;/view&gt;&#10;&#9;&lt;swiper vertical=&quot;true&quot; autoplay=&quot;true&quot; circular=&quot;true&quot; interval=&quot;3000&quot;&gt;&#10;&#9;&#9;&lt;swiper-item&gt;&#10;&#9;&#9;&#9;&lt;navigator&gt;消息1&lt;/navigator&gt;&#10;&#9;&#9;&lt;/swiper-item&gt;&#10;&#9;&#9;&lt;swiper-item&gt;&#10;&#9;&#9;&#9;&lt;navigator&gt;消息2&lt;/navigator&gt;&#10;&#9;&#9;&lt;/swiper-item&gt;&#10;&#9;&#9;&lt;swiper-item&gt;&#10;&#9;&#9;&#9;&lt;navigator&gt;消息3&lt;/navigator&gt;&#10;&#9;&#9;&lt;/swiper-item&gt;&#10;&#9;&lt;/swiper&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSwitch" value="&lt;switch checked=&quot;true&quot; @change=&quot;$END$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uTag" value="&lt;uni-tag text=&quot;$1$&quot; type=&quot;$2$&quot;&gt;&lt;/uni-tag&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uTemplate" value="&lt;template&gt;&#10;&#9;&lt;view&gt;$END$&lt;/view&gt;&#10;&lt;/template&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uText" value="&lt;text&gt;$END$&lt;/text&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uTextarea" value="&lt;textarea value=&quot;$1$&quot; placeholder=&quot;$0$&quot; /&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uTimeline" value="&lt;view class=&quot;uni-timeline&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-timeline-item uni-timeline-first-item&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-keynode&quot;&gt;日期1$END$&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-divider&quot;&gt;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-content&quot;&gt;事件1&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&#9;&lt;view class=&quot;uni-timeline-item&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-keynode&quot;&gt;日期2&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-divider&quot;&gt;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-content&quot;&gt;事件2&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&#9;&lt;view class=&quot;uni-timeline-item uni-timeline-last-item&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-keynode&quot;&gt;日期3&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-divider&quot;&gt;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-timeline-item-content&quot;&gt;事件3&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uVideo" value="&lt;video src=&quot;$END$&quot; controls&gt;&lt;/video&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uView" value="&lt;view class=&quot;$1$&quot;&gt;$END$&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uWebView" value="&lt;web-view src=&quot;$END$&quot;&gt;&lt;/web-view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="view_for" value="&lt;view v-for=&quot;(item,index) in ${1:dataList}&quot; :key=&quot;index&quot;&gt;&#10;&#9;$END$&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="view_class" value="&lt;view class=&quot;$1$&quot;&gt;&#10;&#9;$END$&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSwiperDot" value="&lt;uni-swiper-dot :info=&quot;$1$&quot; :current=&quot;$2$&quot; field=&quot;$3$&quot; :mode=&quot;$4$&quot;&gt;&lt;/uni-swiper-dot&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uSearchBar" value="&lt;uni-search-bar @confirm=&quot;$1$&quot; @input=&quot;$END$&quot; /&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uIndexedList" value="&lt;uni-indexed-list :options=&quot;$1$&quot; :showSelect=&quot;$2$&quot; @click=&quot;$3$&quot;&gt;&lt;/uni-indexed-list&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uGoodsNav" value="&lt;uni-goods-nav :fill=&quot;$1$&quot; :options=&quot;$2$&quot; :button-group=&quot;$3$&quot; @click=&quot;$4$&quot; @buttonClick=&quot;$5$&quot; /&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uFav" value="&lt;uni-fav :checked=&quot;$1$&quot; @click=&quot;$2$&quot;&gt;&lt;/uni-fav&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="uFab" value="&lt;uni-fab :pattern=&quot;$1$&quot; :content=&quot;$2$&quot; :horizontal=&quot;$3$&quot; :vertical=&quot;$4$&quot; :direction=&quot;$5$&quot; @trigger=&quot;$6$&quot;&gt;&lt;/uni-fab&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
