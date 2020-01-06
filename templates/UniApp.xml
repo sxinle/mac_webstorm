@@ -49,4 +49,13 @@
     <variable name="text" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="&quot;type&quot;" alwaysStopAt="true" />
   </template>
+
+  <template name="ucheckbox" value="&lt;label&gt;&amp;#10;&amp;#9;&lt;checkbox :value=&quot;$1$&quot; /&gt;&lt;text&gt;$0$&lt;/text&gt;&amp;#10;&lt;/label&gt;&amp;#10;" description="" toReformat="false" toShortenFQNames="true">
+      <variable name="1" expression="" defaultValue="1" alwaysStopAt="true"/>
+      <variable name="0" expression="" defaultValue="0" alwaysStopAt="true"/>
+      <context>
+          <option name="Vue" value="true"/>
+      </context>
+  </template>
+
 </templateSet>
