@@ -29,13 +29,13 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uAccordion" value="&lt;view class=&quot;uni-list&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-list-cell uni-collapse&quot; v-for=&quot;(item,index) in $list$&quot; :key=&quot;index&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-list-cell-navigate uni-navigate-bottom&quot; :class=&quot;item.show ? 'uni-active' : ''&quot; @click=&quot;trigerCollapse$END$(index)&quot;&gt;&#10;&#9;&#9;&#9;折叠面板{{index}}&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-collapse-content&quot; :class=&quot;item.show ? 'uni-active' : ''&quot;&gt;&#10;&#9;&#9;&#9;&lt;view class=&quot;page-pd&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h1&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h2&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h3&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uAccordion" value="&lt;view class=&quot;uni-list&quot;&gt;&#10;&#9;&lt;view class=&quot;uni-list-cell uni-collapse&quot; v-for=&quot;(item,index) in $list$&quot; :key=&quot;index&quot;&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-list-cell-navigate uni-navigate-bottom&quot; :class=&quot;item.show ? 'uni-active' : ''&quot; @click=&quot;trigerCollapse$END$(index)&quot;&gt;&#10;&#9;&#9;&#9;折叠面板{{index}}&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;view class=&quot;uni-collapse-content&quot; :class=&quot;item.show ? 'uni-active' : ''&quot;&gt;&#10;&#9;&#9;&#9;&lt;view class=&quot;page-pd&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h1&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h2&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&#9;&lt;view class=&quot;uni-h3&quot;&gt;hello uni-app&lt;/view&gt;&#10;&#9;&#9;&#9;&lt;/view&gt;&#10;&#9;&#9;&lt;/view&gt;&#10;&#9;&lt;/view&gt;&#10;&lt;/view&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="list" expression="" defaultValue="&quot;list&quot;" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uAudio" value="&lt;audio :src=&quot;$src$&quot; :poster=&quot;$poster$&quot; :name=&quot;$name$&quot; :author=&quot;$author$&quot; :action=&quot;$action$&quot; controls&gt;&lt;/audio&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uAudio" value="&lt;audio :src=&quot;$src$&quot; :poster=&quot;$poster$&quot; :name=&quot;$name$&quot; :author=&quot;$author$&quot; :action=&quot;$action$&quot; controls&gt;&lt;/audio&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="src" expression="" defaultValue="&quot;src&quot;" alwaysStopAt="true" />
     <variable name="poster" expression="" defaultValue="&quot;poster&quot;" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
@@ -45,17 +45,8 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="uBadge" value="&lt;uni-badge text=&quot;$text$&quot; type=&quot;$type$&quot;&gt;&lt;/uni-badge&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="uBadge" value="&lt;uni-badge text=&quot;$text$&quot; type=&quot;$type$&quot;&gt;&lt;/uni-badge&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="text" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="&quot;type&quot;" alwaysStopAt="true" />
   </template>
-
-  <template name="ucheckbox" value="&lt;label&gt;&amp;#10;&amp;#9;&lt;checkbox :value=&quot;$1$&quot; /&gt;&lt;text&gt;$0$&lt;/text&gt;&amp;#10;&lt;/label&gt;&amp;#10;" description="" toReformat="false" toShortenFQNames="true">
-      <variable name="1" expression="" defaultValue="1" alwaysStopAt="true"/>
-      <variable name="0" expression="" defaultValue="0" alwaysStopAt="true"/>
-      <context>
-          <option name="Vue" value="true"/>
-      </context>
-  </template>
-
 </templateSet>
