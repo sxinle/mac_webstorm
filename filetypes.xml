@@ -5,8 +5,10 @@
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="SignInScreen" type="JavaScript" />
       <mapping pattern="AuthLoadingScreen" type="JavaScript" />
+      <mapping pattern=".webpackrc" type="PLAIN_TEXT" />
       <mapping pattern="HomeNav.js" type="PLAIN_TEXT" />
       <mapping pattern="BaseScreen.js" type="PLAIN_TEXT" />
+      <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
       <mapping pattern="AtyUndo" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
