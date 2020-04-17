@@ -35,8 +35,9 @@
         <entry encoding="base64">JzwsJz5zL2NvbS9jb2wvZw==</entry>
         <entry>noh</entry>
         <entry>action $Redo</entry>
-        <entry>w</entry>
         <entry>action AceAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,6 +98,12 @@
       <file name="/Dummy.txt" timestamp="1587010960714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1587084910098">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/SYS-half/Frontend/quickui/js/config.js" timestamp="1586943762309">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -155,11 +162,6 @@
       </file>
       <file name="/" timestamp="1587084527534">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" timestamp="1586747111116">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" timestamp="1586771679256">
         <mark key="[" line="35" column="24" />
@@ -353,7 +355,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
@@ -365,7 +367,7 @@
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
