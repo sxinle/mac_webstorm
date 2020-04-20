@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbWFnZVVwbG9hZFw+</entry>
-        <entry>import</entry>
-        <entry>flex-start</entry>
-        <entry>Upload</entry>
-        <entry>console.log</entry>
-        <entry>file.</entry>
-        <entry>react</entry>
         <entry>清空</entry>
         <entry>数据源管理</entry>
         <entry>quick-select-text</entry>
@@ -25,6 +18,13 @@
         <entry encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</entry>
         <entry encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</entry>
         <entry>Table</entry>
+        <entry encoding="base64">XDxoYW5kbGVUYk1hdGNoQWRkXD4=</entry>
+        <entry>toggle</entry>
+        <entry>del</entry>
+        <entry>确定删除</entry>
+        <entry>tb</entry>
+        <entry encoding="base64">XDx0b2dnbGVUYk1hdGNoVXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDx0Yk1hdGNoVXBkYXRlUmVjb3JkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -115,6 +115,10 @@
         <mark key="^" line="26" column="51" />
         <mark key="." line="26" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/node_modules/antd/lib/cascader/index.d.ts" timestamp="1587367715756">
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" timestamp="1587354150151">
         <mark key="'" line="46" column="10" />
         <mark key="[" line="4" column="18" />
@@ -126,12 +130,12 @@
         <mark key="'" line="34" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/test.js" timestamp="1587351077348" />
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587367160221">
-        <mark key="'" line="617" column="25" />
-        <mark key="[" line="152" column="45" />
-        <mark key="]" line="152" column="51" />
-        <mark key="." line="152" column="50" />
-        <mark key="^" line="152" column="51" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587369493310">
+        <mark key="'" line="201" column="110" />
+        <mark key="[" line="201" column="117" />
+        <mark key="]" line="201" column="117" />
+        <mark key="^" line="201" column="95" />
+        <mark key="." line="201" column="117" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" timestamp="1587352810314">
         <mark key="[" line="1" column="56" />
@@ -183,12 +187,6 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/services/test.js" timestamp="1587116102823">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/config/plugin.config.js" timestamp="1587350644693" />
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" timestamp="1587116328545">
         <mark key="'" line="17" column="33" />
@@ -199,44 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="23" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="245" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="543" column="41" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="674" column="92" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="185" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="323" column="27" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="358" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="75" column="43" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/IndexPage.js" />
-      <jump line="305" column="3" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="220" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="222" column="14" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="228" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="231" column="32" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="129" column="36" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" />
-      <jump line="91" column="19" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" />
-      <jump line="90" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" />
-      <jump line="172" column="16" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="616" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="363" column="17" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="338" column="18" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.jsx" />
-      <jump line="25" column="22" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.jsx" />
-      <jump line="725" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.jsx" />
-      <jump line="2" column="22" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Account/Settings/BaseView.js" />
-      <jump line="21" column="5" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Account/Settings/BaseView.js" />
-      <jump line="23" column="22" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Account/Settings/BaseView.js" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Account/Settings/BaseView.js" />
-      <jump line="2" column="27" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageFormItem.js" />
-      <jump line="5" column="21" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageUpload.js" />
-      <jump line="333" column="20" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.jsx" />
-      <jump line="725" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="697" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="3" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="351" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="354" column="53" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="585" column="10" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="339" column="24" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="353" column="4" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="25" column="58" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
       <jump line="346" column="42" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
@@ -276,7 +236,6 @@
       <jump line="184" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="637" column="28" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="419" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="422" column="27" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="586" column="48" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="634" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="20" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" />
@@ -299,6 +258,45 @@
       <jump line="1" column="13" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/utils.js" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="128" column="9" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="734" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="157" column="14" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="158" column="13" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="139" column="10" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="259" column="17" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="173" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="648" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="294" column="24" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="418" column="44" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="422" column="44" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="478" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="47" column="56" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="63" column="22" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="126" column="50" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="142" column="22" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="191" column="22" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="360" column="17" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="567" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="568" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="571" column="23" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="600" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="720" column="50" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="728" column="50" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="355" column="49" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="664" column="27" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="668" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="665" column="32" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="175" column="56" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="792" column="106" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="599" column="8" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="240" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="670" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="803" column="140" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="178" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="672" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="806" column="39" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="201" column="110" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,49 +305,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>数据表</text>
+        <text encoding="base64">IDogW10=</text>
       </register>
       <register name="-" type="4">
-        <text>数据表</text>
+        <text encoding="base64">IDogW10=</text>
       </register>
       <register name="/" type="4">
-        <text>Table</text>
+        <text encoding="base64">XDx0Yk1hdGNoVXBkYXRlUmVjb3JkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybUl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5pWw5o2u6KGoIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCJmcm9tIiwgewogICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICLlkI3np7DkuI3og73kuLrnqboiIH0KICAgICAgICAgICAgXQogICAgICAgICAgfSkoPENhc2NhZGVyIHN0eWxlPXt7IHdpZHRoOiAiMTAwJSIgfX0gb3B0aW9ucz17ZHNDYXNjYWRlcn0gcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIvPil9CiAgICAgICAgPC9Gb3JtSXRlbT4K</text>
+      <register name="0" type="4">
+        <text>tbMatchUpdateRecord</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xzID0gWwogICAgewogICAgICB0aXRsZTogIueUqOaIt+WQjSIsCiAgICAgIGRhdGFJbmRleDogInVzZXJOYW1lIiwKICAgICAgd2lkdGg6ICIzMCUiCiAgICB9LAogICAgewogICAgICB0aXRsZTogIuaJi+acuuWPtyIsCiAgICAgIGRhdGFJbmRleDogInBob25lTnVtYmVyIiwKICAgICAgd2lkdGg6ICIzMCUiCiAgICB9LAogIF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB0Yk1hdGNoVXBkYXRlU2hvdzogIXRiTWF0Y2hVcGRhdGVTaG93CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLCAnWyA9PT09PSByZXNwID09PT09IF0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmNvZGU9PT0wCg==</text>
+        <text encoding="base64">ICB0Yk1hdGNoVXBkYXRlU2hvdwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>,{
-    
-
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">CmNvbnN0IFRiTWF0Y2hBZGRGb3JtID0gRm9ybS5jcmVhdGUoKShwcm9wcyA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Table</last-search>
+      <last-search encoding="base64">XDx0Yk1hdGNoVXBkYXRlUmVjb3JkXD4=</last-search>
       <last-offset />
-      <last-pattern>Table</last-pattern>
+      <last-pattern encoding="base64">XDx0Yk1hdGNoVXBkYXRlUmVjb3JkXD4=</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
