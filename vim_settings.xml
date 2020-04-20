@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>updmsys</entry>
         <entry encoding="base64">XDxnZXRCYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxkZWZWYWxcPg==</entry>
         <entry>onOk</entry>
@@ -25,6 +24,7 @@
         <entry>来源</entry>
         <entry>Table</entry>
         <entry>columns</entry>
+        <entry>p.</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -130,11 +130,11 @@
         <mark key="'" line="34" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/test.js" timestamp="1587351077348" />
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587374016337">
-        <mark key="'" line="395" column="5" />
-        <mark key="[" line="750" column="0" />
-        <mark key="]" line="750" column="0" />
-        <mark key="." line="750" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587374700768">
+        <mark key="'" line="356" column="12" />
+        <mark key="[" line="366" column="0" />
+        <mark key="]" line="366" column="0" />
+        <mark key="." line="366" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" timestamp="1587352810314">
         <mark key="[" line="1" column="56" />
@@ -198,9 +198,6 @@
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/config/plugin.config.js" timestamp="1587350644693" />
     </filemarks>
     <jumps>
-      <jump line="204" column="76" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
-      <jump line="903" column="22" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
-      <jump line="1750" column="4" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="287" column="32" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="423" column="30" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="645" column="58" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
@@ -257,7 +254,6 @@
       <jump line="418" column="44" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="422" column="44" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="478" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="47" column="56" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="63" column="22" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="126" column="50" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
@@ -295,9 +291,13 @@
       <jump line="411" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="794" column="46" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="763" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="841" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="747" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="748" column="32" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="841" column="18" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="335" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="395" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="356" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,19 +306,19 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZml4ZWQ6ICJyaWdodCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>left</text>
       </register>
       <register name="/" type="4">
-        <text>columns</text>
+        <text>p.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICLmupDov4fmu6TmnaHku7YiLAogICAgICBkYXRhSW5kZXg6ICJmcm9tRmlsdGVyIiwKICAgICAgd2lkdGg6ICIxNSUiLAogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZml4ZWQ6ICJyaWdodCIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -327,25 +327,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2Nyb2xsPXt7IHg6IDEzMDAgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZml4ZWQ6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgZml4ZWQ6ICJyaWdodCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sdW1ucz17dGhpcy5jb2x1bW5zfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVuZGVyOiAodGV4dCwgcmVjb3JkKSA9PiB7CiAgICAgIC8vICAgdGV4dDsKICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sdW1ucz17dGhpcy5jb2x1bW5zfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHNwYW4+e2Ake3JlY29yZC5mcm9tRHMubmFtZX0gLT4gYH0KICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250V2VpZ2h0OiAiYm9sZCIsIGNvbG9yOiAicmVkIiB9fT57cmVjb3JkLmZyb21UYn08L3NwYW4+CiAgICAgIDwvc3Bhbj4=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2Nyb2xsPXt7IHg6IDEzMDAgfX0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogdGJQYWlyVXBkYXRlKHtwYXlsb2FkLCBjYWxsYmFja30sIHtjYWxsLCBwdXR9KSB7CiAgICAgIGNvbnN0IHJlc3AgPSB5aWVsZCBjYWxsKGFwaS50YlBhaXJVcGRhdGUsIHBheWxvYWQpOwogICAgICBpZiAoY2FsbGJhY2spIGNhbGxiYWNrKHJlc3ApOwogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgZml4ZWQ6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHRiUGFpclVwZGF0ZShib2R5KSB7CiAgcmV0dXJuIHJlcXVlc3QoJy90YlBhaXIvJywgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBib2R5LAogIH0pCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>columns</last-search>
+      <last-search>p.</last-search>
       <last-offset />
-      <last-pattern>columns</last-pattern>
+      <last-pattern>p.</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
