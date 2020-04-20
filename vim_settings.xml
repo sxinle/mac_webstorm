@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>util.host</entry>
         <entry encoding="base64">XDxVcGxvYWRcPg==</entry>
         <entry encoding="base64">XDxJbWFnZVVwbG9hZFw+</entry>
         <entry>import</entry>
@@ -25,6 +24,7 @@
         <entry>render</entry>
         <entry encoding="base64">XDx0b2dnbGVEYlNvdXJjZURyYXdlclw+</entry>
         <entry encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</entry>
+        <entry encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -110,12 +110,8 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1587003219121">
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1587342818977">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="41" column="21" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" timestamp="1587005529782">
         <mark key="'" line="26" column="51" />
@@ -146,8 +142,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587116333930">
-        <mark key="'" line="634" column="26" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/layouts/BasicLayout.jsx" timestamp="1587342854905">
+        <mark key="'" line="34" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587343665999">
+        <mark key="'" line="123" column="6" />
         <mark key="[" line="167" column="15" />
         <mark key="]" line="166" column="27" />
         <mark key="." line="166" column="26" />
@@ -162,7 +161,8 @@
       <file name="/" timestamp="1587099771371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" timestamp="1586771679256">
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" timestamp="1587344489178">
+        <mark key="'" line="13" column="2" />
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="24" />
         <mark key="^" line="35" column="39" />
@@ -197,11 +197,6 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/component/ImageUpload.js" timestamp="1586756499605">
-        <mark key="'" line="5" column="21" />
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="53" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.jsx" timestamp="1586756548301">
         <mark key="'" line="333" column="20" />
         <mark key="[" line="339" column="34" />
@@ -211,14 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
-      <jump line="59" column="18" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
-      <jump line="130" column="17" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="31" column="7" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="338" column="24" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="335" column="30" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="479" column="3" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="24" column="8" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/Users/DeliveryUser.js" />
@@ -230,7 +217,6 @@
       <jump line="245" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="543" column="41" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="674" column="92" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="123" column="67" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="185" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="323" column="27" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="358" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
@@ -279,7 +265,6 @@
       <jump line="40" column="37" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
-      <jump line="22" column="14" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="204" column="76" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="903" column="22" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="1750" column="4" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
@@ -287,7 +272,6 @@
       <jump line="423" column="30" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="645" column="58" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="547" column="24" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="127" column="13" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/request.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
       <jump line="88" column="18" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" />
@@ -311,6 +295,17 @@
       <jump line="634" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="20" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" />
       <jump line="16" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" />
+      <jump line="22" column="14" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="18" column="27" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/layouts/BasicLayout.jsx" />
+      <jump line="27" column="25" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/layouts/BasicLayout.jsx" />
+      <jump line="34" column="2" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/layouts/BasicLayout.jsx" />
+      <jump line="718" column="13" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="123" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="11" column="10" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +320,7 @@
         <text>fetchDataSourceList</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</text>
+        <text encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</text>
       </register>
       <register name="0" type="4">
         <text>test</text>
@@ -367,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</last-search>
+      <last-search encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
