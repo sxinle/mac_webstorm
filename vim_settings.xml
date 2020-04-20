@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxkZWZWYWxcPg==</entry>
         <entry>onOk</entry>
         <entry>render</entry>
@@ -25,6 +24,7 @@
         <entry>Table</entry>
         <entry>columns</entry>
         <entry>p.</entry>
+        <entry>ext.geom</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -126,15 +126,13 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/layouts/BasicLayout.jsx" timestamp="1587342854905">
-        <mark key="'" line="34" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/test.js" timestamp="1587351077348" />
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587374700768">
-        <mark key="'" line="356" column="12" />
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="0" />
-        <mark key="." line="366" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587374718008">
+        <mark key="'" line="357" column="5" />
+        <mark key="[" line="165" column="59" />
+        <mark key="]" line="165" column="64" />
+        <mark key="." line="165" column="63" />
+        <mark key="^" line="165" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" timestamp="1587352810314">
         <mark key="[" line="1" column="56" />
@@ -148,6 +146,9 @@
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587377055771">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/user.js" timestamp="1587352241677">
         <mark key="[" line="0" column="8" />
@@ -198,7 +199,6 @@
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/config/plugin.config.js" timestamp="1587350644693" />
     </filemarks>
     <jumps>
-      <jump line="287" column="32" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="423" column="30" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="645" column="58" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
       <jump line="547" column="24" filename="$USER_HOME$/Desktop/SYS-half/FeatureClassManage/singleConfig.js" />
@@ -298,6 +298,7 @@
       <jump line="335" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="395" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="356" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="357" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +313,7 @@
         <text>left</text>
       </register>
       <register name="/" type="4">
-        <text>p.</text>
+        <text>ext.geom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICLmupDov4fmu6TmnaHku7YiLAogICAgICBkYXRhSW5kZXg6ICJmcm9tRmlsdGVyIiwKICAgICAgd2lkdGg6ICIxNSUiLAogICAgfSwK</text>
@@ -354,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>p.</last-search>
+      <last-search>ext.geom</last-search>
       <last-offset />
-      <last-pattern>p.</last-pattern>
+      <last-pattern>ext.geom</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
