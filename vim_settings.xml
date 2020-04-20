@@ -126,12 +126,12 @@
         <mark key="'" line="34" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/test.js" timestamp="1587351077348" />
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587352517031">
-        <mark key="'" line="610" column="25" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="324" column="6" />
-        <mark key="." line="166" column="26" />
-        <mark key="^" line="166" column="27" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587367160221">
+        <mark key="'" line="617" column="25" />
+        <mark key="[" line="152" column="45" />
+        <mark key="]" line="152" column="51" />
+        <mark key="." line="152" column="50" />
+        <mark key="^" line="152" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" timestamp="1587352810314">
         <mark key="[" line="1" column="56" />
@@ -139,7 +139,8 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/utils.js" timestamp="1587352053727">
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/utils.js" timestamp="1587367239258">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="40" />
@@ -152,8 +153,8 @@
         <mark key="^" line="9" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/settings.js" timestamp="1587350524781" />
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1587353695352">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1587367241345">
+        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/components/StandardTable/index.js" timestamp="1587351640497">
         <mark key="[" line="114" column="0" />
@@ -198,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="582" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="241" column="23" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="245" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="543" column="41" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
@@ -298,6 +297,8 @@
       <jump line="610" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="34" column="9" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/user/User.jsx" />
       <jump line="1" column="13" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/utils.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,16 +307,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>, data</text>
+        <text>数据表</text>
       </register>
       <register name="-" type="4">
-        <text>, data</text>
+        <text>数据表</text>
       </register>
       <register name="/" type="4">
         <text>Table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICLnlKjmiLflkI0iLAogICAgICBkYXRhSW5kZXg6ICJ1c2VyTmFtZSIsCiAgICAgIHdpZHRoOiAiMzAlIgogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICA8Rm9ybUl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i5pWw5o2u6KGoIj4KICAgICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCJmcm9tIiwgewogICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICLlkI3np7DkuI3og73kuLrnqboiIH0KICAgICAgICAgICAgXQogICAgICAgICAgfSkoPENhc2NhZGVyIHN0eWxlPXt7IHdpZHRoOiAiMTAwJSIgfX0gb3B0aW9ucz17ZHNDYXNjYWRlcn0gcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIvPil9CiAgICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
