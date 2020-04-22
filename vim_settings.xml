@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onOk</entry>
-        <entry>render</entry>
-        <entry encoding="base64">XDx0b2dnbGVEYlNvdXJjZURyYXdlclw+</entry>
         <entry encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</entry>
         <entry encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVUYk1hdGNoQWRkXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>ext.geom</entry>
         <entry encoding="base64">XDx0Yk1hdGNoVXBkYXRlUmVjb3JkXD4=</entry>
         <entry>过滤条件</entry>
+        <entry>browser</entry>
+        <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxxaWFua3VuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -95,73 +95,63 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/User.jsx" timestamp="1587351504666">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="8" />
-        <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/user/User.jsx" timestamp="1587353167162">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" timestamp="1587351943510">
-        <mark key="'" line="26" column="51" />
-        <mark key="[" line="128" column="2" />
-        <mark key="]" line="128" column="19" />
-        <mark key="^" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/node_modules/antd/lib/cascader/index.d.ts" timestamp="1587371144814">
         <mark key="[" line="99" column="4" />
         <mark key="]" line="99" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" timestamp="1587354150151">
-        <mark key="'" line="46" column="10" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" timestamp="1587551653870">
+        <mark key="'" line="116" column="0" />
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/test.js" timestamp="1587351077348" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/mock/app.js" timestamp="1587551584231">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587440544747">
         <mark key="'" line="348" column="5" />
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/services/api.js" timestamp="1587352810314">
-        <mark key="[" line="1" column="56" />
-        <mark key="]" line="1" column="56" />
-        <mark key="." line="1" column="56" />
-        <mark key="^" line="1" column="49" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/app2/.umirc.js" timestamp="1587551085246">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/utils.js" timestamp="1587367239258">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/services/app.js" timestamp="1587549779954" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/.umirc.js" timestamp="1587551261402">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587378304610">
+      <file name="/Dummy.txt" timestamp="1587551667324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/user.js" timestamp="1587352241677">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="9" column="49" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/app1/.umirc.js" timestamp="1587551224822">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/models/settings.js" timestamp="1587350524781" />
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1587367241345">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/components/StandardTable/index.js" timestamp="1587351640497">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="121" column="10" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/pages/.umi/umi.js" timestamp="1587549625402">
+        <mark key="'" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/app.js" timestamp="1587549770066" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/app3/.umirc.js" timestamp="1587551096719">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" timestamp="1587442329747">
         <mark key="'" line="18" column="36" />
@@ -170,12 +160,8 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/pages/TestPage.jsx" timestamp="1587344489178">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="24" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/pages/.umi/dva.js" timestamp="1587549097315">
+        <mark key="'" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/services/api.js" timestamp="1587372643654">
         <mark key="[" line="44" column="13" />
@@ -189,21 +175,12 @@
         <mark key="]" line="41" column="45" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/config/router.config.js" timestamp="1587354068666">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="27" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/models/base.js" timestamp="1587549466148" />
+      <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/layouts/index.js" timestamp="1587549012344">
+        <mark key="'" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/config/plugin.config.js" timestamp="1587350644693" />
     </filemarks>
     <jumps>
-      <jump line="22" column="32" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/request.js" />
-      <jump line="604" column="21" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="609" column="60" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="420" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="184" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="637" column="28" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="419" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="586" column="48" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="634" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
@@ -298,6 +275,12 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
       <jump line="348" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="18" column="36" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
+      <jump line="37" column="10" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/layouts/index.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/pages/.umi/dva.js" />
+      <jump line="19" column="5" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/pages/.umi/umi.js" />
+      <jump line="6" column="32" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/pages/.umi/umi.js" />
+      <jump line="17" column="77" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,46 +289,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyOiAodGV4dCwgcmVjb3JkKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVjb3JkLmZyb21GaWx0ZXIucmVwbGFjZSgvIi9nLCAiJnF1b3Q7IiksICJbID09PT09IHRleHQgPT09PT0gXSIpOwogICAgICAgIDxzcGFuPntyZWNvcmQuZnJvbUZpbHRlcn08L3NwYW4+OwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaGlzdG9yeTp7dHlwZTonaGFzaCd9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
-        <text>过滤条件</text>
+        <text encoding="base64">XDxxaWFua3VuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>parent</text>
+        <text>memory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyOiAodGV4dCwgcmVjb3JkKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVjb3JkLmZyb21GaWx0ZXIucmVwbGFjZSgvIi9nLCAiJnF1b3Q7IiksICJbID09PT09IHRleHQgPT09PT0gXSIpOwogICAgICAgIDxzcGFuPntyZWNvcmQuZnJvbUZpbHRlcn08L3NwYW4+OwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaGlzdG9yeTp7dHlwZTonaGFzaCd9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZml4ZWQ6ICJyaWdodCIsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gaGlzdG9yeTp7dHlwZTonaGFzaCd9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2Nyb2xsPXt7IHg6IDEzMDAgfX0K</text>
+        <text encoding="base64">ICAgICAgLy8gaGlzdG9yeTp7dHlwZTonaGFzaCd9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZml4ZWQ6ICJyaWdodCIsCg==</text>
+        <text encoding="base64">ICAgICAgLy8gaGlzdG9yeTp7dHlwZTonaGFzaCd9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sdW1ucz17dGhpcy5jb2x1bW5zfQo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29sdW1ucz17dGhpcy5jb2x1bW5zfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2Nyb2xsPXt7IHg6IDEzMDAgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,9 +337,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>过滤条件</last-search>
+      <last-search encoding="base64">XDxxaWFua3VuXD4=</last-search>
       <last-offset />
-      <last-pattern>过滤条件</last-pattern>
+      <last-pattern encoding="base64">XDxxaWFua3VuXD4=</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
