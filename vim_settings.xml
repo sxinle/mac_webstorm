@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYlNvdXJjZURyYXdlclNob3dcPg==</entry>
-        <entry encoding="base64">XDxUYk1hdGNoQWRkRm9ybVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVUYk1hdGNoQWRkXD4=</entry>
         <entry>toggle</entry>
         <entry>del</entry>
@@ -25,6 +23,8 @@
         <entry>browser</entry>
         <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
         <entry encoding="base64">XDxxaWFua3VuXD4=</entry>
+        <entry>total</entry>
+        <entry>pageNo</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -183,11 +183,11 @@
       <file name="$USER_HOME$/umi-plugin-qiankun/examples/master/layouts/index.js" timestamp="1587549012344">
         <mark key="'" line="37" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/pagination/Pagination.d.ts" timestamp="1587862410060">
+        <mark key="'" line="16" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="634" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="20" column="5" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" />
-      <jump line="16" column="33" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/models/test.js" />
       <jump line="22" column="14" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="18" column="27" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
@@ -285,6 +285,9 @@
       <jump line="116" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/package.json" />
       <jump line="7" column="17" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/.umirc.js" />
       <jump line="30" column="0" filename="$USER_HOME$/umi-plugin-qiankun/examples/master/.umirc.js" />
+      <jump line="28" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/pagination/Pagination.d.ts" />
+      <jump line="2" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/pagination/Pagination.d.ts" />
+      <jump line="16" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/pagination/Pagination.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +302,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxaWFua3VuXD4=</text>
+        <text>pageNo</text>
       </register>
       <register name="0" type="4">
         <text>memory</text>
@@ -341,13 +344,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxaWFua3VuXD4=</last-search>
+      <last-search>pageNo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxaWFua3VuXD4=</last-pattern>
+      <last-pattern>pageNo</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
