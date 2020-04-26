@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>total</entry>
-        <entry>pageNo</entry>
-        <entry>sort</entry>
         <entry>columns</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry>this.props.</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxkYXRhc2V0</entry>
         <entry>dataset</entry>
         <entry>ok</entry>
+        <entry>handleTable</entry>
+        <entry>handle</entry>
+        <entry>handleT</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -109,18 +109,18 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587883105618">
-        <mark key="'" line="371" column="30" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" timestamp="1587885595822">
+        <mark key="'" line="175" column="35" />
         <mark key="[" line="429" column="12" />
         <mark key="]" line="429" column="39" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1587884549693">
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1587885571388">
         <mark key="'" line="155" column="21" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="286" column="36" />
+        <mark key="[" line="246" column="3" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="254" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Edit.jsx" timestamp="1587871274066">
         <mark key="'" line="202" column="0" />
@@ -155,9 +155,10 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/components/StandardTable/index.js" timestamp="1587883894838">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="28" />
+      <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/components/StandardTable/index.js" timestamp="1587885561769">
+        <mark key="'" line="52" column="56" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" timestamp="1587882374716">
         <mark key="'" line="18" column="36" />
@@ -200,14 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="12" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="643" column="8" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="713" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="840" column="42" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="129" column="9" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="133" column="18" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="223" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="858" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/util.js" />
@@ -300,6 +293,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="276" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="155" column="21" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="52" column="56" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/components/StandardTable/index.js" />
+      <jump line="823" column="27" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="47" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="60" column="10" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="126" column="32" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="139" column="10" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
+      <jump line="175" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,16 +309,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYW5kbGVUYWJsZUNoYW5nZSA9IChwYWdpbmF0aW9uLCBmaWx0ZXJzLCBzb3J0ZXIpID0+IHsKICAgIGNvbnN0IHsgb25DaGFuZ2UgfSA9IHRoaXMucHJvcHM7CiAgICBpZiAob25DaGFuZ2UpIHsKICAgICAgb25DaGFuZ2UocGFnaW5hdGlvbiwgZmlsdGVycywgc29ydGVyKTsKICAgIH0KICB9Owo=</text>
       </register>
       <register name="-" type="4">
         <text>...data.pagination</text>
       </register>
       <register name="/" type="4">
-        <text>ok</text>
+        <text>handleT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2hvd1NpemVDaGFuZ2VyOiB0cnVlLAogICAgICBzaG93UXVpY2tKdW1wZXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICBoYW5kbGVUYWJsZUNoYW5nZSA9IChwYWdpbmF0aW9uLCBmaWx0ZXJzLCBzb3J0ZXIpID0+IHsKICAgIGNvbnN0IHsgb25DaGFuZ2UgfSA9IHRoaXMucHJvcHM7CiAgICBpZiAob25DaGFuZ2UpIHsKICAgICAgb25DaGFuZ2UocGFnaW5hdGlvbiwgZmlsdGVycywgc29ydGVyKTsKICAgIH0KICB9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -356,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ok</last-search>
+      <last-search>handleT</last-search>
       <last-offset />
-      <last-pattern>ok</last-pattern>
+      <last-pattern>handleT</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
