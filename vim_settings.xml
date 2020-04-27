@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dark</entry>
-        <entry>theme</entry>
         <entry>themePlugin</entry>
         <entry encoding="base64">XDx0aGVtZVBsdWdpbkNvbmZpZ1w+</entry>
         <entry>antd</entry>
@@ -25,6 +23,8 @@
         <entry>dict</entry>
         <entry>编辑</entry>
         <entry encoding="base64">XDxoYW5kbGVEYXRhU2V0VXBkYXRlXD4=</entry>
+        <entry>column</entry>
+        <entry>统一管理</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -115,12 +115,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1587975684242">
-        <mark key="'" line="574" column="6" />
-        <mark key="[" line="532" column="15" />
-        <mark key="]" line="532" column="21" />
-        <mark key="." line="532" column="20" />
-        <mark key="^" line="532" column="21" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1587978160716">
+        <mark key="'" line="271" column="0" />
+        <mark key="[" line="618" column="8" />
+        <mark key="]" line="618" column="8" />
+        <mark key="." line="618" column="8" />
+        <mark key="^" line="353" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/utils/request.js" timestamp="1587895520142">
         <mark key="'" line="31" column="36" />
@@ -198,7 +198,7 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587975862244">
+      <file name="/Dummy.txt" timestamp="1587978169026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/switch/index.d.ts" timestamp="1587894365032">
@@ -218,15 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="845" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="846" column="23" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="847" column="26" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="810" column="70" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="718" column="6" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="547" column="15" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="293" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="297" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="296" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="120" column="25" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="535" column="35" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="380" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
@@ -318,6 +309,15 @@
       <jump line="154" column="34" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="168" column="10" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="574" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="511" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="330" column="5" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="609" column="27" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="394" column="14" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="606" column="35" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="92" column="45" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="205" column="43" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="433" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
+      <jump line="271" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,46 +326,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>add</text>
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVEYXRhU2V0VXBkYXRlXD4=</text>
+        <text>统一管理</text>
       </register>
       <register name="0" type="4">
         <text>handleDataSetModify</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gd2lkdGg6ICcxMCUnLAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyLCAnWyA9PT09PSByID09PT09IF0nKTsK</text>
+        <text encoding="base64">ICAgICAga2V5OiAnb3BlcmF0aW9uJywK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Lypjb25zdCB7aGFuZGxlRGF0YVNldEFkZCwgdG9nZ2xlRGF0YVNldEFkZH0gPSBwcm9wczsqL30K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaXplPSJzbWFsbCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtkaXNwYXRjaH0gPSB0aGlzLnByb3BzOwogICAgZGlzcGF0Y2goewogICAgICB0eXBlOiAnc3lzZGF0YXNldC9kZWxldGUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgaWQ6IGlkcywKICAgICAgfSwKICAgICAgY2FsbGJhY2s6IChyZXNwKSA9PiB7CiAgICAgICAgaWYgKG9rKHJlc3ApKSB7CiAgICAgICAgICB0aGlzLmZldGNoRGF0YVNldExpc3QoKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">ICAgICAgLy8gd2lkdGg6ICcyMCUnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVEYXRhU2V0VXBkYXRlXD4=</last-search>
+      <last-search>统一管理</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVEYXRhU2V0VXBkYXRlXD4=</last-pattern>
+      <last-pattern>统一管理</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
