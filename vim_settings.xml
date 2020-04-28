@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/workspace/shangyuan/org-front/src/routes/Organization.js" timestamp="1587981120129">
         <mark key="'" line="223" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588047543229">
+      <file name="/Dummy.txt" timestamp="1588047679367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1588047534838">
@@ -133,11 +133,11 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/syslayer.js" timestamp="1588046195512">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="35" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/syslayer.js" timestamp="1588047576070">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1588041011403">
         <mark key="'" line="39" column="0" />
@@ -171,8 +171,8 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/syslayer.js" timestamp="1588046240256">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/syslayer.js" timestamp="1588047571058">
+        <mark key="'" line="18" column="47" />
         <mark key="[" line="22" column="6" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="23" column="36" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="7" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/config/config.js" />
       <jump line="11" column="24" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="354" column="31" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
@@ -313,6 +312,7 @@
       <jump line="66" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" />
+      <jump line="18" column="47" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/syslayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,11 +320,11 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">LyoqCiAqIHJlcXVlc3Qg572R57uc6K+35rGC5bel5YW3CiAqIOabtOivpue7hueahCBhcGkg5paH5qGjCDogaHR0cHM6Ly9naXRodWIuY29tL3VtaWpzL3VtaS1yZXF1ZXN0CiAqLwppbXBvcnQge2V4dGVuZH0gZnJvbSAndW1pLXJlcXVlc3QnOwppbXBvcnQge25vdGlmaWNhdGlvbn0gZnJvbSAnYW50ZCc7CmltcG9ydCB7aG9zdElwfSBmcm9tICJAL3V0aWxzL3V0aWxzIjsKCmNvbnN0IGNvZGVNZXNzYWdlID0gewogIDIwMDogJ+acjeWKoeWZqOaIkOWKn+i/lOWbnuivt+axgueahOaVsOaNruOAgicsCiAgMjAxOiAn5paw5bu65oiW5L+u5pS55pWw5o2u5oiQ5Yqf44CCJywKICAyMDI6ICfkuIDkuKror7fmsYLlt7Lnu4/ov5vlhaXlkI7lj7DmjpLpmJ/vvIjlvILmraXku7vliqHvvInjgIInLAogIDIwNDogJ+WIoOmZpOaVsOaNruaIkOWKn+OAgicsCiAgNDAwOiAn5Y+R5Ye655qE6K+35rGC5pyJ6ZSZ6K+v77yM5pyN5Yqh5Zmo5rKh5pyJ6L+b6KGM5paw5bu65oiW5L+u5pS55pWw5o2u55qE5pON5L2c44CCJywKICA0MDE6ICfnlKjmiLfmsqHmnInmnYPpmZDvvIjku6TniYzjgIHnlKjmiLflkI3jgIHlr4bnoIHplJnor6/vvInjgIInLAogIDQwMzogJ+eUqOaIt+W+l+WIsOaOiOadg++8jOS9huaYr+iuv+mXruaYr+iiq+emgeatoueahOOAgicsCiAgNDA0OiAn5Y+R5Ye655qE6K+35rGC6ZKI5a+555qE5piv5LiN5a2Y5Zyo55qE6K6w5b2V77yM5pyN5Yqh5Zmo5rKh5pyJ6L+b6KGM5pON5L2c44CCJywKICA0MDY6ICfor7fmsYLnmoTmoLzlvI/kuI3lj6/lvpfjgIInLAogIDQxMDogJ+ivt+axgueahOi1hOa6kOiiq+awuOS5heWIoOmZpO+8jOS4lOS4jeS8muWGjeW+l+WIsOeahOOAgicsCiAgNDIyOiAn5b2T5Yib5bu65LiA5Liq5a+56LGh5pe277yM5Y+R55Sf5LiA5Liq6aqM6K+B6ZSZ6K+v44CCJywKICA1MDA6ICfmnI3liqHlmajlj5HnlJ/plJnor6/vvIzor7fmo4Dmn6XmnI3liqHlmajjgIInLAogIDUwMjogJ+e9keWFs+mUmeivr+OAgicsCiAgNTAzOiAn5pyN5Yqh5LiN5Y+v55So77yM5pyN5Yqh5Zmo5pqC5pe26L+H6L295oiW57u05oqk44CCJywKICA1MDQ6ICfnvZHlhbPotoXml7bjgIInLAp9OwovKioKICog5byC5bi45aSE55CG56iL5bqPCiAqLwoKY29uc3QgZXJyb3JIYW5kbGVyID0gZXJyb3IgPT4gewogIGNvbnN0IHtyZXNwb25zZX0gPSBlcnJvcjsKCiAgaWYgKHJlc3BvbnNlICYmIHJlc3BvbnNlLnN0YXR1cykgewogICAgY29uc3QgZXJyb3JUZXh0ID0gY29kZU1lc3NhZ2VbcmVzcG9uc2Uuc3RhdHVzXSB8fCByZXNwb25zZS5zdGF0dXNUZXh0OwogICAgY29uc3Qge3N0YXR1cywgdXJsfSA9IHJlc3BvbnNlOwogICAgbm90aWZpY2F0aW9uLmVycm9yKHsKICAgICAgbWVzc2FnZTogYOivt+axgumUmeivryAke3N0YXR1c306ICR7dXJsfWAsCiAgICAgIGRlc2NyaXB0aW9uOiBlcnJvclRleHQsCiAgICB9KTsKICB9IGVsc2UgaWYgKCFyZXNwb25zZSkgewogICAgbm90aWZpY2F0aW9uLmVycm9yKHsKICAgICAgZGVzY3JpcHRpb246ICfmgqjnmoTnvZHnu5zlj5HnlJ/lvILluLjvvIzml6Dms5Xov57mjqXmnI3liqHlmagnLAogICAgICBtZXNzYWdlOiAn572R57uc5byC5bi4JywKICAgIH0pOwogIH0KCiAgcmV0dXJuIHJlc3BvbnNlOwp9OwoKLyoqCiAqIOmFjee9rnJlcXVlc3Tor7fmsYLml7bnmoTpu5jorqTlj4LmlbAKICovCmNvbnN0IHJlcXVlc3QgPSBleHRlbmQoewogIHByZWZpeDogaG9zdElwLAogIGVycm9ySGFuZGxlciwKICAvLyDpu5jorqTplJnor6/lpITnkIYKICAvLyBjcmVkZW50aWFsczogJ2luY2x1ZGUnLCAvLyDpu5jorqTor7fmsYLmmK/lkKbluKbkuIpjb29raWUKfSk7CgpyZXF1ZXN0LmludGVyY2VwdG9ycy5yZXF1ZXN0LnVzZSgodXJsLCBvcHRpb25zKSA9PiB7CiAgY29uc3QgZGF0YSA9IG9wdGlvbnMuZGF0YSA/IEpTT04uc3RyaW5naWZ5KG9wdGlvbnMuZGF0YSkgOiAnJzsKICBjb25zb2xlLmxvZyhgJWMg6K+35rGCICVjICR7dXJsfSAgIGJvZHk9PiAlYyAke2RhdGF9IGAsICdiYWNrZ3JvdW5kOiNGRjBGMzg7Y29sb3I6I0ZGRicsICdiYWNrZ3JvdW5kOm5vbmU7Y29sb3I6I0ZGRicsICdjb2xvcjojRjAwJyk7CiAgcmV0dXJuICh7dXJsLCBvcHRpb25zfSk7Cn0pCgpyZXF1ZXN0LmludGVyY2VwdG9ycy5yZXNwb25zZS51c2UoYXN5bmMgKHJlc3BvbnNlKSA9PiB7CiAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmNsb25lKCkuanNvbigpOwogIGNvbnNvbGUubG9nKCclYyDlk43lupQgJywgJ2JhY2tncm91bmQ6I0ZGRjtjb2xvcjojRkYwRjM4JywgZGF0YSk7CiAgcmV0dXJuIHJlc3BvbnNlOwp9KQoKZXhwb3J0IGRlZmF1bHQgcmVxdWVzdDsK</text>
+      <register name="*" type="4">
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JWMg</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJlbnRMYXllcnNcPg==</text>
