@@ -97,12 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588151159681">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="30" />
+      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588151925656">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" timestamp="1588150158333">
         <mark key="'" line="13" column="31" />
@@ -145,18 +145,15 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="14" />
       </file>
-      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/index.js" timestamp="1588148306265">
-        <mark key="[" line="44" column="71" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/index.js" timestamp="1588151818736">
+        <mark key="'" line="17" column="38" />
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/qiankun/examples/main/index.js" timestamp="1588133298792">
-        <mark key="'" line="28" column="31" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="28" column="13" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="28" column="12" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1588151394522">
+        <mark key="'" line="280" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/src/sandbox/patchers/historyListener.ts" timestamp="1588149902582" />
       <file name="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" timestamp="1588148951841">
@@ -205,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="48" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="2" column="8" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="589" column="53" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="26" column="7" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="136" column="56" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -305,6 +299,9 @@
       <jump line="12" column="56" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
       <jump line="13" column="31" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
       <jump line="8" column="31" filename="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" />
+      <jump line="280" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="5" column="21" filename="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" />
+      <jump line="15" column="38" filename="$USER_HOME$/micros/qiankun-test-demo2/src/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,10 +310,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>'111111111111'</text>
+        <text>demo2</text>
       </register>
       <register name="-" type="4">
-        <text>'111111111111'</text>
+        <text>demo2</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -325,34 +322,34 @@
         <text>qiankun:sandbox</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFtjb3VudCwgc2V0Q291bnRdID0gdXNlU3RhdGUoMCk7CiAgICByZXR1cm4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAiPgoKICAgICAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgICAgICAgICAgPGgxPlJlYWN0IDE2PC9oMT4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIExlYXJuIFJlYWN0IGJiYmJiYmJiYmJiYgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIGNvdW50OiB7Y291bnR9CiAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldENvdW50KGNvdW50ID0+IGNvdW50ICsgMSl9PmFkZDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgPC9kaXY+CiAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBvb24K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygidW5tb3VudCBkZW1vMjIyMjIyMjIiLCAnWyA9PT09PSAidW5tb3VudCBkZW1vMSIgPT09PT0gXScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZWFjdERPTS5maW5kRE9NTm9kZSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFtjb3VudCwgc2V0Q291bnRdID0gdXNlU3RhdGUoMCk7CiAgICByZXR1cm4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAiPgoKICAgICAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgICAgICAgICAgPGgxPlJlYWN0IDE2PC9oMT4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIExlYXJuIFJlYWN0IGJiYmJiYmJiYmJiYgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIGNvdW50OiB7Y291bnR9CiAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldENvdW50KGNvdW50ID0+IGNvdW50ICsgMSl9PmFkZDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgPC9kaXY+CiAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVhY3QxNSB1bm1vdW50JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKAovLyAgIDxSZWFjdC5TdHJpY3RNb2RlPgovLyAgICAgPEFwcCAvPgovLyAgIDwvUmVhY3QuU3RyaWN0TW9kZT4sCi8vICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQovLyApOwo=</text>
+        <text encoding="base64">ICBSZWFjdERPTS5maW5kRE9NTm9kZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcENvbnRlbnQpCiAgICBjb25zb2xlLmxvZyhsb2FkaW5nKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVhY3QxNSB1bm1vdW50JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMzMzMzMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
