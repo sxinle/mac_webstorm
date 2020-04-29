@@ -97,6 +97,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/demo/qiankun/examples/main/index.js" timestamp="1588133298792">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="28" column="13" />
+        <mark key="^" line="28" column="13" />
+        <mark key="." line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.less" timestamp="1588058862549">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="19" column="0" />
@@ -149,12 +156,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Grid.jsx" timestamp="1588051858168">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="18" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1588121299001">
         <mark key="'" line="647" column="0" />
       </file>
@@ -191,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="3" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="10" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -291,6 +291,7 @@
       <jump line="332" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="198" column="31" filename="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" />
       <jump line="189" column="29" filename="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" />
+      <jump line="28" column="31" filename="$USER_HOME$/workspace/demo/qiankun/examples/main/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,47 +299,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>unmountComponentAtNode</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgY29udGFpbmVyOiAnI3N1YmFwcC12aWV3cG9ydCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>you need</text>
       </register>
-      <register name="0" type="4">
-        <text>unmountComponentAtNode</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29udGFpbmVyOiAnI3N1YmFwcC12aWV3cG9ydCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyOiAnI3N1YmFwcC12aWV3cG9ydCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlUnVsZTogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygneHh4eCcsICdbID09PT09ICA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaJgOWxnuWcsOWbviI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoIm1hcElkIiwgewogICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICLmiYDlsZ7lnLDlm77kuI3og73kuLrnqboifV0KICAgICAgICB9KSgKICAgICAgICAgIDxTZWxlY3QgcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIgc3R5bGU9e3t3aWR0aDogIjEwMCUifX0+CiAgICAgICAgICAgIHttYXBTZXJ2aWNlcy5tYXAocCA9PiAoCiAgICAgICAgICAgICAgPE9wdGlvbiBrZXk9e3AuaWR9IHZhbHVlPXtwLmlkfT4KICAgICAgICAgICAgICAgIHtwLm5hbWV9CiAgICAgICAgICAgICAgPC9PcHRpb24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgKX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
+        <text encoding="base64">ICBpZiAoZmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygneHh4eCcsICdbID09PT09ICA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaJgOWxnuWcsOWbviI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoIm1hcElkIiwgewogICAgICAgICAgcnVsZXM6IFt7cmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICLmiYDlsZ7lnLDlm77kuI3og73kuLrnqboifV0KICAgICAgICB9KSgKICAgICAgICAgIDxTZWxlY3QgcGxhY2Vob2xkZXI9Iuivt+mAieaLqSIgc3R5bGU9e3t3aWR0aDogIjEwMCUifX0+CiAgICAgICAgICAgIHttYXBTZXJ2aWNlcy5tYXAocCA9PiAoCiAgICAgICAgICAgICAgPE9wdGlvbiBrZXk9e3AuaWR9IHZhbHVlPXtwLmlkfT4KICAgICAgICAgICAgICAgIHtwLm5hbWV9CiAgICAgICAgICAgICAgPC9PcHRpb24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgKX0KICAgICAgPC9Gb3JtSXRlbT4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9InBoeXNpY2FsTmFtZSI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoInBoeXNpY2FsTmFtZSIsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHtyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogInBoeXNpY2FsTmFtZeS4jeiDveS4uuepuiJ9CiAgICAgICAgICBdCiAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaUiLz4pfQogICAgICA8L0Zvcm1JdGVtPgogICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
