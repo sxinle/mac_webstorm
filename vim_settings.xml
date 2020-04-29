@@ -97,11 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588137546259">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588151159681">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" timestamp="1588150158333">
         <mark key="'" line="13" column="31" />
@@ -204,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="55" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="78" column="48" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="2" column="8" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="589" column="53" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -304,6 +304,7 @@
       <jump line="14" column="4" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
       <jump line="12" column="56" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
       <jump line="13" column="31" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
+      <jump line="8" column="31" filename="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,10 +313,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>qiankun:sandbox</text>
+        <text>'111111111111'</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>'111111111111'</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -324,34 +325,34 @@
         <text>qiankun:sandbox</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSZWFjdERPTS5maW5kRE9NTm9kZSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFtjb3VudCwgc2V0Q291bnRdID0gdXNlU3RhdGUoMCk7CiAgICByZXR1cm4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJBcHAiPgoKICAgICAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgICAgICAgICAgPGgxPlJlYWN0IDE2PC9oMT4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vcmVhY3Rqcy5vcmciCiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIExlYXJuIFJlYWN0IGJiYmJiYmJiYmJiYgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIGNvdW50OiB7Y291bnR9CiAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldENvdW50KGNvdW50ID0+IGNvdW50ICsgMSl9PmFkZDwvYnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgPC9kaXY+CiAgICApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVhY3QxNSB1bm1vdW50JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKAovLyAgIDxSZWFjdC5TdHJpY3RNb2RlPgovLyAgICAgPEFwcCAvPgovLyAgIDwvUmVhY3QuU3RyaWN0TW9kZT4sCi8vICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQovLyApOwo=</text>
+        <text encoding="base64">ICBSZWFjdERPTS5maW5kRE9NTm9kZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcENvbnRlbnQpCiAgICBjb25zb2xlLmxvZyhsb2FkaW5nKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVhY3QxNSB1bm1vdW50JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMzMzMzMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogYXBwQ29udGVudH19Lz4qL30K</text>
+        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKAovLyAgIDxSZWFjdC5TdHJpY3RNb2RlPgovLyAgICAgPEFwcCAvPgovLyAgIDwvUmVhY3QuU3RyaWN0TW9kZT4sCi8vICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQovLyApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qIDxkaXYgaWQ9InN1YmFwcC12aWV3cG9ydDIiLz4gKi99Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcENvbnRlbnQpCiAgICBjb25zb2xlLmxvZyhsb2FkaW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMzMzMzMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
