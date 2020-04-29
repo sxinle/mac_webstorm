@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>新增数据集</entry>
-        <entry encoding="base64">XDxyZXNldEZpZWxkc1w+</entry>
         <entry encoding="base64">XDxEb3duT3V0bGluZWRcPg==</entry>
         <entry encoding="base64">XDxUZXh0QXJlYVw+</entry>
         <entry>onchange</entry>
@@ -25,6 +23,8 @@
         <entry>you need</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxwdXNoXD4=</entry>
+        <entry>single</entry>
+        <entry encoding="base64">XDxfc2luZ2xlU3BhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -98,9 +98,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" timestamp="1588131627750" />
-      <file name="/a.dummy" timestamp="1588122941688">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588137546259">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -124,12 +121,12 @@
         <mark key="." line="285" column="1" />
         <mark key="^" line="285" column="2" />
       </file>
-      <file name="$USER_HOME$/micros/qiankun-test/src/App.js" timestamp="1588147722641">
-        <mark key="'" line="15" column="35" />
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="34" />
+      <file name="$USER_HOME$/micros/qiankun-test/src/App.js" timestamp="1588148698893">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/micros/qiankun-test-demo2/.rescriptsrc.js" timestamp="1588137406525">
         <mark key="[" line="15" column="22" />
@@ -137,10 +134,17 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react16/src/index.js" timestamp="1588129127662">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/micros/qiankun-test-demo1/src/index.js" timestamp="1588148278768">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="14" />
+      </file>
+      <file name="$USER_HOME$/micros/qiankun-test-demo2/src/index.js" timestamp="1588148306265">
+        <mark key="[" line="44" column="71" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/examples/main/index.js" timestamp="1588133298792">
         <mark key="'" line="28" column="31" />
@@ -148,6 +152,9 @@
         <mark key="]" line="28" column="13" />
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" timestamp="1588148951841">
+        <mark key="'" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/micros/qiankun-test-demo1/.rescriptsrc.js" timestamp="1588137404004">
         <mark key="[" line="15" column="22" />
@@ -166,15 +173,26 @@
         <mark key="^" line="66" column="19" />
         <mark key="." line="68" column="33" />
       </file>
-      <file name="$USER_HOME$/micros/qiankun-test/src/index.js" timestamp="1588147732767">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="29" column="24" />
+      <file name="$USER_HOME$/workspace/demo/qiankun/lib/effects.js" timestamp="1588148962382" />
+      <file name="$USER_HOME$/micros/qiankun-test/src/index.js" timestamp="1588148765772">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" timestamp="1588131754556">
+      <file name="$USER_HOME$/workspace/demo/qiankun/es/sandbox/legacy/sandbox.js" timestamp="1588149004525">
+        <mark key="[" line="129" column="21" />
+        <mark key="]" line="129" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" timestamp="1588148887267">
         <mark key="'" line="189" column="29" />
+        <mark key="[" line="172" column="22" />
+        <mark key="]" line="172" column="22" />
+        <mark key="." line="172" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/package.json" timestamp="1588148934956">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" timestamp="1588138235884">
         <mark key="'" line="11" column="38" />
@@ -183,18 +201,8 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.less" timestamp="1588122583110">
-        <mark key="'" line="39" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="289" column="9" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="292" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="276" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="295" column="24" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="300" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/syslayer.js" />
       <jump line="167" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="443" column="9" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="55" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -281,13 +289,20 @@
       <jump line="279" column="7" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="11" column="38" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" />
       <jump line="39" column="2" filename="$USER_HOME$/micros/qiankun-test/src/index.js" />
-      <jump line="71" column="23" filename="$USER_HOME$/micros/qiankun-test/src/index.js" />
       <jump line="6" column="13" filename="$USER_HOME$/micros/qiankun-test/src/App.js" />
       <jump line="14" column="35" filename="$USER_HOME$/micros/qiankun-test/src/App.js" />
       <jump line="15" column="35" filename="$USER_HOME$/micros/qiankun-test/src/App.js" />
       <jump line="21" column="2" filename="$USER_HOME$/micros/qiankun-test/src/index.js" />
       <jump line="73" column="29" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="516" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="9" column="14" filename="$USER_HOME$/micros/qiankun-test/src/App.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/micros/qiankun-test/src/App.js" />
+      <jump line="28" column="23" filename="$USER_HOME$/micros/qiankun-test/src/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/micros/qiankun-test/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/qiankun/package.json" />
+      <jump line="10" column="11" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,47 +310,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICBoYW5kbGVUYWJsZUNoYW5nZSA9IChwYWdpbmF0aW9uLCBmaWx0ZXJzQXJnLCBzb3J0ZXIpID0+IHsKICAgIGNvbnN0IHtmb3JtVmFsdWVzfSA9IHRoaXMuc3RhdGU7CgogICAgY29uc3QgZmlsdGVycyA9IE9iamVjdC5rZXlzKGZpbHRlcnNBcmcpLnJlZHVjZSgob2JqLCBrZXkpID0+IHsKICAgICAgY29uc3QgbmV3T2JqID0gey4uLm9ian07CiAgICAgIG5ld09ialtrZXldID0gZ2V0VmFsdWUoZmlsdGVyc0FyZ1trZXldKTsKICAgICAgcmV0dXJuIG5ld09iajsKICAgIH0sIHt9KTsKCiAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgIHBhZ2VObzogcGFnaW5hdGlvbi5jdXJyZW50LAogICAgICBwYWdlU2l6ZTogcGFnaW5hdGlvbi5wYWdlU2l6ZSwKICAgICAgLi4uZm9ybVZhbHVlcywKICAgICAgLi4uZmlsdGVycywKICAgIH07CiAgICBpZiAoc29ydGVyLmZpZWxkKSB7CiAgICAgIHBhcmFtcy5zb3J0ZXIgPSBgJHtzb3J0ZXIuZmllbGR9XyR7c29ydGVyLm9yZGVyfWA7CiAgICB9CgogICAgdGhpcy5mZXRjaE1hcFNlcnZpY2VMaXN0KHBhcmFtcyk7CiAgfTsK</text>
+      <register name="*" type="4">
+        <text>qiankun:sandbox</text>
       </register>
       <register name="-" type="4">
-        <text>yourContainer</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXNoXD4=</text>
+        <text encoding="base64">XDxfc2luZ2xlU3BhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBoYW5kbGVUYWJsZUNoYW5nZSA9IChwYWdpbmF0aW9uLCBmaWx0ZXJzQXJnLCBzb3J0ZXIpID0+IHsKICAgIGNvbnN0IHtmb3JtVmFsdWVzfSA9IHRoaXMuc3RhdGU7CgogICAgY29uc3QgZmlsdGVycyA9IE9iamVjdC5rZXlzKGZpbHRlcnNBcmcpLnJlZHVjZSgob2JqLCBrZXkpID0+IHsKICAgICAgY29uc3QgbmV3T2JqID0gey4uLm9ian07CiAgICAgIG5ld09ialtrZXldID0gZ2V0VmFsdWUoZmlsdGVyc0FyZ1trZXldKTsKICAgICAgcmV0dXJuIG5ld09iajsKICAgIH0sIHt9KTsKCiAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgIHBhZ2VObzogcGFnaW5hdGlvbi5jdXJyZW50LAogICAgICBwYWdlU2l6ZTogcGFnaW5hdGlvbi5wYWdlU2l6ZSwKICAgICAgLi4uZm9ybVZhbHVlcywKICAgICAgLi4uZmlsdGVycywKICAgIH07CiAgICBpZiAoc29ydGVyLmZpZWxkKSB7CiAgICAgIHBhcmFtcy5zb3J0ZXIgPSBgJHtzb3J0ZXIuZmllbGR9XyR7c29ydGVyLm9yZGVyfWA7CiAgICB9CgogICAgdGhpcy5mZXRjaE1hcFNlcnZpY2VMaXN0KHBhcmFtcyk7CiAgfTsK</text>
+      <register name="0" type="4">
+        <text>qiankun:sandbox</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSZWFjdERPTS5maW5kRE9NTm9kZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKAovLyAgIDxSZWFjdC5TdHJpY3RNb2RlPgovLyAgICAgPEFwcCAvPgovLyAgIDwvUmVhY3QuU3RyaWN0TW9kZT4sCi8vICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQovLyApOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVhY3QxNSB1bm1vdW50JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcENvbnRlbnQpCiAgICBjb25zb2xlLmxvZyhsb2FkaW5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMzMzMzMpCg==</text>
+        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKAovLyAgIDxSZWFjdC5TdHJpY3RNb2RlPgovLyAgICAgPEFwcCAvPgovLyAgIDwvUmVhY3QuU3RyaWN0TW9kZT4sCi8vICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQovLyApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogYXBwQ29udGVudH19Lz4qL30K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcENvbnRlbnQpCiAgICBjb25zb2xlLmxvZyhsb2FkaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qIDxkaXYgaWQ9InN1YmFwcC12aWV3cG9ydDIiLz4gKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzMzMzMzMzMzMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogYXBwQ29udGVudH19Lz4qL30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZlUnVsZTogJy9kZW1vMScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qIDxkaXYgaWQ9InN1YmFwcC12aWV3cG9ydDIiLz4gKi99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKiA8bGk+CiAgICAgICAgICA8TGluayB0bz17YC9yZWFjdDE2YH0+UmVhY3QxNjwvTGluaz4KICAgICAgICA8L2xpPgogICAgICAgIDxsaT4KICAgICAgICAgIDxMaW5rIHRvPXtgL3JlYWN0MTVgfT5SZWFjdDE1PC9MaW5rPgogICAgICAgIDwvbGk+ICovfQo=</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwdXNoXD4=</last-search>
+      <last-search encoding="base64">XDxfc2luZ2xlU3BhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfc2luZ2xlU3BhXD4=</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
