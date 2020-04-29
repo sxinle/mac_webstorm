@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEb3duT3V0bGluZWRcPg==</entry>
         <entry encoding="base64">XDxUZXh0QXJlYVw+</entry>
         <entry>onchange</entry>
         <entry>Select</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwdXNoXD4=</entry>
         <entry>single</entry>
         <entry encoding="base64">XDxfc2luZ2xlU3BhXD4=</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -97,12 +97,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" timestamp="1588131627750" />
       <file name="$USER_HOME$/micros/qiankun-test-demo2/src/App.js" timestamp="1588137546259">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" timestamp="1588150158333">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/micros/qiankun-test-demo2/package.json" timestamp="1588137720505">
         <mark key="[" line="14" column="14" />
@@ -153,6 +157,7 @@
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/src/sandbox/patchers/historyListener.ts" timestamp="1588149902582" />
       <file name="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" timestamp="1588148951841">
         <mark key="'" line="20" column="4" />
       </file>
@@ -161,10 +166,6 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/node_modules/react-dom/lib/ReactDOM.js" timestamp="1588131584218">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588147834670">
         <mark key="'" line="516" column="0" />
@@ -203,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="443" column="9" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="55" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="44" column="55" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="78" column="48" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="2" column="8" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -303,6 +301,9 @@
       <jump line="10" column="11" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
       <jump line="20" column="4" filename="$USER_HOME$/workspace/demo/qiankun/lib/errorHandler.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
+      <jump line="12" column="56" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
+      <jump line="13" column="31" filename="$USER_HOME$/workspace/demo/qiankun/src/sandbox/legacy/sandbox.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +318,7 @@
         <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2luZ2xlU3BhXD4=</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
         <text>qiankun:sandbox</text>
@@ -359,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc2luZ2xlU3BhXD4=</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2luZ2xlU3BhXD4=</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
