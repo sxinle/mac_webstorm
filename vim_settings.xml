@@ -108,8 +108,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1588046220640">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1588122941688">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/package.json" timestamp="1588039343844">
         <mark key="[" line="54" column="0" />
@@ -129,10 +129,6 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="17" />
         <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/org-front/src/routes/Organizition.less" timestamp="1587981233244">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" timestamp="1588052458363">
         <mark key="[" line="0" column="17" />
@@ -162,15 +158,6 @@
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1588121299001">
         <mark key="'" line="647" column="0" />
-        <mark key="[" line="551" column="32" />
-        <mark key="]" line="552" column="35" />
-        <mark key="." line="552" column="34" />
-        <mark key="^" line="552" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/org-front/src/components/SearchTree/index.js" timestamp="1587981601922">
-        <mark key="'" line="110" column="15" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1588069681931">
         <mark key="[" line="0" column="0" />
@@ -180,6 +167,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="71" column="23" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588123035762">
+        <mark key="'" line="609" column="7" />
+        <mark key="[" line="614" column="23" />
+        <mark key="]" line="614" column="27" />
+        <mark key="^" line="614" column="27" />
+        <mark key="." line="614" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/syslayer.js" timestamp="1588047576070">
         <mark key="[" line="19" column="17" />
@@ -214,14 +208,11 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.less" timestamp="1588122583110">
+        <mark key="'" line="39" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="45" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="205" column="43" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="433" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="271" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="223" column="17" filename="$USER_HOME$/workspace/shangyuan/org-front/src/routes/Organization.js" />
-      <jump line="110" column="15" filename="$USER_HOME$/workspace/shangyuan/org-front/src/components/SearchTree/index.js" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/R_ManageModel.js" />
       <jump line="26" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.less" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.less" />
@@ -316,6 +307,12 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysdataset.js" />
       <jump line="646" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="647" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="292" column="25" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.less" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.less" />
+      <jump line="594" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="53" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="609" column="7" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,17 +320,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tdW51c2VkLXZhcnMK</text>
+      <register name="*" type="4">
+        <text>数据集</text>
       </register>
       <register name="-" type="4">
-        <text>margin</text>
+        <text>数据集</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VUeXBlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>sysdataset</text>
+        <text>toggleLayerUpdate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAdHlwZXNjcmlwdC1lc2xpbnQvbm8tdW51c2VkLXZhcnMK</text>
