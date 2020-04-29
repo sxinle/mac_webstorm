@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>column</entry>
-        <entry>统一管理</entry>
-        <entry>tree</entry>
         <entry encoding="base64">XDxzZXRTZWxlY3RSb3dcPg==</entry>
         <entry>数据集名称</entry>
         <entry>新增数据集</entry>
@@ -25,6 +22,9 @@
         <entry>LayersAdd</entry>
         <entry encoding="base64">XDxzb3VyY2VUeXBlc1w+</entry>
         <entry>图层名称</entry>
+        <entry>died in status</entry>
+        <entry>die</entry>
+        <entry>you need</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -107,14 +107,13 @@
       <file name="/Dummy.txt" timestamp="1588069681931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-front/src/utils/request.js" timestamp="1588047534838">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" timestamp="1588131627750" />
       <file name="/a.dummy" timestamp="1588122941688">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/node_modules/react-dom/lib/ReactDOM.js" timestamp="1588131584218">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588125036554">
         <mark key="'" line="332" column="0" />
@@ -122,12 +121,6 @@
         <mark key="]" line="68" column="44" />
         <mark key="^" line="66" column="19" />
         <mark key="." line="68" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/syslayer.js" timestamp="1588047576070">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1588059103713">
         <mark key="'" line="556" column="69" />
@@ -148,13 +141,6 @@
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="47" />
         <mark key="^" line="18" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/syslayer.js" timestamp="1588047571058">
-        <mark key="'" line="18" column="47" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysdataset.js" timestamp="1588059167391">
         <mark key="'" line="11" column="0" />
@@ -185,6 +171,9 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" timestamp="1588131754556">
+        <mark key="'" line="189" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" timestamp="1588124808450">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="4" column="45" />
@@ -202,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.less" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.less" />
       <jump line="532" column="3" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" />
       <jump line="10" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -302,6 +289,8 @@
       <jump line="53" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="609" column="7" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="332" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="198" column="31" filename="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" />
+      <jump line="189" column="29" filename="$USER_HOME$/workspace/demo/qiankun/src/loader.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,17 +298,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>unmountComponentAtNode</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>图层名称</text>
+        <text>you need</text>
       </register>
       <register name="0" type="4">
-        <text>serviceType</text>
+        <text>unmountComponentAtNode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,13 +347,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>图层名称</last-search>
+      <last-search>you need</last-search>
       <last-offset />
-      <last-pattern>图层名称</last-pattern>
+      <last-pattern>you need</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
