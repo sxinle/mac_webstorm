@@ -38,8 +38,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFTb3VyY2UvZGF0YVNldC9n</entry>
         <entry>action $Redo</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -166,8 +166,8 @@
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1588151394522">
         <mark key="'" line="280" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1588219536200">
-        <mark key="'" line="23" column="56" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1588220150207">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="17" column="21" />
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="24" />
@@ -216,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.less" />
-      <jump line="594" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="53" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="609" column="7" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="332" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
@@ -316,6 +314,8 @@
       <jump line="184" column="116" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="15" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Edit.jsx" />
       <jump line="105" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Edit.jsx" />
+      <jump line="8" column="25" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,7 +366,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
