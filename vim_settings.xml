@@ -7,7 +7,6 @@
       <history-search>
         <entry>single</entry>
         <entry encoding="base64">XDxfc2luZ2xlU3BhXD4=</entry>
-        <entry>delete</entry>
         <entry encoding="base64">XDxnZXRUeXBlQnlHcm91cENvZGVcPg==</entry>
         <entry encoding="base64">XDxnZXRSdWxlVHlwZURhdGFcPg==</entry>
         <entry>mapService</entry>
@@ -25,6 +24,7 @@
         <entry>handleMapser</entry>
         <entry>handleMapService</entry>
         <entry>添加成功</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -186,12 +186,12 @@
         <mark key="^" line="40" column="13" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588235031058">
-        <mark key="'" line="280" column="26" />
-        <mark key="[" line="303" column="18" />
-        <mark key="]" line="303" column="19" />
-        <mark key="." line="303" column="18" />
-        <mark key="^" line="303" column="19" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588237978530">
+        <mark key="'" line="174" column="17" />
+        <mark key="[" line="310" column="40" />
+        <mark key="]" line="310" column="40" />
+        <mark key="." line="310" column="39" />
+        <mark key="^" line="310" column="40" />
       </file>
       <file name="$USER_HOME$/micros/qiankun-test/src/index.js" timestamp="1588207170284">
         <mark key="'" line="78" column="0" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" />
       <jump line="22" column="5" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" />
@@ -318,6 +317,7 @@
       <jump line="479" column="34" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="477" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="280" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="174" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,46 +326,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>, put</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>, put</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>添加成功</text>
+        <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9KSg8SW5wdXROdW1iZXIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgbWluPXsxfSBtYXg9ezEwMH0vPil9Cg==</text>
+      <register name="0" type="4">
+        <text>physicalName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBhcmVudExheWVycygpIHsKLy8gICByZXR1cm4gcmVxdWVzdC5wb3N0KGAvbGF5ZXJzL3F1ZXJ5UGFyZW50c2ApOwovLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKiBlc2xpbnQgQHR5cGVzY3JpcHQtZXNsaW50L25vLXVudXNlZC12YXJzOjAgKi8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KSg8SW5wdXROdW1iZXIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIvPil9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAuLi5zeXNsYXllciwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAuLi5zeXNkYXRhc2V0LAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8KLy8gZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBhcmVudExheWVycygpIHsKLy8gICByZXR1cm4gcmVxdWVzdC5wb3N0KGAvbGF5ZXJzL3F1ZXJ5UGFyZW50c2ApOwovLyB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKiBlc2xpbnQgQHR5cGVzY3JpcHQtZXNsaW50L25vLXVudXNlZC12YXJzOjAgKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9KSg8SW5wdXROdW1iZXIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIvPil9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAuLi5zeXNsYXllciwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
+        <text encoding="base64">ICAuLi5zeXNkYXRhc2V0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc29ydGVyOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>添加成功</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>添加成功</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
