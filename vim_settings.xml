@@ -5,16 +5,8 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyRGljdEdyb3VwXD4=</entry>
-        <entry encoding="base64">XDxEaWN0R3JvdXBBZGRGb3JtXD4=</entry>
-        <entry encoding="base64">XDx0b2dnbGVEaWN0R3JvdXBBZGRcPg==</entry>
-        <entry encoding="base64">XDxwYXJlbnRTdGF0ZXNcPg==</entry>
-        <entry encoding="base64">XDxhZGRBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxwb3B1cE5vZGVcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVEaWN0R3JvdXBBZGRcPg==</entry>
         <entry>searchTree</entry>
         <entry encoding="base64">XDxhdXRvRXhwYW5kUGFyZW50XD4=</entry>
-        <entry>addAction</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWVyeUZvcm1cPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
@@ -25,6 +17,14 @@
         <entry encoding="base64">XDxnZW5lcmF0ZUxpc3RcPg==</entry>
         <entry encoding="base64">XDxncm91cFRyZWVcPg==</entry>
         <entry encoding="base64">XDx0cmVlRXhwYW5kS2V5c1w+</entry>
+        <entry>delAction</entry>
+        <entry encoding="base64">XDx0b2dnbGVEaWN0R3JvdXBBZGRcPg==</entry>
+        <entry>addAction</entry>
+        <entry encoding="base64">XDxtb2RpZnlSZWNvcmRcPg==</entry>
+        <entry encoding="base64">XDxkaWN0R3JvdXBVcGRhdGVTaG93XD4=</entry>
+        <entry>SearchTree</entry>
+        <entry encoding="base64">XDx0b2dnbGVEaWN0R3JvdXBVcGRhdGVcPg==</entry>
+        <entry>toggleDictGroupUpdate</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -124,30 +124,30 @@
         <mark key="[" line="8" column="9" />
         <mark key="]" line="183" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1588834137857">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="82" column="54" />
-        <mark key="]" line="82" column="68" />
-        <mark key="^" line="82" column="68" />
-        <mark key="." line="82" column="67" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1588834397873">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="83" column="94" />
+        <mark key="]" line="83" column="94" />
+        <mark key="." line="83" column="93" />
+        <mark key="^" line="83" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/divider/index.d.ts" timestamp="1588759967694">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1588823407278">
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1588835520837">
         <mark key="'" line="45" column="36" />
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="54" />
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="18" />
         <mark key="." line="37" column="42" />
         <mark key="^" line="48" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1588834023327">
-        <mark key="'" line="300" column="14" />
-        <mark key="[" line="470" column="114" />
-        <mark key="]" line="470" column="128" />
-        <mark key="." line="470" column="127" />
-        <mark key="^" line="470" column="128" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1588835778919">
+        <mark key="'" line="91" column="22" />
+        <mark key="[" line="564" column="54" />
+        <mark key="]" line="564" column="54" />
+        <mark key="^" line="564" column="55" />
+        <mark key="." line="564" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1588815206548">
         <mark key="[" line="0" column="0" />
@@ -203,23 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="31" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="627" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="626" column="32" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="90" column="36" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="419" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="604" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="605" column="51" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="322" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="331" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="362" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="673" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="332" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="109" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="75" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="52" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="58" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="64" column="14" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="78" column="10" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
@@ -260,7 +243,6 @@
       <jump line="508" column="70" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="53" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="513" column="49" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="514" column="53" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="512" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="119" column="95" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
@@ -297,12 +279,30 @@
       <jump line="55" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="61" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="59" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="448" column="20" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="424" column="38" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="443" column="56" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="234" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="300" column="14" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="31" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
+      <jump line="38" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
+      <jump line="333" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="326" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="346" column="15" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="385" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="75" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="434" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="493" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="465" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="421" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="443" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="448" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="437" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="269" column="16" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="535" column="5" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="545" column="61" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="433" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="514" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="76" column="59" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="91" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,46 +311,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>hasExpandNode</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lmxlbmd0aCA+IDA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmVlRXhwYW5kS2V5c1w+</text>
+        <text>toggleDictGroupUpdate</text>
       </register>
-      <register name="0" type="4">
-        <text>hasExpandNode</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWxNYXBTZXJ2aWNlID0gKGlkcykgPT4gewogICAgY29uc3Qge2Rpc3BhdGNofSA9IHRoaXMucHJvcHM7CiAgICBkaXNwYXRjaCh7CiAgICAgIHR5cGU6ICdzeXNtYXBzZXJ2aWNlL2RlbGV0ZScsCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBpZDogaWRzLAogICAgICB9LAogICAgICBjYWxsYmFjazogKHJlc3ApID0+IHsKICAgICAgICBpZiAob2socmVzcCkpIHsKICAgICAgICAgIHRoaXMuZmV0Y2hNYXBTZXJ2aWNlTGlzdCgpOwogICAgICAgIH0KICAgICAgfQogICAgfSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6IGZpZWxkcy5zdGF0dXMgPyAnMScgOiAnMCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gd2lkdGg9ezUwMH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERpY3RHcm91cEFkZEZvcm0gey4uLnBhcmVudE1ldGhvZHN9IHsuLi50aGlzLnN0YXRlfS8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4cGFuZGVkS2V5cy5sZW5ndGggPT09IDApIHsK</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IueItue6pyI+CiAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaUiIGRpc2FibGVkIHZhbHVlPXs/LnRpdGxlfS8+CiAgICAgIDwvRm9ybUl0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRyZWVFeHBhbmRLZXlzLCAnWyA9PT09PSB0cmVlRXhwYW5kS2V5cyA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChleHBhbmRlZEtleXMubGVuZ3RoID09PSAwKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGV4cGFuZGVkS2V5czogdGhpcy5kYXRhTGlzdC5maWx0ZXIoaXQgPT4gaXQuaGFzQ2hpbGRyZW4pLm1hcChpdCA9PiBpdC5pZCkKICAgICAgfSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICBjb25zdCB7dHJlZURhdGF9ID0gdGhpcy5zdGF0ZQogICAgaWYgKHRyZWVEYXRhKSB7CiAgICAgIHRoaXMuZ2VuZXJhdGVMaXN0KHRyZWVEYXRhKTsKICAgIH0KICAgIGNvbnN0IHtleHBhbmRlZEtleXN9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4cGFuZGVkS2V5cy5sZW5ndGggPT09IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -359,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0cmVlRXhwYW5kS2V5c1w+</last-search>
+      <last-search>toggleDictGroupUpdate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmVlRXhwYW5kS2V5c1w+</last-pattern>
+      <last-pattern>toggleDictGroupUpdate</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
