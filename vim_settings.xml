@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>right</entry>
         <entry>title</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZVw+</entry>
         <entry>getValue</entry>
@@ -17,7 +16,6 @@
         <entry encoding="base64">XDxoYW5kbGVUYWJsZUNoYW5nZVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>node</entry>
-        <entry>nodeClick</entry>
         <entry>新增</entry>
         <entry encoding="base64">XDxnZXRQYXJlbnRLZXlcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUxpc3RcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>key</entry>
         <entry encoding="base64">XDxmZXRjaFRyZWVcPg==</entry>
         <entry>sync</entry>
+        <entry>add</entry>
+        <entry>nodeClick</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -120,12 +120,12 @@
         <mark key="[" line="8" column="9" />
         <mark key="]" line="183" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1588760293632">
-        <mark key="'" line="102" column="24" />
-        <mark key="[" line="108" column="35" />
-        <mark key="]" line="108" column="41" />
-        <mark key="^" line="108" column="41" />
-        <mark key="." line="108" column="40" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1588817165878">
+        <mark key="'" line="98" column="24" />
+        <mark key="[" line="107" column="35" />
+        <mark key="]" line="107" column="52" />
+        <mark key="^" line="107" column="52" />
+        <mark key="." line="107" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/divider/index.d.ts" timestamp="1588759967694">
         <mark key="[" line="3" column="4" />
@@ -144,12 +144,12 @@
         <mark key="]" line="41" column="51" />
         <mark key="." line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1588758205142">
-        <mark key="'" line="332" column="18" />
-        <mark key="[" line="632" column="60" />
-        <mark key="]" line="632" column="60" />
-        <mark key="." line="632" column="60" />
-        <mark key="^" line="632" column="68" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1588817135675">
+        <mark key="'" line="632" column="26" />
+        <mark key="[" line="633" column="92" />
+        <mark key="]" line="633" column="92" />
+        <mark key="." line="633" column="92" />
+        <mark key="^" line="633" column="93" />
       </file>
       <file name="/Dummy.txt" timestamp="1588815206548">
         <mark key="[" line="0" column="0" />
@@ -212,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_updm_manage_web/src/pages/LayerManage.jsx" />
-      <jump line="3" column="9" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="384" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="410" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="571" column="20" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
@@ -312,6 +308,10 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" />
+      <jump line="457" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="528" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="606" column="18" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
+      <jump line="631" column="26" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,47 +319,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>localhost</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIGRvIHNvbWV0aGluZyAuLi4K</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>nodeClick</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEljb24gdHlwZT0icGx1cy1jaXJjbGUiIHRoZW1lPSJmaWxsZWQiLz4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuNjUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIGRvIHNvbWV0aGluZyAuLi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmFudC1wb3BvdmVyLWlubmVyLWNvbnRlbnQgewogICAgcGFkZGluZzogMTJweCAxNnB4OwogICAgY29sb3I6IHJnYmEoMCwgMCwgMCwgMC42NSk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIGRvIHNvbWV0aGluZyAuLi4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KGUpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsKICAgICAgICAgICAgICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7CiAgICAgICAgICAgICAgICAgICAgICAvLyBkbyBzb21ldGhpbmcgLi4uCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgICB9fT5jbGlja01lPC9CdXR0b24+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5vZGUsICdbID09PT09IG5vZGUgPT09PT0gXScpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PEJ1dHRvbiBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgICB9fT5jbGlja01lPC9CdXR0b24+fQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGl0ZW0sICdbID09PT09IGl0ZW0gPT09PT0gXScpOwogICAgLy8gY29uc29sZS5sb2cobm9kZSwgJ1sgPT09PT0gbm9kZSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOwogICAgICAgICAgICAgICAgICAvLyBkbyBzb21ldGhpbmcgLi4uCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGl0ZW0sICdbID09PT09IGl0ZW0gPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sync</last-search>
+      <last-search>nodeClick</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>nodeClick</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
