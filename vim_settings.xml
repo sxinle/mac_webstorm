@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>del</entry>
-        <entry encoding="base64">XDxjdXJyRGljdEdyb3VwXD4=</entry>
-        <entry>新增字典分组</entry>
-        <entry>nodeClick</entry>
-        <entry encoding="base64">XDxwYXJlbnREaWN0R3JvdXBcPg==</entry>
-        <entry encoding="base64">XDxkaWN0R3JvdXBBZGRTaG93XD4=</entry>
-        <entry>新增</entry>
-        <entry encoding="base64">XDxjdXJyZW50RGljdEdyb3VwXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVEaWN0QWRkXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry>preModify</entry>
@@ -25,6 +17,14 @@
         <entry encoding="base64">XDx0b2dnbGVEaWN0R3JvdXBBZGRcPg==</entry>
         <entry>delDic</entry>
         <entry>delDictGroup</entry>
+        <entry>webpack</entry>
+        <entry>umi</entry>
+        <entry encoding="base64">XDx2ZW5kb3JzXD4=</entry>
+        <entry>name</entry>
+        <entry>automaticNameDelimiter</entry>
+        <entry>devServer</entry>
+        <entry>App</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -97,28 +97,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/.umi/umi.js" timestamp="1588919869867">
+        <mark key="'" line="271" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" timestamp="1588922285473">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/Index.less" timestamp="1588906047604">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/SysDataSet/index.jsx" timestamp="1588844911592">
-        <mark key="'" line="614" column="0" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/tree/Tree.d.ts" timestamp="1588831872505">
-        <mark key="[" line="97" column="4" />
-        <mark key="]" line="97" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/org-front/src/routes/Organizition.less" timestamp="1588909181818">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/config/router.config.js" timestamp="1588907531600">
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/config/router.config.js" timestamp="1588922848703">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -130,13 +129,10 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1588842683106">
-        <mark key="'" line="49" column="36" />
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="48" />
-        <mark key="." line="53" column="48" />
-        <mark key="^" line="53" column="49" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" timestamp="1588918144707">
+        <mark key="'" line="190" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/umi-build-dev/package.json" timestamp="1588917681719" />
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1588905926597">
         <mark key="'" line="228" column="39" />
         <mark key="[" line="21" column="0" />
@@ -150,30 +146,38 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/index.html" timestamp="1588909634567">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/index.html" timestamp="1588915204729">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/org-front/src/routes/JobTitle.js" timestamp="1588838728128">
-        <mark key="[" line="312" column="0" />
-        <mark key="]" line="314" column="23" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/config/plugin.config.js" timestamp="1588918924335">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1588844904754">
-        <mark key="'" line="642" column="0" />
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" timestamp="1588919765529">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="37" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/@umijs/plugin-qiankun/package.json" timestamp="1588922169978">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/config/config.js" timestamp="1588921887912">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.less" timestamp="1588909367481">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588844845695">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/global.less" timestamp="1588907502480">
         <mark key="[" line="18" column="0" />
@@ -181,57 +185,27 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" timestamp="1588842962324">
-        <mark key="'" line="707" column="0" />
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="2" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" timestamp="1588920938021">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" timestamp="1588909431054">
-        <mark key="'" line="4" column="22" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" timestamp="1588922178970">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/dict.js" timestamp="1588842702573">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="31" column="30" />
-        <mark key="." line="31" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" timestamp="1588903960661">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/global.jsx" timestamp="1588919897686">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="93" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="38" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="333" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="326" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="346" column="15" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="385" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="75" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="434" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="493" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="465" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="421" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="443" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="448" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="437" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="269" column="16" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="535" column="5" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="433" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="514" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="76" column="59" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="91" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="83" column="90" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
-      <jump line="99" column="35" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="108" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
       <jump line="581" column="39" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="327" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
@@ -310,6 +284,28 @@
       <jump line="25" column="33" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="26" column="9" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="4" column="22" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
+      <jump line="23" column="25" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
+      <jump line="19" column="14" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" />
+      <jump line="86" column="21" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" />
+      <jump line="30" column="9" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/config/plugin.config.js" />
+      <jump line="35" column="8" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/config/plugin.config.js" />
+      <jump line="275" column="34" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" />
+      <jump line="277" column="29" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" />
+      <jump line="286" column="11" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" />
+      <jump line="287" column="10" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/config/plugin.config.js" />
+      <jump line="190" column="2" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/webpack-chain/types/index.d.ts" />
+      <jump line="12" column="17" filename="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" />
+      <jump line="271" column="28" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/.umi/umi.js" />
+      <jump line="88" column="8" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/global.jsx" />
+      <jump line="102" column="5" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/global.jsx" />
+      <jump line="94" column="5" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/global.jsx" />
+      <jump line="13" column="1" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" />
+      <jump line="25" column="48" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" />
+      <jump line="11" column="38" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" />
+      <jump line="9" column="15" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,47 +313,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>100%</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHJvdXRlczogWwogICAgICB7CiAgICAgICAgcGF0aDogJy93ZWxjb21lJywKICAgICAgICBuYW1lOiAn5qyi6L+O6aG1JywKICAgICAgICBpY29uOiAndXNlcicsCiAgICAgICAgY29tcG9uZW50OiAnLi9JbmRleCcsCiAgICAgIH0sCiAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>100%</text>
+        <text>../layouts/BasicLayout</text>
       </register>
       <register name="/" type="4">
-        <text>delDictGroup</text>
+        <text>plugin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IGNhbGMofiIxMDB2aCAtIDE2cHgiKTsK</text>
+      <register name="0" type="4">
+        <text>@umijs/plugin-qiankun</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmbG9hdDogbGVmdDsK</text>
+        <text encoding="base64">ICAgIHJvdXRlczogWwogICAgICB7CiAgICAgICAgcGF0aDogJy93ZWxjb21lJywKICAgICAgICBuYW1lOiAn5qyi6L+O6aG1JywKICAgICAgICBpY29uOiAndXNlcicsCiAgICAgICAgY29tcG9uZW50OiAnLi9JbmRleCcsCiAgICAgIH0sCiAgICBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHBhdGg6ICcvJywKICAgICAgICByZWRpcmVjdDogJy93ZWxjb21lJywKICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IGNhbGMofiIxMDB2aCAtIDE2cHgiKTsK</text>
+        <text encoding="base64">ICAgICJAdW1panMvcGx1Z2luLXFpYW5rdW4iOiAiXjIuMS4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdyaWQ9e1syNSwgMjVdfQo=</text>
+        <text encoding="base64">ICAnQHVtaWpzL3BsdWdpbi1xaWFua3VuJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L0RyYWdnYWJsZT4K</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbJ0B1bWlqcy9wbHVnaW4tcWlhbmt1biddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGJvb3RzdHJhcCgpIHsKICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHJlYWN0IGFwcCBib290c3RyYXBlZCcpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gbW91bnQocHJvcHMpIHsKICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHByb3BzIGZyb20gbWFpbiBmcmFtZXdvcmsnLCBwcm9wcyk7CiAgY29uc3QgeyBjb250YWluZXIgfSA9IHByb3BzOwogIFJlYWN0RE9NLnJlbmRlcigKICAgIDxBcHAgLz4sCiAgICBjb250YWluZXIgPyBjb250YWluZXIucXVlcnlTZWxlY3RvcignI3JlYWN0MTVSb290JykgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncmVhY3QxNVJvb3QnKSwKICApOwogIGltcG9ydCgnLi9keW5hbWljLmNzcycpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ1tyZWFjdDE1XSBkeW5hbWljIHN0eWxlIGxvYWQnKTsKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVubW91bnQocHJvcHMpIHsKICBjb25zdCB7IGNvbnRhaW5lciB9ID0gcHJvcHM7CiAgUmVhY3RET00udW5tb3VudENvbXBvbmVudEF0Tm9kZSgKICAgIGNvbnRhaW5lciA/IGNvbnRhaW5lci5xdWVyeVNlbGVjdG9yKCcjcmVhY3QxNVJvb3QnKSA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyZWFjdDE1Um9vdCcpLAogICk7Cn0KCmlmICghd2luZG93Ll9fUE9XRVJFRF9CWV9RSUFOS1VOX18pIHsKICBib290c3RyYXAoKS50aGVuKG1vdW50KTsKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubWVudX0+CiAgICAgICAgICAgIGhlbGxvIHdvcmxkCiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuZGV2U2VydmVyLnNvY2tQb3J0LCAnWyA9PT09PSBjb25maWcuZGV2U2VydmVyLnNvY2tQb3J0ID09PT09IF0nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8RHJhZ2dhYmxlCiAgICAgICAgICBheGlzPSJ4IgogICAgICAgICAgaGFuZGxlPSIuaGFuZGxlIgogICAgICAgICAgZGVmYXVsdFBvc2l0aW9uPXt7eDogMCwgeTogMH19CiAgICAgICAgICBwb3NpdGlvbj17bnVsbH0KICAgICAgICAgIGdyaWQ9e1syNSwgMjVdfQogICAgICAgICAgc2NhbGU9ezF9CiAgICAgICAgPgo=</text>
+        <text encoding="base64">ICBjb25maWcuZGV2U2VydmVyLnNvY2tldCgnc29ja2V0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uU3RhcnQ9e3RoaXMuaGFuZGxlU3RhcnR9CiAgICAgICAgICBvbkRyYWc9e3RoaXMuaGFuZGxlRHJhZ30KICAgICAgICAgIG9uU3RvcD17dGhpcy5oYW5kbGVTdG9wfT4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuZGV2U2VydmVyLCAnWyA9PT09PSBjb25maWcuZGV2ID09PT09IF0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delDictGroup</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>delDictGroup</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
