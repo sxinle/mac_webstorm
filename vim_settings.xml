@@ -97,16 +97,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/index.js" timestamp="1589001100114">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="4" />
-      </file>
-      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589003816864">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589004483837">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="52" />
       </file>
       <file name="$USER_HOME$/micros/slave2/index.js" timestamp="1589003330178">
         <mark key="[" line="22" column="20" />
@@ -122,6 +118,13 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/micros/master/src/App.css" timestamp="1589004525359">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/micros/slave1/webpack.config.js" timestamp="1589003208598">
         <mark key="[" line="7" column="11" />
@@ -154,6 +157,10 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="29" />
       </file>
+      <file name="$USER_HOME$/micros/master/node_modules/qiankun/es/apis.d.ts" timestamp="1589004206714">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/webpack.config.js" timestamp="1589002709479">
         <mark key="[" line="40" column="43" />
         <mark key="]" line="40" column="43" />
@@ -166,12 +173,6 @@
         <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/micros/slave1/index.html" timestamp="1589003265200">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="17" />
-      </file>
-      <file name="$USER_HOME$/micros/slave1/src/index.html" timestamp="1589001724949">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="16" />
@@ -314,47 +315,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGNvdW50OiAxLAogICAgfQo=</text>
+      <register name="*" type="4">
+        <text>full</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>full</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzbGF2ZTIgdW5tb3VudGVkJyk7CiAgICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKAogICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzbGF2ZTInKSwKICAgICk7Cg==</text>
+      <register name="0" type="4">
+        <text>loadMicroApp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGNvdW50OiAxLAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZVJ1bGU6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZVJ1bGU6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGNvdW50OiAxLAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZVJ1bGU6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdmVyc2lvbiBhcyBhbnRkVmVyc2lvbiB9IGZyb20gJ2FudGQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGNvbnRhaW5lciB9ID0gcHJvcHM7CiAgUmVhY3RET00udW5tb3VudENvbXBvbmVudEF0Tm9kZSgKICAgIGNvbnRhaW5lciA/IGNvbnRhaW5lci5xdWVyeVNlbGVjdG9yKCcjcmVhY3QxNVJvb3QnKSA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyZWFjdDE1Um9vdCcpLAogICk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdmVyc2lvbiBhcyBhbnRkVmVyc2lvbiB9IGZyb20gJ2FudGQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHByb3BzIGZyb20gbWFpbiBmcmFtZXdvcmsnLCBwcm9wcyk7CiAgY29uc3QgeyBjb250YWluZXIgfSA9IHByb3BzOwogIFJlYWN0RE9NLnJlbmRlcigKICAgIDxBcHAgLz4sCiAgICBjb250YWluZXIgPyBjb250YWluZXIucXVlcnlTZWxlY3RvcignI3JlYWN0MTVSb290JykgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncmVhY3QxNVJvb3QnKSwKICApOwogIGltcG9ydCgnLi9keW5hbWljLmNzcycpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ1tyZWFjdDE1XSBkeW5hbWljIHN0eWxlIGxvYWQnKTsKICB9KTsK</text>
+        <text encoding="base64">ICBjb25zdCB7IGNvbnRhaW5lciB9ID0gcHJvcHM7CiAgUmVhY3RET00udW5tb3VudENvbXBvbmVudEF0Tm9kZSgKICAgIGNvbnRhaW5lciA/IGNvbnRhaW5lci5xdWVyeVNlbGVjdG9yKCcjcmVhY3QxNVJvb3QnKSA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyZWFjdDE1Um9vdCcpLAogICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHJlYWN0IGFwcCBib290c3RyYXBlZCcpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHByb3BzIGZyb20gbWFpbiBmcmFtZXdvcmsnLCBwcm9wcyk7CiAgY29uc3QgeyBjb250YWluZXIgfSA9IHByb3BzOwogIFJlYWN0RE9NLnJlbmRlcigKICAgIDxBcHAgLz4sCiAgICBjb250YWluZXIgPyBjb250YWluZXIucXVlcnlTZWxlY3RvcignI3JlYWN0MTVSb290JykgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncmVhY3QxNVJvb3QnKSwKICApOwogIGltcG9ydCgnLi9keW5hbWljLmNzcycpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ1tyZWFjdDE1XSBkeW5hbWljIHN0eWxlIGxvYWQnKTsKICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHJlYWN0IGFwcCBib290c3RyYXBlZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi9jb21wb25lbnRzL0xvZ28nCmltcG9ydCBIZWxsb01vZGFsIGZyb20gJy4vY29tcG9uZW50cy9IZWxsb01vZGFsJwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
