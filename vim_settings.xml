@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RpZnlEaWN0XD4=</entry>
-        <entry encoding="base64">XDx0b2dnbGVEaWN0QWRkXD4=</entry>
         <entry>删除</entry>
         <entry>delMap</entry>
         <entry>flex</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxkZXRlY3Rvclw+</entry>
         <entry>babel</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry>already</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -97,17 +97,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589004483837">
-        <mark key="'" line="16" column="25" />
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="52" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="52" />
+      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589008379875">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/micros/slave2/index.js" timestamp="1589003330178">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+      <file name="$USER_HOME$/micros/slave2/index.js" timestamp="1589006104832">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/demo/qiankun/examples/react15/package.json" timestamp="1589002065672">
         <mark key="[" line="15" column="0" />
@@ -119,18 +119,18 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/micros/master/src/App.css" timestamp="1589004525359">
+      <file name="$USER_HOME$/micros/master/src/App.css" timestamp="1589006365436">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="8" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/micros/slave1/webpack.config.js" timestamp="1589003208598">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/micros/slave1/webpack.config.js" timestamp="1589008312820">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/micros/slave1/package.json" timestamp="1589003237229">
         <mark key="[" line="1" column="11" />
@@ -157,7 +157,7 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/micros/master/node_modules/qiankun/es/apis.d.ts" timestamp="1589004206714">
+      <file name="$USER_HOME$/micros/master/node_modules/qiankun/es/apis.d.ts" timestamp="1589004921652">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="35" />
       </file>
@@ -167,16 +167,16 @@
         <mark key="^" line="40" column="43" />
         <mark key="." line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/micros/slave2/webpack.config.js" timestamp="1589003351798">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/micros/slave2/webpack.config.js" timestamp="1589008321076">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/micros/slave1/index.html" timestamp="1589003265200">
+      <file name="$USER_HOME$/micros/slave1/index.html" timestamp="1589004655754">
         <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="17" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/micros/slave2/App.jsx" timestamp="1589003429440">
         <mark key="'" line="6" column="28" />
@@ -184,15 +184,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/micros/slave1/index.js" timestamp="1589003259582">
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="57" />
-        <mark key="." line="18" column="57" />
+      <file name="$USER_HOME$/micros/slave1/index.js" timestamp="1589004668678">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/micros/slave2/index.html" timestamp="1589003334530">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/micros/slave2/index.html" timestamp="1589006096099">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/micros/slave2/src/index.js" timestamp="1589003139658">
         <mark key="[" line="26" column="0" />
@@ -208,12 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="84" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="501" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="495" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="457" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="217" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
-      <jump line="319" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="324" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="313" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
       <jump line="311" column="11" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
@@ -308,6 +304,12 @@
       <jump line="17" column="16" filename="$USER_HOME$/micros/slave1/src/webpack.config.js" />
       <jump line="7" column="28" filename="$USER_HOME$/micros/slave2/App.jsx" />
       <jump line="7" column="29" filename="$USER_HOME$/micros/slave1/App.jsx" />
+      <jump line="33" column="49" filename="$USER_HOME$/micros/master/src/App.js" />
+      <jump line="67" column="31" filename="$USER_HOME$/micros/master/src/App.js" />
+      <jump line="29" column="25" filename="$USER_HOME$/micros/master/src/App.js" />
+      <jump line="50" column="35" filename="$USER_HOME$/micros/master/src/App.js" />
+      <jump line="26" column="16" filename="$USER_HOME$/micros/master/src/App.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/micros/master/src/App.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,47 +317,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>full</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>full</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text>debugger</text>
       </register>
-      <register name="0" type="4">
-        <text>loadMicroApp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBob3N0OiAnMC4wLjAuMCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZVJ1bGU6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGNvdW50OiAxLAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZVJ1bGU6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdmVyc2lvbiBhcyBhbnRkVmVyc2lvbiB9IGZyb20gJ2FudGQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGNvbnRhaW5lciB9ID0gcHJvcHM7CiAgUmVhY3RET00udW5tb3VudENvbXBvbmVudEF0Tm9kZSgKICAgIGNvbnRhaW5lciA/IGNvbnRhaW5lci5xdWVyeVNlbGVjdG9yKCcjcmVhY3QxNVJvb3QnKSA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyZWFjdDE1Um9vdCcpLAogICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnNsYXZlcywgJ1sgPT09PT0gdGhpcy5zbGF2ZXMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHByb3BzIGZyb20gbWFpbiBmcmFtZXdvcmsnLCBwcm9wcyk7CiAgY29uc3QgeyBjb250YWluZXIgfSA9IHByb3BzOwogIFJlYWN0RE9NLnJlbmRlcigKICAgIDxBcHAgLz4sCiAgICBjb250YWluZXIgPyBjb250YWluZXIucXVlcnlTZWxlY3RvcignI3JlYWN0MTVSb290JykgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncmVhY3QxNVJvb3QnKSwKICApOwogIGltcG9ydCgnLi9keW5hbWljLmNzcycpLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coJ1tyZWFjdDE1XSBkeW5hbWljIHN0eWxlIGxvYWQnKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnW3JlYWN0MTVdIHJlYWN0IGFwcCBib290c3RyYXBlZCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2FkZWQsICdbID09PT09IGxvYWRlZCA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
