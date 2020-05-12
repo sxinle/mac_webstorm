@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYWJsZVRyYW5zZmVyXD4=</entry>
-        <entry encoding="base64">XDx0cmFuc2Zlck9uQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxfTWFwXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxwcm9wZXJ0aWVzTGlzdEJ1c2luZXNzQXBpXD4=</entry>
         <entry encoding="base64">XDxMYXllcnNDb250cm9sXD4=</entry>
         <entry>drag</entry>
+        <entry>hover</entry>
+        <entry encoding="base64">XDxta1BvcHVwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -130,6 +130,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1589268168677">
+        <mark key="'" line="141" column="50" />
+        <mark key="[" line="83" column="94" />
+        <mark key="]" line="83" column="110" />
+        <mark key="^" line="83" column="110" />
+        <mark key="." line="83" column="109" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/frontend-pesco-gis/package.json" timestamp="1589251204117">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="18" />
@@ -142,12 +149,6 @@
         <mark key="]" line="16" column="15" />
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/micros/slave1/webpack.config.js" timestamp="1589008312820">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1589262250722">
         <mark key="[" line="0" column="0" />
@@ -165,12 +166,12 @@
         <mark key="[" line="269" column="0" />
         <mark key="]" line="274" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" timestamp="1589266445934">
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" timestamp="1589267745205">
         <mark key="'" line="244" column="4" />
-        <mark key="[" line="361" column="33" />
-        <mark key="]" line="361" column="33" />
-        <mark key="." line="361" column="33" />
-        <mark key="^" line="361" column="60" />
+        <mark key="[" line="378" column="25" />
+        <mark key="]" line="378" column="35" />
+        <mark key="." line="378" column="34" />
+        <mark key="^" line="378" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/react-draggable/build/module/Draggable.js" timestamp="1589261080121">
         <mark key="'" line="231" column="6" />
@@ -197,10 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/app.js" />
-      <jump line="90" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/router.config.js" />
-      <jump line="26" column="15" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
-      <jump line="38" column="30" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="49" column="30" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="4" column="34" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="63" column="22" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/package.json" />
@@ -297,6 +294,10 @@
       <jump line="244" column="4" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/src/pages/index.jsx" />
       <jump line="153" column="49" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/frontend-pesco-gis/dist/components/LayersControl/index.js" />
       <jump line="208" column="9" filename="$USER_HOME$/workspace/shangyuan/scity-webgis/node_modules/frontend-pesco-gis/dist/components/LayersControl/index.js" />
+      <jump line="160" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
+      <jump line="146" column="44" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
+      <jump line="89" column="10" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
+      <jump line="141" column="50" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,13 +306,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IC5hbnRkLXByby1wYWdlcy1pbmRleC1tZW51</text>
+        <text encoding="base64">ImhvdmVyIiB8fCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC5hbnRkLXByby1wYWdlcy1pbmRleC1tZW51</text>
+        <text encoding="base64">ImhvdmVyIiB8fCA=</text>
       </register>
       <register name="/" type="4">
-        <text>drag</text>
+        <text encoding="base64">XDxta1BvcHVwXD4=</text>
       </register>
       <register name="0" type="4">
         <text>.antd-pro-pages-index-menu</text>
@@ -353,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>drag</last-search>
+      <last-search encoding="base64">XDxta1BvcHVwXD4=</last-search>
       <last-offset />
-      <last-pattern>drag</last-pattern>
+      <last-pattern encoding="base64">XDxta1BvcHVwXD4=</last-pattern>
       <last-replace>dataSet</last-replace>
       <last-substitute>dataSource</last-substitute>
       <last-dir>1</last-dir>
