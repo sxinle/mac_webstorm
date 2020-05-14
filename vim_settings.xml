@@ -99,12 +99,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/gis-demo/package.json" timestamp="1589263135605">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/ColsMatchTb.js" timestamp="1589362917704">
         <mark key="'" line="28" column="16" />
         <mark key="[" line="129" column="4" />
@@ -203,9 +197,15 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" timestamp="1589418192344">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="43" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
       <jump line="611" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" />
@@ -305,6 +305,7 @@
       <jump line="254" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
       <jump line="280" column="8" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
       <jump line="392" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,11 +313,11 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>.pop()</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
