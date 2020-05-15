@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>delLayer</entry>
-        <entry encoding="base64">XDxkZWxSZWxhXD4=</entry>
         <entry>this.handle</entry>
         <entry encoding="base64">XDxjYXNjYWRlckluaXRWYWxzXD4=</entry>
         <entry>init</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>width</entry>
         <entry encoding="base64">XDxvcmlnaW5UYXJnZXRLZXlzXD4=</entry>
+        <entry>renderSearch</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -38,9 +38,9 @@
         <entry encoding="base64">JzwsJz5zL2RhdGFTb3VyY2UvZGF0YVNldC9n</entry>
         <entry>vsp</entry>
         <entry>action AceAction</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL0dyb3VwL1JlbGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -124,19 +124,23 @@
       <file name="/a.dummy" timestamp="1589356101503">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" timestamp="1589504769637">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="88" column="24" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" timestamp="1589508250724">
+        <mark key="'" line="83" column="51" />
+        <mark key="[" line="102" column="58" />
+        <mark key="]" line="102" column="62" />
+        <mark key="." line="102" column="61" />
+        <mark key="^" line="102" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/services/layerfieldgroup.js" timestamp="1589445184039">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/cascader/index.d.ts" timestamp="1589354418031">
-        <mark key="'" line="26" column="89" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/package.json" timestamp="1589505168190">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dictrela.js" timestamp="1589362413344">
         <mark key="'" line="9" column="50" />
@@ -157,12 +161,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" timestamp="1589450590929">
-        <mark key="'" line="20" column="5" />
-        <mark key="[" line="69" column="29" />
-        <mark key="]" line="69" column="30" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="30" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" timestamp="1589508367010">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/router.config.js" timestamp="1589444925491">
         <mark key="'" line="73" column="10" />
@@ -176,10 +179,12 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="146" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1589363504805">
-        <mark key="'" line="558" column="11" />
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="558" column="38" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1589507240863">
+        <mark key="'" line="471" column="0" />
+        <mark key="[" line="582" column="0" />
+        <mark key="]" line="587" column="6" />
+        <mark key="." line="478" column="78" />
+        <mark key="^" line="478" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1589448232506">
         <mark key="'" line="531" column="0" />
@@ -208,19 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="37" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="450" column="0" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="229" column="38" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="248" column="8" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="260" column="24" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="309" column="17" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="312" column="25" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="316" column="28" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="546" column="30" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="712" column="43" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="846" column="94" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="847" column="102" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="126" column="70" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="200" column="13" filename="$USER_HOME$/workspace/shangyuan/dct-front/src/routes/IndexPage.js" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Relation/index.jsx" />
@@ -284,7 +276,6 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="112" column="41" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="2" column="44" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
-      <jump line="126" column="56" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="54" column="24" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
@@ -308,6 +299,20 @@
       <jump line="128" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="45" column="24" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="19" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/package.json" />
+      <jump line="91" column="69" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
+      <jump line="281" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="380" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="415" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="468" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="578" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="90" column="35" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
+      <jump line="471" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
+      <jump line="126" column="66" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
+      <jump line="82" column="51" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
+      <jump line="60" column="35" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,13 +324,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmlnaW5UYXJnZXRLZXlzXD4=</text>
+        <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGl0ZW0uY2hpbGRyZW4pIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPFRyZWVOb2RlIGtleT17aXRlbS5pZH0gZXhwYW5kZWQgdGl0bGU9e21rUG9wdXAoaXRlbSwgdGl0bGUpfSBpdGVtPXtpdGVtfT4KICAgICAgICAgICAge2xvb3AoaXRlbS5jaGlsZHJlbil9CiAgICAgICAgICA8L1RyZWVOb2RlPgogICAgICAgICk7CiAgICAgIH0KICAgICAgcmV0dXJuIDxUcmVlTm9kZSBrZXk9e2l0ZW0uaWR9IHRpdGxlPXtta1BvcHVwKGl0ZW0sIHRpdGxlKX0gaXRlbT17aXRlbX0vPjsK</text>
+        <text encoding="base64">ICAgIC5hbnQtY2FyZC1ib2R5IHsKICAgICAgcGFkZGluZzogMAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -334,28 +339,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1yaWdodDogNXB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgb3JpZ2luVGFyZ2V0S2V5cyA9IG1vY2tEYXRhLmZpbHRlcihpdGVtID0+ICtpdGVtLmtleSAlIDMgPiAxKS5tYXAoaXRlbSA9PiBpdGVtLmtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0S2V5czogb3JpZ2luVGFyZ2V0S2V5cywK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gQ3VzdG9taXplIFRhYmxlIFRyYW5zZmVyCmNvbnN0IGlzQ2hlY2tlZCA9IChzZWxlY3RlZEtleXMsIGV2ZW50S2V5KSA9PiB7CiAgICByZXR1cm4gc2VsZWN0ZWRLZXlzLmluZGV4T2YoZXZlbnRLZXkpICE9PSAtMTsKfTsKCmNvbnN0IGdlbmVyYXRlVHJlZSA9ICh0cmVlTm9kZXMgPSBbXSwgY2hlY2tlZEtleXMgPSBbXSkgPT4gewogICAgcmV0dXJuIHRyZWVOb2Rlcy5tYXAoKHtjaGlsZHJlbiwgLi4ucHJvcHN9KSA9PiAoCiAgICAgICAgPFRyZWVOb2RlIHsuLi5wcm9wc30gZGlzYWJsZWQ9e2NoZWNrZWRLZXlzLmluY2x1ZGVzKHByb3BzLmtleSl9IGtleT17cHJvcHMua2V5fT4KICAgICAgICAgICAge2dlbmVyYXRlVHJlZShjaGlsZHJlbiwgY2hlY2tlZEtleXMpfQogICAgICAgIDwvVHJlZU5vZGU+CiAgICApKTsKfTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Nyb2xsPXt7eDogMTUwMCwgeTogNTAwfX0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbGVmdFRhYmxlQ29sdW1ucyA9IFsKICAgIHsKICAgICAgICBkYXRhSW5kZXg6ICd0aXRsZScsCiAgICAgICAgdGl0bGU6ICflrZfmrrXliKvlkI0nLAogICAgfSwKICAgIHsKICAgICAgICBkYXRhSW5kZXg6ICd0YWcnLAogICAgICAgIHRpdGxlOiAn5a2X5q615ZCN56ewJywKICAgICAgICByZW5kZXI6IHRhZyA9PiA8VGFnPnt0YWd9PC9UYWc+LAogICAgfSwKICAgIHsKICAgICAgICBkYXRhSW5kZXg6ICdkZXNjcmlwdGlvbicsCiAgICAgICAgdGl0bGU6ICfln5/lgLzooagnLAogICAgfSwKXTsKY29uc3QgcmlnaHRUYWJsZUNvbHVtbnMgPSBbCiAgICB7CiAgICAgICAgZGF0YUluZGV4OiAndGl0bGUnLAogICAgICAgIHRpdGxlOiAnTmFtZScsCiAgICB9LApdOwoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlVGFibGVDaGFuZ2V9Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZXh0cmE9ezxkaXY+PEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBvbkNsaWNrPXsoKSA9PiB0aGlzLnRvZ2dsZUxheWVyQWRkKCl9PuaWsOWinjwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEcm9wZG93biBvdmVybGF5PXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPE1lbnU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TWVudS5JdGVtIGtleT0iZGVsXzEiIG9uQ2xpY2s9eygpID0+IHRoaXMuYmF0Y2hEZWwoKX0+5Yig6ZmkPC9NZW51Lkl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvTWVudT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGRpc2FibGVkPXt0aGlzLnN0YXRlLnNlbGVjdGVkUm93S2V5cy5sZW5ndGggPT09IDB9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIHN0eWxlPXt7bWFyZ2luTGVmdDogOCx9fT7mibnph4/mk43kvZwgPERvd25PdXRsaW5lZC8+PC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9Ecm9wZG93bj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9DYXJkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvcmlnaW5UYXJnZXRLZXlzXD4=</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmlnaW5UYXJnZXRLZXlzXD4=</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
