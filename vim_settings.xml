@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>分组</entry>
         <entry>更多</entry>
         <entry>规则选择</entry>
         <entry encoding="base64">XDxzRmlsdGVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>umount</entry>
         <entry>front</entry>
         <entry encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</entry>
+        <entry encoding="base64">XDxzZXRBY3RpdmVBcHBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -110,24 +110,20 @@
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/GlobalHeader/index.js" timestamp="1589778739880">
+        <mark key="'" line="102" column="100" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/R_ManageModel.js" timestamp="1589520529792">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="43" column="6" />
         <mark key="]" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" timestamp="1589773582401">
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" timestamp="1589778795701">
         <mark key="'" line="5" column="9" />
-        <mark key="[" line="662" column="12" />
-        <mark key="]" line="663" column="15" />
-        <mark key="^" line="663" column="15" />
-        <mark key="." line="663" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.less" timestamp="1589515286270">
-        <mark key="'" line="79" column="10" />
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="75" column="30" />
+        <mark key="[" line="656" column="32" />
+        <mark key="]" line="656" column="40" />
+        <mark key="^" line="656" column="40" />
+        <mark key="." line="656" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/layouts/BasicLayout.js" timestamp="1589765375780" />
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1589519983211">
@@ -172,7 +168,7 @@
         <mark key="^" line="183" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/App.js" timestamp="1589765264413" />
-      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/routes/index.js" timestamp="1589765346833" />
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/routes/index.js" timestamp="1589778775392" />
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/table/interface.d.ts" timestamp="1589520961414">
         <mark key="'" line="151" column="15" />
       </file>
@@ -190,8 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="69" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
-      <jump line="281" column="22" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="380" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="415" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="468" column="2" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -290,6 +284,8 @@
       <jump line="12" column="5" filename="$USER_HOME$/Desktop/pesco-mfe-portal/package.json" />
       <jump line="22" column="23" filename="$USER_HOME$/Desktop/pesco-mfe-portal/package.json" />
       <jump line="5" column="9" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" />
+      <jump line="86" column="21" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/GlobalHeader/index.js" />
+      <jump line="102" column="100" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/GlobalHeader/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,7 +300,7 @@
         <text>http://localhost:5002</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</text>
+        <text encoding="base64">XDxzZXRBY3RpdmVBcHBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>react-app-rewired</text>
@@ -346,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRBY3RpdmVBcHBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRBY3RpdmVBcHBcPg==</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
