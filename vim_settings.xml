@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWVsZFRhYmxlUm93U2VsZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxUYWJsZVw+</entry>
         <entry>分组</entry>
         <entry>更多</entry>
@@ -25,6 +24,7 @@
         <entry>ummount</entry>
         <entry>unmount</entry>
         <entry>umount</entry>
+        <entry>front</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -99,20 +99,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589525383803">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Service/Edit.jsx" timestamp="1589519855775">
-        <mark key="'" line="69" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" timestamp="1589522983086">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="183" column="80" />
-        <mark key="]" line="183" column="80" />
-        <mark key="." line="183" column="80" />
-        <mark key="^" line="183" column="81" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/App.js" timestamp="1589765264413" />
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/package.json" timestamp="1589521533727">
         <mark key="'" line="69" column="16" />
         <mark key="[" line="62" column="0" />
@@ -123,10 +109,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.less" timestamp="1589447608092">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/R_ManageModel.js" timestamp="1589520529792">
         <mark key="'" line="13" column="4" />
@@ -143,28 +125,10 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/routes/index.js" timestamp="1589765346833" />
       <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/layouts/BasicLayout.js" timestamp="1589765375780" />
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/SearchTree/index.js" timestamp="1589512352077">
-        <mark key="'" line="89" column="14" />
-        <mark key="[" line="160" column="21" />
-        <mark key="]" line="161" column="34" />
-        <mark key="^" line="161" column="34" />
-        <mark key="." line="161" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" timestamp="1589509268681">
-        <mark key="'" line="471" column="0" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="376" column="6" />
-        <mark key="." line="478" column="78" />
-        <mark key="^" line="478" column="79" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1589519983211">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/table/interface.d.ts" timestamp="1589520961414">
-        <mark key="'" line="151" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1589522880374">
         <mark key="'" line="233" column="6" />
@@ -173,6 +137,39 @@
         <mark key="^" line="534" column="40" />
         <mark key="." line="534" column="39" />
       </file>
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/public/global.json" timestamp="1589766817973">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589525383803">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity-webgis/.npmrc" timestamp="1589767283081">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/package.json" timestamp="1589767373874">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Service/Edit.jsx" timestamp="1589519855775">
+        <mark key="'" line="69" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" timestamp="1589522983086">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="183" column="80" />
+        <mark key="]" line="183" column="80" />
+        <mark key="." line="183" column="80" />
+        <mark key="^" line="183" column="81" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/App.js" timestamp="1589765264413" />
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/src/routes/index.js" timestamp="1589765346833" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/table/interface.d.ts" timestamp="1589520961414">
+        <mark key="'" line="151" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" timestamp="1589520149122">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="0" column="30" />
@@ -180,16 +177,13 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/public/global.json" timestamp="1589766817973">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/Desktop/pesco-mfe-portal/.yarnrc" timestamp="1589767291329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="19" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/package.json" />
       <jump line="91" column="69" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Layer_Field_Group/index.jsx" />
@@ -288,6 +282,8 @@
       <jump line="309" column="9" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" />
       <jump line="797" column="10" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" />
       <jump line="97" column="15" filename="$USER_HOME$/Desktop/pesco-mfe-portal/src/components/SiderMenu/index.js" />
+      <jump line="18" column="32" filename="$USER_HOME$/Desktop/pesco-mfe-portal/package.json" />
+      <jump line="12" column="5" filename="$USER_HOME$/Desktop/pesco-mfe-portal/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,47 +291,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>http://localhost:5002</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiMS4wLjE2IiwK</text>
       </register>
       <register name="-" type="4">
         <text>http://localhost:5002</text>
       </register>
       <register name="/" type="4">
-        <text>umount</text>
+        <text>front</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyOiAodGV4dCkgPT4gPEVsbGlwc2lzIHRvb2x0aXAgbGVuZ3RoPXs0fT57dGV4dH08L0VsbGlwc2lzPgo=</text>
+        <text>registry=http://192.168.11.104:4873/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiMS4wLjE2IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHJ1bGVUeXBlcy5maW5kKHR5cGUgPT4gdHlwZS5jb2RlID09PSBydWxlQ29kZS5GSUVMRCk/LmlkLAo=</text>
+        <text>registry &quot;https://registry.npm.taobao.org&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IHJ1bGVUeXBlcy5maW5kKHR5cGUgPT4gdHlwZS5jb2RlID09PSBydWxlQ29kZS5GSUVMRCk/LmlkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvcm0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybSBsYXlvdXQ9ImlubGluZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Zvcm1JdGVtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml4ZWQ6ICdsZWZ0JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybUl0ZW0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Rm9ybSBsYXlvdXQ9ImlubGluZSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZml4ZWQ6ICdsZWZ0JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>umount</last-search>
+      <last-search>front</last-search>
       <last-offset />
-      <last-pattern>umount</last-pattern>
+      <last-pattern>front</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
