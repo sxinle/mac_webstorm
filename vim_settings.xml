@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>className={[</entry>
-        <entry>Tree</entry>
         <entry encoding="base64">XDxtaWNyb0FwcHNPcGlvbnNcPg==</entry>
         <entry>ummount</entry>
         <entry>unmount</entry>
@@ -25,6 +23,8 @@
         <entry>del</entry>
         <entry>服务地址</entry>
         <entry encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</entry>
+        <entry>生成图层</entry>
+        <entry>生成</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -310,7 +310,7 @@
         <text>670</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</text>
+        <text>生成</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyOiAodGV4dCkgPT4gPEVsbGlwc2lzIHRvb2x0aXAgbGVuZ3RoPXsyMH0+e3RleHR9PC9FbGxpcHNpcz4K</text>
@@ -352,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</last-search>
+      <last-search>生成</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkTWljcm9BcHBcPg==</last-pattern>
+      <last-pattern>生成</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
