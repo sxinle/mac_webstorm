@@ -99,12 +99,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589954010604">
+      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589955307231">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="92" column="35" />
-        <mark key="." line="92" column="35" />
-        <mark key="^" line="90" column="51" />
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/layouts/BasicLayout.jsx" timestamp="1589885798887">
         <mark key="'" line="0" column="28" />
@@ -120,9 +120,11 @@
         <mark key="." line="372" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/settings.js" timestamp="1589885647424" />
-      <file name="$USER_HOME$/Desktop/pescoAppManagerFrontEnd/src/router.js" timestamp="1589953669558">
+      <file name="$USER_HOME$/Desktop/pescoAppManagerFrontEnd/src/router.js" timestamp="1589956003886">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="31" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/config.js" timestamp="1589934541981">
         <mark key="'" line="62" column="2" />
@@ -314,16 +316,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>slave2</text>
+        <text>ApiGroup</text>
       </register>
       <register name="-" type="4">
-        <text>slave2</text>
+        <text>Router</text>
       </register>
       <register name="/" type="4">
         <text>dfsf</text>
       </register>
       <register name="0" type="4">
-        <text>slave1_1589953947141</text>
+        <text>ApiGroup</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -332,28 +334,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNldHRpbmdEcmF3ZXIKICAgICAgICAgICAgICAgIHNldHRpbmdzPXtzZXR0aW5nc30KICAgICAgICAgICAgICAgIG9uU2V0dGluZ0NoYW5nZT17Y29uZmlnID0+IGRpc3BhdGNoKHsKICAgICAgICAgICAgICAgICAgICB0eXBlOiAnc2V0dGluZ3MvY2hhbmdlU2V0dGluZycsCiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZDogY29uZmlnLAogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNldHRpbmdEcmF3ZXIKICAgICAgICAgICAgICAgIHNldHRpbmdzPXtzZXR0aW5nc30KICAgICAgICAgICAgICAgIG9uU2V0dGluZ0NoYW5nZT17Y29uZmlnID0+IGRpc3BhdGNoKHsKICAgICAgICAgICAgICAgICAgICB0eXBlOiAnc2V0dGluZ3MvY2hhbmdlU2V0dGluZycsCiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZDogY29uZmlnLAogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3Byb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3Byb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnICYmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFNldHRpbmdEcmF3ZXIKICAgICAgICBzZXR0aW5ncz17c2V0dGluZ3N9CiAgICAgICAgb25TZXR0aW5nQ2hhbmdlPXtjb25maWcgPT4gZGlzcGF0Y2goewogICAgICAgICAgdHlwZTogJ3NldHRpbmdzL2NoYW5nZVNldHRpbmcnLAogICAgICAgICAgcGF5bG9hZDogY29uZmlnLAogICAgICAgIH0pCiAgICAgICAgfQogICAgICAvPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPFNldHRpbmdEcmF3ZXIKICAgICAgICBzZXR0aW5ncz17c2V0dGluZ3N9CiAgICAgICAgb25TZXR0aW5nQ2hhbmdlPXtjb25maWcgPT4gZGlzcGF0Y2goewogICAgICAgICAgdHlwZTogJ3NldHRpbmdzL2NoYW5nZVNldHRpbmcnLAogICAgICAgICAgcGF5bG9hZDogY29uZmlnLAogICAgICAgIH0pCiAgICAgICAgfQogICAgICAvPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRleHQsICJbID09PT09IHRleHQgPT09PT0gXSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
