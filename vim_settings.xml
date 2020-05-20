@@ -99,12 +99,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589952595059">
+      <file name="$USER_HOME$/micros/master/src/App.js" timestamp="1589954010604">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="70" />
+        <mark key="[" line="92" column="34" />
+        <mark key="]" line="92" column="35" />
+        <mark key="." line="92" column="35" />
+        <mark key="^" line="90" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/layouts/BasicLayout.jsx" timestamp="1589885798887">
         <mark key="'" line="0" column="28" />
@@ -120,6 +120,10 @@
         <mark key="." line="372" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/settings.js" timestamp="1589885647424" />
+      <file name="$USER_HOME$/Desktop/pescoAppManagerFrontEnd/src/router.js" timestamp="1589953669558">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/config.js" timestamp="1589934541981">
         <mark key="'" line="62" column="2" />
         <mark key="[" line="62" column="17" />
@@ -132,6 +136,10 @@
         <mark key="]" line="39" column="33" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pescoAppManagerFrontEnd/src/index.js" timestamp="1589953926099">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysmapservice.js" timestamp="1589881471764">
         <mark key="[" line="27" column="0" />
@@ -149,13 +157,6 @@
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/dict.js" timestamp="1589883619253">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Dict/Dict_Config/index.jsx" timestamp="1589877649229">
-        <mark key="'" line="233" column="6" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="146" column="17" />
-        <mark key="^" line="534" column="40" />
-        <mark key="." line="534" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/avatar/index.d.ts" timestamp="1589884279786">
         <mark key="[" line="4" column="4" />
@@ -202,13 +203,6 @@
         <mark key="]" line="20" column="50" />
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/utils.js" timestamp="1589879456395">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -319,17 +313,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCBBcHAgZnJvbSAnLi9BcHAnOwppbXBvcnQgJy4vcHVibGljLXBhdGgnOwoKaW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5taW4uY3NzJzsKaW1wb3J0ICcuL2luZGV4LmNzcyc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gYm9vdHN0cmFwKCkgewogIGNvbnNvbGUubG9nKCdzbGF2ZTEgYXBwIGJvb3RzdHJhcGVkJyk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBtb3VudChwcm9wcykgewogIGNvbnNvbGUubG9nKCdzbGF2ZTEgbW91bnRlZCcpOwogIFJlYWN0RE9NLnJlbmRlcig8QXBwLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzbGF2ZTEtY2hpbGQnKSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1bm1vdW50KHByb3BzKSB7CiAgY29uc29sZS5sb2coJ3NsYXZlMSB1bm1vdW50ZWQnKTsKICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc2xhdmUxLWNoaWxkJyksCiAgKTsKfQoKaWYgKCF3aW5kb3cuX19QT1dFUkVEX0JZX1FJQU5LVU5fXykgewogIGJvb3RzdHJhcCgpLnRoZW4obW91bnQpOwp9Cg==</text>
+      <register name="*" type="4">
+        <text>slave2</text>
       </register>
       <register name="-" type="4">
-        <text>http:</text>
+        <text>slave2</text>
       </register>
       <register name="/" type="4">
         <text>dfsf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCBBcHAgZnJvbSAnLi9BcHAnOwppbXBvcnQgJy4vcHVibGljLXBhdGgnOwoKaW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5taW4uY3NzJzsKaW1wb3J0ICcuL2luZGV4LmNzcyc7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gYm9vdHN0cmFwKCkgewogIGNvbnNvbGUubG9nKCdzbGF2ZTEgYXBwIGJvb3RzdHJhcGVkJyk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBtb3VudChwcm9wcykgewogIGNvbnNvbGUubG9nKCdzbGF2ZTEgbW91bnRlZCcpOwogIFJlYWN0RE9NLnJlbmRlcig8QXBwLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzbGF2ZTEtY2hpbGQnKSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1bm1vdW50KHByb3BzKSB7CiAgY29uc29sZS5sb2coJ3NsYXZlMSB1bm1vdW50ZWQnKTsKICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKAogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc2xhdmUxLWNoaWxkJyksCiAgKTsKfQoKaWYgKCF3aW5kb3cuX19QT1dFUkVEX0JZX1FJQU5LVU5fXykgewogIGJvb3RzdHJhcCgpLnRoZW4obW91bnQpOwp9Cg==</text>
+      <register name="0" type="4">
+        <text>slave1_1589953947141</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
