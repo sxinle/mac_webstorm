@@ -116,9 +116,16 @@
       <file name="/a.dummy" timestamp="1590035253234">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/router.config.js" timestamp="1590021299728">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/config.js" timestamp="1590049701470">
+        <mark key="'" line="84" column="17" />
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="62" column="18" />
+        <mark key="^" line="62" column="18" />
+        <mark key="." line="62" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/router.config.js" timestamp="1590049570286">
+        <mark key="[" line="63" column="31" />
+        <mark key="]" line="63" column="49" />
         <mark key="^" line="81" column="62" />
         <mark key="." line="72" column="0" />
       </file>
@@ -145,12 +152,11 @@
         <mark key="." line="1395" column="34" />
         <mark key="^" line="1395" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/request.js" timestamp="1590048507277">
-        <mark key="'" line="64" column="39" />
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="68" column="35" />
-        <mark key="^" line="68" column="35" />
-        <mark key="." line="68" column="34" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/request.js" timestamp="1590049364098">
+        <mark key="'" line="67" column="39" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" timestamp="1590040111994">
         <mark key="[" line="223" column="0" />
@@ -203,12 +209,8 @@
         <mark key="." line="804" column="0" />
         <mark key="^" line="803" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/table/interface.d.ts" timestamp="1589968796527">
-        <mark key="'" line="143" column="39" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="299" column="24" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="296" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="278" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
@@ -308,6 +310,7 @@
       <jump line="1395" column="31" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Service/Step.jsx" />
       <jump line="66" column="23" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/Rules/R_Manage/Service/Step.jsx" />
       <jump line="64" column="39" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/utils/request.js" />
+      <jump line="84" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/config/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +319,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>}</text>
+        <text>/system/sys_dataset</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -324,8 +327,8 @@
       <register name="/" type="4">
         <text>20vh</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXZlbG9wbWVudCcpIHsK</text>
+      <register name="0" type="4">
+        <text>/system/sys_dataset</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -334,28 +337,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9wdGlvbnMuaGVhZGVycywgIlsgPT09PT0gb3B0aW9ucyA9PT09PSBdIik7Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuaGVhZGVycwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJWMg6K+35rGCICVjICR7dXJsfSBib2R5PT4gJWMgJHtkYXRhfSBgLCAnYmFja2dyb3VuZDojRkYwRjM4O2NvbG9yOiNGRkYnLCAnYmFja2dyb3VuZDpub25lO2NvbG9yOiNGRkYnLCAnY29sb3I6I0YwMCcpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3tiYWNrZ3JvdW5kOidyZWQnfX0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9wdGlvbnMuaGVhZGVycywgIlsgPT09PT0gb3B0aW9ucyA9PT09PSBdIik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG9wdGlvbnMuaGVhZGVycwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJWMg6K+35rGCICVjICR7dXJsfSBib2R5PT4gJWMgJHtkYXRhfSBgLCAnYmFja2dyb3VuZDojRkYwRjM4O2NvbG9yOiNGRkYnLCAnYmFja2dyb3VuZDpub25lO2NvbG9yOiNGRkYnLCAnY29sb3I6I0YwMCcpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3tiYWNrZ3JvdW5kOidyZWQnfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudG9nZ2xlUGFyYW1Hcm91cCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
