@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZGVudGlmeVw+</entry>
-        <entry>dfsf</entry>
-        <entry>scroll</entry>
         <entry>地图服务名称</entry>
         <entry encoding="base64">XDxwYXJhbVR5cGVzXD4=</entry>
         <entry encoding="base64">XDxwYXJhbUdyb3Vwc1w+</entry>
@@ -25,6 +22,9 @@
         <entry>sdf</entry>
         <entry encoding="base64">XDxoYW5kbGVQYXJhbUFkZFNob3dcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVQYXJhbUFkZFw+</entry>
+        <entry>删除</entry>
+        <entry encoding="base64">XDxkZWxQYXJhbVw+</entry>
+        <entry>查询</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -182,12 +182,12 @@
         <mark key="^" line="272" column="39" />
         <mark key="." line="272" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" timestamp="1590032568556">
-        <mark key="'" line="511" column="12" />
-        <mark key="[" line="457" column="19" />
-        <mark key="]" line="457" column="27" />
-        <mark key="." line="457" column="26" />
-        <mark key="^" line="457" column="27" />
+      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" timestamp="1590034491435">
+        <mark key="'" line="366" column="67" />
+        <mark key="[" line="194" column="31" />
+        <mark key="]" line="194" column="36" />
+        <mark key="." line="194" column="35" />
+        <mark key="^" line="194" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/node_modules/antd/lib/table/interface.d.ts" timestamp="1589968796527">
         <mark key="'" line="143" column="39" />
@@ -208,10 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
-      <jump line="806" column="17" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
-      <jump line="319" column="6" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
-      <jump line="347" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="667" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Service/index.jsx" />
       <jump line="638" column="49" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="3" column="93" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -304,10 +300,14 @@
       <jump line="323" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="244" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="15" column="45" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/models/sysparam.js" />
-      <jump line="454" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="49" column="20" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="35" column="31" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
       <jump line="511" column="12" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
+      <jump line="454" column="31" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
+      <jump line="324" column="4" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
+      <jump line="342" column="13" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
+      <jump line="366" column="67" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Param/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,46 +316,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>sysmapservice</text>
+        <text>mapservice</text>
       </register>
       <register name="-" type="4">
-        <text>sysmapservice</text>
+        <text>mapservice</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVQYXJhbUFkZFw+</text>
+        <text>查询</text>
       </register>
       <register name="0" type="4">
         <text>handleParamAddShow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3t0b3A6IDEwfX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3t0b3A6IDEwfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZUdlbmVyYXRlTGF5ZXJzID0gKHJlY29yZCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBtb2RpZnlSZWNvcmQ6IHJlY29yZCwKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICAgIHRoaXMudG9nZ2xlR2VuZXJhdGVMYXllcnMoKTsKICAgICAgICB9KTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZUdlbmVyYXRlTGF5ZXJzID0gKHJlY29yZCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBtb2RpZnlSZWNvcmQ6IHJlY29yZCwKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICAgIHRoaXMudG9nZ2xlR2VuZXJhdGVMYXllcnMoKTsKICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBhcmVudExheWVycygpIHsKICByZXR1cm4gcmVxdWVzdC5wb3N0KGAvbGF5ZXJzL3F1ZXJ5UGFyZW50c2ApOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogcGFyZW50TGF5ZXJzKHtwYXlsb2FkLCBjYWxsYmFja30sIHtjYWxsLCBwdXR9KSB7CiAgICAgIGNvbnN0IHJlc3AgPSB5aWVsZCBjYWxsKGxheWVyLnBhcmVudExheWVycywgcGF5bG9hZCk7CiAgICAgIGlmIChjYWxsYmFjaykgY2FsbGJhY2socmVzcCk7CiAgICB9LAoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC4uLnN5c2RhdGFzZXQsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHBhcmVudExheWVycygpIHsKICByZXR1cm4gcmVxdWVzdC5wb3N0KGAvbGF5ZXJzL3F1ZXJ5UGFyZW50c2ApOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogcGFyZW50TGF5ZXJzKHtwYXlsb2FkLCBjYWxsYmFja30sIHtjYWxsLCBwdXR9KSB7CiAgICAgIGNvbnN0IHJlc3AgPSB5aWVsZCBjYWxsKGxheWVyLnBhcmVudExheWVycywgcGF5bG9hZCk7CiAgICAgIGlmIChjYWxsYmFjaykgY2FsbGJhY2socmVzcCk7CiAgICB9LAoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVQYXJhbUFkZFw+</last-search>
+      <last-search>查询</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVQYXJhbUFkZFw+</last-pattern>
+      <last-pattern>查询</last-pattern>
       <last-replace>GROUPS</last-replace>
       <last-substitute>TYPES</last-substitute>
       <last-dir>1</last-dir>
