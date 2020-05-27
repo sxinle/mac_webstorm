@@ -128,8 +128,8 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1590568402983">
-        <mark key="'" line="43" column="4" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1590568449580">
+        <mark key="'" line="55" column="5" />
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="33" />
@@ -143,10 +143,10 @@
       <file name="/Dummy.txt" timestamp="1590564229335">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590567865631">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590570085382">
         <mark key="'" line="270" column="0" />
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="11" />
+        <mark key="[" line="73" column="17" />
+        <mark key="]" line="73" column="31" />
         <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/UploadFormItem/index.js" timestamp="1590546426494">
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="71" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="379" column="71" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="391" column="34" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="154" column="28" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="375" column="33" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -287,6 +285,8 @@
       <jump line="25" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="26" column="31" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
+      <jump line="55" column="5" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +295,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>axios</text>
+        <text>centerAutoLevel</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -304,7 +304,7 @@
         <text>axi</text>
       </register>
       <register name="0" type="4">
-        <text>axios</text>
+        <text>centerAutoLevel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
