@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbUZpZWxkTGlzdFw+</entry>
-        <entry>查看</entry>
-        <entry>UPDM</entry>
         <entry>数据源类型</entry>
         <entry>权限</entry>
         <entry encoding="base64">XDxmbGF0Q2hpbGRMaXN0XD4=</entry>
@@ -25,6 +22,9 @@
         <entry>serverName</entry>
         <entry>高亮</entry>
         <entry encoding="base64">XDx0aHVtYm5haWxMaXN0XD4=</entry>
+        <entry encoding="base64">XDxjb25maWdKc29uRGF0YVw+</entry>
+        <entry>ows</entry>
+        <entry>217:8091</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -137,6 +137,13 @@
       <file name="/Dummy.txt" timestamp="1590564229335">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590567276147">
+        <mark key="'" line="113" column="50" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="^" line="167" column="12" />
+        <mark key="." line="218" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/components/UploadFormItem/index.js" timestamp="1590546426494">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="11" column="6" />
@@ -151,12 +158,6 @@
         <mark key="]" line="540" column="23" />
         <mark key="." line="540" column="22" />
         <mark key="^" line="540" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/global.less" timestamp="1590120278375">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/pages/Takeout/settings/Settings.js" timestamp="1590542923092">
         <mark key="'" line="7" column="40" />
@@ -188,10 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="40" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="435" column="5" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="653" column="52" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
-      <jump line="289" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="364" column="19" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="610" column="60" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="91" column="49" filename="$USER_HOME$/workspace/shangyuan/scity_gisconfig_web/src/pages/System/Sys_Layer/index.jsx" />
@@ -288,6 +285,10 @@
       <jump line="184" column="8" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
       <jump line="186" column="4" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
       <jump line="303" column="36" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="38" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="183" column="16" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="112" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="113" column="50" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,46 +297,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaYvuekuumhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3Nob3dPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfmmL7npLrpobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuWKoOi9vemhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2xvYWRPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfliqDovb3pobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>legend</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aHVtYm5haWxMaXN0XD4=</text>
+        <text>217:8091</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFJvdz4KICAgICAgICA8Q29sIHNwYW49ezh9PgogICAgICAgICAgPFVwbG9hZEZvcm1JdGVtIGxhYmVsPSLnvKnnlaXlm74iIGZvcm09e2Zvcm19CiAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZUxpc3Q9e3RodW1ibmFpbExpc3R9CiAgICAgICAgICAgICAgICAgICAgICAgICAgZm9ybUl0ZW1MYXlvdXQ9e3sgbGFiZWxDb2w6IHsgc3BhbjogMTUgfSwgd3JhcHBlckNvbDogeyBzcGFuOiA5IH0gfX0KICAgICAgICAgICAgICAgICAgICAgICAgICBmaWVsZE5hbWU9InRodW1ibmFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhGaWxlQ250PXsxfS8+CiAgICAgICAgPC9Db2w+CiAgICAgICAgPENvbCBzcGFuPXs4fT4KICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiAxMCB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE0IH19IGxhYmVsPSLmmL7npLrpobrluo8iPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignc2hvd09yZGVyJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogcj8uc2hvd09yZGVyLAogICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn5pi+56S66aG65bqP5LiN6IO95Li656m6JyB9LAogICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgPC9Db2w+CiAgICAgICAgPENvbCBzcGFuPXs4fT4KICAgICAgICAgIDxGb3JtSXRlbSBsYWJlbENvbD17eyBzcGFuOiAxMCB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE0IH19IGxhYmVsPSLliqDovb3pobrluo8iPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcignbG9hZE9yZGVyJywgewogICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogcj8ubG9hZE9yZGVyLAogICAgICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn5Yqg6L296aG65bqP5LiN6IO95Li656m6JyB9LAogICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgICAgIDwvRm9ybUl0ZW0+CiAgICAgICAgPC9Db2w+CiAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaYvuekuumhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3Nob3dPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfmmL7npLrpobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuWKoOi9vemhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2xvYWRPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfliqDovb3pobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IHI/LmxvYWRPcmRlciwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IHI/LnNob3dPcmRlciwK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgICA8VXBsb2FkRm9ybUl0ZW0gbGFiZWw9Iue8qeeVpeWbviIgZm9ybT17Zm9ybX0KICAgICAgICAgICAgICAgICAgICAgIGZvcm1JdGVtTGF5b3V0PXt7IGxhYmVsQ29sOiB7IHNwYW46IDEwIH0sIHdyYXBwZXJDb2w6IHsgc3BhbjogMTQgfSB9fQogICAgICAgICAgICAgICAgICAgICAgZmllbGROYW1lPSJ0aHVtYm5haWwiCiAgICAgICAgICAgICAgICAgICAgICBtYXhGaWxlQ250PXsxfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlTGlzdD17dGh1bWJuYWlsTGlzdH0K</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaYvuekuumhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ3Nob3dPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfmmL7npLrpobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuWKoOi9vemhuuW6jyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2xvYWRPcmRlcicsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfliqDovb3pobrluo/kuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dE51bWJlciBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIiBtaW49ezF9IG1heD17MTAwfS8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgey8qPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9Iue8qeeVpeWbvlVSTOWcsOWdgCI+Ki99CiAgICAgIHsvKiAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcigidGh1bWJuYWlsIiwgeyovfQogICAgICB7LyogICAgICAgIHJ1bGVzOiBbKi99CiAgICAgIHsvKiAgICAgICAgICAgIHtyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogIue8qeeVpeWbvuS4jeiDveS4uuepuiJ9Ki99CiAgICAgIHsvKiAgICAgICAgXSovfQogICAgICB7LyogICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaUiLz4pfSovfQogICAgICB7Lyo8L0Zvcm1JdGVtPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IHI/LmxvYWRPcmRlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IHI/LnNob3dPcmRlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICA8VXBsb2FkRm9ybUl0ZW0gbGFiZWw9Iue8qeeVpeWbviIgZm9ybT17Zm9ybX0KICAgICAgICAgICAgICAgICAgICAgIGZvcm1JdGVtTGF5b3V0PXt7IGxhYmVsQ29sOiB7IHNwYW46IDEwIH0sIHdyYXBwZXJDb2w6IHsgc3BhbjogMTQgfSB9fQogICAgICAgICAgICAgICAgICAgICAgZmllbGROYW1lPSJ0aHVtYm5haWwiCiAgICAgICAgICAgICAgICAgICAgICBtYXhGaWxlQ250PXsxfS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlTGlzdD17dGh1bWJuYWlsTGlzdH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aHVtYm5haWxMaXN0XD4=</last-search>
+      <last-search>217:8091</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aHVtYm5haWxMaXN0XD4=</last-pattern>
+      <last-pattern>217:8091</last-pattern>
       <last-replace>GROUPS</last-replace>
       <last-substitute>TYPES</last-substitute>
       <last-dir>1</last-dir>
