@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbk1lbnVDbGlja1w+</entry>
-        <entry>type</entry>
-        <entry>图层列表</entry>
-        <entry>games\/</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxiYXRjaERlbFw+</entry>
         <entry>新增图层</entry>
@@ -19,12 +15,16 @@
         <entry encoding="base64">XDxPcHRpb25cPg==</entry>
         <entry>图层名称</entry>
         <entry>分类列表</entry>
-        <entry>游戏列表</entry>
         <entry>handleAdd</entry>
         <entry>games</entry>
         <entry encoding="base64">XDxjYXRzXD4=</entry>
         <entry encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</entry>
         <entry>pre</entry>
+        <entry>游戏列表</entry>
+        <entry>参数</entry>
+        <entry encoding="base64">XDxtYXBQYXJhbUdyb3Vwc1w+</entry>
+        <entry>bindParam</entry>
+        <entry>render</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -101,10 +101,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/layouts/Header.js" timestamp="1590908839097">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="75" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" timestamp="1590921913060">
         <mark key="'" line="271" column="0" />
         <mark key="[" line="181" column="0" />
@@ -126,18 +122,6 @@
       <file name="/a.dummy" timestamp="1590911431403">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" timestamp="1590908829219">
-        <mark key="'" line="63" column="63" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="74" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.less" timestamp="1590908792355">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/login.js" timestamp="1590909493262">
         <mark key="'" line="13" column="31" />
         <mark key="[" line="17" column="11" />
@@ -145,10 +129,11 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/index.less" timestamp="1590908785839">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="43" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/services/accounts.js" timestamp="1590922842797">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/SysDataSet/index.jsx" timestamp="1590915560811">
         <mark key="'" line="25" column="7" />
@@ -162,12 +147,12 @@
         <mark key="^" line="55" column="36" />
         <mark key="." line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/config/router.config.js" timestamp="1590918238989">
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/config/router.config.js" timestamp="1590924156597">
         <mark key="'" line="34" column="6" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="17" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/services/roles.js" timestamp="1590917695393">
         <mark key="[" line="13" column="30" />
@@ -191,6 +176,25 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" timestamp="1590923906147">
+        <mark key="'" line="328" column="2" />
+        <mark key="[" line="231" column="45" />
+        <mark key="]" line="231" column="47" />
+        <mark key="." line="231" column="46" />
+        <mark key="^" line="231" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" timestamp="1590923529968">
+        <mark key="'" line="463" column="6" />
+        <mark key="[" line="847" column="22" />
+        <mark key="]" line="847" column="38" />
+        <mark key="." line="173" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/accounts.js" timestamp="1590922822505">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" timestamp="1590917542128">
         <mark key="'" line="341" column="15" />
         <mark key="[" line="264" column="38" />
@@ -198,12 +202,11 @@
         <mark key="^" line="264" column="24" />
         <mark key="." line="264" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" timestamp="1590920172336">
-        <mark key="'" line="328" column="24" />
-        <mark key="[" line="183" column="18" />
-        <mark key="]" line="183" column="25" />
-        <mark key="." line="183" column="24" />
-        <mark key="^" line="183" column="25" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" timestamp="1590923733873">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" timestamp="1590909036698">
         <mark key="'" line="72" column="44" />
@@ -221,16 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="22" column="2" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="44" column="16" filename="$USER_HOME$/workspace/pproj/f-games-role/src/utils/request.js" />
-      <jump line="15" column="19" filename="$USER_HOME$/workspace/pproj/f-games-role/src/models/login.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/workspace/pproj/f-games-role/src/services/login.js" />
-      <jump line="36" column="15" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="13" column="31" filename="$USER_HOME$/workspace/pproj/f-games-role/src/models/login.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/utils/request.js" />
-      <jump line="11" column="52" filename="$USER_HOME$/workspace/shangyuan/antd-pro-umi/src/layouts/BasicLayout.jsx" />
       <jump line="62" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="64" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
       <jump line="66" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
@@ -291,7 +284,6 @@
       <jump line="157" column="22" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="354" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="100" column="33" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="37" column="33" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="123" column="22" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
       <jump line="264" column="38" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
       <jump line="69" column="19" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
@@ -321,6 +313,17 @@
       <jump line="98" column="38" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
       <jump line="185" column="33" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
       <jump line="293" column="35" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
+      <jump line="101" column="34" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
+      <jump line="165" column="46" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="410" column="15" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="400" column="4" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="423" column="24" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="463" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
+      <jump line="43" column="18" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
+      <jump line="162" column="44" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
+      <jump line="221" column="2" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
+      <jump line="329" column="2" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,46 +332,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>setFieldsValue</text>
+        <text>apple</text>
       </register>
       <register name="-" type="4">
-        <text>setfi</text>
+        <text>apple</text>
       </register>
       <register name="/" type="4">
-        <text>pre</text>
+        <text>render</text>
       </register>
-      <register name="0" type="4">
-        <text>setFieldsValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfmiYDlsZ7muLjmiI8nLAogICAgICBkYXRhSW5kZXg6ICdnbmFtZUNuJywKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0cnVlKSByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaXpeivreWQjeensCI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ25hbWVKYScsIHsKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfml6Xor63lkI3np7DkuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIi8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkudGhlbigoKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFByb21pc2UoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVVcGRhdGUoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tb2RhbFF1ZXJ5Q2F0c0xpc3QocmVjb3JkLmdhbWVJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5xdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFByb21pc2UoKCkgPT4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -377,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pre</last-search>
+      <last-search>render</last-search>
       <last-offset />
-      <last-pattern>pre</last-pattern>
+      <last-pattern>render</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
