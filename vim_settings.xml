@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onMenu</entry>
         <entry encoding="base64">XDxvbk1lbnVDbGlja1w+</entry>
         <entry>type</entry>
         <entry>图层列表</entry>
@@ -25,6 +24,7 @@
         <entry>games</entry>
         <entry encoding="base64">XDxjYXRzXD4=</entry>
         <entry encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</entry>
+        <entry>pre</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -105,10 +105,10 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="75" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" timestamp="1590919589309">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" timestamp="1590921913060">
         <mark key="'" line="271" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="38" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="91" />
         <mark key="." line="415" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/roles.js" timestamp="1590917678410">
@@ -175,9 +175,9 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/node_modules/antd/lib/form/Form.d.ts" timestamp="1590918909135">
-        <mark key="[" line="154" column="4" />
-        <mark key="]" line="154" column="14" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/node_modules/antd/lib/form/Form.d.ts" timestamp="1590922079006">
+        <mark key="[" line="125" column="4" />
+        <mark key="]" line="125" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/cats.js" timestamp="1590912272540">
         <mark key="[" line="0" column="38" />
@@ -212,17 +212,15 @@
         <mark key="." line="118" column="7" />
         <mark key="^" line="118" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" timestamp="1590920121983">
-        <mark key="'" line="99" column="38" />
-        <mark key="[" line="271" column="14" />
-        <mark key="]" line="271" column="18" />
-        <mark key="." line="271" column="17" />
-        <mark key="^" line="271" column="18" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" timestamp="1590922088722">
+        <mark key="'" line="295" column="35" />
+        <mark key="[" line="128" column="38" />
+        <mark key="]" line="128" column="39" />
+        <mark key="." line="128" column="39" />
+        <mark key="^" line="128" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="76" column="29" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="22" column="2" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="44" column="16" filename="$USER_HOME$/workspace/pproj/f-games-role/src/utils/request.js" />
@@ -321,6 +319,8 @@
       <jump line="97" column="6" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
       <jump line="271" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" />
       <jump line="98" column="38" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
+      <jump line="185" column="33" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
+      <jump line="293" column="35" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,46 +329,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>nameCn</text>
+        <text>setFieldsValue</text>
       </register>
       <register name="-" type="4">
-        <text>nameCn</text>
+        <text>setfi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</text>
+        <text>pre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdGl0bGU6ICfkuK3mloflkI3np7AnLAogICAgICBkYXRhSW5kZXg6ICduYW1lQ24nLAogICAgfSwK</text>
+      <register name="0" type="4">
+        <text>setFieldsValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGZpZWxkTmFtZT0iaW1hZ2VVcmwiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBobEljb25MaXN0ID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgfSkudGhlbigoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaJgOWxnua4uOaIjyI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ2dhbWVJZCcsIHsKICAgICAgICAgIGluaXRpYWxWYWx1ZTogcj8uZ2FtZUlkLAogICAgICAgICAgcnVsZXM6IFsKICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+aJgOWxnua4uOaIj+S4jeiDveS4uuepuicgfSwKICAgICAgICAgIF0sCiAgICAgICAgfSkoPFNlbGVjdCBwbGFjZWhvbGRlcj0i6K+36YCJ5oupIiBzdHlsZT17eyB3aWR0aDogJzEwMCUnIH19PgogICAgICAgICAgICB7Z2FtZXMubWFwKGcgPT4gKAogICAgICAgICAgICAgIDxPcHRpb24ga2V5PXtnLmlkfSB2YWx1ZT17Zy5pZH0+CiAgICAgICAgICAgICAgICB7Zy5uYW1lQ259CiAgICAgICAgICAgICAgPC9PcHRpb24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TZWxlY3Q+LAogICAgICAgICl9CiAgICAgIDwvRm9ybUl0ZW0+CiAgICAgIDxGb3JtSXRlbSB7Li4uZm9ybUl0ZW1MYXlvdXR9IGxhYmVsPSLkuK3mloflkI3np7AiPgogICAgICAgIHtmb3JtLmdldEZpZWxkRGVjb3JhdG9yKCduYW1lQ24nLCB7CiAgICAgICAgICBpbml0aWFsVmFsdWU6IHI/Lm5hbWVDbiwKICAgICAgICAgIHJ1bGVzOiBbCiAgICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfkuK3mloflkI3np7DkuI3og73kuLrnqbonIH0sCiAgICAgICAgICBdLAogICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWlIi8+KX0KICAgICAgPC9Gb3JtSXRlbT4KICAgICAgPEZvcm1JdGVtIHsuLi5mb3JtSXRlbUxheW91dH0gbGFiZWw9IuaXpeivreWQjeensCI+CiAgICAgICAge2Zvcm0uZ2V0RmllbGREZWNvcmF0b3IoJ25hbWVKYScsIHsKICAgICAgICAgIGluaXRpYWxWYWx1ZTogcj8ubmFtZUphLAogICAgICAgICAgcnVsZXM6IFsKICAgICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+aXpeivreWQjeensOS4jeiDveS4uuepuicgfSwKICAgICAgICAgIF0sCiAgICAgICAgfSkoPElucHV0IHBsYWNlaG9sZGVyPSLor7fovpPlhaUiLz4pfQogICAgICA8L0Zvcm1JdGVtPgogICAgICAK</text>
+        <text encoding="base64">ICAgICAgbmV3IFByb21pc2UoKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy50b2dnbGVVcGRhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5tb2RhbFF1ZXJ5Q2F0c0xpc3QocmVjb3JkLmdhbWVJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5xdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -377,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</last-search>
+      <last-search>pre</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</last-pattern>
+      <last-pattern>pre</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
