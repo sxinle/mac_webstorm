@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ZARA</entry>
-        <entry>index.html#</entry>
-        <entry>Search</entry>
-        <entry>Enter</entry>
         <entry>Hi</entry>
         <entry>top</entry>
         <entry>search</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxvbkdldENhcHRjaGFcPg==</entry>
         <entry encoding="base64">XDxSaWdodENvbnRlbnRcPg==</entry>
         <entry>right</entry>
+        <entry encoding="base64">XDxtZW51XD4=</entry>
+        <entry>onMenu</entry>
+        <entry encoding="base64">XDxvbk1lbnVDbGlja1w+</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -101,15 +101,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/login.js" timestamp="1590907907874">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="44" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/layouts/Header.js" timestamp="1590908839097">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="75" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/.umi/umi.js" timestamp="1590905268018">
-        <mark key="'" line="95" column="42" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" timestamp="1590908829219">
+        <mark key="'" line="63" column="63" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.less" timestamp="1590908792355">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/login.js" timestamp="1590909493262">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/index.js" timestamp="1590906790214">
         <mark key="[" line="5" column="6" />
@@ -129,30 +142,22 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/utils/history.js" timestamp="1590905162512">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="37" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/index.less" timestamp="1590908785839">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" timestamp="1590907915918">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="47" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" timestamp="1590909295472">
+        <mark key="'" line="46" column="58" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="36" />
+        <mark key="^" line="55" column="36" />
+        <mark key="." line="55" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/Login.js" timestamp="1590907059502">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="132" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/package.json" timestamp="1590904660509">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/config/router.config.js" timestamp="1590906902296">
         <mark key="'" line="34" column="6" />
@@ -181,12 +186,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" timestamp="1590908393290">
-        <mark key="'" line="51" column="41" />
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="40" />
-        <mark key="^" line="51" column="39" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" timestamp="1590909036698">
+        <mark key="'" line="72" column="44" />
+        <mark key="[" line="117" column="32" />
+        <mark key="]" line="118" column="8" />
+        <mark key="." line="118" column="7" />
+        <mark key="^" line="118" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login.js" timestamp="1590906198096">
         <mark key="[" line="0" column="0" />
@@ -199,41 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="257" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="556" column="15" filename="$USER_HOME$/Desktop/html5源码/games/kuaipao/index.html" />
-      <jump line="13" column="14" filename="$USER_HOME$/Desktop/html5源码/games/kuaipao/index.html" />
-      <jump line="1878" column="0" filename="$USER_HOME$/Desktop/html5源码/games/kuaipao/index.html" />
-      <jump line="213" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="39" column="23" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
-      <jump line="183" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="221" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="17" column="27" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="18" column="7" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="2" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/package.json" />
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/package.json" />
-      <jump line="208" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="42" column="36" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
-      <jump line="10" column="53" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="92" column="67" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="27" column="0" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="32" column="47" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="41" column="58" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="49" column="58" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="55" column="58" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="64" column="64" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="70" column="49" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="71" column="49" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="94" column="72" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="102" column="72" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="116" column="65" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="121" column="45" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="122" column="45" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="123" column="45" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
-      <jump line="176" column="11" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
       <jump line="1256" column="21" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
       <jump line="74" column="46" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
       <jump line="52" column="25" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
@@ -285,7 +255,6 @@
       <jump line="18" column="15" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/404.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/404.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/Login.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="6" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="76" column="29" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
@@ -298,7 +267,43 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/utils/request.js" />
       <jump line="11" column="52" filename="$USER_HOME$/workspace/shangyuan/antd-pro-umi/src/layouts/BasicLayout.jsx" />
-      <jump line="51" column="41" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="62" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="64" column="9" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="66" column="10" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="67" column="8" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.less" />
+      <jump line="51" column="35" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="2" column="17" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="8" column="10" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="60" column="15" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="66" column="44" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.jsx" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/index.less" />
+      <jump line="27" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.less" />
+      <jump line="35" column="24" filename="$USER_HOME$/workspace/pproj/f-games-role/src/layouts/BasicLayout.less" />
+      <jump line="15" column="2" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="59" column="25" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="63" column="63" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="60" column="28" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="69" column="18" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="39" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="20" column="24" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="21" column="20" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="25" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="29" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="32" column="10" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="53" column="58" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="28" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="51" column="58" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="63" column="21" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="23" column="8" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
+      <jump line="46" column="58" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,46 +312,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>menu.account.logout</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFJpZ2h0Q29udGVudC8+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>right</text>
+        <text>type</text>
       </register>
       <register name="0" type="4">
-        <text>menu.account.logout</text>
+        <text>message</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZmF1bHRBY3RpdmVLZXk9e3R5cGV9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGRlbChwYXJhbXMpIHsKICByZXR1cm4gcmVxdWVzdC5kZWxldGUoYC9hZG1pbi9nYW1lL2RlbC8ke3BhcmFtcy5pZH1gKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHF1ZXJ5KHBhcmFtcykgewogIHJldHVybiByZXF1ZXN0LnBvc3QoJy9hZG1pbi9nYW1lL3F1ZXJ5JywgewogICAgZGF0YTogcGFyYW1zLAogIH0pOwp9Cgo=</text>
+        <text encoding="base64">ICBvblRhYkNoYW5nZSA9IHR5cGUgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7IHR5cGUgfSk7CiAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcCA9IHlpZWxkIGNhbGwoc2VydmljZS5zYXZlT3JVcGRhdGUsIHBheWxvYWQpOwogICAgICBpZiAoY2FsbGJhY2spIGNhbGxiYWNrKHJlc3ApOwo=</text>
+        <text encoding="base64">ICAgIHR5cGU6ICdhY2NvdW50JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSB9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbkdldENhcHRjaGEgPSAoKSA9PgogICAgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICB0aGlzLmxvZ2luRm9ybS52YWxpZGF0ZUZpZWxkcyhbJ21vYmlsZSddLCB7fSwgKGVyciwgdmFsdWVzKSA9PiB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgcmVqZWN0KGVycik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICAgICAgICBkaXNwYXRjaCh7CiAgICAgICAgICAgIHR5cGU6ICdsb2dpbi9nZXRDYXB0Y2hhJywKICAgICAgICAgICAgcGF5bG9hZDogdmFsdWVzLm1vYmlsZSwKICAgICAgICAgIH0pCiAgICAgICAgICAgIC50aGVuKHJlc29sdmUpCiAgICAgICAgICAgIC5jYXRjaChyZWplY3QpOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogZGVsKHsgcGF5bG9hZCwgY2FsbGJhY2sgfSwgeyBjYWxsLCBwdXQgfSkgewogICAgICBjb25zdCByZXNwID0geWllbGQgY2FsbChzZXJ2aWNlLmRlbCwgcGF5bG9hZCk7CiAgICAgIGlmIChjYWxsYmFjaykgY2FsbGJhY2socmVzcCk7CiAgICB9LAogICAgKiBxdWVyeSh7IHBheWxvYWQsIGNhbGxiYWNrIH0sIHsgY2FsbCwgcHV0IH0pIHsKICAgICAgY29uc3QgcmVzcCA9IHlpZWxkIGNhbGwoc2VydmljZS5xdWVyeSwgcGF5bG9hZCk7CiAgICAgIGlmIChjYWxsYmFjaykgY2FsbGJhY2socmVzcCk7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICYmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtzdHlsZXMub3RoZXJ9PiovfQogICAgICAgICAgey8qPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9ImFwcC5sb2dpbi5zaWduLWluLXdpdGgiIC8+Ki99CiAgICAgICAgICB7Lyo8SWNvbiB0eXBlPSJhbGlwYXktY2lyY2xlIiBjbGFzc05hbWU9e3N0eWxlcy5pY29ufSB0aGVtZT0ib3V0bGluZWQiIC8+Ki99CiAgICAgICAgICB7Lyo8SWNvbiB0eXBlPSJ0YW9iYW8tY2lyY2xlIiBjbGFzc05hbWU9e3N0eWxlcy5pY29ufSB0aGVtZT0ib3V0bGluZWQiIC8+Ki99CiAgICAgICAgICB7Lyo8SWNvbiB0eXBlPSJ3ZWliby1jaXJjbGUiIGNsYXNzTmFtZT17c3R5bGVzLmljb259IHRoZW1lPSJvdXRsaW5lZCIgLz4qL30KICAgICAgICAgIHsvKjxMaW5rIGNsYXNzTmFtZT17c3R5bGVzLnJlZ2lzdGVyfSB0bz0iL3VzZXIvcmVnaXN0ZXIiPiovfQogICAgICAgICAgey8qPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9ImFwcC5sb2dpbi5zaWdudXAiIC8+Ki99CiAgICAgICAgICB7Lyo8L0xpbms+Ki99CiAgICAgICAgICB7Lyo8L2Rpdj4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -355,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>right</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>right</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
