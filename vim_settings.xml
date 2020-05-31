@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>obser</entry>
         <entry>ads</entry>
         <entry>&quot;:</entry>
         <entry encoding="base64">XDxtYXBEYXRhXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>top</entry>
         <entry>search</entry>
         <entry>Menu</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -111,11 +111,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" timestamp="1590564082658">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="283" column="18" />
-        <mark key="." line="415" column="0" />
-      </file>
       <file name="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/portfolio.html" timestamp="1590802860223">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="158" column="68" />
@@ -133,12 +128,6 @@
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" timestamp="1590564177776">
-        <mark key="'" line="307" column="36" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/html5源码/games/kuaipao/index.html" timestamp="1590723671860">
         <mark key="'" line="1878" column="0" />
       </file>
@@ -154,6 +143,10 @@
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/format/WMSCapabilities.js" timestamp="1590571438889">
         <mark key="[" line="49" column="4" />
         <mark key="]" line="49" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/authority.js" timestamp="1590890762785">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/package.json" timestamp="1590733316508">
         <mark key="'" line="89" column="0" />
@@ -195,8 +188,8 @@
         <mark key="^" line="51" column="27" />
         <mark key="." line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/request.js" timestamp="1590888502225">
-        <mark key="'" line="14" column="26" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/request.js" timestamp="1590890752088">
+        <mark key="'" line="96" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/services/api.js" timestamp="1590632572657">
         <mark key="'" line="4" column="24" />
@@ -204,9 +197,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/package.json" timestamp="1590891794828">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="25" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="26" column="31" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
@@ -306,6 +304,7 @@
       <jump line="84" column="0" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
       <jump line="44" column="82" filename="$USER_HOME$/a/v.bootstrapmb.com/2018/9/ixt532414/index.html" />
       <jump line="14" column="26" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/request.js" />
+      <jump line="96" column="34" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/utils/request.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,17 +312,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWFzb25yeS1nYWxsZXJ5Ij48IS0tIGlzb3RvcGUgZmlsdGVyIC0tPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFnZS1zZWN0aW9uX2ltYWdlc19fZmlsdGVyIG0tYi0zMCI+CiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXIganMtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGlzdC1tYXNvbnJ5LWdyaWQtd29ya3MtZmlsdGVyX19pdGVtIj48YQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2xpbmsgbGlzdC1tYXNvbnJ5LWdyaWQtd29ya3MtZmlsdGVyX19saW5rX2FjdGl2ZSBidG4gYnRuLWRhbmdlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBocmVmPSJwb3J0Zm9saW8uaHRtbCMiIGRhdGEtZmlsdGVyPSIqIj5BbGw8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2l0ZW0iPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Imxpc3QtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlcl9fbGluayBidG4gYnRuLXByaW1hcnkiIGhyZWY9InBvcnRmb2xpby5odG1sIyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpbHRlcj0iLmpzLW1hc29ucnktZ3JpZC13b3Jrc19faXRlbV9wcm9kdWN0cyI+UHJvZHVjdHM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2l0ZW0iPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Imxpc3QtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlcl9fbGluayBidG4gYnRuLXByaW1hcnkiIGhyZWY9InBvcnRmb2xpby5odG1sIyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpbHRlcj0iLmpzLW1hc29ucnktZ3JpZC13b3Jrc19faXRlbV90ZWFtIj5UZWFtPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgIDwvZGl2PjwhLS0gLSBpc290b3BlIGZpbHRlciAtLT48IS0tIG1hc29ucnkgZ3JpZCAtLT4K</text>
+      <register name="*" type="4">
+        <text>permit-center</text>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6Ik85VU8wQlRSWElYV1ZEVURYRFVMVVBaRzVVSTVfSFlKRVNHUkJOTlciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6ImFjYTZhZDBjLTNiOWUtNDQ2Mi1iYWEwLTE4ZTIxOWYxMzBhZCIsInRva2VuX3VzYWdlIjoiYWNjZXNzX3Rva2VuIiwianRpIjoiYzYyYTE3ZjQtM2NmNC00ZTA4LWIzZTctYmI3ZmY1NWY3OTU2IiwiY2ZkX2x2bCI6InByaXZhdGUiLCJhdWQiOiJyZXNvdXJjZS1zZXJ2ZXIiLCJhenAiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwibmJmIjoxNTkwNTc0NTQyLCJleHAiOjE1OTA2NjA5NDMsImlhdCI6MTU5MDU3NDU0MiwiaXNzIjoiaHR0cDovL2hucnEtYXF1aWNrLW9hdXRoMi5obnJxLnN2Yzo1MDAwLyJ9.CAOjxQJcilFXasjawBikusAeHbVgjEvLYehu0R6Np7NjtaK3ok9ixeAk3sNTiDIFfBma6GHjgKquKDqzhTsbUraQ5LgIkqtqU9mhSA3fP-TF4RnyWcYAFPiUrxzo0jH8iA-WbyxEZOySZlsKDYfwlweGcxLEMKe0z9QVJT9_4mO1W5rzP0G5IHFQLujwGNThcRAZhvRNozUwXjZhoDfsIFkrQWQNWqDFs3BMaSBLJ578T75r6yfg8ucQBYzKsUNrApIIU6OkJOsEpZrbB8Uu0g56LCnYpazZzL3FTvXKJsmOctm1058jvZu5gk40cs-4Q9QMZjKLfg0samPNmZx97w</text>
+        <text>permit-center</text>
       </register>
       <register name="/" type="4">
-        <text>Menu</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWFzb25yeS1nYWxsZXJ5Ij48IS0tIGlzb3RvcGUgZmlsdGVyIC0tPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFnZS1zZWN0aW9uX2ltYWdlc19fZmlsdGVyIG0tYi0zMCI+CiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXIganMtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGlzdC1tYXNvbnJ5LWdyaWQtd29ya3MtZmlsdGVyX19pdGVtIj48YQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2xpbmsgbGlzdC1tYXNvbnJ5LWdyaWQtd29ya3MtZmlsdGVyX19saW5rX2FjdGl2ZSBidG4gYnRuLWRhbmdlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBocmVmPSJwb3J0Zm9saW8uaHRtbCMiIGRhdGEtZmlsdGVyPSIqIj5BbGw8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2l0ZW0iPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Imxpc3QtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlcl9fbGluayBidG4gYnRuLXByaW1hcnkiIGhyZWY9InBvcnRmb2xpby5odG1sIyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpbHRlcj0iLmpzLW1hc29ucnktZ3JpZC13b3Jrc19faXRlbV9wcm9kdWN0cyI+UHJvZHVjdHM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN0LW1hc29ucnktZ3JpZC13b3Jrcy1maWx0ZXJfX2l0ZW0iPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Imxpc3QtbWFzb25yeS1ncmlkLXdvcmtzLWZpbHRlcl9fbGluayBidG4gYnRuLXByaW1hcnkiIGhyZWY9InBvcnRmb2xpby5odG1sIyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLWZpbHRlcj0iLmpzLW1hc29ucnktZ3JpZC13b3Jrc19faXRlbV90ZWFtIj5UZWFtPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgIDwvZGl2PjwhLS0gLSBpc290b3BlIGZpbHRlciAtLT48IS0tIG1hc29ucnkgZ3JpZCAtLT4K</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdldFRva2VuKCkgewogIHJldHVybiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnQXV0aG9yaXphdGlvbicpOwp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hcERhdGEsICdbID09PT09IG1hcCA9PT09PSBdJyk7Cg==</text>
@@ -362,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Menu</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>Menu</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>&quot;:</last-substitute>
       <last-dir>1</last-dir>
