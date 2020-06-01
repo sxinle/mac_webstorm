@@ -174,12 +174,12 @@
       <file name="/Dummy.txt" timestamp="1590984248382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590989483338">
-        <mark key="'" line="323" column="18" />
-        <mark key="[" line="361" column="86" />
-        <mark key="]" line="361" column="86" />
-        <mark key="." line="361" column="86" />
-        <mark key="^" line="345" column="32" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590991247565">
+        <mark key="'" line="353" column="48" />
+        <mark key="[" line="233" column="23" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="235" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/services/accounts.js" timestamp="1590926659347">
         <mark key="[" line="25" column="39" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
       <jump line="328" column="47" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
       <jump line="181" column="2" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
       <jump line="225" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/games/index.jsx" />
@@ -315,6 +314,7 @@
       <jump line="422" column="38" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
       <jump line="373" column="8" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
       <jump line="313" column="27" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
+      <jump line="351" column="48" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,10 +323,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>'</text>
+        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6Ik85VU8wQlRSWElYV1ZEVURYRFVMVVBaRzVVSTVfSFlKRVNHUkJOTlciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6Ijc3NGFmNTE0LWVhOTItNDAwZS1iODliLTc2OTc0NGUwMjljMiIsInRva2VuX3VzYWdlIjoiYWNjZXNzX3Rva2VuIiwianRpIjoiYzM3MmIwZmQtMWU4OC00ZmU1LTg0MjItODgzNTE0ZjhlODFjIiwiY2ZkX2x2bCI6InByaXZhdGUiLCJhdWQiOiJyZXNvdXJjZS1zZXJ2ZXIiLCJhenAiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwibmJmIjoxNTkwOTcyMDM0LCJleHAiOjE1OTEwNTg0MzUsImlhdCI6MTU5MDk3MjAzNCwiaXNzIjoiaHR0cDovL2hucnEtYXF1aWNrLW9hdXRoMi5obnJxLnN2Yzo1MDAwLyJ9.V-SARVgz46io-aBfvBfwm99oCFeAMfgoQuOS5BX193XdfsVSN2Y0dS2AkMFf38ZXQdCiGiMmlaBCftZwQrllz5dtRB85QfUUU666-CSW11JEBTo-oSa2k3SEQxdDslqbZVjebFeSc9KznKGMDNwYgWsHNYByrJeKeYptSnJNaA0YILq9WGljmO13A7_oEVht1G-A4q8Hu005J_UlePJYfFhia0IpvGUgJcpp9vzjHIZSC_0EjYW5CEsyNGKnwwxPpaZ7QHM63wU1gODH2STK5BhXEYsjI3X8tHFsz84XE8ZFYTc_kvxcwtWB4WEUdRVpkRhgheeo2-M69h1olo0ohA</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6Ik85VU8wQlRSWElYV1ZEVURYRFVMVVBaRzVVSTVfSFlKRVNHUkJOTlciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6Ijc3NGFmNTE0LWVhOTItNDAwZS1iODliLTc2OTc0NGUwMjljMiIsInRva2VuX3VzYWdlIjoiYWNjZXNzX3Rva2VuIiwianRpIjoiYzM3MmIwZmQtMWU4OC00ZmU1LTg0MjItODgzNTE0ZjhlODFjIiwiY2ZkX2x2bCI6InByaXZhdGUiLCJhdWQiOiJyZXNvdXJjZS1zZXJ2ZXIiLCJhenAiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwibmJmIjoxNTkwOTcyMDM0LCJleHAiOjE1OTEwNTg0MzUsImlhdCI6MTU5MDk3MjAzNCwiaXNzIjoiaHR0cDovL2hucnEtYXF1aWNrLW9hdXRoMi5obnJxLnN2Yzo1MDAwLyJ9.V-SARVgz46io-aBfvBfwm99oCFeAMfgoQuOS5BX193XdfsVSN2Y0dS2AkMFf38ZXQdCiGiMmlaBCftZwQrllz5dtRB85QfUUU666-CSW11JEBTo-oSa2k3SEQxdDslqbZVjebFeSc9KznKGMDNwYgWsHNYByrJeKeYptSnJNaA0YILq9WGljmO13A7_oEVht1G-A4q8Hu005J_UlePJYfFhia0IpvGUgJcpp9vzjHIZSC_0EjYW5CEsyNGKnwwxPpaZ7QHM63wU1gODH2STK5BhXEYsjI3X8tHFsz84XE8ZFYTc_kvxcwtWB4WEUdRVpkRhgheeo2-M69h1olo0ohA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250YWluZXJcPg==</text>
