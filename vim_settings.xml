@@ -101,6 +101,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.ssh/openssh/main.tcl" timestamp="1590975763458">
+        <mark key="[" line="223" column="26" />
+        <mark key="]" line="223" column="27" />
+        <mark key="^" line="223" column="27" />
+        <mark key="." line="223" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590933841804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,9 +127,6 @@
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="41" />
         <mark key="^" line="18" column="43" />
-      </file>
-      <file name="/a.dummy" timestamp="1590911431403">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/config/router.config.js" timestamp="1590926395956">
         <mark key="'" line="34" column="6" />
@@ -208,10 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="25" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
-      <jump line="63" column="63" filename="$USER_HOME$/workspace/pegas/pegas-f-admin/src/components/GlobalHeader/RightContent.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="60" column="28" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="69" column="18" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="16" column="4" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="39" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
@@ -308,6 +307,10 @@
       <jump line="186" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="323" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="160" column="4" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
+      <jump line="46" column="8" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
+      <jump line="162" column="8" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
+      <jump line="203" column="8" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,9 +371,9 @@
       <last-offset />
       <last-pattern encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-pattern>
       <last-replace>:</last-replace>
-      <last-substitute>&quot;:</last-substitute>
+      <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
