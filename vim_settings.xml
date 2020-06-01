@@ -107,13 +107,13 @@
         <mark key="^" line="223" column="27" />
         <mark key="." line="223" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590977566159">
+      <file name="/Dummy.txt" timestamp="1590978249319">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/utils/utils.js" timestamp="1590977562970">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="27" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/utils/utils.js" timestamp="1590980506066">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="7" />
         <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Layer/index.jsx" timestamp="1590921913060">
@@ -135,8 +135,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590972590686">
-        <mark key="'" line="332" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590980191936">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="241" column="10" />
+        <mark key="]" line="242" column="19" />
+        <mark key="^" line="242" column="19" />
+        <mark key="." line="242" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/services/roles.js" timestamp="1590917695393">
         <mark key="[" line="13" column="30" />
@@ -211,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
-      <jump line="39" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="20" column="24" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="21" column="20" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
       <jump line="25" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/login/index.jsx" />
@@ -311,6 +313,8 @@
       <jump line="162" column="8" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
       <jump line="203" column="8" filename="$USER_HOME$/.ssh/openssh/main.tcl" />
       <jump line="468" column="3" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" />
+      <jump line="239" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="3" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,16 +323,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>city-gis.platform.pesco.com</text>
+        <text>http://localhost:8085</text>
       </register>
       <register name="-" type="4">
-        <text>city-gis.platform.pesco.com</text>
+        <text>http://localhost:8085</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbUdyb3Vwc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>bindRoles</text>
+        <text>http://167.179.66.226</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
