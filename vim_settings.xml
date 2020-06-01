@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>games</entry>
-        <entry encoding="base64">XDxjYXRzXD4=</entry>
         <entry encoding="base64">XDxxdWVyeUNhdHNMaXN0XD4=</entry>
         <entry>pre</entry>
         <entry>游戏列表</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxoYXNDYXBhYmlsaXR5TGF5ZXJzXD4=</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxzaG93UG9wdXBPdmVybGF5XD4=</entry>
+        <entry>api</entry>
+        <entry>this.map</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -142,11 +142,11 @@
         <mark key="[" line="125" column="4" />
         <mark key="]" line="125" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/models/cats.js" timestamp="1590912272540">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="41" />
-        <mark key="^" line="0" column="42" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.less" timestamp="1590994215238">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/accounts/index.jsx" timestamp="1590977552373">
         <mark key="'" line="468" column="3" />
@@ -174,12 +174,19 @@
       <file name="/Dummy.txt" timestamp="1590984248382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590992558744">
-        <mark key="'" line="353" column="48" />
-        <mark key="[" line="233" column="23" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="235" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1590994090450">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="321" column="28" />
+        <mark key="]" line="321" column="36" />
+        <mark key="." line="321" column="35" />
+        <mark key="^" line="321" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" timestamp="1590994722241">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/services/accounts.js" timestamp="1590926659347">
         <mark key="[" line="25" column="39" />
@@ -201,11 +208,6 @@
         <mark key="." line="196" column="53" />
         <mark key="^" line="196" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/SysDataSet/index.jsx" timestamp="1590915560811">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="84" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" timestamp="1590992464554" />
       <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" timestamp="1590984240496">
         <mark key="'" line="295" column="35" />
@@ -216,15 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="109" column="6" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="258" column="6" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="256" column="12" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="153" column="3" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="25" column="7" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/SysDataSet/index.jsx" />
-      <jump line="211" column="23" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="190" column="23" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
-      <jump line="139" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="157" column="22" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="354" column="0" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
       <jump line="100" column="33" filename="$USER_HOME$/workspace/pproj/f-games-role/src/pages/cats/index.jsx" />
@@ -316,6 +309,15 @@
       <jump line="35" column="6" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
       <jump line="146" column="38" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
       <jump line="240" column="8" filename="$USER_HOME$/Desktop/frontend-pesco-gis/src/components/ToolBar/index.js" />
+      <jump line="329" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="387" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="15" column="80" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="42" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="66" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="46" column="36" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,46 +326,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6Ik85VU8wQlRSWElYV1ZEVURYRFVMVVBaRzVVSTVfSFlKRVNHUkJOTlciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6Ijc3NGFmNTE0LWVhOTItNDAwZS1iODliLTc2OTc0NGUwMjljMiIsInRva2VuX3VzYWdlIjoiYWNjZXNzX3Rva2VuIiwianRpIjoiYzM3MmIwZmQtMWU4OC00ZmU1LTg0MjItODgzNTE0ZjhlODFjIiwiY2ZkX2x2bCI6InByaXZhdGUiLCJhdWQiOiJyZXNvdXJjZS1zZXJ2ZXIiLCJhenAiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwibmJmIjoxNTkwOTcyMDM0LCJleHAiOjE1OTEwNTg0MzUsImlhdCI6MTU5MDk3MjAzNCwiaXNzIjoiaHR0cDovL2hucnEtYXF1aWNrLW9hdXRoMi5obnJxLnN2Yzo1MDAwLyJ9.V-SARVgz46io-aBfvBfwm99oCFeAMfgoQuOS5BX193XdfsVSN2Y0dS2AkMFf38ZXQdCiGiMmlaBCftZwQrllz5dtRB85QfUUU666-CSW11JEBTo-oSa2k3SEQxdDslqbZVjebFeSc9KznKGMDNwYgWsHNYByrJeKeYptSnJNaA0YILq9WGljmO13A7_oEVht1G-A4q8Hu005J_UlePJYfFhia0IpvGUgJcpp9vzjHIZSC_0EjYW5CEsyNGKnwwxPpaZ7QHM63wU1gODH2STK5BhXEYsjI3X8tHFsz84XE8ZFYTc_kvxcwtWB4WEUdRVpkRhgheeo2-M69h1olo0ohA</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJSUzI1NiIsImtpZCI6Ik85VU8wQlRSWElYV1ZEVURYRFVMVVBaRzVVSTVfSFlKRVNHUkJOTlciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6Ijc3NGFmNTE0LWVhOTItNDAwZS1iODliLTc2OTc0NGUwMjljMiIsInRva2VuX3VzYWdlIjoiYWNjZXNzX3Rva2VuIiwianRpIjoiYzM3MmIwZmQtMWU4OC00ZmU1LTg0MjItODgzNTE0ZjhlODFjIiwiY2ZkX2x2bCI6InByaXZhdGUiLCJhdWQiOiJyZXNvdXJjZS1zZXJ2ZXIiLCJhenAiOiJhcGkxNTY1ZjQwZTljNGI1ZGM2IiwibmJmIjoxNTkwOTcyMDM0LCJleHAiOjE1OTEwNTg0MzUsImlhdCI6MTU5MDk3MjAzNCwiaXNzIjoiaHR0cDovL2hucnEtYXF1aWNrLW9hdXRoMi5obnJxLnN2Yzo1MDAwLyJ9.V-SARVgz46io-aBfvBfwm99oCFeAMfgoQuOS5BX193XdfsVSN2Y0dS2AkMFf38ZXQdCiGiMmlaBCftZwQrllz5dtRB85QfUUU666-CSW11JEBTo-oSa2k3SEQxdDslqbZVjebFeSc9KznKGMDNwYgWsHNYByrJeKeYptSnJNaA0YILq9WGljmO13A7_oEVht1G-A4q8Hu005J_UlePJYfFhia0IpvGUgJcpp9vzjHIZSC_0EjYW5CEsyNGKnwwxPpaZ7QHM63wU1gODH2STK5BhXEYsjI3X8tHFsz84XE8ZFYTc_kvxcwtWB4WEUdRVpkRhgheeo2-M69h1olo0ohA</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93UG9wdXBPdmVybGF5XD4=</text>
+        <text>this.map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG92ZXJsYXkgPSBudWxsOwogICAgICBjb25zdCBjb250YWluZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaW5mby1xdWVyeScpOwogICAgICBpZiAoY29udGFpbmVyKSB7CiAgICAgICAgb3ZlcmxheSA9IG5ldyBPdmVybGF5KHsKICAgICAgICAgIGVsZW1lbnQ6IGNvbnRhaW5lciwKICAgICAgICAgIGF1dG9QYW46IHRydWUsCiAgICAgICAgICBhdXRvUGFuQW5pbWF0aW9uOiB7CiAgICAgICAgICAgIGR1cmF0aW9uOiAyNTAsCiAgICAgICAgICB9LAogICAgICAgICAgaW50ZXJhY3RpdmU6IHRydWUsCiAgICAgICAgICBzdG9wRXZlbnQ6IHRydWUsCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd2ViZ2lzLWNvbnRhaW5lcicpLmNsYXNzTmFtZSA9ICdpbmZvJzsKCiAgICAgICAgICAgICAgY29uc3QgdG90YWxMYXllcnMgPSB0aGlzLm1hcC5nZXRMYXllcnMoKS5nZXRBcnJheSgpOwogICAgICAgICAgICAgIGxldCB0b3RhbENhcGFiaWxpdHlMYXllcnMgPSBbXTsKICAgICAgICAgICAgICBsZXQgaGFzQ2FwYWJpbGl0eUxheWVycyA9IFtdOwoKICAgICAgICAgICAgICB0b3RhbExheWVycy5mb3JFYWNoKGl0ZW0gPT4gewogICAgICAgICAgICAgICAgaWYgKGl0ZW0uZ2V0KCdjb25maWcnKSAmJiBpdGVtLmdldCgnY29uZmlnJykuQ2FwYWJpbGl0eSkgewogICAgICAgICAgICAgICAgICBjb25zdCBnZXRUb3RhbENhcExheWVycyA9IChsYXllcikgPT4gewogICAgICAgICAgICAgICAgICAgIGlmIChsYXllci5MYXllcikgewogICAgICAgICAgICAgICAgICAgICAgbGF5ZXIuTGF5ZXIuZm9yRWFjaCgobCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBnZXRUb3RhbENhcExheWVycyhsKTsKICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0b3RhbENhcGFiaWxpdHlMYXllcnMucHVzaChsYXllcik7CiAgICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgICBpdGVtLmdldCgnY29uZmlnJykuQ2FwYWJpbGl0eS5MYXllci5mb3JFYWNoKChjbCkgPT4gewogICAgICAgICAgICAgICAgICAgIGdldFRvdGFsQ2FwTGF5ZXJzKGNsKTsKICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgIC8vIHRvdGFsQ2FwYWJpbGl0eUxheWVycy5wdXNoKC4uLml0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5LkxheWVyKTsKICAgICAgICAgICAgICAgICAgaGFzQ2FwYWJpbGl0eUxheWVycy5wdXNoKGl0ZW0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICBsZXQgcHJvbWlzZXMgPSBbXTsKICAgICAgICAgICAgICBjb25zdCB2aWV3ID0gdGhpcy5tYXAuZ2V0VmlldygpOwogICAgICAgICAgICAgIGNvbnN0IHZpZXdSZXNvbHV0aW9uID0gdmlldy5nZXRSZXNvbHV0aW9uKCk7CiAgICAgICAgICAgICAgY29uc3Qgdmlld1Byb2plY3Rpb24gPSB2aWV3LmdldFByb2plY3Rpb24oKTsKCgogICAgICAgICAgICAgIHRoaXMubWFwLm9uKCdzaW5nbGVjbGljaycsIChlKSA9PiB7CiAgICAgICAgICAgICAgICBoYXNDYXBhYmlsaXR5TGF5ZXJzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IHNvdXJjZSA9IGl0ZW0uZ2V0U291cmNlKCk7CiAgICAgICAgICAgICAgICAgIGNvbnN0IHF1ZXJ5TGF5ZXJzID0gW107CiAgICAgICAgICAgICAgICAgIGNvbnN0IGNhcExheWVycyA9IGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5LkxheWVyOwogICAgICAgICAgICAgICAgICBjYXBMYXllcnMuZm9yRWFjaChjbCA9PiB7CiAgICAgICAgICAgICAgICAgICAgcXVlcnlMYXllcnMucHVzaChjbFsnTmFtZSddKTsKICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgIGNvbnN0IHVybCA9IHNvdXJjZS5nZXRHZXRGZWF0dXJlSW5mb1VybCgKICAgICAgICAgICAgICAgICAgICBlLmNvb3JkaW5hdGUsIHZpZXdSZXNvbHV0aW9uLCB2aWV3UHJvamVjdGlvbiwKICAgICAgICAgICAgICAgICAgICB7IElORk9fRk9STUFUOiAnYXBwbGljYXRpb24vanNvbicsIEZFQVRVUkVfQ09VTlQ6IDUwLCBRVUVSWV9MQVlFUlM6IHF1ZXJ5TGF5ZXJzIH0sCiAgICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgICBwcm9taXNlcy5wdXNoKGF4aW9zUmVxdWVzdCh7IHVybCB9KSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KCd4eCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCd4eHgnKTsK</text>
+        <text encoding="base64">ICBhbGlnbi1jb250ZW50OiA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBoYXNDYXBhYmlsaXR5TGF5ZXJzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBzb3VyY2UgPSBpdGVtLmdldFNvdXJjZSgpOwogICAgICAgICAgICAgICAgY29uc3QgcXVlcnlMYXllcnMgPSBbXTsKICAgICAgICAgICAgICAgIGNvbnN0IGNhcExheWVycyA9IGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5LkxheWVyOwogICAgICAgICAgICAgICAgY2FwTGF5ZXJzLmZvckVhY2goY2wgPT4gewogICAgICAgICAgICAgICAgICBxdWVyeUxheWVycy5wdXNoKGNsWydOYW1lJ10pOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBjb25zdCB1cmwgPSBzb3VyY2UuZ2V0R2V0RmVhdHVyZUluZm9VcmwoCiAgICAgICAgICAgICAgICAgIGUuY29vcmRpbmF0ZSwgdmlld1Jlc29sdXRpb24sIHZpZXdQcm9qZWN0aW9uLAogICAgICAgICAgICAgICAgICB7ICdJTkZPX0ZPUk1BVCc6ICdhcHBsaWNhdGlvbi9qc29uJywgJ0ZFQVRVUkVfQ09VTlQnOiA1MCwgJ1FVRVJZX0xBWUVSUyc6IHF1ZXJ5TGF5ZXJzIH0sCiAgICAgICAgICAgICAgICApOwoKICAgICAgICAgICAgICAgIHByb21pc2VzLnB1c2goYXhpb3NSZXF1ZXN0KHsgdXJsIH0pKTsKICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICBoZWlnaHQ6Mwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCkK</text>
+        <text encoding="base64">ICBiYWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhPuimgee0oOivhuWIqzwvYT4K</text>
+        <text encoding="base64">aW1wb3J0IHsgYXhpb3NSZXF1ZXN0IH0gZnJvbSAnLi4vLi4vLi4vLi4vLi4vRGVza3RvcC9mcm9udGVuZC1wZXNjby1naXMvc3JjL2FwaSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG90YWxDYXBhYmlsaXR5TGF5ZXJzLnB1c2goLi4uaXRlbS5nZXQoJ2NvbmZpZycpLkNhcGFiaWxpdHkuTGF5ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3ZWJnaXMtY29udGFpbmVyJykuY2xhc3NOYW1lID0gJ2luZm8nOwoKICAgICAgICAgICAgICBjb25zdCB0b3RhbExheWVycyA9IHRoaXMubWFwLmdldExheWVycygpLmdldEFycmF5KCk7CiAgICAgICAgICAgICAgbGV0IHRvdGFsQ2FwYWJpbGl0eUxheWVycyA9IFtdOwogICAgICAgICAgICAgIGxldCBoYXNDYXBhYmlsaXR5TGF5ZXJzID0gW107CgogICAgICAgICAgICAgIHRvdGFsTGF5ZXJzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoaXRlbS5nZXQoJ2NvbmZpZycpICYmIGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5KSB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IGdldFRvdGFsQ2FwTGF5ZXJzID0gKGxheWVyKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGxheWVyLkxheWVyKSB7CiAgICAgICAgICAgICAgICAgICAgICBsYXllci5MYXllci5mb3JFYWNoKChsKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGdldFRvdGFsQ2FwTGF5ZXJzKGwpOwogICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHRvdGFsQ2FwYWJpbGl0eUxheWVycy5wdXNoKGxheWVyKTsKICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgIGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5LkxheWVyLmZvckVhY2goKGNsKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZ2V0VG90YWxDYXBMYXllcnMoY2wpOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgLy8gdG90YWxDYXBhYmlsaXR5TGF5ZXJzLnB1c2goLi4uaXRlbS5nZXQoJ2NvbmZpZycpLkNhcGFiaWxpdHkuTGF5ZXIpOwogICAgICAgICAgICAgICAgICBoYXNDYXBhYmlsaXR5TGF5ZXJzLnB1c2goaXRlbSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgIGxldCBwcm9taXNlcyA9IFtdOwogICAgICAgICAgICAgIGNvbnN0IHZpZXcgPSB0aGlzLm1hcC5nZXRWaWV3KCk7CiAgICAgICAgICAgICAgY29uc3Qgdmlld1Jlc29sdXRpb24gPSB2aWV3LmdldFJlc29sdXRpb24oKTsKICAgICAgICAgICAgICBjb25zdCB2aWV3UHJvamVjdGlvbiA9IHZpZXcuZ2V0UHJvamVjdGlvbigpOwoKCiAgICAgICAgICAgICAgdGhpcy5tYXAub24oJ3NpbmdsZWNsaWNrJywgKGUpID0+IHsKICAgICAgICAgICAgICAgIGhhc0NhcGFiaWxpdHlMYXllcnMuZm9yRWFjaChpdGVtID0+IHsKICAgICAgICAgICAgICAgICAgY29uc3Qgc291cmNlID0gaXRlbS5nZXRTb3VyY2UoKTsKICAgICAgICAgICAgICAgICAgY29uc3QgcXVlcnlMYXllcnMgPSBbXTsKICAgICAgICAgICAgICAgICAgY29uc3QgY2FwTGF5ZXJzID0gaXRlbS5nZXQoJ2NvbmZpZycpLkNhcGFiaWxpdHkuTGF5ZXI7CiAgICAgICAgICAgICAgICAgIGNhcExheWVycy5mb3JFYWNoKGNsID0+IHsKICAgICAgICAgICAgICAgICAgICBxdWVyeUxheWVycy5wdXNoKGNsWydOYW1lJ10pOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgY29uc3QgdXJsID0gc291cmNlLmdldEdldEZlYXR1cmVJbmZvVXJsKAogICAgICAgICAgICAgICAgICAgIGUuY29vcmRpbmF0ZSwgdmlld1Jlc29sdXRpb24sIHZpZXdQcm9qZWN0aW9uLAogICAgICAgICAgICAgICAgICAgIHsgSU5GT19GT1JNQVQ6ICdhcHBsaWNhdGlvbi9qc29uJywgRkVBVFVSRV9DT1VOVDogNTAsIFFVRVJZX0xBWUVSUzogcXVlcnlMYXllcnMgfSwKICAgICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICAgIHByb21pc2VzLnB1c2goYXhpb3NSZXF1ZXN0KHsgdXJsIH0pKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIAogICAgICAgICAgICB9fT7niIbnrqHliIbmnpA8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB0b3RhbExheWVycyA9IHRoaXMubWFwLmdldExheWVycygpLmdldEFycmF5KCk7CiAgICAgICAgICAgICAgbGV0IHRvdGFsQ2FwYWJpbGl0eUxheWVycyA9IFtdOwogICAgICAgICAgICAgIGxldCBoYXNDYXBhYmlsaXR5TGF5ZXJzID0gW107CgogICAgICAgICAgICAgIHRvdGFsTGF5ZXJzLmZvckVhY2goaXRlbSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoaXRlbS5nZXQoJ2NvbmZpZycpICYmIGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5KSB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IGdldFRvdGFsQ2FwTGF5ZXJzID0gKGxheWVyKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGxheWVyLkxheWVyKSB7CiAgICAgICAgICAgICAgICAgICAgICBsYXllci5MYXllci5mb3JFYWNoKChsKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGdldFRvdGFsQ2FwTGF5ZXJzKGwpOwogICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHRvdGFsQ2FwYWJpbGl0eUxheWVycy5wdXNoKGxheWVyKTsKICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgIGl0ZW0uZ2V0KCdjb25maWcnKS5DYXBhYmlsaXR5LkxheWVyLmZvckVhY2goKGNsKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZ2V0VG90YWxDYXBMYXllcnMoY2wpOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgLy8gdG90YWxDYXBhYmlsaXR5TGF5ZXJzLnB1c2goLi4uaXRlbS5nZXQoJ2NvbmZpZycpLkNhcGFiaWxpdHkuTGF5ZXIpOwogICAgICAgICAgICAgICAgICBoYXNDYXBhYmlsaXR5TGF5ZXJzLnB1c2goaXRlbSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgIGxldCBwcm9taXNlcyA9IFtdOwogICAgICAgICAgICAgIGNvbnN0IHZpZXcgPSB0aGlzLm1hcC5nZXRWaWV3KCk7CiAgICAgICAgICAgICAgY29uc3Qgdmlld1Jlc29sdXRpb24gPSB2aWV3LmdldFJlc29sdXRpb24oKTsKICAgICAgICAgICAgICBjb25zdCB2aWV3UHJvamVjdGlvbiA9IHZpZXcuZ2V0UHJvamVjdGlvbigpOwoKCiAgICAgICAgICAgICAgdGhpcy5tYXAub24oJ3NpbmdsZWNsaWNrJywgKGUpID0+IHsKICAgICAgICAgICAgICAgIGhhc0NhcGFiaWxpdHlMYXllcnMuZm9yRWFjaChpdGVtID0+IHsKICAgICAgICAgICAgICAgICAgY29uc3Qgc291cmNlID0gaXRlbS5nZXRTb3VyY2UoKTsKICAgICAgICAgICAgICAgICAgY29uc3QgcXVlcnlMYXllcnMgPSBbXTsKICAgICAgICAgICAgICAgICAgY29uc3QgY2FwTGF5ZXJzID0gaXRlbS5nZXQoJ2NvbmZpZycpLkNhcGFiaWxpdHkuTGF5ZXI7CiAgICAgICAgICAgICAgICAgIGNhcExheWVycy5mb3JFYWNoKGNsID0+IHsKICAgICAgICAgICAgICAgICAgICBxdWVyeUxheWVycy5wdXNoKGNsWydOYW1lJ10pOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgY29uc3QgdXJsID0gc291cmNlLmdldEdldEZlYXR1cmVJbmZvVXJsKAogICAgICAgICAgICAgICAgICAgIGUuY29vcmRpbmF0ZSwgdmlld1Jlc29sdXRpb24sIHZpZXdQcm9qZWN0aW9uLAogICAgICAgICAgICAgICAgICAgIHsgSU5GT19GT1JNQVQ6ICdhcHBsaWNhdGlvbi9qc29uJywgRkVBVFVSRV9DT1VOVDogNTAsIFFVRVJZX0xBWUVSUzogcXVlcnlMYXllcnMgfSwKICAgICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgICAgICAgIHByb21pc2VzLnB1c2goYXhpb3NSZXF1ZXN0KHsgdXJsIH0pKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFudWFsRHJhZzogdHJ1ZSwKICAgICAgbWFwRGF0YToge30sCiAgICAgIHJlcURvbmU6IGZhbHNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -372,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaG93UG9wdXBPdmVybGF5XD4=</last-search>
+      <last-search>this.map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93UG9wdXBPdmVybGF5XD4=</last-pattern>
+      <last-pattern>this.map</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
