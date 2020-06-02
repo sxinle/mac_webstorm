@@ -194,17 +194,15 @@
         <mark key="]" line="114" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" timestamp="1591066357118">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="108" column="17" />
-        <mark key="]" line="108" column="31" />
-        <mark key="." line="168" column="23" />
-        <mark key="^" line="168" column="24" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" timestamp="1591068810320">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
       <jump line="15" column="80" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
       <jump line="22" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/burstpipe/index.js" />
@@ -303,6 +301,8 @@
       <jump line="131" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" />
       <jump line="24" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
+      <jump line="103" column="33" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,49 +310,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vdEVtcHR5KHZhbCkgewogIHJldHVybiAoCiAgICB2YWwgJiYKICAgIEpTT04uc3RyaW5naWZ5KHZhbCkgIT09ICdudWxsJyAmJgogICAgSlNPTi5zdHJpbmdpZnkodmFsKSAhPT0gJ3t9JyAmJgogICAgSlNPTi5zdHJpbmdpZnkodmFsKSAhPT0gJ1tdJwogICk7Cn0K</text>
+      <register name="*" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>empty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5vdEVtcHR5KHZhbCkgewogIHJldHVybiAoCiAgICB2YWwgJiYKICAgIEpTT04uc3RyaW5naWZ5KHZhbCkgIT09ICdudWxsJyAmJgogICAgSlNPTi5zdHJpbmdpZnkodmFsKSAhPT0gJ3t9JyAmJgogICAgSlNPTi5zdHJpbmdpZnkodmFsKSAhPT0gJ1tdJwogICk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyogZXNsaW50LWRpc2FibGUgbm8tcGFyYW0tcmVhc3NpZ24gKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZWdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyogZXNsaW50LWRpc2FibGUgbm8tcGFyYW0tcmVhc3NpZ24gKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tcGFyYW0tcmVhc3NpZ24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgcHJlZmVyLWRlc3RydWN0dXJpbmcK</text>
       </register>
-      <register name="7" type="4">
-        <text>style={{
-                  padding: '4px',
-                }}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZGlzYWJsZSBuby1wYXJhbS1yZWFzc2lnbiAqLwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3R5bGU9e3sKICAgICAgICAgICAgICAgICAgcGFkZGluZzogJzRweCcsCiAgICAgICAgICAgICAgICB9fT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvKiBlc2xpbnQtZGlzYWJsZSBuby1wYXJhbS1yZWFzc2lnbiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2hlbGxvJwo=</text>
+        <text encoding="base64">ICAgICAgLyogZXNsaW50LWRpc2FibGUgbm8tcGFyYW0tcmVhc3NpZ24gKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
