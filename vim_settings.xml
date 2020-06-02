@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>e\.</entry>
-        <entry>Overlay</entry>
         <entry>item.data</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxXZWJHaXNBcHBcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>qinkun</entry>
         <entry>qiankun</entry>
         <entry>umi</entry>
+        <entry>babel</entry>
+        <entry>bable</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -115,6 +115,7 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="42" />
       </file>
+      <file name="/package.json" timestamp="1591096254689" />
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/@umijs/plugin-qiankun/package.json" timestamp="1591091033399">
         <mark key="'" line="47" column="23" />
       </file>
@@ -154,7 +155,7 @@
       <file name="/Dummy.txt" timestamp="1591094157729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1591095688057">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1591095932223">
         <mark key="'" line="299" column="0" />
         <mark key="[" line="308" column="0" />
         <mark key="]" line="317" column="0" />
@@ -188,12 +189,6 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.less" timestamp="1591066241701">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" timestamp="1591079991740">
         <mark key="'" line="60" column="30" />
         <mark key="[" line="149" column="0" />
@@ -209,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="22" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="288" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="20" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" />
       <jump line="6" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.less" />
       <jump line="139" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.js" />
@@ -306,9 +299,11 @@
       <jump line="97" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
       <jump line="124" column="29" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="299" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="74" column="49" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="106" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="94" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="299" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +318,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>umi</text>
+        <text>bable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3Jvb3QgewogIGhlaWdodDogMTAwJTsKfQo=</text>
@@ -365,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>umi</last-search>
+      <last-search>bable</last-search>
       <last-offset />
-      <last-pattern>umi</last-pattern>
+      <last-pattern>bable</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
