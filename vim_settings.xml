@@ -22,9 +22,9 @@
         <entry>react</entry>
         <entry>babel</entry>
         <entry>babelLoader</entry>
-        <entry>loader</entry>
         <entry>babel-loader</entry>
         <entry>convert</entry>
+        <entry>loader</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -314,7 +314,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>convert</text>
+        <text>loader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBbJ0B1bWlqcy9wbHVnaW4tcWlhbmt1bicsIHsgc2xhdmU6IHsga2VlcE9yaWdpbmFsUm91dGVzOiBmYWxzZSB9IH1dLAo=</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>convert</last-search>
+      <last-search>loader</last-search>
       <last-offset />
-      <last-pattern>convert</last-pattern>
+      <last-pattern>loader</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
