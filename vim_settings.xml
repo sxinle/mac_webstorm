@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Bur</entry>
-        <entry>Burst</entry>
         <entry>qinkun</entry>
         <entry>umi</entry>
         <entry>bable</entry>
@@ -25,6 +23,8 @@
         <entry>ant-content</entry>
         <entry>ant-layout-content</entry>
         <entry>ant-layout-centent</entry>
+        <entry>ant-row</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -126,9 +126,6 @@
         <mark key="'" line="15736" column="16" />
       </file>
       <file name="/package.json" timestamp="1591096254689" />
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/@umijs/plugin-qiankun/package.json" timestamp="1591091033399">
-        <mark key="'" line="47" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BasicLayout.jsx" timestamp="1591094247248">
         <mark key="'" line="92" column="0" />
       </file>
@@ -136,7 +133,8 @@
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" timestamp="1591162990592">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" timestamp="1591163044220">
+        <mark key="'" line="3302" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19308" column="0" />
         <mark key="^" line="19308" column="0" />
@@ -169,6 +167,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1591157661497">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/Query.jsx" timestamp="1591163917932">
+        <mark key="'" line="173" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/build/layouts__BasicLayout.f8e30440.chunk.css" timestamp="1591152350429">
         <mark key="'" line="1" column="928" />
@@ -204,20 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
-      <jump line="164" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="176" column="46" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="177" column="39" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="127" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="123" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="179" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="21" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="149" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="183" column="39" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/global.jsx" />
-      <jump line="76" column="8" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/global.jsx" />
-      <jump line="457" column="7" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
       <jump line="1041" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
       <jump line="23" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="5" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/webpack.config.js" />
@@ -304,6 +291,20 @@
       <jump line="38" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/build/layouts__BasicLayout.7f0d7535.chunk.css" />
       <jump line="1008" column="364" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/build/layouts__BasicLayout.7f0d7535.chunk.css" />
       <jump line="1231" column="52" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/build/layouts__BasicLayout.7f0d7535.chunk.css" />
+      <jump line="19304" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3342" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3337" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3321" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3332" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3327" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3322" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3317" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3312" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3307" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="3302" column="1" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/a.css" />
+      <jump line="2" column="7" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/Query.jsx" />
+      <jump line="173" column="30" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/Query.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +319,7 @@
         <text>../</text>
       </register>
       <register name="/" type="4">
-        <text>ant-layout-centent</text>
+        <text encoding="base64">XDxzdHlsZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/system/sys_service</text>
@@ -360,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ant-layout-centent</last-search>
+      <last-search encoding="base64">XDxzdHlsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>ant-layout-centent</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZXNcPg==</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
