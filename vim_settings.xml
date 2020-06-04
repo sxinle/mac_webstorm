@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>预览</entry>
         <entry>详情</entry>
         <entry>hover</entry>
         <entry>qiankun</entry>
@@ -25,6 +24,7 @@
         <entry>action</entry>
         <entry>已选</entry>
         <entry>choosed</entry>
+        <entry>dynamic</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -110,24 +110,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-web/config/themePluginConfig.js" timestamp="1591254998553">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="109" column="27" />
-        <mark key="]" line="109" column="33" />
+      <file name="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" timestamp="1591275441713">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" timestamp="1591273097424">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" timestamp="1591275271836">
+      <file name="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" timestamp="1591275371068">
         <mark key="'" line="203" column="104" />
-        <mark key="[" line="203" column="84" />
-        <mark key="]" line="203" column="102" />
+        <mark key="[" line="203" column="100" />
+        <mark key="]" line="203" column="104" />
         <mark key="." line="203" column="103" />
-        <mark key="^" line="203" column="102" />
+        <mark key="^" line="203" column="104" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-web/config/defaultSettings.js" timestamp="1591255003049">
         <mark key="[" line="3" column="24" />
@@ -135,10 +129,10 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1591272819934">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1591275428417">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="28" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="4" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
@@ -193,6 +187,11 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/f-games-web/config/router.config.js" timestamp="1591275473064">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-web/node_modules/antd/lib/grid/col.d.ts" timestamp="1591263893806">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="39" column="52" />
@@ -210,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
       <jump line="56" column="2" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="59" column="22" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
@@ -310,6 +308,7 @@
       <jump line="227" column="15" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="154" column="32" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="203" column="104" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
+      <jump line="102" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,47 +316,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>trash</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIC8vIHJvdXRlczogWwogICAgLy8gICB7CiAgICAvLyAgICAgcGF0aDogJy8nLAogICAgLy8gICAgIHJlZGlyZWN0OiAnL2luZGV4JywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvd2VsY29tZScsCiAgICAvLyAgICAgbmFtZTogJ+asoui/jumhtScsCiAgICAvLyAgICAgaWNvbjogJ3VzZXInLAogICAgLy8gICAgIGNvbXBvbmVudDogJy4vSW5kZXgnLAogICAgLy8gICB9LAogICAgLy8gICB7CiAgICAvLyAgICAgcGF0aDogJy9hZG1pbicsCiAgICAvLyAgICAgbmFtZTogJ+euoeeQhumhtScsCiAgICAvLyAgICAgaWNvbjogJ3NtaWxlJywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuL0FkbWluJywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvdGVzdCcsCiAgICAvLyAgICAgbmFtZTogJ+a1i+ivlemhtScsCiAgICAvLyAgICAgaWNvbjogJ3NtaWxlJywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuL1Rlc3RQYWdlJywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvNDA0JywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuLzQwNCcsCiAgICAvLyAgIH0sCiAgICAvLyBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>trash</text>
+        <text>null, //</text>
       </register>
       <register name="/" type="4">
-        <text>choosed</text>
+        <text>dynamic</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YWN0aW9ucz17WzxzcGFuPkdFVDwvc3Bhbj4sIDxzcGFuIGtleT0iZWRpdCIgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgIH19PjxJY29uIHR5cGU9ImhlYXJ0IiB0aGVtZT0iZmlsbGVkIi8+PC9zcGFuPl19</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkeW5hbWljSW1wb3J0OiB7CiAgICBsb2FkaW5nOiAnQC9jb21wb25lbnRzL1BhZ2VMb2FkaW5nL2luZGV4JywKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb25zPXtbPHNwYW4+R0VUPC9zcGFuPiwgPHNwYW4ga2V5PSJlZGl0IiBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+PEljb24gdHlwZT0iaGVhcnQiIHRoZW1lPSJmaWxsZWQiLz48L3NwYW4+XX0K</text>
+        <text encoding="base64">ICAgIC8vIHJvdXRlczogWwogICAgLy8gICB7CiAgICAvLyAgICAgcGF0aDogJy8nLAogICAgLy8gICAgIHJlZGlyZWN0OiAnL2luZGV4JywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvd2VsY29tZScsCiAgICAvLyAgICAgbmFtZTogJ+asoui/jumhtScsCiAgICAvLyAgICAgaWNvbjogJ3VzZXInLAogICAgLy8gICAgIGNvbXBvbmVudDogJy4vSW5kZXgnLAogICAgLy8gICB9LAogICAgLy8gICB7CiAgICAvLyAgICAgcGF0aDogJy9hZG1pbicsCiAgICAvLyAgICAgbmFtZTogJ+euoeeQhumhtScsCiAgICAvLyAgICAgaWNvbjogJ3NtaWxlJywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuL0FkbWluJywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvdGVzdCcsCiAgICAvLyAgICAgbmFtZTogJ+a1i+ivlemhtScsCiAgICAvLyAgICAgaWNvbjogJ3NtaWxlJywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuL1Rlc3RQYWdlJywKICAgIC8vICAgfSwKICAgIC8vICAgewogICAgLy8gICAgIHBhdGg6ICcvNDA0JywKICAgIC8vICAgICBjb21wb25lbnQ6ICcuLzQwNCcsCiAgICAvLyAgIH0sCiAgICAvLyBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlU2VwYXJhdG9yOiAnLScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJyZWQiPnJlZDwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9InZvbGNhbm8iPnZvbGNhbm88L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJvcmFuZ2UiPm9yYW5nZTwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9ImdvbGQiPmdvbGQ8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJsaW1lIj5saW1lPC9UYWc+CiAgICAgICAgICAgICAgPFRhZyBjb2xvcj0iZ3JlZW4iPmdyZWVuPC9UYWc+CiAgICAgICAgICAgICAgPFRhZyBjb2xvcj0iY3lhbiI+Y3lhbjwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9ImJsdWUiPmJsdWU8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJnZWVrYmx1ZSI+Z2Vla2JsdWU8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJwdXJwbGUiPnB1cnBsZTwvVGFnPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb25zPXtbPHNwYW4+R0VUPC9zcGFuPiwgPHNwYW4ga2V5PSJlZGl0IiBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0+PEljb24gdHlwZT0iaGVhcnQiIHRoZW1lPSJmaWxsZWQiLz48L3NwYW4+XX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KGlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJtYWdlbnRhIj5tYWdlbnRhPC9UYWc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJyZWQiPnJlZDwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9InZvbGNhbm8iPnZvbGNhbm88L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJvcmFuZ2UiPm9yYW5nZTwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9ImdvbGQiPmdvbGQ8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJsaW1lIj5saW1lPC9UYWc+CiAgICAgICAgICAgICAgPFRhZyBjb2xvcj0iZ3JlZW4iPmdyZWVuPC9UYWc+CiAgICAgICAgICAgICAgPFRhZyBjb2xvcj0iY3lhbiI+Y3lhbjwvVGFnPgogICAgICAgICAgICAgIDxUYWcgY29sb3I9ImJsdWUiPmJsdWU8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJnZWVrYmx1ZSI+Z2Vla2JsdWU8L1RhZz4KICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJwdXJwbGUiPnB1cnBsZTwvVGFnPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGFnIGNvbG9yPSJtYWdlbnRhIj5tYWdlbnRhPC9UYWc+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvcHlUb0NsaXBib2FyZCBmcm9tICdyZWFjdC1jb3B5LXRvLWNsaXBib2FyZCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>choosed</last-search>
+      <last-search>dynamic</last-search>
       <last-offset />
-      <last-pattern>choosed</last-pattern>
+      <last-pattern>dynamic</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
