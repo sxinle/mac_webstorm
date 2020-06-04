@@ -101,13 +101,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/config/defaultSettings.js" timestamp="1591171760057">
-        <mark key="'" line="16" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/umi-request/dist/index.js" timestamp="1591180810578">
         <mark key="'" line="846" column="15" />
       </file>
@@ -131,10 +124,10 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" timestamp="1591184227793">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" timestamp="1591184255103">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="28" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="1" />
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="28" />
       </file>
@@ -167,15 +160,17 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591171780754">
+      <file name="/Dummy.txt" timestamp="1591184407135">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1591182552919">
-        <mark key="'" line="305" column="6" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="318" column="11" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.less" timestamp="1591184389681">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/index.js" timestamp="1591180866896">
         <mark key="'" line="22" column="2" />
@@ -193,7 +188,6 @@
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/StatusBar/index.js" timestamp="1591182948022" />
     </filemarks>
     <jumps>
-      <jump line="92" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package-lock.json" />
       <jump line="106" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package-lock.json" />
       <jump line="107" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package-lock.json" />
       <jump line="108" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package-lock.json" />
@@ -293,6 +287,7 @@
       <jump line="305" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="14" column="49" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
+      <jump line="20" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.less" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,8 +295,8 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>none</text>
+      <register name="*" type="2">
+        <text>rollback</text>
       </register>
       <register name="-" type="4">
         <text>none</text>
@@ -309,38 +304,38 @@
       <register name="/" type="4">
         <text>can</text>
       </register>
-      <register name="0" type="4">
-        <text>ol-unselectable</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2FudmFzIHsKICBkaXNwbGF5OiBibG9jayAhaW1wb3J0YW50Owp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>rollback</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG1hcENvbmZpZ0pTT05EYXRhLm1hcC5sYXllcnMpLCAnWyA9PT09PSBKU09OLnN0cmluZ2lmeSh0aGlzLm1hcERhdGEubGF5ZXJzKSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdE1hcCgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG1hcENvbmZpZ0pTT05EYXRhLm1hcC5sYXllcnMpLCAnWyA9PT09PSBKU09OLnN0cmluZ2lmeSh0aGlzLm1hcERhdGEubGF5ZXJzKSA9PT09PSBdJyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGxpc3QpLCAnWyA9PT09PSBKU09OLnN0cmluZ2lmeShsaXN0KSA9PT09PSBdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgYWxlcnQoJ3h4eCcpOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuaW5pdE1hcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGxpc3QpLCAnWyA9PT09PSBKU09OLnN0cmluZ2lmeShsaXN0KSA9PT09PSBdJyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCd4eHgnKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgYWxlcnQoJ3h4eCcpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
