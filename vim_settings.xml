@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry encoding="base64">XDxtYXBEYXRhXD4=</entry>
-        <entry encoding="base64">XDxyZXFEb25lXD4=</entry>
-        <entry>can</entry>
         <entry>antd</entry>
         <entry>icons</entry>
         <entry>pro</entry>
@@ -25,6 +21,10 @@
         <entry>router</entry>
         <entry>preset</entry>
         <entry>path</entry>
+        <entry>pwa</entry>
+        <entry encoding="base64">XDx3aW5QYXRoXD4=</entry>
+        <entry encoding="base64">XDxkZWZpbmVDb25maWdcPg==</entry>
+        <entry>defi</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -109,10 +109,10 @@
         <mark key="]" line="500" column="16" />
         <mark key="." line="500" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Service/index.jsx" timestamp="1591236097177">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" timestamp="1591244071048">
+        <mark key="'" line="315" column="14" />
+        <mark key="[" line="346" column="1" />
+        <mark key="]" line="346" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Role/index.jsx" timestamp="1591236440767">
         <mark key="[" line="353" column="0" />
@@ -148,12 +148,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1591242578571">
-        <mark key="'" line="106" column="24" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="75" column="2" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1591244074144">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="102" column="2" />
+        <mark key="]" line="102" column="2" />
+        <mark key="." line="102" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Parameter/Query.less" timestamp="1591236183114">
         <mark key="[" line="2" column="0" />
@@ -212,13 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/defaultSettings.js" />
-      <jump line="16" column="1" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/defaultSettings.js" />
-      <jump line="13" column="3" filename="/index.js" />
-      <jump line="0" column="0" filename="/index.js" />
-      <jump line="22" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/index.js" />
-      <jump line="121" column="37" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="125" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="141" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="150" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="171" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
@@ -303,7 +295,6 @@
       <jump line="115" column="47" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="97" column="2" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="107" column="46" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="17" column="24" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/router.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/router.config.js" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/router.config.js" />
@@ -312,6 +303,14 @@
       <jump line="80" column="8" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="105" column="24" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="106" column="24" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="1" column="9" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="315" column="14" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
+      <jump line="72" column="2" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,46 +319,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>@umijs/preset-react</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.9.5</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>defi</text>
       </register>
       <register name="0" type="4">
-        <text>@umijs/preset-react</text>
+        <text>);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjc3NMb2FkZXJPcHRpb25zOiB7CiAgICBtb2R1bGVzOiB0cnVlLAogICAgZ2V0TG9jYWxJZGVudDogKGNvbnRleHQsIF8sIGxvY2FsTmFtZSkgPT4gewogICAgICBpZiAoCiAgICAgICAgY29udGV4dC5yZXNvdXJjZVBhdGguaW5jbHVkZXMoJ25vZGVfbW9kdWxlcycpIHx8CiAgICAgICAgY29udGV4dC5yZXNvdXJjZVBhdGguaW5jbHVkZXMoJ2FudC5kZXNpZ24ucHJvLmxlc3MnKSB8fAogICAgICAgIGNvbnRleHQucmVzb3VyY2VQYXRoLmluY2x1ZGVzKCdnbG9iYWwubGVzcycpCiAgICAgICkgewogICAgICAgIHJldHVybiBsb2NhbE5hbWU7CiAgICAgIH0KCiAgICAgIGNvbnN0IG1hdGNoID0gY29udGV4dC5yZXNvdXJjZVBhdGgubWF0Y2goL3NyYyguKikvKTsKCiAgICAgIGlmIChtYXRjaCAmJiBtYXRjaFsxXSkgewogICAgICAgIGNvbnN0IGFudGRQcm9QYXRoID0gbWF0Y2hbMV0ucmVwbGFjZSgnLmxlc3MnLCAnJyk7CiAgICAgICAgY29uc3QgYXJyID0gc2xhc2goYW50ZFByb1BhdGgpCiAgICAgICAgICAuc3BsaXQoJy8nKQogICAgICAgICAgLm1hcChhID0+IGEucmVwbGFjZSgvKFtBLVpdKS9nLCAnLSQxJykpCiAgICAgICAgICAubWFwKGEgPT4gYS50b0xvd2VyQ2FzZSgpKTsKICAgICAgICByZXR1cm4gYGFudGQtcHJvJHthcnIuam9pbignLScpfS0ke2xvY2FsTmFtZX1gLnJlcGxhY2UoLy0tL2csICctJyk7CiAgICAgIH0KCiAgICAgIHJldHVybiBsb2NhbE5hbWU7CiAgICB9LAogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjc2Rmc2Rmc2RmCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gcHJldmlldy5wcm8uYW50LmRlc2lnbiDkuJPnlKjnjq/looPlj5jph4/vvIzor7fkuI3opoHlnKjkvaDnmoTpobnnm67kuK3kvb/nlKjlroPjgIIKY29uc3QgeyBBTlRfREVTSUdOX1BST19PTkxZX0RPX05PVF9VU0VfSU5fWU9VUl9QUk9EVUNUSU9OLCBSRUFDVF9BUFBfRU5WIH0gPSBwcm9jZXNzLmVudjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwd2E6IHB3YQogICAgPyB7CiAgICAgIHdvcmtib3hQbHVnaW5Nb2RlOiAnSW5qZWN0TWFuaWZlc3QnLAogICAgICB3b3JrYm94T3B0aW9uczogewogICAgICAgIGltcG9ydFdvcmtib3hGcm9tOiAnbG9jYWwnLAogICAgICB9LAogICAgfQogICAgOiBmYWxzZSwgLy8gZGVmYXVsdCBjbG9zZSBkbGwsIGJlY2F1c2UgaXNzdWUgaHR0cHM6Ly9naXRodWIuY29tL2FudC1kZXNpZ24vYW50LWRlc2lnbi1wcm8vaXNzdWVzLzQ2NjUKICAvLyBkbGwgZmVhdHVyZXMgaHR0cHM6Ly93ZWJwYWNrLmpzLm9yZy9wbHVnaW5zL2RsbC1wbHVnaW4vCiAgLy8gZGxsOiB7CiAgLy8gICBpbmNsdWRlOiBbJ2R2YScsICdkdmEvcm91dGVyJywgJ2R2YS9zYWdhJywgJ2R2YS9mZXRjaCddLAogIC8vICAgZXhjbHVkZTogWydAYmFiZWwvcnVudGltZScsICduZXRsaWZ5LWxhbWJkYSddLAogIC8vIH0sCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbnRkOiB0cnVlLAogIGR2YTogewogIGhtcjogdHJ1ZSwKfSwKZHluYW1pY0ltcG9ydDogewogIGxvYWRpbmdDb21wb25lbnQ6IG51bGwsIC8vJy4vY29tcG9uZW50cy9QYWdlTG9hZGluZy9pbmRleCcsCiAgICB3ZWJwYWNrQ2h1bmtOYW1lOiB0cnVlLAogICAgbGV2ZWw6IDMsCn0sCnB3YTogcHdhCiAgPyB7CiAgICB3b3JrYm94UGx1Z2luTW9kZTogJ0luamVjdE1hbmlmZXN0JywKICAgIHdvcmtib3hPcHRpb25zOiB7CiAgICAgIGltcG9ydFdvcmtib3hGcm9tOiAnbG9jYWwnLAogICAgfSwKICB9CiAgOiBmYWxzZSwgLy8gZGVmYXVsdCBjbG9zZSBkbGwsIGJlY2F1c2UgaXNzdWUgaHR0cHM6Ly9naXRodWIuY29tL2FudC1kZXNpZ24vYW50LWRlc2lnbi1wcm8vaXNzdWVzLzQ2NjUKICAvLyBkbGwgZmVhdHVyZXMgaHR0cHM6Ly93ZWJwYWNrLmpzLm9yZy9wbHVnaW5zL2RsbC1wbHVnaW4vCiAgLy8gZGxsOiB7CiAgLy8gICBpbmNsdWRlOiBbJ2R2YScsICdkdmEvcm91dGVyJywgJ2R2YS9zYWdhJywgJ2R2YS9mZXRjaCddLAogIC8vICAgZXhjbHVkZTogWydAYmFiZWwvcnVudGltZScsICduZXRsaWZ5LWxhbWJkYSddLAogIC8vIH0sCgogIGxvY2FsZTogewpkZWZhdWx0OiAnemgtQ04nLCAvL+m7mOiupOivreiogCB6aC1DTgogICAgLy8gYmFzZU5hdmlnYXRvcjogdHJ1ZSwgLy8g5Li6dHJ1ZeaXtu+8jOeUqG5hdmlnYXRvci5sYW5ndWFnZeeahOWAvOS9nOS4uum7mOiupOivreiogAogICAgYW50ZDogdHJ1ZSwgLy8g5piv5ZCm5ZCv55SoYW50ZOeahDxMb2NhbGVQcm92aWRlciAvPgp9LAo=</text>
+        <text encoding="base64">Y29uc3QgeyBwd2EgfSA9IGRlZmF1bHRTZXR0aW5nczsgLy8gcHJldmlldy5wcm8uYW50LmRlc2lnbiBvbmx5IGRvIG5vdCB1c2UgaW4geW91ciBwcm9kdWN0aW9uIDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Jvdz4K</text>
+        <text encoding="base64">ICAvLyBbJ3VtaS1wbHVnaW4tYW50ZC10aGVtZScsIHRoZW1lUGx1Z2luQ29uZmlnXSwKICAvLyBbCiAgLy8gICAndW1pLXBsdWdpbi1yZWFjdCcsCiAgLy8gICB7CiAgLy8gICAgIGFudGQ6IHRydWUsCiAgLy8gICAgIGR2YTogewogIC8vICAgICAgIGhtcjogdHJ1ZSwKICAvLyAgICAgfSwKICAvLyAgICAgZHluYW1pY0ltcG9ydDogewogIC8vICAgICAgIGxvYWRpbmdDb21wb25lbnQ6IG51bGwsIC8vJy4vY29tcG9uZW50cy9QYWdlTG9hZGluZy9pbmRleCcsCiAgLy8gICAgICAgd2VicGFja0NodW5rTmFtZTogdHJ1ZSwKICAvLyAgICAgICBsZXZlbDogMywKICAvLyAgICAgfSwKICAvLyAgICAgcHdhOiBwd2EKICAvLyAgICAgICA/IHsKICAvLyAgICAgICAgIHdvcmtib3hQbHVnaW5Nb2RlOiAnSW5qZWN0TWFuaWZlc3QnLAogIC8vICAgICAgICAgd29ya2JveE9wdGlvbnM6IHsKICAvLyAgICAgICAgICAgaW1wb3J0V29ya2JveEZyb206ICdsb2NhbCcsCiAgLy8gICAgICAgICB9LAogIC8vICAgICAgIH0KICAvLyAgICAgICA6IGZhbHNlLCAvLyBkZWZhdWx0IGNsb3NlIGRsbCwgYmVjYXVzZSBpc3N1ZSBodHRwczovL2dpdGh1Yi5jb20vYW50LWRlc2lnbi9hbnQtZGVzaWduLXByby9pc3N1ZXMvNDY2NQogIC8vICAgICAvLyBkbGwgZmVhdHVyZXMgaHR0cHM6Ly93ZWJwYWNrLmpzLm9yZy9wbHVnaW5zL2RsbC1wbHVnaW4vCiAgLy8gICAgIC8vIGRsbDogewogIC8vICAgICAvLyAgIGluY2x1ZGU6IFsnZHZhJywgJ2R2YS9yb3V0ZXInLCAnZHZhL3NhZ2EnLCAnZHZhL2ZldGNoJ10sCiAgLy8gICAgIC8vICAgZXhjbHVkZTogWydAYmFiZWwvcnVudGltZScsICduZXRsaWZ5LWxhbWJkYSddLAogIC8vICAgICAvLyB9LAogIC8vCiAgLy8gICAgIGxvY2FsZTogewogIC8vICAgICAgIGRlZmF1bHQ6ICd6aC1DTicsIC8v6buY6K6k6K+t6KiAIHpoLUNOCiAgLy8gICAgICAgLy8gYmFzZU5hdmlnYXRvcjogdHJ1ZSwgLy8g5Li6dHJ1ZeaXtu+8jOeUqG5hdmlnYXRvci5sYW5ndWFnZeeahOWAvOS9nOS4uum7mOiupOivreiogAogIC8vICAgICAgIGFudGQ6IHRydWUsIC8vIOaYr+WQpuWQr+eUqGFudGTnmoQ8TG9jYWxlUHJvdmlkZXIgLz4KICAvLyAgICAgfSwKICAvLyAgIH0sCiAgLy8gXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IGd1dHRlcj17MjR9IGNsYXNzTmFtZT17c3R5bGVzLnRhYmxlTGlzdEZvcm19Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>path</last-search>
+      <last-search>defi</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>defi</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
