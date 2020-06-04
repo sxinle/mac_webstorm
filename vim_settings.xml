@@ -17,7 +17,6 @@
         <entry>plugins</entry>
         <entry>icon</entry>
         <entry>qinkun</entry>
-        <entry>qiankun</entry>
         <entry encoding="base64">XDxhbnRkXD4=</entry>
         <entry>theme</entry>
         <entry>block</entry>
@@ -25,6 +24,7 @@
         <entry>base</entry>
         <entry encoding="base64">XDxsZXNzTG9hZGVyT3B0aW9uc1w+</entry>
         <entry>disableRedirectHoist</entry>
+        <entry>qiankun</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -124,6 +124,12 @@
         <mark key="]" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/404.jsx" timestamp="1591250242572">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Param/index.less" timestamp="1591236711952">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -136,12 +142,6 @@
         <mark key="." line="459" column="20" />
         <mark key="^" line="452" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Parameter/Query.jsx" timestamp="1591236270794">
-        <mark key="'" line="38" column="17" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/umi3/package.json" timestamp="1591249621100">
         <mark key="'" line="23" column="28" />
         <mark key="[" line="89" column="0" />
@@ -151,6 +151,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="67" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1591250398170">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/@umijs/plugin-qiankun/package.json" timestamp="1591249085851">
         <mark key="'" line="47" column="23" />
@@ -169,7 +175,7 @@
         <mark key="^" line="70" column="4" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591250189745">
+      <file name="/Dummy.txt" timestamp="1591250389054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -204,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
       <jump line="20" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.less" />
       <jump line="16" column="66" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="53" column="31" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
@@ -304,6 +309,7 @@
       <jump line="26" column="4" filename="$USER_HOME$/workspace/shangyuan/umi3/config/config.js" />
       <jump line="56" column="2" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
       <jump line="59" column="22" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,46 +318,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICBkaXNhYmxlUmVkaXJlY3RIb2lzdDogdHJ1ZSwK</text>
+        <text encoding="base64">CgovLyBjb25zdCBwbHVnaW5zID0gWwovLyAgIFsnQHVtaWpzL3BsdWdpbi1xaWFua3VuJywgeyBzbGF2ZTogeyBrZWVwT3JpZ2luYWxSb3V0ZXM6IGZhbHNlIH0gfV0sCi8vIF07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>router</text>
       </register>
       <register name="/" type="4">
-        <text>disableRedirectHoist</text>
+        <text>qiankun</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBsZXNzTG9hZGVyOiB7CiAgICBqYXZhc2NyaXB0RW5hYmxlZDogdHJ1ZSwKICB9LAo=</text>
+      <register name="0" type="4">
+        <text>history</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXNhYmxlUmVkaXJlY3RIb2lzdDogdHJ1ZSwK</text>
+        <text encoding="base64">CgovLyBjb25zdCBwbHVnaW5zID0gWwovLyAgIFsnQHVtaWpzL3BsdWdpbi1xaWFua3VuJywgeyBzbGF2ZTogeyBrZWVwT3JpZ2luYWxSb3V0ZXM6IGZhbHNlIH0gfV0sCi8vIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXNzTG9hZGVyT3B0aW9uczogewogICAgamF2YXNjcmlwdEVuYWJsZWQ6IHRydWUsCiAgfSwK</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbJ0B1bWlqcy9wbHVnaW4tcWlhbmt1biddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBwbHVnaW5zLAo=</text>
+        <text encoding="base64">ICBkaXNhYmxlUmVkaXJlY3RIb2lzdDogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcGx1Z2luLWJsb2NrcyI6ICJeMi4wLjUiLAo=</text>
+        <text encoding="base64">ICBsZXNzTG9hZGVyT3B0aW9uczogewogICAgamF2YXNjcmlwdEVuYWJsZWQ6IHRydWUsCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ1bWktcGx1Z2luLXByby1ibG9jayI6ICJeMS4zLjIiLAo=</text>
+        <text encoding="base64">ICAvLyBwbHVnaW5zLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LXJlYWN0IjogIl4xIiwK</text>
+        <text encoding="base64">ICAgICJAdW1panMvcGx1Z2luLWJsb2NrcyI6ICJeMi4wLjUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1bWktcGx1Z2luLXByby1ibG9jayI6ICJeMS4zLjIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LXJlYWN0IjogIl4xLjQuOCIsCg==</text>
+        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LXJlYWN0IjogIl4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ1bWktcGx1Z2luLXByby1ibG9jayI6ICJeMS4zLjIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -360,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>disableRedirectHoist</last-search>
+      <last-search>qiankun</last-search>
       <last-offset />
-      <last-pattern>disableRedirectHoist</last-pattern>
+      <last-pattern>qiankun</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
