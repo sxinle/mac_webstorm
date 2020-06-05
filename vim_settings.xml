@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRGaWx0ZXJcPg==</entry>
-        <entry>add</entry>
-        <entry>heart</entry>
         <entry>accounts</entry>
         <entry>32</entry>
         <entry encoding="base64">XDxob3N0SXBcPg==</entry>
@@ -25,6 +22,9 @@
         <entry>debugger</entry>
         <entry>qiankun</entry>
         <entry>locale</entry>
+        <entry>java</entry>
+        <entry>maven</entry>
+        <entry>ImageStream</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -137,10 +137,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" timestamp="1591328195848">
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" timestamp="1591328484655">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="19" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1591326473448">
         <mark key="'" line="118" column="0" />
@@ -158,6 +158,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="85" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591329168819">
+        <mark key="'" line="712" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1591327299487">
         <mark key="[" line="0" column="0" />
@@ -199,21 +202,8 @@
         <mark key="]" line="670" column="0" />
         <mark key="." line="670" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/package.json" timestamp="1591317806031">
-        <mark key="'" line="43" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="102" column="73" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="110" column="22" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="185" column="32" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="163" column="28" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="137" column="55" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="215" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="232" column="34" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
@@ -304,6 +294,16 @@
       <jump line="7" column="15" filename="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" />
+      <jump line="77" column="34" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="202" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="262" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="335" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="407" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="463" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="517" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="571" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="627" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="712" column="20" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,17 +311,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">a2luZDogQnVpbGRDb25maWcKYXBpVmVyc2lvbjogYnVpbGQub3BlbnNoaWZ0LmlvL3YxCm1ldGFkYXRhOgogIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgbmFtZXNwYWNlOiB6aG9uZ3B1CnNwZWM6CiAgbm9kZVNlbGVjdG9yOiBudWxsCiAgb3V0cHV0OgogICAgdG86CiAgICAgIGtpbmQ6IEltYWdlU3RyZWFtVGFnCiAgICAgIG5hbWU6ICd6cGdkLWF1dGg6bGF0ZXN0Jyjmm7/mjaIpCiAgcmVzb3VyY2VzOiB7fQogIHN1Y2Nlc3NmdWxCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBmYWlsZWRCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBzdHJhdGVneToKICAgIHR5cGU6IFNvdXJjZQogICAgc291cmNlU3RyYXRlZ3k6CiAgICAgIGZyb206CiAgICAgICAga2luZDogSW1hZ2VTdHJlYW1UYWcKICAgICAgICBuYW1lc3BhY2U6IHpob25ncHUKICAgICAgICBuYW1lOiAnamF2YS1tYXZlbjozLjYuMScKICAgICAgZW52OgogICAgICAgIC0gbmFtZTogR0lUX1NTTF9OT19WRVJJRlkKICAgICAgICAgIHZhbHVlOiAndHJ1ZScKICBwb3N0Q29tbWl0OiB7fQogIHNvdXJjZToKICAgIHR5cGU6IEdpdAogICAgZ2l0OgogICAgICB1cmk6ICdodHRwOi8vZ2l0bGFiLmFwcC50MjAwLnpob25ncHVnZC5jb20vemhvbmdwdS96cGdkLWF1dGguZ2l0Jyjmm7/mjaIpCiAgICAgIHJlZjogZGV2CiAgICBzb3VyY2VTZWNyZXQ6CiAgICAgIG5hbWU6IGdpdGxhYgogIHRyaWdnZXJzOgogICAgLSB0eXBlOiBDb25maWdDaGFuZ2UKICAgIC0gdHlwZTogR2l0TGFiCiAgICAgIGdpdGxhYjoKICAgICAgICBzZWNyZXRSZWZlcmVuY2U6CiAgICAgICAgICBuYW1lOiB3ZWJob29rCiAgcnVuUG9saWN5OiBTZXJpYWwK</text>
+      <register name="*" type="4">
+        <text>zhongpu</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>locale</text>
+        <text>ImageStream</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">a2luZDogQnVpbGRDb25maWcKYXBpVmVyc2lvbjogYnVpbGQub3BlbnNoaWZ0LmlvL3YxCm1ldGFkYXRhOgogIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgbmFtZXNwYWNlOiB6aG9uZ3B1CnNwZWM6CiAgbm9kZVNlbGVjdG9yOiBudWxsCiAgb3V0cHV0OgogICAgdG86CiAgICAgIGtpbmQ6IEltYWdlU3RyZWFtVGFnCiAgICAgIG5hbWU6ICd6cGdkLWF1dGg6bGF0ZXN0Jyjmm7/mjaIpCiAgcmVzb3VyY2VzOiB7fQogIHN1Y2Nlc3NmdWxCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBmYWlsZWRCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBzdHJhdGVneToKICAgIHR5cGU6IFNvdXJjZQogICAgc291cmNlU3RyYXRlZ3k6CiAgICAgIGZyb206CiAgICAgICAga2luZDogSW1hZ2VTdHJlYW1UYWcKICAgICAgICBuYW1lc3BhY2U6IHpob25ncHUKICAgICAgICBuYW1lOiAnamF2YS1tYXZlbjozLjYuMScKICAgICAgZW52OgogICAgICAgIC0gbmFtZTogR0lUX1NTTF9OT19WRVJJRlkKICAgICAgICAgIHZhbHVlOiAndHJ1ZScKICBwb3N0Q29tbWl0OiB7fQogIHNvdXJjZToKICAgIHR5cGU6IEdpdAogICAgZ2l0OgogICAgICB1cmk6ICdodHRwOi8vZ2l0bGFiLmFwcC50MjAwLnpob25ncHVnZC5jb20vemhvbmdwdS96cGdkLWF1dGguZ2l0Jyjmm7/mjaIpCiAgICAgIHJlZjogZGV2CiAgICBzb3VyY2VTZWNyZXQ6CiAgICAgIG5hbWU6IGdpdGxhYgogIHRyaWdnZXJzOgogICAgLSB0eXBlOiBDb25maWdDaGFuZ2UKICAgIC0gdHlwZTogR2l0TGFiCiAgICAgIGdpdGxhYjoKICAgICAgICBzZWNyZXRSZWZlcmVuY2U6CiAgICAgICAgICBuYW1lOiB3ZWJob29rCiAgcnVuUG9saWN5OiBTZXJpYWwK</text>
+      <register name="0" type="4">
+        <text>zhongpu</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
@@ -360,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>locale</last-search>
+      <last-search>ImageStream</last-search>
       <last-offset />
-      <last-pattern>locale</last-pattern>
+      <last-pattern>ImageStream</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
