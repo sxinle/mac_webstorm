@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>accounts</entry>
         <entry>32</entry>
         <entry encoding="base64">XDxob3N0SXBcPg==</entry>
         <entry>src</entry>
@@ -25,6 +24,7 @@
         <entry>java</entry>
         <entry>maven</entry>
         <entry>ImageStream</entry>
+        <entry>pod</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -114,12 +114,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/utils/utils.js" timestamp="1591319009628">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-web/src/utils/utils.js" timestamp="1591320166954">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="2" column="0" />
@@ -159,8 +153,8 @@
         <mark key="]" line="85" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591329268059">
-        <mark key="'" line="712" column="20" />
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591342370676">
+        <mark key="'" line="718" column="65" />
         <mark key="[" line="232" column="23" />
         <mark key="]" line="232" column="54" />
       </file>
@@ -204,12 +198,13 @@
         <mark key="]" line="670" column="0" />
         <mark key="." line="670" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/deployment.yaml" timestamp="1591342086068">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="232" column="34" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="2" column="16" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="233" column="50" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
       <jump line="63" column="11" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
       <jump line="12" column="38" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
@@ -306,6 +301,10 @@
       <jump line="571" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
       <jump line="627" column="22" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
       <jump line="712" column="20" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="17" column="23" filename="$USER_HOME$/Desktop/openshift3.x-config-example/deployment.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/deployment.yaml" />
+      <jump line="215" column="27" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="718" column="65" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,17 +312,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>docker-registry.default.svc:5000</text>
+      <register name="*" type="2">
+        <text encoding="base64">a2luZDogRGVwbG95bWVudENvbmZpZwphcGlWZXJzaW9uOiBhcHBzLm9wZW5zaGlmdC5pby92MQptZXRhZGF0YToKICBuYW1lOiB6cGdkLWF1dGgo5pu/5o2iKQogIG5hbWVzcGFjZTogemhvbmdwdQpzcGVjOgogIHN0cmF0ZWd5OgogICAgdHlwZTogUm9sbGluZwogICAgcm9sbGluZ1BhcmFtczoKICAgICAgdXBkYXRlUGVyaW9kU2Vjb25kczogMQogICAgICBpbnRlcnZhbFNlY29uZHM6IDEKICAgICAgdGltZW91dFNlY29uZHM6IDYwMAogICAgICBtYXhVbmF2YWlsYWJsZTogMjUlCiAgICAgIG1heFN1cmdlOiAyNSUKICAgIHJlc291cmNlczoge30KICAgIGFjdGl2ZURlYWRsaW5lU2Vjb25kczogMjE2MDAKICB0cmlnZ2VyczoKICAgIC0gdHlwZTogQ29uZmlnQ2hhbmdlCiAgICAtIHR5cGU6IEltYWdlQ2hhbmdlCiAgICAgIGltYWdlQ2hhbmdlUGFyYW1zOgogICAgICAgIGF1dG9tYXRpYzogdHJ1ZQogICAgICAgIGNvbnRhaW5lck5hbWVzOgogICAgICAgICAgLSB6cGdkLWF1dGgo5pu/5o2iKQogICAgICAgIGZyb206CiAgICAgICAgICBraW5kOiBJbWFnZVN0cmVhbVRhZwogICAgICAgICAgbmFtZXNwYWNlOiB6aG9uZ3B1CiAgICAgICAgICBuYW1lOiAnenBnZC1hdXRoOmxhdGVzdCco5pu/5o2iKQogIHJlcGxpY2FzOiAxCiAgcmV2aXNpb25IaXN0b3J5TGltaXQ6IDEwCiAgdGVzdDogZmFsc2UKICBzZWxlY3RvcjoKICAgIGFwcDogenBnZC1hdXRoKOabv+aNoikKICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAogICAgICBsYWJlbHM6CiAgICAgICAgYXBwOiB6cGdkLWF1dGgo5pu/5o2iKQogICAgc3BlYzoKICAgICAgY29udGFpbmVyczoKICAgICAgICAtIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgICAgICAgICBpbWFnZTogPi0KICAgICAgICAgICAgZG9ja2VyLXJlZ2lzdHJ5LmRlZmF1bHQuc3ZjOjUwMDAvemhvbmdwdS96cGdkLWF1dGg6bGF0ZXN0KOabv+aNoikKICAgICAgICAgIHBvcnRzOgogICAgICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDgxMDAo5pu/5o2iKQogICAgICAgICAgICAgIHByb3RvY29sOiBUQ1AKICAgICAgICAgIGVudjoKICAgICAgICAgICAgLSBuYW1lOiBUWgogICAgICAgICAgICAgIHZhbHVlOiBBc2lhL1NoYW5naGFpCiAgICAgICAgICAgIC0gbmFtZTogRU5WX05BTUUKICAgICAgICAgICAgICB2YWx1ZTogdGVzdAogICAgICAgICAgcmVzb3VyY2VzOiB7fQogICAgICAgICAgdGVybWluYXRpb25NZXNzYWdlUGF0aDogL2Rldi90ZXJtaW5hdGlvbi1sb2cKICAgICAgICAgIHRlcm1pbmF0aW9uTWVzc2FnZVBvbGljeTogRmlsZQogICAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCiAgICAgIHRlcm1pbmF0aW9uR3JhY2VQZXJpb2RTZWNvbmRzOiAzMAogICAgICBkbnNQb2xpY3k6IENsdXN0ZXJGaXJzdAogICAgICBzZWN1cml0eUNvbnRleHQ6IHt9CiAgICAgIHNjaGVkdWxlck5hbWU6IGRlZmF1bHQtc2NoZWR1bGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>ImageStream</text>
+        <text>pod</text>
       </register>
-      <register name="0" type="4">
-        <text>docker-registry.default.svc:5000</text>
+      <register name="0" type="2">
+        <text encoding="base64">a2luZDogRGVwbG95bWVudENvbmZpZwphcGlWZXJzaW9uOiBhcHBzLm9wZW5zaGlmdC5pby92MQptZXRhZGF0YToKICBuYW1lOiB6cGdkLWF1dGgo5pu/5o2iKQogIG5hbWVzcGFjZTogemhvbmdwdQpzcGVjOgogIHN0cmF0ZWd5OgogICAgdHlwZTogUm9sbGluZwogICAgcm9sbGluZ1BhcmFtczoKICAgICAgdXBkYXRlUGVyaW9kU2Vjb25kczogMQogICAgICBpbnRlcnZhbFNlY29uZHM6IDEKICAgICAgdGltZW91dFNlY29uZHM6IDYwMAogICAgICBtYXhVbmF2YWlsYWJsZTogMjUlCiAgICAgIG1heFN1cmdlOiAyNSUKICAgIHJlc291cmNlczoge30KICAgIGFjdGl2ZURlYWRsaW5lU2Vjb25kczogMjE2MDAKICB0cmlnZ2VyczoKICAgIC0gdHlwZTogQ29uZmlnQ2hhbmdlCiAgICAtIHR5cGU6IEltYWdlQ2hhbmdlCiAgICAgIGltYWdlQ2hhbmdlUGFyYW1zOgogICAgICAgIGF1dG9tYXRpYzogdHJ1ZQogICAgICAgIGNvbnRhaW5lck5hbWVzOgogICAgICAgICAgLSB6cGdkLWF1dGgo5pu/5o2iKQogICAgICAgIGZyb206CiAgICAgICAgICBraW5kOiBJbWFnZVN0cmVhbVRhZwogICAgICAgICAgbmFtZXNwYWNlOiB6aG9uZ3B1CiAgICAgICAgICBuYW1lOiAnenBnZC1hdXRoOmxhdGVzdCco5pu/5o2iKQogIHJlcGxpY2FzOiAxCiAgcmV2aXNpb25IaXN0b3J5TGltaXQ6IDEwCiAgdGVzdDogZmFsc2UKICBzZWxlY3RvcjoKICAgIGFwcDogenBnZC1hdXRoKOabv+aNoikKICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAogICAgICBsYWJlbHM6CiAgICAgICAgYXBwOiB6cGdkLWF1dGgo5pu/5o2iKQogICAgc3BlYzoKICAgICAgY29udGFpbmVyczoKICAgICAgICAtIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgICAgICAgICBpbWFnZTogPi0KICAgICAgICAgICAgZG9ja2VyLXJlZ2lzdHJ5LmRlZmF1bHQuc3ZjOjUwMDAvemhvbmdwdS96cGdkLWF1dGg6bGF0ZXN0KOabv+aNoikKICAgICAgICAgIHBvcnRzOgogICAgICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDgxMDAo5pu/5o2iKQogICAgICAgICAgICAgIHByb3RvY29sOiBUQ1AKICAgICAgICAgIGVudjoKICAgICAgICAgICAgLSBuYW1lOiBUWgogICAgICAgICAgICAgIHZhbHVlOiBBc2lhL1NoYW5naGFpCiAgICAgICAgICAgIC0gbmFtZTogRU5WX05BTUUKICAgICAgICAgICAgICB2YWx1ZTogdGVzdAogICAgICAgICAgcmVzb3VyY2VzOiB7fQogICAgICAgICAgdGVybWluYXRpb25NZXNzYWdlUGF0aDogL2Rldi90ZXJtaW5hdGlvbi1sb2cKICAgICAgICAgIHRlcm1pbmF0aW9uTWVzc2FnZVBvbGljeTogRmlsZQogICAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCiAgICAgIHRlcm1pbmF0aW9uR3JhY2VQZXJpb2RTZWNvbmRzOiAzMAogICAgICBkbnNQb2xpY3k6IENsdXN0ZXJGaXJzdAogICAgICBzZWN1cml0eUNvbnRleHQ6IHt9CiAgICAgIHNjaGVkdWxlck5hbWU6IGRlZmF1bHQtc2NoZWR1bGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
@@ -362,13 +361,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ImageStream</last-search>
+      <last-search>pod</last-search>
       <last-offset />
-      <last-pattern>ImageStream</last-pattern>
+      <last-pattern>pod</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
