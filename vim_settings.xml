@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>32</entry>
-        <entry encoding="base64">XDxob3N0SXBcPg==</entry>
         <entry>src</entry>
         <entry>src=</entry>
         <entry>copy</entry>
@@ -25,6 +23,8 @@
         <entry>maven</entry>
         <entry>ImageStream</entry>
         <entry>pod</entry>
+        <entry>run build</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -153,8 +153,8 @@
         <mark key="]" line="85" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591342370676">
-        <mark key="'" line="718" column="65" />
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591343022533">
+        <mark key="'" line="702" column="52" />
         <mark key="[" line="232" column="23" />
         <mark key="]" line="232" column="54" />
       </file>
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
       <jump line="63" column="11" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
       <jump line="12" column="38" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
       <jump line="53" column="19" filename="$USER_HOME$/workspace/pproj/f-games-web/package.json" />
@@ -304,7 +303,8 @@
       <jump line="17" column="23" filename="$USER_HOME$/Desktop/openshift3.x-config-example/deployment.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/deployment.yaml" />
       <jump line="215" column="27" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
-      <jump line="718" column="65" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="718" column="54" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
+      <jump line="702" column="52" filename="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +319,7 @@
         <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>pod</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">a2luZDogRGVwbG95bWVudENvbmZpZwphcGlWZXJzaW9uOiBhcHBzLm9wZW5zaGlmdC5pby92MQptZXRhZGF0YToKICBuYW1lOiB6cGdkLWF1dGgo5pu/5o2iKQogIG5hbWVzcGFjZTogemhvbmdwdQpzcGVjOgogIHN0cmF0ZWd5OgogICAgdHlwZTogUm9sbGluZwogICAgcm9sbGluZ1BhcmFtczoKICAgICAgdXBkYXRlUGVyaW9kU2Vjb25kczogMQogICAgICBpbnRlcnZhbFNlY29uZHM6IDEKICAgICAgdGltZW91dFNlY29uZHM6IDYwMAogICAgICBtYXhVbmF2YWlsYWJsZTogMjUlCiAgICAgIG1heFN1cmdlOiAyNSUKICAgIHJlc291cmNlczoge30KICAgIGFjdGl2ZURlYWRsaW5lU2Vjb25kczogMjE2MDAKICB0cmlnZ2VyczoKICAgIC0gdHlwZTogQ29uZmlnQ2hhbmdlCiAgICAtIHR5cGU6IEltYWdlQ2hhbmdlCiAgICAgIGltYWdlQ2hhbmdlUGFyYW1zOgogICAgICAgIGF1dG9tYXRpYzogdHJ1ZQogICAgICAgIGNvbnRhaW5lck5hbWVzOgogICAgICAgICAgLSB6cGdkLWF1dGgo5pu/5o2iKQogICAgICAgIGZyb206CiAgICAgICAgICBraW5kOiBJbWFnZVN0cmVhbVRhZwogICAgICAgICAgbmFtZXNwYWNlOiB6aG9uZ3B1CiAgICAgICAgICBuYW1lOiAnenBnZC1hdXRoOmxhdGVzdCco5pu/5o2iKQogIHJlcGxpY2FzOiAxCiAgcmV2aXNpb25IaXN0b3J5TGltaXQ6IDEwCiAgdGVzdDogZmFsc2UKICBzZWxlY3RvcjoKICAgIGFwcDogenBnZC1hdXRoKOabv+aNoikKICB0ZW1wbGF0ZToKICAgIG1ldGFkYXRhOgogICAgICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAogICAgICBsYWJlbHM6CiAgICAgICAgYXBwOiB6cGdkLWF1dGgo5pu/5o2iKQogICAgc3BlYzoKICAgICAgY29udGFpbmVyczoKICAgICAgICAtIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgICAgICAgICBpbWFnZTogPi0KICAgICAgICAgICAgZG9ja2VyLXJlZ2lzdHJ5LmRlZmF1bHQuc3ZjOjUwMDAvemhvbmdwdS96cGdkLWF1dGg6bGF0ZXN0KOabv+aNoikKICAgICAgICAgIHBvcnRzOgogICAgICAgICAgICAtIGNvbnRhaW5lclBvcnQ6IDgxMDAo5pu/5o2iKQogICAgICAgICAgICAgIHByb3RvY29sOiBUQ1AKICAgICAgICAgIGVudjoKICAgICAgICAgICAgLSBuYW1lOiBUWgogICAgICAgICAgICAgIHZhbHVlOiBBc2lhL1NoYW5naGFpCiAgICAgICAgICAgIC0gbmFtZTogRU5WX05BTUUKICAgICAgICAgICAgICB2YWx1ZTogdGVzdAogICAgICAgICAgcmVzb3VyY2VzOiB7fQogICAgICAgICAgdGVybWluYXRpb25NZXNzYWdlUGF0aDogL2Rldi90ZXJtaW5hdGlvbi1sb2cKICAgICAgICAgIHRlcm1pbmF0aW9uTWVzc2FnZVBvbGljeTogRmlsZQogICAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCiAgICAgIHRlcm1pbmF0aW9uR3JhY2VQZXJpb2RTZWNvbmRzOiAzMAogICAgICBkbnNQb2xpY3k6IENsdXN0ZXJGaXJzdAogICAgICBzZWN1cml0eUNvbnRleHQ6IHt9CiAgICAgIHNjaGVkdWxlck5hbWU6IGRlZmF1bHQtc2NoZWR1bGVyCg==</text>
@@ -361,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pod</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>pod</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
