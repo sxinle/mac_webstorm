@@ -159,8 +159,10 @@
         <mark key="]" line="85" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591329168819">
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/pesco-deploy-qy-hnrq.yaml" timestamp="1591329268059">
         <mark key="'" line="712" column="20" />
+        <mark key="[" line="232" column="23" />
+        <mark key="]" line="232" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1591327299487">
         <mark key="[" line="0" column="0" />
@@ -312,7 +314,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>zhongpu</text>
+        <text>docker-registry.default.svc:5000</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
@@ -321,7 +323,7 @@
         <text>ImageStream</text>
       </register>
       <register name="0" type="4">
-        <text>zhongpu</text>
+        <text>docker-registry.default.svc:5000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
@@ -366,7 +368,7 @@
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
