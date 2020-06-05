@@ -132,12 +132,15 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-web/package.json" timestamp="1591317800448">
-        <mark key="'" line="53" column="19" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="22" />
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" timestamp="1591328084561">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" timestamp="1591328195848">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1591326473448">
         <mark key="'" line="118" column="0" />
@@ -155,6 +158,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="85" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591327299487">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-web/config/themePluginConfig.js" timestamp="1591320214606">
         <mark key="[" line="69" column="27" />
@@ -193,19 +199,11 @@
         <mark key="]" line="670" column="0" />
         <mark key="." line="670" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/f-games-role/src/pages/roles/index.jsx" timestamp="1591287749901">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/f-games-role/package.json" timestamp="1591317806031">
         <mark key="'" line="43" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="14" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="67" column="25" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/config/config.js" />
@@ -303,6 +301,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,8 +311,8 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>map</text>
+      <register name="*" type="2">
+        <text encoding="base64">a2luZDogQnVpbGRDb25maWcKYXBpVmVyc2lvbjogYnVpbGQub3BlbnNoaWZ0LmlvL3YxCm1ldGFkYXRhOgogIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgbmFtZXNwYWNlOiB6aG9uZ3B1CnNwZWM6CiAgbm9kZVNlbGVjdG9yOiBudWxsCiAgb3V0cHV0OgogICAgdG86CiAgICAgIGtpbmQ6IEltYWdlU3RyZWFtVGFnCiAgICAgIG5hbWU6ICd6cGdkLWF1dGg6bGF0ZXN0Jyjmm7/mjaIpCiAgcmVzb3VyY2VzOiB7fQogIHN1Y2Nlc3NmdWxCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBmYWlsZWRCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBzdHJhdGVneToKICAgIHR5cGU6IFNvdXJjZQogICAgc291cmNlU3RyYXRlZ3k6CiAgICAgIGZyb206CiAgICAgICAga2luZDogSW1hZ2VTdHJlYW1UYWcKICAgICAgICBuYW1lc3BhY2U6IHpob25ncHUKICAgICAgICBuYW1lOiAnamF2YS1tYXZlbjozLjYuMScKICAgICAgZW52OgogICAgICAgIC0gbmFtZTogR0lUX1NTTF9OT19WRVJJRlkKICAgICAgICAgIHZhbHVlOiAndHJ1ZScKICBwb3N0Q29tbWl0OiB7fQogIHNvdXJjZToKICAgIHR5cGU6IEdpdAogICAgZ2l0OgogICAgICB1cmk6ICdodHRwOi8vZ2l0bGFiLmFwcC50MjAwLnpob25ncHVnZC5jb20vemhvbmdwdS96cGdkLWF1dGguZ2l0Jyjmm7/mjaIpCiAgICAgIHJlZjogZGV2CiAgICBzb3VyY2VTZWNyZXQ6CiAgICAgIG5hbWU6IGdpdGxhYgogIHRyaWdnZXJzOgogICAgLSB0eXBlOiBDb25maWdDaGFuZ2UKICAgIC0gdHlwZTogR2l0TGFiCiAgICAgIGdpdGxhYjoKICAgICAgICBzZWNyZXRSZWZlcmVuY2U6CiAgICAgICAgICBuYW1lOiB3ZWJob29rCiAgcnVuUG9saWN5OiBTZXJpYWwK</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
@@ -320,7 +321,7 @@
         <text>locale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlICovCg==</text>
+        <text encoding="base64">a2luZDogQnVpbGRDb25maWcKYXBpVmVyc2lvbjogYnVpbGQub3BlbnNoaWZ0LmlvL3YxCm1ldGFkYXRhOgogIG5hbWU6IHpwZ2QtYXV0aCjmm7/mjaIpCiAgbmFtZXNwYWNlOiB6aG9uZ3B1CnNwZWM6CiAgbm9kZVNlbGVjdG9yOiBudWxsCiAgb3V0cHV0OgogICAgdG86CiAgICAgIGtpbmQ6IEltYWdlU3RyZWFtVGFnCiAgICAgIG5hbWU6ICd6cGdkLWF1dGg6bGF0ZXN0Jyjmm7/mjaIpCiAgcmVzb3VyY2VzOiB7fQogIHN1Y2Nlc3NmdWxCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBmYWlsZWRCdWlsZHNIaXN0b3J5TGltaXQ6IDUKICBzdHJhdGVneToKICAgIHR5cGU6IFNvdXJjZQogICAgc291cmNlU3RyYXRlZ3k6CiAgICAgIGZyb206CiAgICAgICAga2luZDogSW1hZ2VTdHJlYW1UYWcKICAgICAgICBuYW1lc3BhY2U6IHpob25ncHUKICAgICAgICBuYW1lOiAnamF2YS1tYXZlbjozLjYuMScKICAgICAgZW52OgogICAgICAgIC0gbmFtZTogR0lUX1NTTF9OT19WRVJJRlkKICAgICAgICAgIHZhbHVlOiAndHJ1ZScKICBwb3N0Q29tbWl0OiB7fQogIHNvdXJjZToKICAgIHR5cGU6IEdpdAogICAgZ2l0OgogICAgICB1cmk6ICdodHRwOi8vZ2l0bGFiLmFwcC50MjAwLnpob25ncHVnZC5jb20vemhvbmdwdS96cGdkLWF1dGguZ2l0Jyjmm7/mjaIpCiAgICAgIHJlZjogZGV2CiAgICBzb3VyY2VTZWNyZXQ6CiAgICAgIG5hbWU6IGdpdGxhYgogIHRyaWdnZXJzOgogICAgLSB0eXBlOiBDb25maWdDaGFuZ2UKICAgIC0gdHlwZTogR2l0TGFiCiAgICAgIGdpdGxhYjoKICAgICAgICBzZWNyZXRSZWZlcmVuY2U6CiAgICAgICAgICBuYW1lOiB3ZWJob29rCiAgcnVuUG9saWN5OiBTZXJpYWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvKiBlc2xpbnQtZW5hYmxlICovCg==</text>
