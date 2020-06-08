@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>.container</entry>
-        <entry encoding="base64">XDxwcmVwYXJlTGF5ZXJzXD4=</entry>
-        <entry encoding="base64">XDxjb25maWdMYXllcnNcPg==</entry>
         <entry encoding="base64">XDxoYXNDYXBhYmlsaXR5TGF5ZXJzXD4=</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>this.map</entry>
@@ -24,7 +21,10 @@
         <entry>ol.Feature</entry>
         <entry encoding="base64">XDxPdmVybGF5XD4=</entry>
         <entry>iconSty</entry>
+        <entry>Icon</entry>
+        <entry encoding="base64">XDxwaXBlQnJva2VuXD4=</entry>
         <entry>src</entry>
+        <entry>features</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -108,7 +108,7 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591599474864">
+      <file name="/Dummy.txt" timestamp="1591607097793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -143,26 +143,27 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/style/Icon.js" timestamp="1591605583979">
-        <mark key="'" line="72" column="28" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/style/Icon.js" timestamp="1591609738133">
+        <mark key="'" line="60" column="20" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1591606182643">
-        <mark key="'" line="183" column="28" />
-        <mark key="[" line="189" column="47" />
-        <mark key="]" line="189" column="47" />
-        <mark key="." line="189" column="47" />
-        <mark key="^" line="189" column="47" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1591610691658">
+        <mark key="'" line="263" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="195" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" timestamp="1591610295506">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="159" column="4" />
+        <mark key="]" line="159" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" timestamp="1591328084561">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/utils/index.js" timestamp="1591324364967">
-        <mark key="'" line="719" column="21" />
-        <mark key="[" line="670" column="0" />
-        <mark key="]" line="670" column="0" />
-        <mark key="." line="670" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/openshift3.x-config-example/buildconfig.yaml" timestamp="1591328484655">
         <mark key="'" line="0" column="0" />
@@ -198,18 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/f-games-web/src/utils/utils.js" />
-      <jump line="25" column="21" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="207" column="31" filename="$USER_HOME$/workspace/pproj/f-games-web/src/pages/Index.jsx" />
-      <jump line="70" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
-      <jump line="69" column="7" filename="/index.jsx" />
-      <jump line="274" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="720" column="21" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/utils/index.js" />
-      <jump line="37" column="10" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" />
-      <jump line="14" column="30" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="18" column="3" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="7" column="15" filename="$USER_HOME$/Desktop/openshift3.x-config-example/imagestream.yaml" />
@@ -298,6 +287,18 @@
       <jump line="160" column="7" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="183" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="72" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/style/Icon.js" />
+      <jump line="189" column="27" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="6" column="37" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="193" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="60" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/style/Icon.js" />
+      <jump line="185" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="176" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="216" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="228" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="231" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="159" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/source/Vector.js" />
+      <jump line="263" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,47 +306,51 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>foo.png</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>foo.png</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text>features</text>
       </register>
-      <register name="0" type="4">
-        <text>ol.style.Icon</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogMTAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogMTAwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc3R5bGU6IG5ldyBTdHlsZSh7CiAgICAgIC8vICAgaW1hZ2U6IG5ldyBJY29uKHsKICAgICAgLy8gICAgIGFuY2hvcjogWzAuNSwgNDBdLAogICAgICAvLyAgICAgYW5jaG9yWFVuaXRzOiAnZnJhY3Rpb24nLAogICAgICAvLyAgICAgYW5jaG9yWVVuaXRzOiAncGl4ZWxzJywKICAgICAgLy8gICAgIG9wYWNpdHk6IDAuNzUsCiAgICAgIC8vICAgICAvLyBzcmM6IHBpcGVCcm9rZW4sCiAgICAgIC8vICAgICBzcmM6ICdodHRwczovL29wZW5sYXllcnMub3JnL2VuL2xhdGVzdC9leGFtcGxlcy9kYXRhL2ljb24ucG5nJywKICAgICAgLy8gICB9KSwKICAgICAgLy8gfSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>new Feature({
+        // geometry: new ol.geom.Point([longitude, latitude]),
+        geometry: new ol.geom.Point([99086, 137517]),
+        // geometry: new ol.geom.Point(ol.proj.transform([80698, 147108], item?.crs?.properties?.name, 'EPSG:3857')),
+      })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZW9tZXRyeTogbmV3IG9sLmdlb20uUG9pbnQoWzAsIDBdKSwKICAgICAgICAvLyBuYW1lOiAnUG9pbnQgRmVhdHVyZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAnUG9pbnQgRmVhdHVyZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuY2hvck9yaWdpbjogJ3RvcC1yaWdodCcsCiAgICAgICAgICBvZmZzZXRPcmlnaW46ICd0b3AtcmlnaHQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>src</last-search>
+      <last-search>features</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern>features</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbUdyb3Vwc1w+</last-substitute>
       <last-dir>1</last-dir>
