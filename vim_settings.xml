@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>window</entry>
         <entry>bottom</entry>
         <entry>.bottom</entry>
         <entry>drag</entry>
@@ -25,6 +24,7 @@
         <entry>width</entry>
         <entry encoding="base64">XDxtYXBXaWR0aFw+</entry>
         <entry encoding="base64">XDxjb250YWluZXJJZFw+</entry>
+        <entry>resize</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -110,15 +110,14 @@
         <mark key="^" line="150" column="41" />
         <mark key="." line="150" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1591686366883">
-        <mark key="'" line="5" column="10" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1591692898145">
+        <mark key="'" line="1241" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" timestamp="1591692231003">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" timestamp="1591692734440">
         <mark key="'" line="6" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="5" column="28" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/SpaceQuery/index.js" timestamp="1591681382219">
         <mark key="'" line="34" column="70" />
@@ -146,8 +145,8 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1591691229327">
-        <mark key="'" line="3578" column="30" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1591692898998">
+        <mark key="'" line="36" column="31" />
         <mark key="[" line="97" column="19" />
         <mark key="]" line="97" column="39" />
       </file>
@@ -205,10 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3956" column="18" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="3677" column="47" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="3957" column="29" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="3571" column="46" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2727" column="58" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2719" column="42" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2709" column="15" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -305,6 +300,10 @@
       <jump line="21" column="22" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="252" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="6" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
+      <jump line="1126" column="53" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
+      <jump line="135" column="6" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
+      <jump line="1241" column="17" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
+      <jump line="36" column="31" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,46 +312,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHg9ezB9CiAgICAgICAgICB5PXswfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>containerId</text>
+        <text>window.innerWidth - mapWidth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluZXJJZFw+</text>
+        <text>resize</text>
       </register>
       <register name="0" type="4">
         <text>document.getElementById('webgis-container').offsetWidth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHg9ezB9CiAgICAgICAgICB5PXswfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29udGFpbmVySWQgPSBjLmNvbnRhaW5lcklkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2luZGV4Lmxlc3MnOwo=</text>
+        <text encoding="base64">Y29uc3QgY29udGFpbmVySWQgPSBjLmNvbnRhaW5lcklkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2luZGV4Lmxlc3MnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dlYmdpcy1jb250YWluZXInKS5vZmZzZXRXaWR0aCwgJ1sgPT09PT0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQod2ViZ2lzLWNvbnRhaW5lcikub2Zmc2V0V2lkdGggPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtYXBXaWR0aDogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dlYmdpcy1jb250YWluZXInKS5vZmZzZXRXaWR0aCwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dlYmdpcy1jb250YWluZXInKS5vZmZzZXRXaWR0aCwgJ1sgPT09PT0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQod2ViZ2lzLWNvbnRhaW5lcikub2Zmc2V0V2lkdGggPT09PT0gXScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBtYXBXaWR0aDogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dlYmdpcy1jb250YWluZXInKS5vZmZzZXRXaWR0aCwKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBtYXBXaWR0aDogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dlYmdpcy1jb250YWluZXInKS5vZmZzZXRXaWR0aCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -361,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250YWluZXJJZFw+</last-search>
+      <last-search>resize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluZXJJZFw+</last-pattern>
+      <last-pattern>resize</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
