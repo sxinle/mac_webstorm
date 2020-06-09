@@ -111,12 +111,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" timestamp="1591675096999">
-        <mark key="'" line="245" column="19" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" timestamp="1591675268370">
+        <mark key="'" line="229" column="30" />
+        <mark key="[" line="197" column="40" />
+        <mark key="]" line="197" column="40" />
+        <mark key="." line="197" column="40" />
+        <mark key="^" line="197" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.less" timestamp="1591674756391">
         <mark key="[" line="2" column="0" />
@@ -199,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="6" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/vendor/ol-editor/control/modify.js" />
-      <jump line="242" column="5" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="183" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="45" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="260" column="13" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="139" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
@@ -299,6 +296,9 @@
       <jump line="3038" column="21" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="3058" column="19" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="245" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
+      <jump line="151" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
+      <jump line="229" column="30" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,46 +307,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>Pagination</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFBhZ2k=</text>
       </register>
       <register name="0" type="4">
-        <text>Pagination</text>
+        <text>Table</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBTZWFyY2ggfSA9IElucHV0Owpjb25zdCB7IFNlbGVjdCB9ID0gSW5wdXQ7CmNvbnN0IHsgT3B0aW9uIH0gPSBJbnB1dC5TZWxlY3Q7CmNvbnN0IElucHV0R3JvdXAgPSBJbnB1dC5Hcm91cDsKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBTZWxlY3QgfSA9IElucHV0Owpjb25zdCB7IE9wdGlvbiB9ID0gSW5wdXQuU2VsZWN0Owo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIG9uU2Nyb2xsPXt0aGlzLm9uU2Nyb2xsfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHJvd3NJblZpZXc9ezMwfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Lyp7Ki99CiAgICAgICAgICAgICAgICAgICAgey8qdGhpcy5zdGF0ZS5mb3JtRGF0YUFyclt0aGlzLnN0YXRlLmluZGV4UGFnZV0ubWFwKGQgPT4geyovfQogICAgICAgICAgICAgICAgICAgIHsvKnJldHVybiAoPGRpdj4qL30KICAgICAgICAgICAgICAgICAgICB7Lyo8ZGl2PiB7ZC50aXRsZX08L2Rpdj4qL30KICAgICAgICAgICAgICAgICAgICB7Lyo8ZGl2PjxJbnB1dCBkZWZhdWx0VmFsdWU9e2QuZGF0YX0gLz48L2Rpdj4qL30KICAgICAgICAgICAgICAgICAgICB7Lyo8L2Rpdj4pKi99CiAgICAgICAgICAgICAgICAgICAgey8qfSkqL30KICAgICAgICAgICAgICAgICAgICB7Lyp9Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIG9uUm93U2VsZWN0PXt0aGlzLmhhbmRlbFJvd1NlbGVjdH0KICAgICAgICAgICAgICAgICAgICAgIC8vIHZhbHVlPXt0aGlzLnN0YXRlLnNlbGVjdGVkVmFsdWV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxGb3JtIGxheW91dD0iaW5saW5lIiovfQogICAgICAgICAgICAgICAgICAgICAgey8qb25DaGFuZ2U9e3RoaXMuaGFuZGxlRm9ybUNoYW5nZX0qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKm9uU3VibWl0PXtkYXRhID0+IHt0aGlzLmhhbmRsZUZvcm1TdWJtaXQoZGF0YSl9fSovfQogICAgICAgICAgICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICAgICAgICAgICAgey8qPEZvcm0uSXRlbSB3cmFwcGVyQ29sPXt7IHNwYW46IDEyLCBvZmZzZXQ6IDUgfX0+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo8Rm9ybS5TdWJtaXQgIHNpemU9InNtYWxsIiBjbGFzc05hbWU9InN1Ym1pdEJ0biIgZGlzYWJsZWQ9e3RoaXMuc3RhdGUuZGlzYWJsZWR9PuS/neWtmDwvRm9ybS5TdWJtaXQ+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyovISo8QnV0dG9uIHR5cGU9InByaW1hcnkiIHNpemU9InNtYWxsIiBjbGFzc05hbWU9InN1Ym1pdEJ0biIgc3R5bGU9e3sgZmxvYXQ6ICdyaWdodCcgfX0gKiEvKi99CiAgICAgICAgICAgICAgICAgICAgICB7LyovISpodG1sVHlwZT0ic3VibWl0Ij7kv53lrZg8L0J1dHRvbj4qIS8qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjwvRm9ybS5JdGVtPiovfQoKICAgICAgICAgICAgICAgICAgICAgIHsvKnsqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKnRoaXMuc3RhdGUuZm9ybURhdGFBcnJbdGhpcy5zdGF0ZS5pbmRleFBhZ2VdLm1hcCgoaXRlbSxpbmRleCkgPT4geyovfQogICAgICAgICAgICAgICAgICAgICAgey8qaWYoaW5kZXggPT09IDApeyovfQogICAgICAgICAgICAgICAgICAgICAgey8qcmV0dXJuKCovfQogICAgICAgICAgICAgICAgICAgICAgey8qPEZvcm0uSXRlbSBsYWJlbD17aXRlbS50aXRsZX0+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyovISp7Z2V0RmllbGREZWNvcmF0b3IoaXRlbS50aXRsZSwgeyBpbml0aWFsVmFsdWU6IGl0ZW0uZGF0YSB9KSgqIS8qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjxTSW5wdXQgbmFtZT17aXRlbS50aXRsZSArIHRoaXMuc3RhdGUuaW5kZXhQYWdlfSBkaXNhYmxlZD17dHJ1ZX0qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKmRlZmF1bHRWYWx1ZT17aXRlbS5kYXRhfSovfQogICAgICAgICAgICAgICAgICAgICAgey8qLz4qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKi8hKil9KiEvKi99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo8L0Zvcm0uSXRlbT4qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKikqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKn1lbHNleyovfQogICAgICAgICAgICAgICAgICAgICAgey8qcmV0dXJuKCovfQogICAgICAgICAgICAgICAgICAgICAgey8qPEZvcm0uSXRlbSBsYWJlbD17aXRlbS50aXRsZX0+Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyovISp7Z2V0RmllbGREZWNvcmF0b3IoaXRlbS50aXRsZSwgeyBpbml0aWFsVmFsdWU6IGl0ZW0uZGF0YSB9KSgqIS8qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjxTSW5wdXQgbmFtZT17dGhpcy5zdGF0ZS5pbmRleFBhZ2UgKyBpdGVtLmVufSBkaXNhYmxlZCA9IHt0aGlzLnN0YXRlLmRpc2FibGVkfSovfQogICAgICAgICAgICAgICAgICAgICAgey8qZGVmYXVsdFZhbHVlPXtpdGVtLmRhdGF9Ki99CiAgICAgICAgICAgICAgICAgICAgICB7LyovPiovfQogICAgICAgICAgICAgICAgICAgICAgey8qLyEqKX0qIS8qL30KICAgICAgICAgICAgICAgICAgICAgIHsvKjwvRm9ybS5JdGVtPiovfQogICAgICAgICAgICAgICAgICAgICAgey8qKSovfQogICAgICAgICAgICAgICAgICAgICAgey8qfSovfQoKICAgICAgICAgICAgICAgICAgICAgIHsvKn0pKi99CiAgICAgICAgICAgICAgICAgICAgICB7Lyp9Ki99CiAgICAgICAgICAgICAgICAgICAgICB7Lyo8L0Zvcm0+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3RoaXMuc3RhdGUuVFNjaGFydCAmJiBmYWxzZSA/CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRhYmxlSWNvbiBzaG93LVRTY2hhcnQiIG9uQ2xpY2s9e3RoaXMuc2V0UGVyc3BlY3RpdmVDaGFydFZpc2libGV9PgogICAgICAgICAgICAgICAgICAgICAgPFRvb2x0aXAgdGl0bGU9IumAj+inhuWbvuihqCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuLz4KICAgICAgICAgICAgICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4gOiBudWxsCiAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBTZWFyY2ggfSA9IElucHV0Owpjb25zdCB7IFNlbGVjdCB9ID0gSW5wdXQ7CmNvbnN0IHsgT3B0aW9uIH0gPSBJbnB1dC5TZWxlY3Q7CmNvbnN0IElucHV0R3JvdXAgPSBJbnB1dC5Hcm91cDsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKnt0aGlzLmZvcm1EYXRhKHRoaXMuc3RhdGUuZm9ybURhdGFBcnIsIHRoaXMuc3RhdGUuaW5kZXhQYWdlLCB0aGlzLnN0YXRlLmRpc2FibGVkKX0qL30K</text>
+        <text encoding="base64">Y29uc3QgeyBTZWxlY3QgfSA9IElucHV0Owpjb25zdCB7IE9wdGlvbiB9ID0gSW5wdXQuU2VsZWN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
