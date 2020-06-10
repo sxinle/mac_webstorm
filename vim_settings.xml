@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>layerContro</entry>
-        <entry encoding="base64">XDxsYXllcnNDb250cm9sXD4=</entry>
         <entry encoding="base64">XDxSZWFjdFJlc2l6ZURldGVjdG9yXD4=</entry>
         <entry>Layers</entry>
         <entry>isLayerPanel</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxPdmVybGF5XD4=</entry>
         <entry encoding="base64">XDxwaWNrVXBNb2RhbFNob3dcPg==</entry>
         <entry>openlayers</entry>
+        <entry>maxcndn</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -106,15 +106,19 @@
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/dist/WebGisApp.js" timestamp="1591760967375">
         <mark key="'" line="44" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1591758552000">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" timestamp="1591763072965">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="257" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="^" line="261" column="15" />
         <mark key="." line="257" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" timestamp="1591775427421">
+        <mark key="'" line="64" column="55" />
+        <mark key="[" line="138" column="86" />
+        <mark key="]" line="139" column="10" />
+        <mark key="." line="139" column="9" />
+        <mark key="^" line="139" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/webpack-chain/src/Plugin.js" timestamp="1591768819694">
         <mark key="'" line="61" column="0" />
@@ -123,20 +127,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/react-geo/src/Panel/Panel/Panel.tsx" timestamp="1591754050167">
-        <mark key="'" line="340" column="6" />
-        <mark key="[" line="334" column="6" />
-        <mark key="]" line="334" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" timestamp="1591766578143">
         <mark key="'" line="34" column="9" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="39" column="17" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/react-geo/src/Button/SimpleButton/SimpleButton.tsx" timestamp="1591754274756">
-        <mark key="'" line="78" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/burstpipe.js" timestamp="1591766585084">
         <mark key="[" line="7" column="19" />
@@ -167,16 +163,18 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/diff.jsx" timestamp="1591755023238">
-        <mark key="[" line="552" column="0" />
-        <mark key="]" line="552" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1591770572332">
         <mark key="'" line="464" column="38" />
         <mark key="[" line="445" column="9" />
         <mark key="]" line="445" column="9" />
         <mark key="." line="445" column="9" />
         <mark key="^" line="446" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/icon.html" timestamp="1591775183227">
+        <mark key="'" line="15" column="51" />
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="69" column="53" />
+        <mark key="." line="69" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/config/plugin.config.js" timestamp="1591770115781">
         <mark key="[" line="23" column="0" />
@@ -188,7 +186,6 @@
         <mark key="[" line="540" column="0" />
         <mark key="]" line="541" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/dist/pages/Home/Home.js" timestamp="1591757614728" />
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1591771891456">
         <mark key="'" line="149" column="6" />
         <mark key="[" line="100" column="41" />
@@ -202,17 +199,16 @@
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/lib/modal/Modal.d.ts" timestamp="1591771218437">
         <mark key="'" line="94" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/openlayers/build/site/index.html" timestamp="1591775641542">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/attributions.html" timestamp="1591774932901">
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="31" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="450" column="22" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="81" column="36" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="83" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="87" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="231" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="186" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="147" column="69" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
-      <jump line="20" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
       <jump line="255" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="248" column="22" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
       <jump line="246" column="23" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/buffer/index.jsx" />
@@ -304,6 +300,15 @@
       <jump line="137" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="141" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="149" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="15" column="51" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/icon.html" />
+      <jump line="65" column="67" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="66" column="73" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="67" column="58" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="68" column="68" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="138" column="100" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="139" column="24" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="27" column="121" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
+      <jump line="64" column="55" filename="$USER_HOME$/workspace/shangyuan/openlayers/build/site/examples/arcgis-image.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,16 +317,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>'</text>
+        <text>https://openlayers.org/assets/theme/site.css</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>openlayers</text>
+        <text>css</text>
       </register>
       <register name="0" type="4">
-        <text>'exclude', ['vendor.js', 'polyfills.js']</text>
+        <text>https://openlayers.org/assets/theme/site.css</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>openlayers</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>openlayers</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
