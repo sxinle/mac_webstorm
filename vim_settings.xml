@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Window</entry>
         <entry encoding="base64">XDxEcmFnV2luZG93XD4=</entry>
         <entry>11</entry>
         <entry>geo</entry>
@@ -25,6 +24,7 @@
         <entry>Table</entry>
         <entry encoding="base64">XDxjdXJDb2x1bW5zXD4=</entry>
         <entry>windowVisible</entry>
+        <entry>state.prop</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -158,8 +158,8 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1591861250552">
-        <mark key="'" line="2065" column="2" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1591861392558">
+        <mark key="'" line="2684" column="32" />
         <mark key="[" line="2681" column="31" />
         <mark key="]" line="2681" column="43" />
       </file>
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="26" filename="/index.jsx" />
       <jump line="275" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="104" column="8" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="66" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
@@ -304,6 +303,7 @@
       <jump line="2065" column="2" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/InfoTable/index.jsx" />
       <jump line="19" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="2684" column="32" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +318,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>windowVisible</text>
+        <text>state.prop</text>
       </register>
       <register name="0" type="4">
         <text>windowVisible</text>
@@ -360,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>windowVisible</last-search>
+      <last-search>state.prop</last-search>
       <last-offset />
-      <last-pattern>windowVisible</last-pattern>
+      <last-pattern>state.prop</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
