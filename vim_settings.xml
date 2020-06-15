@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>feature</entry>
-        <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
         <entry>Fill</entry>
         <entry>Layer</entry>
         <entry>olLayer</entry>
@@ -25,6 +23,8 @@
         <entry>reset</entry>
         <entry>anch</entry>
         <entry encoding="base64">XDxhbmNob3JcPg==</entry>
+        <entry encoding="base64">XDxwYW5lbEhlaWdodFw+</entry>
+        <entry>panelHeight</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -133,7 +133,7 @@
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592203246391">
+      <file name="/Dummy.txt" timestamp="1592203351964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -152,11 +152,12 @@
         <mark key="^" line="608" column="14" />
         <mark key="." line="608" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592198024050">
-        <mark key="[" line="480" column="41" />
-        <mark key="]" line="480" column="43" />
-        <mark key="^" line="480" column="43" />
-        <mark key="." line="480" column="42" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592203329868">
+        <mark key="'" line="460" column="49" />
+        <mark key="[" line="474" column="31" />
+        <mark key="]" line="474" column="31" />
+        <mark key="^" line="474" column="38" />
+        <mark key="." line="474" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" timestamp="1592203165864">
         <mark key="'" line="52" column="8" />
@@ -195,13 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="18" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="248" column="108" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="259" column="44" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="261" column="67" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="263" column="28" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="264" column="28" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="267" column="75" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="282" column="51" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="298" column="41" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="299" column="43" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -295,6 +289,13 @@
       <jump line="76" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" />
       <jump line="52" column="8" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" />
       <jump line="23" column="88" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/style/Icon.js" />
+      <jump line="474" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="120" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="137" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="259" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="275" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="297" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="460" column="49" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,13 +304,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>0.5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmNob3JcPg==</text>
+        <text>panelHeight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IEJ1dHRvbiwgQ29sLCBGb3JtLCBtZXNzYWdlLCBSb3cgfSBmcm9tICdhbnRkJzsKaW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ2R2YSc7CmltcG9ydCBPdmVybGF5IGZyb20gJ29sL092ZXJsYXknOwppbXBvcnQgRmVhdHVyZSBmcm9tICdvbC9GZWF0dXJlJzsKaW1wb3J0IFBvaW50IGZyb20gJ29sL2dlb20vUG9pbnQnOwppbXBvcnQgeyBjbGljayB9IGZyb20gJ29sL2V2ZW50cy9jb25kaXRpb24nOwppbXBvcnQgU2VsZWN0IGZyb20gJ29sL2ludGVyYWN0aW9uL1NlbGVjdCc7CmltcG9ydCB7IEljb24sIFN0eWxlIH0gZnJvbSAnb2wvc3R5bGUnOwppbXBvcnQgVmVjdG9yU291cmNlIGZyb20gJ29sL3NvdXJjZS9WZWN0b3InOwppbXBvcnQgcGlwZUJyb2tlbiBmcm9tICcuLi8uLi9hc3NldHMvcGlwZUJyb2tlbi5wbmcnOwppbXBvcnQgeyBSZWFjdFJlZHV4Q29udGV4dCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IExheWVyc0NvbnRyb2wgZnJvbSAnZnJvbnRlbmQtcGVzY28tZ2lzL2Rpc3QvY29tcG9uZW50cy9MYXllcnNDb250cm9sJzsKCmltcG9ydCBzdHlsZXMgZnJvbSAnLi9pbmRleC5sZXNzJzsKaW1wb3J0IHJlcXVlc3QgZnJvbSAndW1pLXJlcXVlc3QnOwppbXBvcnQgeyBjLCBvayB9IGZyb20gJ0AvdXRpbHMvdXRpbHMnOwovLyBpbXBvcnQgQnVyc3RQaXBlSW5mb1RhYmxlIGZyb20gJ0AvcGFnZXMvYnVyc3RwaXBlL0luZm9UYWJsZSc7CmltcG9ydCAkIGZyb20gJ2pxdWVyeSc7CmltcG9ydCBXaW5kb3cgZnJvbSAnQHRlcnJlc3RyaXMvcmVhY3QtZ2VvL2Rpc3QvV2luZG93L1dpbmRvdyc7CmltcG9ydCBTaW1wbGVCdXR0b24gZnJvbSAnQHRlcnJlc3RyaXMvcmVhY3QtZ2VvL2Rpc3QvQnV0dG9uL1NpbXBsZUJ1dHRvbi9TaW1wbGVCdXR0b24nOwppbXBvcnQgUHJvcGVydGllc0xpc3QgZnJvbSAnZnJvbnRlbmQtcGVzY28tZ2lzL2Rpc3QvY29tcG9uZW50cy9Qcm9wZXJ0aWVzTGlzdCc7Cgo=</text>
@@ -351,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbmNob3JcPg==</last-search>
+      <last-search>panelHeight</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmNob3JcPg==</last-pattern>
+      <last-pattern>panelHeight</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
