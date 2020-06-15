@@ -103,19 +103,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" timestamp="1591933995280">
-        <mark key="[" line="4" column="94" />
-        <mark key="]" line="4" column="105" />
-        <mark key="." line="4" column="104" />
-        <mark key="^" line="4" column="105" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" timestamp="1592188836616">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="4" column="129" />
+        <mark key="]" line="4" column="130" />
+        <mark key="." line="4" column="129" />
+        <mark key="^" line="4" column="130" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592181411437">
+      <file name="/Dummy.txt" timestamp="1592189197757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1592185342198">
-        <mark key="'" line="273" column="20" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1592190107713">
+        <mark key="'" line="64" column="53" />
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="0" />
         <mark key="^" line="1300" column="32" />
@@ -187,10 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="4" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="441" column="4" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="151" column="23" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="221" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2314" column="4" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2324" column="30" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2796" column="4" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -287,6 +284,10 @@
       <jump line="1990" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2808" column="74" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="273" column="20" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="4" column="118" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" />
+      <jump line="5" column="51" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" />
+      <jump line="64" column="53" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,17 +295,17 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+      <register name="*" type="4">
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>onSelect</text>
       </register>
       <register name="0" type="4">
-        <text>this.props.sfCapLayers</text>
+        <text>__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
