@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPdmVybGF5XD4=</entry>
-        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
         <entry>getSource</entry>
         <entry encoding="base64">XDx2ZWN0b3JMYXllclw+</entry>
         <entry>this.setState({</entry>
@@ -25,6 +23,8 @@
         <entry>pre</entry>
         <entry>pesco</entry>
         <entry>umijs</entry>
+        <entry>umi</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -115,18 +115,19 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1592219142773">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1592275572096">
         <mark key="'" line="69" column="6" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592218773055">
-        <mark key="'" line="62" column="14" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="42" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592275563095">
+        <mark key="'" line="56" column="21" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/lib/divider/index.d.ts" timestamp="1592198119043">
         <mark key="[" line="3" column="12" />
@@ -153,7 +154,7 @@
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592218781337">
+      <file name="/Dummy.txt" timestamp="1592275576652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -206,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1200" column="26" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1217" column="19" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1401" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1257" column="27" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1156" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" />
@@ -306,6 +304,9 @@
       <jump line="15" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@umijs/core/lib/Service/utils/pluginUtils.d.ts" />
       <jump line="40" column="49" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="69" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
+      <jump line="51" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
+      <jump line="55" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
+      <jump line="56" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,14 +314,14 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LWFudC1kZXNpZ24tcHJvIjogIjEuMi4zIiwK</text>
+      <register name="*" type="4">
+        <text encoding="base64">ICYmIGNwIGluZGV4Lmh0bWwgTG9naW4uaHRtbA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ICYmIGNwIGluZGV4Lmh0bWwgTG9naW4uaHRtbA==</text>
       </register>
       <register name="/" type="4">
-        <text>umijs</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LWFudC1kZXNpZ24tcHJvIjogIjEuMi4zIiwK</text>
@@ -362,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>umijs</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>umijs</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
