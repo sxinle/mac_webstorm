@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getSource</entry>
         <entry encoding="base64">XDx2ZWN0b3JMYXllclw+</entry>
         <entry>this.setState({</entry>
         <entry>debugger</entry>
@@ -25,6 +24,7 @@
         <entry>umijs</entry>
         <entry>umi</entry>
         <entry>build</entry>
+        <entry>babel</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -103,11 +103,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1592183502500">
-        <mark key="[" line="0" column="1" />
+      <file name="/package.json" timestamp="1592276792916">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="112" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1591956155395">
-        <mark key="'" line="724" column="10" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/package.json" timestamp="1592276797576">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="112" />
+        <mark key="^" line="70" column="55" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/.yarnrc" timestamp="1592215336643">
         <mark key="[" line="0" column="34" />
@@ -115,19 +120,18 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1592275572096">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1592277410195">
         <mark key="'" line="69" column="6" />
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592275563095">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592277145970">
         <mark key="'" line="56" column="21" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="53" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/lib/divider/index.d.ts" timestamp="1592198119043">
         <mark key="[" line="3" column="12" />
@@ -147,24 +151,17 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" timestamp="1592190976956">
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/store/index.js" timestamp="1592276908721">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="79" />
-        <mark key="]" line="4" column="79" />
-        <mark key="." line="4" column="79" />
-        <mark key="^" line="4" column="71" />
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592275576652">
+      <file name="/Dummy.txt" timestamp="1592276939177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1592192538509">
-        <mark key="'" line="1156" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="1300" column="32" />
-        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592203329868">
         <mark key="'" line="460" column="49" />
@@ -207,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1257" column="27" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1156" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" />
       <jump line="272" column="3" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/coordsLoc/index.jsx" />
       <jump line="449" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
       <jump line="23" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
@@ -303,10 +297,13 @@
       <jump line="92" column="21" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="15" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@umijs/core/lib/Service/utils/pluginUtils.d.ts" />
       <jump line="40" column="49" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
-      <jump line="69" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
       <jump line="51" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="55" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
       <jump line="56" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" />
+      <jump line="61" column="3" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/package.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/package.json" />
+      <jump line="10" column="46" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
+      <jump line="69" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,47 +311,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">ICYmIGNwIGluZGV4Lmh0bWwgTG9naW4uaHRtbA==</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICIvLyI6ICJeMS4wLjI1IiwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGNwIGluZGV4Lmh0bWwgTG9naW4uaHRtbA==</text>
+        <text>frontend-pesco-gis</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>babel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LWFudC1kZXNpZ24tcHJvIjogIjEuMi4zIiwK</text>
+      <register name="0" type="4">
+        <text>window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIvLyI6ICJeMS4wLjI1IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiZmlsZTouLi9mcm9udGVuZC1wZXNjby1naXMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiXjEuMC4yNSIsCg==</text>
+        <text encoding="base64">ICAgICJidWlsZDpkaXN0IjogIm5wbSBydW4gY2xlYW46ZGlzdCAmJiBiYWJlbCBzcmMgLS1vdXQtZGlyIGRpc3QgLS1jb3B5LWZpbGVzIC0taWdub3JlIGV4YW1wbGUuanMsLm1kIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiZnJvbnRlbmQtcGVzY28tZ2lzIjogIl4xLjAuMjUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiXjEuMC4yNSIsCg==</text>
+        <text encoding="base64">ICAgICJmcm9udGVuZC1wZXNjby1naXMiOiAiZmlsZTouLi9mcm9udGVuZC1wZXNjby1naXMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LWFudC1kZXNpZ24tcHJvIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAdW1panMvcHJlc2V0LWFudC1kZXNpZ24tcHJvIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -363,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>build</last-search>
+      <last-search>babel</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>babel</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
