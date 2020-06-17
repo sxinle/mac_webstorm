@@ -103,6 +103,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" timestamp="1592355462132">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="15" column="33" />
+      </file>
       <file name="/package.json" timestamp="1592276792916">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="112" />
@@ -145,10 +151,6 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="55" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@umijs/preset-ant-design-pro/package.json" timestamp="1592213439379">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/.yarnrc" timestamp="1592216138449">
         <mark key="[" line="0" column="10" />
@@ -321,16 +323,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>requestFeatures</text>
+        <text>http://10.3.101.125:9080/permit-center</text>
       </register>
       <register name="-" type="4">
-        <text>outFilterXml</text>
+        <text>http://localhost:7010/permit-center</text>
       </register>
       <register name="/" type="4">
         <text>sdf</text>
       </register>
       <register name="0" type="4">
-        <text>requestFeatures</text>
+        <text>http://10.3.101.125:9080/permit-center</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
