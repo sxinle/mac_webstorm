@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGZWF0dXJlQW5kZ2VvSnNvblw+</entry>
-        <entry>requestGetFeatures</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxzaG93U2VsZWN0ZWRGZWF0dXJlc1w+</entry>
@@ -25,6 +23,8 @@
         <entry>close</entry>
         <entry>closeable</entry>
         <entry>closable</entry>
+        <entry>map</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -122,18 +122,15 @@
         <mark key="]" line="300" column="0" />
         <mark key="." line="300" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/babel.config.js" timestamp="1592374293931">
+        <mark key="'" line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/package.json" timestamp="1592372118882">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="112" />
         <mark key="^" line="70" column="55" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/.yarnrc" timestamp="1592215336643">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" timestamp="1592304448614">
         <mark key="'" line="248" column="19" />
@@ -214,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1583" column="44" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1669" column="2" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1930" column="12" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1753" column="51" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1732" column="53" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1697" column="53" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -314,6 +308,9 @@
       <jump line="939" column="19" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="263" column="30" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2540" column="14" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="32" column="18" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/babel.config.js" />
+      <jump line="16" column="24" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/babel.config.js" />
+      <jump line="17" column="21" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/babel.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +325,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>closable</text>
+        <text>source</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgZmVhdHVyZXMsIGdlb0pzb25EYXRhIH0gPSBhd2FpdCB0aGlzLmdldEZlYXR1cmVBbmRnZW9Kc29uKHJlc3VsdFswXSwgMCkK</text>
@@ -370,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>closable</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>closable</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
