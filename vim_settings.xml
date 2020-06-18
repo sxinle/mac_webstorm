@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>buff</entry>
-        <entry>buffer</entry>
         <entry encoding="base64">XDxCdWZmZXJPcFw+</entry>
         <entry encoding="base64">XDxDaXJjbGVcPg==</entry>
         <entry>buffreed</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxHZW9tZXRyeUNvbGxlY3Rpb25cPg==</entry>
         <entry>Feature</entry>
         <entry>border</entry>
+        <entry encoding="base64">XDxzaG91bGRUb2dnbGVcPg==</entry>
+        <entry>msci</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -146,6 +146,9 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" timestamp="1592472372359">
+        <mark key="'" line="180" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/layer/Vector.js" timestamp="1592464168465">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="25" />
@@ -171,9 +174,6 @@
         <mark key="[" line="1337" column="0" />
         <mark key="]" line="1355" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/babel.config.js" timestamp="1592374293931">
-        <mark key="'" line="17" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" timestamp="1592457832358">
         <mark key="'" line="215" column="651" />
       </file>
@@ -195,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1259" column="39" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
-      <jump line="157" column="40" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="257" column="27" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
       <jump line="850" column="46" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
       <jump line="215" column="651" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
@@ -295,6 +293,8 @@
       <jump line="494" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="492" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="359" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
+      <jump line="185" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" />
+      <jump line="180" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +309,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>border</text>
+        <text>msci</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IEZlYXR1cmUgZnJvbSAnb2wvRmVhdHVyZSc7Cg==</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>border</last-search>
+      <last-search>msci</last-search>
       <last-offset />
-      <last-pattern>border</last-pattern>
+      <last-pattern>msci</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
