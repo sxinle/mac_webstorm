@@ -140,11 +140,12 @@
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592467938709">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592527135466">
+        <mark key="'" line="192" column="17" />
+        <mark key="[" line="350" column="0" />
+        <mark key="]" line="350" column="0" />
+        <mark key="^" line="231" column="4" />
+        <mark key="." line="350" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" timestamp="1592472372359">
         <mark key="'" line="180" column="10" />
@@ -195,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="27" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
-      <jump line="850" column="46" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
       <jump line="215" column="651" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
       <jump line="204" column="2" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="267" column="55" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -295,6 +294,8 @@
       <jump line="359" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="185" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" />
       <jump line="180" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/@terrestris/react-geo/dist/Button/ToggleButton/ToggleButton.js" />
+      <jump line="228" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="192" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,8 +303,8 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>0</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKjxCdXJzdFBpcGVJbmZvVGFibGUgbWFwPXt0aGlzLm1hcH0vPiovfQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -315,7 +316,7 @@
         <text encoding="base64">aW1wb3J0IEZlYXR1cmUgZnJvbSAnb2wvRmVhdHVyZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxCdXJzdFBpcGVJbmZvVGFibGUgbWFwPXt0aGlzLm1hcH0vPiovfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -324,25 +325,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldnQuZmVhdHVyZSwgJ1sgPT09PT0gZXZ0LmZlYXR1cmUgPT09PT0gXScpOwogICAgICAgIGNvbnNvbGUubG9nKGZlYXR1cmUsICdbID09PT09IGZlYXR1cmUgPT09PT0gXScpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsbDogbmV3IEZpbGwoeyBjb2xvcjogJ3JlZCcgfSksCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZlYXR1cmUgZnJvbSAnb2wvRmVhdHVyZSc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMucmVzZXRNb3VzZVN0eWxlKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlID09PSAnQ2lyY2xlJykgewogICAgICAgICAgZmVhdHVyZS5zZXRHZW9tZXRyeShmcm9tQ2lyY2xlKGZlYXR1cmUuZ2V0R2VvbWV0cnkoKSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG1hcC5hZGRJbnRlcmFjdGlvbihzZWxlY3RDbGljayk7CiAgICBzZWxlY3RDbGljay5vbignc2VsZWN0JywgZnVuY3Rpb24oZSkgewogICAgICBjb25zdCBsZW4gPSBlLnRhcmdldC5nZXRGZWF0dXJlcygpLmdldExlbmd0aCgpOwogICAgICBhbGVydChsZW4pOwogICAgfSk7CgogICAgbWFwLmdldFZpZXcoKS5zZXRDZW50ZXIoW2xvbmdpdHVkZSwgbGF0aXR1ZGVdKTsKICAgIG1hcC5nZXRWaWV3KCkuc2V0Wm9vbShtYXAuZ2V0VmlldygpLmdldE1heFpvb20oKSAvIDIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmZWF0dXJlID0gbmV3IEZlYXR1cmUoewogICAgICAgICAgZ2VvbWV0cnk6IGV2dC5mZWF0dXJlLmdldEdlb21ldHJ5KCksCiAgICAgICAgfSkKICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIGxldCB2ZWN0b3JTb3VyY2UgPSBuZXcgVmVjdG9yU291cmNlKHsKICAgICAgZmVhdHVyZXM6IGZlYXR1cmVzLAogICAgfSk7CgogICAgY29uc3QgeyB2ZWN0b3JMYXllciB9ID0gdGhpcy5zdGF0ZTsKICAgIGlmICghdmVjdG9yTGF5ZXIpIHsKICAgICAgbGV0IHZlY3RvckxheWVyID0gbmV3IG9sLmxheWVyLlZlY3Rvcih7CiAgICAgICAgc291cmNlOiB2ZWN0b3JTb3VyY2UsCiAgICAgIH0pOwogICAgICB2ZWN0b3JMYXllci5zZXRaSW5kZXgoMTAwKTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7IHZlY3RvckxheWVyIH0sICgpID0+IHsKICAgICAgICB0aGlzLnByb3BzLm1hcC5hZGRMYXllcih2ZWN0b3JMYXllcik7CiAgICAgIH0pOwogICAgfSBlbHNlIHsKICAgICAgdmVjdG9yTGF5ZXIuc2V0U291cmNlKHZlY3RvclNvdXJjZSk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEdlb21ldHJ5Q29sbGVjdGlvbiBmcm9tICdvbC9nZW9tL0dlb21ldHJ5Q29sbGVjdGlvbicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
