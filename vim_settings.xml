@@ -176,12 +176,12 @@
         <mark key="[" line="23" column="8" />
         <mark key="]" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592546772675">
-        <mark key="'" line="488" column="0" />
-        <mark key="[" line="488" column="0" />
-        <mark key="]" line="488" column="0" />
-        <mark key="." line="488" column="0" />
-        <mark key="^" line="490" column="94" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592547443805">
+        <mark key="'" line="478" column="25" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="470" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/index.js" timestamp="1592546136663">
         <mark key="[" line="29" column="0" />
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="7" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="33" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="34" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="38" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
@@ -307,6 +306,7 @@
       <jump line="467" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="470" column="70" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="488" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="498" column="25" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +315,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gdGhpcy5wcm9wczsKICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdpbmRleC9zZXRTcGluTG9hZGluZycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgc3BpbkxvYWRpbmc6IHRydWUsCiAgICAgICAgfSwKICAgICAgfSk7CiAgICB9LCAyMDAwKTsKCiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gdGhpcy5wcm9wczsKICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdpbmRleC9zZXRTcGluTG9hZGluZycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgc3BpbkxvYWRpbmc6IGZhbHNlLAogICAgICAgIH0sCiAgICAgIH0pOwogICAgfSwgNTAwMCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -327,34 +327,34 @@
         <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjb25zdCB7IGRpc3BhdGNoIH0gPSB0aGlzLnByb3BzOwogICAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogJ2luZGV4L3NldFNwaW5Mb2FkaW5nJywKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBzcGluTG9hZGluZzogdHJ1ZSwKICAgICAgICB9LAogICAgICB9KTsKICAgIH0sIDIwMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gdGhpcy5wcm9wczsKICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdpbmRleC9zZXRTcGluTG9hZGluZycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgc3BpbkxvYWRpbmc6IHRydWUsCiAgICAgICAgfSwKICAgICAgfSk7CiAgICB9LCAyMDAwKTsKCiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgY29uc3QgeyBkaXNwYXRjaCB9ID0gdGhpcy5wcm9wczsKICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdpbmRleC9zZXRTcGluTG9hZGluZycsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgc3BpbkxvYWRpbmc6IGZhbHNlLAogICAgICAgIH0sCiAgICAgIH0pOwogICAgfSwgNTAwMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHRoaXMucHJvcHMgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHRoaXMucHJvcHMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGF5bG9hZCwgJ1sgPT09PT0gcGF5bG9hZCA9PT09PSBdJyk7Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHRoaXMucHJvcHMgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvYWRpbmc6IHsKICAgICAgZ2xvYmFsOiBmYWxzZSwKICAgICAgbW9kZWxzOiB7CiAgICAgICAgYnVyc3RwaXBlOiB0cnVlLAogICAgICB9LAogICAgICBlZmZlY3RzOiB7CiAgICAgICAgJ2J1cnN0cGlwZS9kb0FuYWx5c2lzJzogZmFsc2UsCiAgICAgIH0sCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMsICdbID09PT09IHRoaXMucHJvcHMgPT09PT0gXScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
