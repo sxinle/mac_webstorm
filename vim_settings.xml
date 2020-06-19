@@ -176,17 +176,18 @@
         <mark key="[" line="23" column="8" />
         <mark key="]" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592535628264">
-        <mark key="'" line="467" column="34" />
-        <mark key="[" line="470" column="46" />
-        <mark key="]" line="470" column="61" />
-        <mark key="^" line="470" column="61" />
-        <mark key="." line="470" column="60" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592545639657">
+        <mark key="'" line="470" column="70" />
+        <mark key="[" line="153" column="7" />
+        <mark key="]" line="153" column="8" />
+        <mark key="^" line="150" column="28" />
+        <mark key="." line="153" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/index.js" timestamp="1592535179852">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/index.js" timestamp="1592545598437">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/ol/geom/Polygon.js" timestamp="1592467593941">
         <mark key="'" line="379" column="16" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="5" column="7" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="33" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
@@ -307,6 +307,7 @@
       <jump line="101" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="16" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/models/burstpipe.js" />
       <jump line="467" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="470" column="70" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,16 +316,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PEZpbHRlciB4bWxuczpvZ2M9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvb2djIiB4bWxuczpnbWw9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvZ21sIj48SW50ZXJzZWN0cz48UHJvcGVydHlOYW1lPmdlb208L1Byb3BlcnR5TmFtZT48Z21sOk11bHRpUG9seWdvbiBzcnNOYW1lPSJFUFNHOjIxNDgwIj48Z21sOnBvbHlnb25NZW1iZXI+PGdtbDpQb2x5Z29uPjxnbWw6b3V0ZXJCb3VuZGFyeUlzPjxnbWw6TGluZWFyUmluZz48Z21sOmNvb3JkaW5hdGVzIHhtbG5zOmdtbD0iaHR0cDovL3d3dy5vcGVuZ2lzLm5ldC9nbWwiIGRlY2ltYWw9Ii4iIGNzPSIsIiB0cz0iIj4xNTc3MTkuMzAwMzM0NDM0MDIsMTY1NTg2LjA0MDAyNjI0Njc0IDE1NzcxOS4zMDAzMzQ0MzQwMiwxNjMzNTAuMzcyNTM0MDc4NDMgMTYxNzEzLjM5MjE3Njc4NDQsMTYzMzUwLjM3MjUzNDA3ODQzIDE2MTcxMy4zOTIxNzY3ODQ0LDE2NTU4Ni4wNDAwMjYyNDY3NCAxNTc3MTkuMzAwMzM0NDM0MDIsMTY1NTg2LjA0MDAyNjI0Njc0PC9nbWw6Y29vcmRpbmF0ZXM+PC9nbWw6TGluZWFyUmluZz48L2dtbDpvdXRlckJvdW5kYXJ5SXM+PC9nbWw6UG9seWdvbj48L2dtbDpwb2x5Z29uTWVtYmVyPjwvZ21sOk11bHRpUG9seWdvbj48L0ludGVyc2VjdHM+PC9GaWx0ZXI+</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEZpbHRlciB4bWxuczpvZ2M9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvb2djIiB4bWxuczpnbWw9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvZ21sIj48SW50ZXJzZWN0cz48UHJvcGVydHlOYW1lPmdlb208L1Byb3BlcnR5TmFtZT48Z21sOk11bHRpUG9seWdvbiBzcnNOYW1lPSJFUFNHOjIxNDgwIj48Z21sOnBvbHlnb25NZW1iZXI+PGdtbDpQb2x5Z29uPjxnbWw6b3V0ZXJCb3VuZGFyeUlzPjxnbWw6TGluZWFyUmluZz48Z21sOmNvb3JkaW5hdGVzIHhtbG5zOmdtbD0iaHR0cDovL3d3dy5vcGVuZ2lzLm5ldC9nbWwiIGRlY2ltYWw9Ii4iIGNzPSIsIiB0cz0iIj4xNTc3MTkuMzAwMzM0NDM0MDIsMTY1NTg2LjA0MDAyNjI0Njc0IDE1NzcxOS4zMDAzMzQ0MzQwMiwxNjMzNTAuMzcyNTM0MDc4NDMgMTYxNzEzLjM5MjE3Njc4NDQsMTYzMzUwLjM3MjUzNDA3ODQzIDE2MTcxMy4zOTIxNzY3ODQ0LDE2NTU4Ni4wNDAwMjYyNDY3NCAxNTc3MTkuMzAwMzM0NDM0MDIsMTY1NTg2LjA0MDAyNjI0Njc0PC9nbWw6Y29vcmRpbmF0ZXM+PC9nbWw6TGluZWFyUmluZz48L2dtbDpvdXRlckJvdW5kYXJ5SXM+PC9nbWw6UG9seWdvbj48L2dtbDpwb2x5Z29uTWVtYmVyPjwvZ21sOk11bHRpUG9seWdvbj48L0ludGVyc2VjdHM+PC9GaWx0ZXI+</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2dnbGVJbmZvVGFibGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHx8IGxvYWRpbmcubW9kZWxzLmJ1cnN0cGlwZQo=</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjb25zdCB7IGRpc3BhdGNoIH0gPSB0aGlzLnByb3BzOwogICAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogJ2luZGV4L3NldFNwaW5Mb2FkaW5nJywKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBzcGluTG9hZGluZzogdHJ1ZSwKICAgICAgICB9LAogICAgICB9KTsKICAgIH0sIDIwMDApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
