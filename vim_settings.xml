@@ -12,7 +12,6 @@
         <entry encoding="base64">XDxwcm9qZWN0aW9uXD4=</entry>
         <entry>pagi</entry>
         <entry>loading</entry>
-        <entry>debugger</entry>
         <entry>filter</entry>
         <entry>if(true</entry>
         <entry>invalidRows</entry>
@@ -25,6 +24,7 @@
         <entry>doAna</entry>
         <entry>分析</entry>
         <entry>onSelect</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -137,9 +137,9 @@
         <mark key="." line="247" column="14" />
         <mark key="^" line="247" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592804779040">
+      <file name="/Dummy.txt" timestamp="1592815199382">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
@@ -174,13 +174,13 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592811926432">
-        <mark key="'" line="405" column="28" />
-        <mark key="w" line="448" column="100" />
-        <mark key="[" line="171" column="56" />
-        <mark key="]" line="171" column="56" />
-        <mark key="^" line="435" column="51" />
-        <mark key="." line="171" column="56" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592815278913">
+        <mark key="'" line="406" column="28" />
+        <mark key="w" line="449" column="100" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="^" line="230" column="12" />
+        <mark key="." line="228" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@terrestris/react-geo/dist/Button/SimpleButton/SimpleButton.js" timestamp="1592563107479">
         <mark key="'" line="106" column="31" />
@@ -310,20 +310,20 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text>o</text>
+      <register name="*" type="2">
+        <text>使用ol的filter对象，呼出属性面板</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>onSelect</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="4">
         <text>analyzeItem</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>使用ol的filter对象，呼出属性面板</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -332,25 +332,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbk1vdXNlRW50ZXI9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBob3ZlckludmFsaWRGZWF0dXJlSWQ6IGl0ZW0uaWQgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiBpdGVtLmlkID09PSBob3ZlckludmFsaWRGZWF0dXJlSWQgPyAnI0Q2RDZENicgOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRSb3dzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbk1vdXNlRW50ZXI9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBob3ZlckludmFsaWRGZWF0dXJlSWQ6IGl0ZW0uaWQgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiBpdGVtLmlkID09PSBob3ZlckludmFsaWRGZWF0dXJlSWQgPyAnI0Q2RDZENicgOiAndHJhbnNwYXJlbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb25zdCByb3dzID0gWwogICAgICB7IGdpZDogMSwgb2lkOiAnYScgfSwKICAgICAgeyBnaWQ6IDIsIG9pZDogJ2EnIH0sCiAgICAgIHsgZ2lkOiAzLCBvaWQ6ICdhJyB9LAogICAgICB7IGdpZDogNCwgb2lkOiAnYScgfSwKICAgICAgeyBnaWQ6IDUsIG9pZDogJ2EnIH0sCiAgICAgIHsgZ2lkOiA2LCBvaWQ6ICdhJyB9LAogICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -359,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onSelect</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>onSelect</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
