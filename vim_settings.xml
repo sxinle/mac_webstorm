@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRCdG5cPg==</entry>
         <entry>Did</entry>
         <entry>onSelect</entry>
         <entry encoding="base64">XDxzZWxlY3RlZEtleXNcPg==</entry>
@@ -23,8 +22,9 @@
         <entry encoding="base64">XDxzZXRTZWxlY3RlZExheWVyRGF0YVw+</entry>
         <entry encoding="base64">XDxsYXllckRhdGFcPg==</entry>
         <entry>bbox</entry>
-        <entry encoding="base64">XDxXRlNcPg==</entry>
         <entry>WFS()</entry>
+        <entry encoding="base64">XDxXRlNcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0R2V0RmVhdHVyZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/pages/Home/store/config.json" timestamp="1592557524069">
         <mark key="'" line="2784" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1592793990083">
-        <mark key="'" line="1742" column="31" />
-        <mark key="[" line="1739" column="0" />
-        <mark key="]" line="1739" column="0" />
-        <mark key="." line="1739" column="0" />
-        <mark key="^" line="1738" column="30" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" timestamp="1592795740404">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1753" column="47" />
+        <mark key="]" line="1753" column="50" />
+        <mark key="." line="1753" column="49" />
+        <mark key="^" line="1753" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Param/index.jsx" timestamp="1592558356486">
         <mark key="'" line="108" column="1" />
@@ -141,13 +141,6 @@
         <mark key="'" line="363" column="55" />
         <mark key="[" line="363" column="0" />
         <mark key="]" line="399" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1592553085539">
-        <mark key="'" line="1214" column="22" />
-        <mark key="[" line="1215" column="37" />
-        <mark key="]" line="1215" column="38" />
-        <mark key="." line="1215" column="37" />
-        <mark key="^" line="1215" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@terrestris/react-geo/package.json" timestamp="1592563185525">
         <mark key="[" line="71" column="5" />
@@ -182,16 +175,23 @@
         <mark key="[" line="225" column="8" />
         <mark key="]" line="225" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" timestamp="1592795224431">
+        <mark key="'" line="264" column="38" />
+        <mark key="[" line="257" column="17" />
+        <mark key="]" line="257" column="18" />
+        <mark key="." line="257" column="17" />
+        <mark key="^" line="257" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.less" timestamp="1592564609928">
         <mark key="[" line="96" column="5" />
         <mark key="]" line="99" column="17" />
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" timestamp="1592791656120">
-        <mark key="'" line="363" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="40" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" timestamp="1592795063561">
+        <mark key="'" line="221" column="37" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="55" />
         <mark key="^" line="505" column="57" />
         <mark key="." line="84" column="10" />
       </file>
@@ -203,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="30" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
-      <jump line="6" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
-      <jump line="185" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="177" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="28" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="813" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
@@ -292,7 +288,6 @@
       <jump line="1715" column="10" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1544" column="18" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="412" column="29" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/node_modules/ol/format/WFS.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="14" column="7" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1985" column="52" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1791" column="38" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -303,6 +298,11 @@
       <jump line="1602" column="34" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="2018" column="33" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1742" column="31" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="221" column="37" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
+      <jump line="1218" column="52" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="1744" column="2" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="2143" column="58" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,45 +311,43 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>https://openlayers.org/assets/theme</text>
+        <text>ows</text>
       </register>
       <register name="-" type="4">
-        <text>https://openlayers.org/assets/theme</text>
+        <text>ows</text>
       </register>
       <register name="/" type="4">
-        <text>WFS()</text>
+        <text encoding="base64">XDxyZXF1ZXN0R2V0RmVhdHVyZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>https://openlayers.org/assets/theme/site.css</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IHRoaXNNYXBTZXJ2ZXJVcmwucmVwbGFjZSgnd21zJywgJ3dmcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG90YWxVcmwgPSB0b3RhbFVybCArIGAmYmJveD0ke2V4dGVudFN0cn1gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIHRvdGFsVXJsID0gdG90YWxVcmwgKyBgJnNvcnRieT1maWQmc3RhcnRJbmRleD0ke3N0YXJ0SW5kZXh9Jm1heEZlYXR1cmVzPSR7bWF4RmVhdHVyZXN9YDsK</text>
-      </register>
-      <register name="4" type="4">
-        <text>{
-        
-    }</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGh0dHA6Ly8xOTIuMTY4LjExLjIwNzo4MDkxL2dlb3NlcnZlci9uYW5qaW5nL293cz9zZXJ2aWNlPVdGUyZ2ZXJzaW9uPTEuMC4wJnNvcnRieT1maWQmc3RhcnRJbmRleD01JnJlcXVlc3Q9R2V0RmVhdHVyZSZ0eXBlTmFtZT1uYW5qaW5nJTNBcGlwZWxpbmVhc3NlbWJseV92aWV3X2d5dHlxJm1heEZlYXR1cmVzPTEmb3V0cHV0Rm9ybWF0PWFwcGxpY2F0aW9uJTJGanNvbgogICAgY29uc3QgbmFtZUFyciA9IGNhcExheWVyLk5hbWUuc3BsaXQoJzonKTsKCiAgICBjb25zdCB1cmwgPSBjYXBMYXllci51cmwucmVwbGFjZSgnd21zJywgJ293cycpOwogICAgbGV0IHRvdGFsVXJsID0gYCR7dXJsfT9zZXJ2aWNlPVdGUyZ2ZXJzaW9uPTEuMC4wJnJlcXVlc3Q9R2V0RmVhdHVyZSZ0eXBlTmFtZT0ke25hbWVBcnJbMF19JTNBJHtuYW1lQXJyWzFdfSZvdXRwdXRGb3JtYXQ9YXBwbGljYXRpb24lMkZqc29uYDsKICAgIGNvbnN0IG1heEZlYXR1cmVzID0gNTA7CiAgICBpZiAoc3RhcnQgJiYgbnVsbCAhPSBzdGFydCAmJiAtMSAhPT0gc3RhcnQpIHsKICAgICAgY29uc3Qgc3RhcnRJbmRleCA9IHN0YXJ0ICogbWF4RmVhdHVyZXM7CiAgICAgIHRvdGFsVXJsID0gdG90YWxVcmwgKyBgJnNvcnRieT1maWQmc3RhcnRJbmRleD0ke3N0YXJ0SW5kZXh9Jm1heEZlYXR1cmVzPSR7bWF4RmVhdHVyZXN9YDsKICAgIH0KCiAgICBpZiAoZXh0ZW50KSB7CiAgICAgIGxldCBleHRlbnRTdHIgPSBleHRlbnQuam9pbignLCcpOwogICAgICB0b3RhbFVybCA9IHRvdGFsVXJsICsgYCZiYm94PSR7ZXh0ZW50U3RyfWA7CiAgICB9CiAgICBpZiAoZmlsdGVyWE1MU3RyKSB7CiAgICAgIHRvdGFsVXJsID0gdG90YWxVcmwgKyBgJkZpbHRlcj0ke2ZpbHRlclhNTFN0cn1gOwogICAgfQogICAgdGhpcy5zZXRTdGF0ZSh7bG9hZGluZzogdHJ1ZX0pOwogICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2godG90YWxVcmwsIHttZXRob2Q6ICdHRVQnfSk7CiAgICBjb25zdCBnZW9Kc29uRGF0YSA9IGF3YWl0IHJlcy5qc29uKCk7CiAgICBjb25zdCBmZWF0dXJlcyA9IG5ldyBHZW9KU09OKCkucmVhZEZlYXR1cmVzKGdlb0pzb25EYXRhKTsKICAgIHRoaXMuc2V0U3RhdGUoe2xvYWRpbmc6IGZhbHNlfSk7CiAgICByZXR1cm4ge2ZlYXR1cmVzLCBnZW9Kc29uRGF0YX07Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgIH0pCiAgICAudGhlbihhc3luYyByZXMgPT4gewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gc3JzTmFtZTogY29kZSwKICAgICAgLy8gZmVhdHVyZU5TOiAnaHR0cDovL3d3dy5zaGFuZ3l1YW50ZWNoLmNvbScsCiAgICAgIGZlYXR1cmVQcmVmaXg6IG5hbWVBcnJbMF0sCiAgICAgIGZlYXR1cmVUeXBlczogW25hbWVBcnJbMV1dLAogICAgICBvdXRwdXRGb3JtYXQ6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgbWF4RmVhdHVyZXM6IDUwLAogICAgICBmaWx0ZXIsCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlcy5qc29uKCk7CiAgICB9KQogICAgLnRoZW4oYXN5bmMgcmVzID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxheWVyRGF0YSA9IHsKICAgICAgbmFtZTogdGlsZWRMYXllciwKICAgICAgZmVhdHVyZXM6IFtdLAogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkYXRhID0gbmV3IEdlb0pTT04oKS5yZWFkRmVhdHVyZXMocmVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZ2VvSnNvbkRhdGEgPSBhd2FpdCByZXMuanNvbigpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,13 +359,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>WFS()</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0R2V0RmVhdHVyZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>WFS()</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0R2V0RmVhdHVyZXNcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
