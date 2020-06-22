@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWZmZXJcPg==</entry>
         <entry>value</entry>
         <entry>just</entry>
         <entry encoding="base64">XDxyZXF1ZXN0R2V0RmVhdHVyZXNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxob3ZlckZlYXR1cmVJZFw+</entry>
         <entry encoding="base64">XDxob3ZlckludmFsaWRGZWF0dXJlSWRcPg==</entry>
         <entry>doAna</entry>
+        <entry>分析</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -173,12 +173,13 @@
         <mark key="^" line="51" column="24" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592811151636">
-        <mark key="'" line="277" column="74" />
-        <mark key="[" line="186" column="16" />
-        <mark key="]" line="186" column="19" />
-        <mark key="^" line="186" column="19" />
-        <mark key="." line="186" column="18" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592811823479">
+        <mark key="'" line="405" column="28" />
+        <mark key="w" line="448" column="100" />
+        <mark key="[" line="435" column="49" />
+        <mark key="]" line="435" column="51" />
+        <mark key="^" line="435" column="51" />
+        <mark key="." line="435" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@terrestris/react-geo/dist/Button/SimpleButton/SimpleButton.js" timestamp="1592563107479">
         <mark key="'" line="106" column="31" />
@@ -201,10 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="7" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1985" column="52" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1791" column="38" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
-      <jump line="1788" column="67" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1765" column="35" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1761" column="64" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="1628" column="2" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
@@ -301,6 +298,10 @@
       <jump line="437" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="38" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="263" column="74" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="177" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="354" column="13" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="402" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="405" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,14 +309,14 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="*" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW52YWxpZElkcyA9IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>doAna</text>
+        <text>分析</text>
       </register>
       <register name="0" type="4">
         <text>analyzeItem</text>
@@ -357,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>doAna</last-search>
+      <last-search>分析</last-search>
       <last-offset />
-      <last-pattern>doAna</last-pattern>
+      <last-pattern>分析</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
