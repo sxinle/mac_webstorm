@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxzZXRTdGF0ZUZ1bmNcPg==</entry>
         <entry>outerFilter</entry>
         <entry encoding="base64">XDxXcmFwcGVkQ29tcG9uZW50XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>debugger</entry>
         <entry>filter</entry>
         <entry>if(true</entry>
+        <entry>invalidRows</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -173,12 +173,12 @@
       <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/pages/Home/store/actionCreators.js" timestamp="1592557517000">
         <mark key="'" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592564728083">
-        <mark key="'" line="423" column="17" />
-        <mark key="[" line="445" column="0" />
-        <mark key="]" line="445" column="0" />
-        <mark key="." line="445" column="0" />
-        <mark key="^" line="424" column="59" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" timestamp="1592808463253">
+        <mark key="'" line="407" column="11" />
+        <mark key="[" line="409" column="26" />
+        <mark key="]" line="409" column="31" />
+        <mark key="." line="409" column="30" />
+        <mark key="^" line="409" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@terrestris/react-geo/dist/Button/SimpleButton/SimpleButton.js" timestamp="1592563107479">
         <mark key="'" line="106" column="31" />
@@ -203,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="31" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
-      <jump line="2668" column="84" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="215" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="319" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
       <jump line="217" column="13" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
@@ -303,6 +301,8 @@
       <jump line="920" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="492" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="5" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
+      <jump line="374" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
+      <jump line="407" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/burstpipe/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,16 +311,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>看</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>看</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>if(true</text>
+        <text>invalidRows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2xvYWRpbmc6IHRydWV9KTsK</text>
+        <text encoding="base64">ICAgICAgeyBnaWQ6IDEsIG9pZDogJ2EnLCB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgZmlsdGVyWG1sID0gJzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+XG4nICsKICAnXG4nICsKICAnPEdldEZlYXR1cmUgeG1sbnM9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvd2ZzIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiBzZXJ2aWNlPSJXRlMiIHZlcnNpb249IjEuMS4wIiBvdXRwdXRGb3JtYXQ9ImFwcGxpY2F0aW9uL2pzb24iIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5vcGVuZ2lzLm5ldC93ZnMgaHR0cDovL3NjaGVtYXMub3Blbmdpcy5uZXQvd2ZzLzEuMS4wL3dmcy54c2QiPlxuJyArCiAgJyAgPFF1ZXJ5IHhtbG5zOm5hbmppbmc9Imh0dHA6Ly93d3cuc2hhbmd5dWFudGVjaC5jb20iIHR5cGVOYW1lPSJuYW5qaW5nOnBpcGVsaW5lYXNzZW1ibHlfdmlld19xeSIgc3JzTmFtZT0iRVBTRzoyMTQ4MCI+XG4nICsKICAnICAgIDxGaWx0ZXIgeG1sbnM9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvb2djIj5cbicgKwogICcgICAgICA8QW5kPlxuJyArCiAgJyAgICAgICAgPE9yPlxuJyArCiAgJyAgICAgICAgICA8UHJvcGVydHlJc0VxdWFsVG8+XG4nICsKICAnICAgICAgICAgICAgPFByb3BlcnR5TmFtZT5kaWFtZXRlcjwvUHJvcGVydHlOYW1lPlxuJyArCiAgJyAgICAgICAgICAgIDxMaXRlcmFsPjI1PC9MaXRlcmFsPlxuJyArCiAgJyAgICAgICAgICA8L1Byb3BlcnR5SXNFcXVhbFRvPlxuJyArCiAgJyAgICAgICAgICA8UHJvcGVydHlJc0VxdWFsVG8+XG4nICsKICAnICAgICAgICAgICAgPFByb3BlcnR5TmFtZT5kaWFtZXRlcjwvUHJvcGVydHlOYW1lPlxuJyArCiAgJyAgICAgICAgICAgIDxMaXRlcmFsPjQwPC9MaXRlcmFsPlxuJyArCiAgJyAgICAgICAgICA8L1Byb3BlcnR5SXNFcXVhbFRvPlxuJyArCiAgJyAgICAgICAgPC9Pcj5cbicgKwogICcgICAgICAgIDxPcj5cbicgKwogICcgICAgICAgICAgPEludGVyc2VjdHM+XG4nICsKICAnICAgICAgICAgICAgPFByb3BlcnR5TmFtZT5nZW9tPC9Qcm9wZXJ0eU5hbWU+XG4nICsKICAnICAgICAgICAgICAgPFBvbHlnb24geG1sbnM9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvZ21sIj5cbicgKwogICcgICAgICAgICAgICAgIDxleHRlcmlvcj5cbicgKwogICcgICAgICAgICAgICAgICAgPExpbmVhclJpbmc+XG4nICsKICAnICAgICAgICAgICAgICAgICAgPHBvc0xpc3Qgc3JzRGltZW5zaW9uPSIyIj4xMjM2MjYuODA5NzUzNjE5NTQgMTUzMDk0LjgzNzQzOTY3NDg4IDEyMzYyNi44MDk3NTM2MTk1NCAxNDc2NzAuODY4MjU4NDAzMTggMTM3NzgyLjA0NjM5NzQyNjE3IDE0NzY3MC44NjgyNTg0MDMxOCAxMzc3ODIuMDQ2Mzk3NDI2MTcgMTUzMDk0LjgzNzQzOTY3NDg4IDEyMzYyNi44MDk3NTM2MTk1NCAxNTMwOTQuODM3NDM5Njc0ODg8L3Bvc0xpc3Q+XG4nICsKICAnICAgICAgICAgICAgICAgIDwvTGluZWFyUmluZz5cbicgKwogICcgICAgICAgICAgICAgIDwvZXh0ZXJpb3I+XG4nICsKICAnICAgICAgICAgICAgPC9Qb2x5Z29uPlxuJyArCiAgJyAgICAgICAgICA8L0ludGVyc2VjdHM+XG4nICsKICAnICAgICAgICAgIDxJbnRlcnNlY3RzPlxuJyArCiAgJyAgICAgICAgICAgIDxQcm9wZXJ0eU5hbWU+Z2VvbTwvUHJvcGVydHlOYW1lPlxuJyArCiAgJyAgICAgICAgICAgIDxQb2x5Z29uIHhtbG5zPSJodHRwOi8vd3d3Lm9wZW5naXMubmV0L2dtbCI+XG4nICsKICAnICAgICAgICAgICAgICA8ZXh0ZXJpb3I+XG4nICsKICAnICAgICAgICAgICAgICAgIDxMaW5lYXJSaW5nPlxuJyArCiAgJyAgICAgICAgICAgICAgICAgIDxwb3NMaXN0IHNyc0RpbWVuc2lvbj0iMiI+MTIwMzg1LjY1NzQzNzk4MTU3IDE0NDk1OC44ODM2Njc3NjczNCAxMjAzODUuNjU3NDM3OTgxNTcgMTM5MzM2LjQ3NjU4OTYxOTg1IDEzMzI4NC4xMjA3MzQ5MDgxNSAxMzkzMzYuNDc2NTg5NjE5ODUgMTMzMjg0LjEyMDczNDkwODE1IDE0NDk1OC44ODM2Njc3NjczNCAxMjAzODUuNjU3NDM3OTgxNTcgMTQ0OTU4Ljg4MzY2Nzc2NzM0PC9wb3NMaXN0PlxuJyArCiAgJyAgICAgICAgICAgICAgICA8L0xpbmVhclJpbmc+XG4nICsKICAnICAgICAgICAgICAgICA8L2V4dGVyaW9yPlxuJyArCiAgJyAgICAgICAgICAgIDwvUG9seWdvbj5cbicgKwogICcgICAgICAgICAgPC9JbnRlcnNlY3RzPlxuJyArCiAgJyAgICAgICAgPC9Pcj5cbicgKwogICcgICAgICA8L0FuZD5cbicgKwogICcgICAgPC9GaWx0ZXI+XG4nICsKICAnICA8L1F1ZXJ5PlxuJyArCiAgJzwvR2V0RmVhdHVyZT4nOwo=</text>
@@ -359,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>if(true</last-search>
+      <last-search>invalidRows</last-search>
       <last-offset />
-      <last-pattern>if(true</last-pattern>
+      <last-pattern>invalidRows</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
