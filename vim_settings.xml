@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3N0UXVlcnlGZWF0dXJlXD4=</entry>
-        <entry encoding="base64">XDxwcm9qZWN0aW9uXD4=</entry>
         <entry>pagi</entry>
         <entry>loading</entry>
         <entry>filter</entry>
@@ -25,6 +23,8 @@
         <entry>缓冲区</entry>
         <entry encoding="base64">XDxsb2NhbGVcPg==</entry>
         <entry>antd</entry>
+        <entry encoding="base64">XDxCYXNpY0NvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxzcWxRdWVyeU1vZGFsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -195,8 +195,8 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592884226498">
-        <mark key="'" line="104" column="13" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592890288488">
+        <mark key="'" line="61" column="6" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="111" column="20" />
@@ -214,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="21" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
-      <jump line="857" column="30" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/propsDemo/index.jsx" />
-      <jump line="352" column="3" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
-      <jump line="242" column="33" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
-      <jump line="1046" column="25" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
-      <jump line="295" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
-      <jump line="313" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="293" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="618" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="636" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
@@ -314,6 +307,13 @@
       <jump line="210" column="29" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
       <jump line="3011" column="0" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/PropertiesList/index.js" />
+      <jump line="2" column="25" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="74" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="78" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="99" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="105" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="109" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +328,7 @@
         <text>config</text>
       </register>
       <register name="/" type="4">
-        <text>antd</text>
+        <text encoding="base64">XDxzcWxRdWVyeU1vZGFsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>--max-old-space-size=8192</text>
@@ -370,9 +370,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>antd</last-search>
+      <last-search encoding="base64">XDxzcWxRdWVyeU1vZGFsXD4=</last-search>
       <last-offset />
-      <last-pattern>antd</last-pattern>
+      <last-pattern encoding="base64">XDxzcWxRdWVyeU1vZGFsXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
