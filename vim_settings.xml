@@ -195,12 +195,12 @@
         <mark key="^" line="230" column="12" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592891561610">
-        <mark key="'" line="61" column="6" />
-        <mark key="[" line="64" column="21" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592894173862">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="64" column="11" />
         <mark key="]" line="64" column="22" />
-        <mark key="^" line="64" column="22" />
-        <mark key="." line="64" column="21" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="64" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/config/themePluginConfig.js" timestamp="1592810015358">
         <mark key="[" line="7" column="27" />
@@ -214,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
-      <jump line="618" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
-      <jump line="636" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="655" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="674" column="30" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
       <jump line="4" column="60" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/space/index.jsx" />
@@ -314,6 +311,9 @@
       <jump line="105" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="109" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="61" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="58" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="125" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,16 +322,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>.conjunctions,</text>
+        <text>AntdConfig</text>
       </register>
       <register name="-" type="4">
-        <text>.conjunctions,</text>
+        <text>AntdConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcWxRdWVyeU1vZGFsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>--max-old-space-size=8192</text>
+        <text>BasicConfig</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IEFudGRDb25maWcgZnJvbSAncmVhY3QtYXdlc29tZS1xdWVyeS1idWlsZGVyL2NvbmZpZy9hbnRkJzsK</text>
