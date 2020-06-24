@@ -158,9 +158,9 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" timestamp="1592970814956">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="55" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" timestamp="1592971137506">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="71" />
         <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/package.json" timestamp="1592967118962">
@@ -197,8 +197,8 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="61" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592970191797">
-        <mark key="'" line="131" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592971131911">
+        <mark key="'" line="124" column="25" />
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
         <mark key="^" line="132" column="17" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="524" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="87" column="11" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
@@ -306,6 +305,7 @@
       <jump line="359" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="529" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="124" column="25" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,8 +313,8 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">ICAtLW1heC1vbGQtc3BhY2Utc2l6ZT04MTky</text>
+      <register name="*" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhvc3RJcCA9CiAgcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXZlbG9wbWVudCcKICAgID8gJ2h0dHA6Ly9sb2NhbGhvc3Q6NzAxMi93ZWJnaXMtYXBpJwogICAgOiAnaHR0cDovL3dlYmdpcy1hcGktYmFja2VuZC1zY2l0eS5hcHBzLnp6LnN5cGVzY28uY29tL3dlYmdpcy1hcGknOwoKZXhwb3J0IGNvbnN0IHBlcm1pdENlbnRlcklwID0KICBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ2RldmVsb3BtZW50JwogICAgPyAnaHR0cDovL2xvY2FsaG9zdDo3MDEwL3Blcm1pdC1jZW50ZXInCiAgICA6ICdodHRwOi8vcGVybWl0LWNlbnRlci1iYWNrZW5kLmFwcHMuenouc3lwZXNjby5jb20vcGVybWl0LWNlbnRlcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAtLW1heC1vbGQtc3BhY2Utc2l6ZT04MTky</text>
@@ -323,7 +323,7 @@
         <text>Window</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDogJ2h0dHA6Ly93ZWJnaXMtYXBpLWJhY2tlbmQtc2NpdHkuYXBwcy56ei5zeXBlc2NvLmNvbS93ZWJnaXMtYXBpJzsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhvc3RJcCA9CiAgcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXZlbG9wbWVudCcKICAgID8gJ2h0dHA6Ly9sb2NhbGhvc3Q6NzAxMi93ZWJnaXMtYXBpJwogICAgOiAnaHR0cDovL3dlYmdpcy1hcGktYmFja2VuZC1zY2l0eS5hcHBzLnp6LnN5cGVzY28uY29tL3dlYmdpcy1hcGknOwoKZXhwb3J0IGNvbnN0IHBlcm1pdENlbnRlcklwID0KICBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ2RldmVsb3BtZW50JwogICAgPyAnaHR0cDovL2xvY2FsaG9zdDo3MDEwL3Blcm1pdC1jZW50ZXInCiAgICA6ICdodHRwOi8vcGVybWl0LWNlbnRlci1iYWNrZW5kLmFwcHMuenouc3lwZXNjby5jb20vcGVybWl0LWNlbnRlcic7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
