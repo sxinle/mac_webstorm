@@ -117,11 +117,6 @@
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/node_modules/antd/lib/button/button.d.ts" timestamp="1592960411393">
         <mark key="'" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/examples/node_modules/antd/package.json" timestamp="1592959126507">
-        <mark key="'" line="56" column="17" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="40" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/.npmrc" timestamp="1592965493185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -142,12 +137,10 @@
         <mark key="^" line="53" column="67" />
         <mark key="." line="53" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592968636891">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="75" column="37" />
-        <mark key="]" line="75" column="38" />
-        <mark key="." line="75" column="37" />
-        <mark key="^" line="75" column="38" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/package.json" timestamp="1592970938683">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/custom.css" timestamp="1592962283613">
         <mark key="[" line="6" column="27" />
@@ -165,6 +158,11 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" timestamp="1592970814956">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/package.json" timestamp="1592967118962">
         <mark key="'" line="13" column="15" />
         <mark key="[" line="16" column="0" />
@@ -173,23 +171,21 @@
         <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/components/PageLoading/index.jsx" timestamp="1592964882190" />
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1592959914180">
-        <mark key="'" line="72" column="26" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" timestamp="1592969486018">
         <mark key="'" line="359" column="32" />
         <mark key="[" line="357" column="0" />
         <mark key="]" line="377" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592970521820">
+      <file name="/Dummy.txt" timestamp="1592970838497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/.npmignore" timestamp="1592965478438" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1592970902485">
+        <mark key="'" line="529" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/.npmrc" timestamp="1592966187610">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="33" />
@@ -210,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="31" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/config/config.js" />
       <jump line="524" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
@@ -310,6 +305,7 @@
       <jump line="42" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="359" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="529" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,16 +314,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text>http://10.3.101.190:8082</text>
+        <text encoding="base64">ICAtLW1heC1vbGQtc3BhY2Utc2l6ZT04MTky</text>
       </register>
       <register name="-" type="4">
-        <text>http://10.3.101.190:8082</text>
+        <text encoding="base64">ICAtLW1heC1vbGQtc3BhY2Utc2l6ZT04MTky</text>
       </register>
       <register name="/" type="4">
         <text>Window</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDogJ2h0dHA6Ly9wZXJtaXQtY2VudGVyLWJhY2tlbmQuYXBwcy56ei5zeXBlc2NvLmNvbS9wZXJtaXQtY2VudGVyJzsK</text>
+        <text encoding="base64">ICAgIDogJ2h0dHA6Ly93ZWJnaXMtYXBpLWJhY2tlbmQtc2NpdHkuYXBwcy56ei5zeXBlc2NvLmNvbS93ZWJnaXMtYXBpJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
