@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTUUxUcmVlXD4=</entry>
         <entry>width</entry>
         <entry>height</entry>
         <entry>version</entry>
@@ -25,6 +24,7 @@
         <entry>sql</entry>
         <entry>pre</entry>
         <entry>publish</entry>
+        <entry>Window</entry>
       </history-search>
       <history-cmd>
         <entry>vsp n.js</entry>
@@ -175,8 +175,10 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/package-lock.json" timestamp="1592908864283">
-        <mark key="'" line="1806" column="5" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" timestamp="1592969459145">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="377" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/.npmignore" timestamp="1592965478438" />
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/.npmrc" timestamp="1592966187610">
@@ -190,10 +192,10 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="61" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592967755280">
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" timestamp="1592969395878">
         <mark key="'" line="106" column="39" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="69" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="25" />
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="0" />
       </file>
@@ -202,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="56" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="1" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="8" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
@@ -302,6 +303,7 @@
       <jump line="13" column="15" filename="$USER_HOME$/workspace/shangyuan/react-awesome-query-builder/package.json" />
       <jump line="66" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
       <jump line="106" column="39" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.jsx" />
+      <jump line="42" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,16 +312,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IEFudGRDb25maWcgZnJvbSAncmVhY3QtYXdlc29tZS1xdWVyeS1idWlsZGVyL2xpYi9jb25maWcvYW50ZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFdpbmRvdwogICAgICAgICAgICAgIHJlc2l6ZU9wdHM9e2ZhbHNlfQogICAgICAgICAgICAgIGNvbGxhcHNpYmxlPXtmYWxzZX0KICAgICAgICAgICAgICBwYXJlbnRJZD17Yy5jb250YWluZXJJZH0KICAgICAgICAgICAgICB0aXRsZT0i6Z2i5p2/IgogICAgICAgICAgICAgIHg9e3dlYmdpc1dILncgLyA1fQogICAgICAgICAgICAgIHk9e3dlYmdpc1dILmggLyA1fQogICAgICAgICAgICAgIHdpZHRoPXszMDB9CiAgICAgICAgICAgICAgaGVpZ2h0PXsyMDB9CiAgICAgICAgICAgICAgdG9vbHM9e1sKICAgICAgICAgICAgICAgIDxTaW1wbGVCdXR0b24KICAgICAgICAgICAgICAgICAga2V5PSJjbG9zZUJ1dHRvbiIKICAgICAgICAgICAgICAgICAgaWNvbj0iY2xvc2UiCiAgICAgICAgICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgICAgICAgICB0b29sdGlwPSLlhbPpl60iCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcGlja1VwTW9kYWxTaG93OiBmYWxzZSB9KTsKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIC8+LAogICAgICAgICAgICAgIF19CiAgICAgICAgICAgID4K</text>
       </register>
       <register name="-" type="4">
         <text>@/components/SQLQuery</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text>Window</text>
       </register>
-      <register name="0" type="4">
-        <text>react-awesome-query-builder</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFdpbmRvdwogICAgICAgICAgICAgIHJlc2l6ZU9wdHM9e2ZhbHNlfQogICAgICAgICAgICAgIGNvbGxhcHNpYmxlPXtmYWxzZX0KICAgICAgICAgICAgICBwYXJlbnRJZD17Yy5jb250YWluZXJJZH0KICAgICAgICAgICAgICB0aXRsZT0i6Z2i5p2/IgogICAgICAgICAgICAgIHg9e3dlYmdpc1dILncgLyA1fQogICAgICAgICAgICAgIHk9e3dlYmdpc1dILmggLyA1fQogICAgICAgICAgICAgIHdpZHRoPXszMDB9CiAgICAgICAgICAgICAgaGVpZ2h0PXsyMDB9CiAgICAgICAgICAgICAgdG9vbHM9e1sKICAgICAgICAgICAgICAgIDxTaW1wbGVCdXR0b24KICAgICAgICAgICAgICAgICAga2V5PSJjbG9zZUJ1dHRvbiIKICAgICAgICAgICAgICAgICAgaWNvbj0iY2xvc2UiCiAgICAgICAgICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgICAgICAgICB0b29sdGlwPSLlhbPpl60iCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcGlja1VwTW9kYWxTaG93OiBmYWxzZSB9KTsKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIC8+LAogICAgICAgICAgICAgIF19CiAgICAgICAgICAgID4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IEFudGRDb25maWcgZnJvbSAncmVhY3QtYXdlc29tZS1xdWVyeS1idWlsZGVyL2xpYi9jb25maWcvYW50ZCc7Cg==</text>
@@ -358,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>publish</last-search>
+      <last-search>Window</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern>Window</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
