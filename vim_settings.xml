@@ -5,17 +5,11 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>merge</entry>
-        <entry encoding="base64">XDxtZXJnZVw+</entry>
-        <entry encoding="base64">XDxwcm94aW1pdHlcPg==</entry>
-        <entry>theme</entry>
-        <entry encoding="base64">XDx0aGVtZVw+</entry>
         <entry encoding="base64">XDxDb25maWdQcm92aWRlclw+</entry>
         <entry>locale</entry>
         <entry>render</entry>
         <entry>className</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
-        <entry encoding="base64">XDxwcmVmaXhDbHNcPg==</entry>
         <entry>ant-</entry>
         <entry>ant-pro</entry>
         <entry>menuHeader</entry>
@@ -25,6 +19,12 @@
         <entry>.ant-layout-content</entry>
         <entry>ant-pro-basicLayout-has-header</entry>
         <entry>ConfigPro</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry>error</entry>
+        <entry encoding="base64">XDxwcmVmaXhDbHNcPg==</entry>
+        <entry>.ant</entry>
+        <entry>ant</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2hvbWUvb3JkZXIvZw==</entry>
@@ -104,15 +104,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" timestamp="1593568169411">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" timestamp="1593572372160">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="41" />
-        <mark key="." line="61" column="40" />
-        <mark key="^" line="61" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/build/ants.63add1b1.chunk.css" timestamp="1593566544846">
-        <mark key="'" line="0" column="73891" />
+        <mark key="[" line="61" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BlankLayout.jsx" timestamp="1593568245552">
         <mark key="[" line="0" column="0" />
@@ -126,17 +120,21 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" timestamp="1593565975286">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/lib/notification/index.d.ts" timestamp="1593569845334">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BasicLayout.less" timestamp="1593568227985">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="81" column="1" />
         <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/global.less" timestamp="1593569588522">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/pages/LayerManage.jsx" timestamp="1593567565449">
         <mark key="'" line="21" column="53" />
@@ -151,95 +149,83 @@
         <mark key="." line="20" column="40" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/build/ants.d43d7081.async.js" timestamp="1593566557314">
-        <mark key="'" line="0" column="2285522" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.less" timestamp="1593570271248">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="4" column="5" />
+        <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1593568191570">
-        <mark key="'" line="42" column="26" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1593570799984">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BasicLayout.jsx" timestamp="1593565618726">
-        <mark key="'" line="41" column="83" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="41" column="47" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/config/config.js" timestamp="1593570797280">
+        <mark key="'" line="42" column="27" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/portal/index.jsx" timestamp="1593566377628">
-        <mark key="'" line="5" column="39" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="5" column="40" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BasicLayout.jsx" timestamp="1593569805892">
+        <mark key="'" line="46" column="83" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" timestamp="1593568216903">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="23" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="39" column="44" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" timestamp="1593572393222">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/pages/DealPointData.jsx" timestamp="1593567574011">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/pages/DealPointData.jsx" timestamp="1593569797344">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="290" column="9" />
         <mark key="^" line="285" column="0" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/@ant-design/pro-layout/lib/BasicLayout.js" timestamp="1593564940778">
-        <mark key="'" line="118" column="40" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" timestamp="1593570487185">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.less" timestamp="1593568230155">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.less" timestamp="1593569565804">
+        <mark key="'" line="78" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="81" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/request.js" timestamp="1593569913007">
+        <mark key="'" line="6" column="24" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="15" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1593567395450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.less" timestamp="1593563792790">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="40" column="11" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/request.js" timestamp="1593572413196">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1593566914579">
-        <mark key="'" line="503" column="35" />
-        <mark key="[" line="668" column="13" />
-        <mark key="]" line="669" column="23" />
-        <mark key="." line="669" column="22" />
-        <mark key="^" line="669" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/layouts/BasicLayout.less" timestamp="1593567383712">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="81" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" timestamp="1593570237356">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="32" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.less" />
-      <jump line="25" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/sql/index.less" />
-      <jump line="22" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
-      <jump line="43" column="3" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
-      <jump line="63" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
-      <jump line="12" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
-      <jump line="16" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" />
-      <jump line="131" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="35" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="39" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="43" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="53" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="57" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="67" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="73" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="79" column="62" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="83" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
-      <jump line="87" column="34" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
       <jump line="91" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
       <jump line="95" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
       <jump line="103" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/annex/upload/index.less" />
@@ -322,6 +308,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BlankLayout.jsx" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BlankLayout.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BlankLayout.jsx" />
+      <jump line="5" column="10" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.less" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.less" />
+      <jump line="75" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
+      <jump line="7" column="7" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/request.js" />
+      <jump line="29" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/request.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/request.js" />
+      <jump line="6" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/request.js" />
+      <jump line="5" column="14" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="24" column="21" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="32" column="21" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="0" column="10" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="4" column="21" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="9" column="25" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="15" column="23" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="20" column="21" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Config/index.less" />
+      <jump line="0" column="10" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.less" />
+      <jump line="40" column="4" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/request.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,47 +333,47 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKCjxDb25maWdQcm92aWRlciBwcmVmaXhDbHM9e3ByZWZpeENsc30+CiAge2NoaWxkcmVufQo8L0NvbmZpZ1Byb3ZpZGVyPjsKCmV4cG9ydCBkZWZhdWx0IExheW91dDsK</text>
+      <register name="*" type="4">
+        <text>notify</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9Db25maWdQcm92aWRlcj4=</text>
+        <text>notify</text>
       </register>
       <register name="/" type="4">
-        <text>ConfigPro</text>
+        <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgQ29uZmlnUHJvdmlkZXIgfSBmcm9tICdhbnRkJzsKaW1wb3J0IHsgcHJlZml4Q2xzIH0gZnJvbSAnQC91dGlscy91dGlscyc7Cgpjb25zdCBMYXlvdXQgPSAoeyBjaGlsZHJlbiB9KSA9PgogIDxDb25maWdQcm92aWRlciBwcmVmaXhDbHM9e3ByZWZpeENsc30+CiAgICB7Y2hpbGRyZW59CiAgPC9Db25maWdQcm92aWRlcj47CgpleHBvcnQgZGVmYXVsdCBMYXlvdXQ7Cg==</text>
+      <register name="0" type="4">
+        <text>notify</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKCjxDb25maWdQcm92aWRlciBwcmVmaXhDbHM9e3ByZWZpeENsc30+CiAge2NoaWxkcmVufQo8L0NvbmZpZ1Byb3ZpZGVyPjsKCmV4cG9ydCBkZWZhdWx0IExheW91dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgTGF5b3V0ID0gKHsgY2hpbGRyZW4gfSkgPT4gPD57Y2hpbGRyZW59PC8+Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6IGN1c3RvbTsKICBzcmM6IHVybCgnLi4vYXNzZXRzL2ZvbnRzL2N1c3RvbS50dGYnKTsKfQoKOmdsb2JhbCB7CiAgLmFudC1wcm8tdG9wLW5hdi1oZWFkZXItbG9nbyBoMSB7CiAgICBtYXJnaW46IDA7CiAgICBmb250LXdlaWdodDogOTAwOwogICAgZm9udC1zaXplOiAyMHB4OwogICAgZm9udC1mYW1pbHk6IGN1c3RvbTsKICAgIGZvbnQtc3R5bGU6IG9ibGlxdWU7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBbbm90aWZ5LCBob2xkZXJdID0gbm90aWZpY2F0aW9uLnVzZU5vdGlmaWNhdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Pgo=</text>
+        <text encoding="base64">ICBjb25zdCBbbW9kYWwsIG1vZGFsQ29udGV4dF0gPSBNb2RhbC51c2VNb2RhbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobm9kZSkgewogICAgICAgICAgcmV0dXJuIG5vZGUucGFyZW50Tm9kZTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRvY3VtZW50LmJvZHk7CiAgICAgIH19Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPENvbmZpZ1Byb3ZpZGVyIHByZWZpeENscz0nZi11cGRtLW1hbmFnZS1hbnQnIGdldFBvcHVwQ29udGFpbmVyPXtub2RlID0+IHsK</text>
+        <text encoding="base64">Y29uc3QgW25vdGlmeSwgY29udGV4dEhvbGRlcl0gPSBub3RpZmljYXRpb24udXNlTm90aWZpY2F0aW9uKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPENvbmZpZ1Byb3ZpZGVyIHByZWZpeENscz0nZi11cGRtLW1hbmFnZS1hbnQnPgo=</text>
+        <text encoding="base64">Y29uc3QgW25vdGlmeSwgY29udGV4dEhvbGRlcl0gPSBub3RpZmljYXRpb24udXNlTm90aWZpY2F0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6IGN1c3RvbTsKICBzcmM6IHVybCgnLi4vYXNzZXRzL2ZvbnRzL2N1c3RvbS50dGYnKTsKfQoKOmdsb2JhbCB7CiAgLmFudC1wcm8tdG9wLW5hdi1oZWFkZXItbG9nbyBoMSB7CiAgICBtYXJnaW46IDA7CiAgICBmb250LXdlaWdodDogOTAwOwogICAgZm9udC1zaXplOiAyMHB4OwogICAgZm9udC1mYW1pbHk6IGN1c3RvbTsKICAgIGZvbnQtc3R5bGU6IG9ibGlxdWU7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlZml4Q2xzOnByZWZpeENscywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -378,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ConfigPro</last-search>
+      <last-search encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>ConfigPro</last-pattern>
+      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
