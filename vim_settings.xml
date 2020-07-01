@@ -104,10 +104,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" timestamp="1593586424888">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="65" column="54" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" timestamp="1593586691185">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
         <mark key="." line="65" column="53" />
         <mark key="^" line="65" column="54" />
       </file>
@@ -121,11 +121,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/index.jsx" timestamp="1593586511160">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Service/Se_Preview/index.jsx" timestamp="1593586653643">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Dict/Dict_Relation/index.jsx" timestamp="1593582286695">
         <mark key="[" line="2" column="0" />
@@ -171,10 +170,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Parameter/Query.jsx" timestamp="1593582266744">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" timestamp="1593586694172">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="0" column="45" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Field/Step.jsx" timestamp="1593582276490">
         <mark key="[" line="8" column="0" />
@@ -201,19 +202,19 @@
         <mark key="]" line="55" column="17" />
         <mark key="." line="55" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1593586672310">
+        <mark key="'" line="505" column="35" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Field/Grid.jsx" timestamp="1593582279898">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/Rules/R_Manage/Parameter/Edit.jsx" timestamp="1593582269122">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="2285522" filename="$USER_HOME$/workspace/shangyuan/f-webgis/build/ants.d43d7081.async.js" />
       <jump line="553" column="16" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="503" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="59" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/layouts/BasicLayout.less" />
@@ -265,7 +266,6 @@
       <jump line="48" column="12" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
       <jump line="45" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
       <jump line="77" column="22" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
-      <jump line="65" column="33" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" />
       <jump line="17" column="5" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/BasicLayout.jsx" />
       <jump line="4" column="20" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.less" />
       <jump line="16" column="16" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/assets/ant-design/compatible/assets/index.css" />
@@ -313,6 +313,8 @@
       <jump line="39" column="50" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/.umi/umi.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" />
       <jump line="6" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/app.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/utils/utils.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/utils/utils.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +323,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbm90aWZpY2F0aW9uLCBtZXNzYWdlIH0gZnJvbSAnYW50ZCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PCEtLSAgLS0+</text>
@@ -329,8 +331,8 @@
       <register name="/" type="4">
         <text>dva</text>
       </register>
-      <register name="0" type="4">
-        <text>@ant-design/compatible/assets/index.css</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbm90aWZpY2F0aW9uLCBtZXNzYWdlIH0gZnJvbSAnYW50ZCc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,28 +341,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICBjb25zb2xlLmxvZyhwcm9wcywgJ1sgPT09PT0gcHJvcHMgPT09PT0gXScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudERpZE1vdW50KCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHBlc2NvUHJvcHMgPSB7fTsK</text>
+        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICBjb25zb2xlLmxvZyhjLnBlc2NvUHJvcHMsICdbID09PT09IGMgPT09PT0gXScpOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyDlupTnlKjljbjovb3kuYvlkI7op6blj5EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyDlupTnlKjliqDovb3kuYvliY0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyDlupTnlKggcmVuZGVyIOS5i+WJjeinpuWPkQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICBjb25zb2xlLmxvZyhwcm9wcywgJ1sgPT09PT0gcHJvcHMgPT09PT0gXScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyDlupTnlKjliqDovb3kuYvliY0KICBhc3luYyBib290c3RyYXAocHJvcHMpIHsKICAgIGNvbnNvbGUubG9nKCdhcHAxIGJvb3RzdHJhcCcsIHByb3BzKTsKICB9LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHBlc2NvUHJvcHMgPSB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDlupTnlKjljbjovb3kuYvlkI7op6blj5EK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
