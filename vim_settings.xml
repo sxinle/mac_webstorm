@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
-        <entry>willMount</entry>
         <entry>will</entry>
         <entry>DidMount</entry>
         <entry>Pro</entry>
@@ -15,7 +13,6 @@
         <entry>babel</entry>
         <entry>Provider</entry>
         <entry>keep</entry>
-        <entry>depen</entry>
         <entry>react-acti</entry>
         <entry>active</entry>
         <entry>alive</entry>
@@ -25,6 +22,9 @@
         <entry>重置</entry>
         <entry>history</entry>
         <entry encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</entry>
+        <entry>depen</entry>
+        <entry>count</entry>
+        <entry>headers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2hvbWUvb3JkZXIvZw==</entry>
@@ -111,11 +111,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/react-keep-alive/package.json" timestamp="1593667533624">
+        <mark key="'" line="31" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/layouts/BlankLayout.jsx" timestamp="1593598059825">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/lib/upload/interface.d.ts" timestamp="1593669804940">
+        <mark key="'" line="67" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/utils/request.js" timestamp="1593593551009">
         <mark key="'" line="11" column="24" />
@@ -143,12 +149,12 @@
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/umi-plugin-cache-route/package.json" timestamp="1593658183792">
         <mark key="'" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/RootLayout.jsx" timestamp="1593666568255">
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/RootLayout.jsx" timestamp="1593669133066">
         <mark key="'" line="18" column="42" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="22" />
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/config/config.js" timestamp="1593661524069">
         <mark key="'" line="31" column="19" />
@@ -170,31 +176,18 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/package.json" timestamp="1593593516542">
-        <mark key="'" line="90" column="5" />
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="37" />
-        <mark key="." line="39" column="36" />
-        <mark key="^" line="39" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/src/global.less" timestamp="1593592973783">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="56" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/package.json" timestamp="1593658697023">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="73" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" timestamp="1593666602230">
-        <mark key="'" line="1068" column="0" />
-        <mark key="[" line="1004" column="11" />
-        <mark key="]" line="1004" column="11" />
-        <mark key="." line="1004" column="11" />
-        <mark key="^" line="1069" column="8" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" timestamp="1593668808671">
+        <mark key="'" line="465" column="16" />
+        <mark key="[" line="812" column="20" />
+        <mark key="]" line="812" column="28" />
+        <mark key="." line="812" column="27" />
+        <mark key="^" line="812" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-updm-manage/config/defaultSettings.js" timestamp="1593593630391">
         <mark key="[" line="1" column="13" />
@@ -214,16 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8266" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="8658" column="2" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9860" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9864" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9912" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9916" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9970" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="9974" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="10038" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
-      <jump line="10042" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
       <jump line="16731" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
       <jump line="17575" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
       <jump line="17594" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/dist/antd.css" />
@@ -314,6 +297,16 @@
       <jump line="1068" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
       <jump line="23" column="18" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/RootLayout.jsx" />
       <jump line="18" column="42" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/layouts/RootLayout.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/react-keep-alive/package.json" />
+      <jump line="31" column="9" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/react-keep-alive/package.json" />
+      <jump line="1004" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="1007" column="11" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="463" column="6" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="809" column="28" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="810" column="43" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="816" column="24" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="465" column="16" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/src/pages/System/Sys_Service/index.jsx" />
+      <jump line="67" column="17" filename="$USER_HOME$/workspace/shangyuan/f-permit-center/node_modules/antd/lib/upload/interface.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,46 +315,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Provider</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Provider</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</text>
+        <text>headers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ29udGV4dCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgZml4Q29udGV4dCB9IGZyb20gJ3JlYWN0LWFjdGl2YXRpb24nOwoKY29uc3QgQ29udGV4dCA9IGNyZWF0ZUNvbnRleHQoKTsKY29uc3QgeyBQcm92aWRlciwgQ29uc3VtZXIgfSA9IENvbnRleHQ7CgpmaXhDb250ZXh0KENvbnRleHQpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDmn6Xor6IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gQ29udGV4dDsK</text>
+        <text encoding="base64">ICAgIDwvUHJvdmlkZXI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxQcm92aWRlciB2YWx1ZT17MX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBDb25zdW1lciB9ID0gQ29udGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoaWRlU2hvdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NvbnN1bWVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHsgc2hvd2MgfSA9IHRoaXMuc3RhdGU7CiAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc2hvd2M6ICFzaG93YyB9KTsKICAgICAgICAgICAgICAgICAgICB9fSB0eXBlPSJwcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgIOafpeivogogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29uc3VtZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHsgc2hvd2MgfSA9IHRoaXMuc3RhdGU7CiAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc2hvd2M6ICFzaG93YyB9KTsKICAgICAgICAgICAgICAgICAgICB9fSB0eXBlPSJwcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgIOafpeivogogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIGhpZGVTaG93CiAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9LZWVwQWxpdmU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4+e3RoaXMuc3RhdGUuY291bnR9PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9Db25zdW1lcj4K</text>
+        <text encoding="base64">Y29uc3QgeyBQcm92aWRlciB9ID0gQ29udGV4dDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -370,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-search>
+      <last-search>headers</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-pattern>
+      <last-pattern>headers</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
