@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>LayersCon</entry>
-        <entry>bottom</entry>
         <entry>pesco-webgis-tabs-bottom</entry>
         <entry>Layers</entry>
         <entry>.pesco-webgis-tabs</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">Zi13ZWJnaXMtYW50LWNhbGVuZGFyLWlucHV0IA==</entry>
         <entry>f-webgis-ant-calendar-input</entry>
         <entry>f-webgis-ant-calendar-picker</entry>
+        <entry>f-webgis-ant-calendar-date-panel</entry>
+        <entry>calendar-date-panel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TL0RlcHQvVGl0bGUvZw==</entry>
@@ -104,6 +104,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/react-awesome-query-builder/package.json" timestamp="1593774203118">
+        <mark key="'" line="166" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/frontend-pesco-gis/dist/components/LayersControl/index.js" timestamp="1593768328154">
         <mark key="'" line="67" column="39" />
       </file>
@@ -118,13 +121,6 @@
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1593765123519">
-        <mark key="'" line="352" column="31" />
-        <mark key="[" line="1294" column="12" />
-        <mark key="]" line="1294" column="29" />
-        <mark key="^" line="1294" column="29" />
-        <mark key="." line="1294" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/config/router.config.js" timestamp="1593773482302">
         <mark key="'" line="38" column="10" />
@@ -214,15 +210,8 @@
         <mark key="." line="240" column="19" />
         <mark key="^" line="240" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" timestamp="1593774021830">
-        <mark key="'" line="3434" column="62" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="27503" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/dist/antd.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/antd/dist/antd.css" />
-      <jump line="636" column="33" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/antd.css" />
-      <jump line="8402" column="1" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/antd.css" />
       <jump line="8409" column="1" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/antd.css" />
       <jump line="8433" column="1" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/antd.css" />
       <jump line="204" column="29" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/pages/Home/Home.js" />
@@ -319,6 +308,10 @@
       <jump line="3414" column="62" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
       <jump line="3424" column="62" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
       <jump line="3434" column="62" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
+      <jump line="166" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/node_modules/react-awesome-query-builder/package.json" />
+      <jump line="3407" column="36" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
+      <jump line="13601" column="5" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
+      <jump line="6823" column="9" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/antd.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +326,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>f-webgis-ant-calendar-picker</text>
+        <text>calendar-date-panel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAnYXNzZXRzL2FudC1kZXNpZ24vY29tcGF0aWJsZS9hc3NldHMvaW5kZXguY3NzJzsK</text>
@@ -375,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>f-webgis-ant-calendar-picker</last-search>
+      <last-search>calendar-date-panel</last-search>
       <last-offset />
-      <last-pattern>f-webgis-ant-calendar-picker</last-pattern>
+      <last-pattern>calendar-date-panel</last-pattern>
       <last-replace>pesco-webgis-ant</last-replace>
       <last-substitute>f-webgis-ant</last-substitute>
       <last-dir>1</last-dir>
