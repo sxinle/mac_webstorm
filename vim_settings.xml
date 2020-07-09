@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Select</entry>
-        <entry>AntSelect</entry>
-        <entry>op</entry>
-        <entry>opacity</entry>
-        <entry>DropDown</entry>
         <entry>dropdown</entry>
         <entry>marker</entry>
         <entry encoding="base64">XDxmbU92ZXJsYXlcPg==</entry>
@@ -22,9 +17,14 @@
         <entry>undefined</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1ZlY3RvclNvdXJjZVw+</entry>
         <entry>15px</entry>
-        <entry>click</entry>
         <entry>close</entry>
         <entry>closer</entry>
+        <entry>click</entry>
+        <entry encoding="base64">XDxzZWxlY3RDbGlja1w+</entry>
+        <entry>undefin</entry>
+        <entry>selectClick</entry>
+        <entry>Layers</entry>
+        <entry encoding="base64">XDx3aW5kb3dWaXNpYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TL0RlcHQvVGl0bGUvZw==</entry>
@@ -104,22 +104,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" timestamp="1594272620537">
-        <mark key="'" line="33" column="14" />
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" timestamp="1594274131687">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="59" column="20" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/css/ol-popup.css" timestamp="1594201129931">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1594265150128">
-        <mark key="'" line="605" column="26" />
-        <mark key="[" line="1220" column="0" />
-        <mark key="]" line="1233" column="20" />
-        <mark key="." line="1220" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" timestamp="1594275557294">
+        <mark key="'" line="187" column="6" />
+        <mark key="[" line="451" column="36" />
+        <mark key="]" line="452" column="14" />
+        <mark key="." line="452" column="13" />
+        <mark key="^" line="452" column="14" />
       </file>
       <file name="/index.js" timestamp="1594265146396">
         <mark key="'" line="1214" column="52" />
@@ -128,11 +129,12 @@
         <mark key="^" line="2706" column="95" />
         <mark key="." line="2706" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" timestamp="1594273318581">
-        <mark key="'" line="838" column="51" />
-        <mark key="[" line="463" column="0" />
-        <mark key="]" line="463" column="0" />
-        <mark key="." line="463" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" timestamp="1594274950356">
+        <mark key="'" line="454" column="6" />
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="140" column="40" />
+        <mark key="." line="140" column="39" />
+        <mark key="^" line="140" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/global.less" timestamp="1594201156874">
         <mark key="'" line="18" column="0" />
@@ -159,11 +161,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1594255918435">
-        <mark key="'" line="239" column="19" />
-        <mark key="[" line="839" column="0" />
-        <mark key="]" line="839" column="0" />
-        <mark key="." line="839" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" timestamp="1594275205597">
+        <mark key="'" line="241" column="35" />
+        <mark key="[" line="894" column="32" />
+        <mark key="]" line="894" column="37" />
+        <mark key="." line="894" column="36" />
+        <mark key="^" line="894" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" timestamp="1594256565649">
         <mark key="'" line="749" column="0" />
@@ -175,35 +178,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="29" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="141" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="434" column="29" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="810" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="394" column="36" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="146" column="8" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="147" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="201" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="202" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="203" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="300" column="25" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="311" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="820" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="445" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="827" column="15" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="407" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="819" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="145" column="18" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="406" column="23" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="840" column="29" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="112" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="138" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="356" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="365" column="2" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="891" column="50" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="892" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="893" column="22" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="0" column="20" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
-      <jump line="9" column="51" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
       <jump line="154" column="33" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="206" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="207" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
@@ -212,7 +192,6 @@
       <jump line="313" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="315" column="8" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="316" column="10" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="317" column="32" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="318" column="8" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="319" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="332" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
@@ -230,7 +209,6 @@
       <jump line="325" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
       <jump line="749" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/query/attribute/index.jsx" />
       <jump line="143" column="27" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="454" column="29" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="124" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="113" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="412" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
@@ -260,7 +238,6 @@
       <jump line="589" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="443" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="138" column="28" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="153" column="39" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="306" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="307" column="4" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
@@ -268,13 +245,39 @@
       <jump line="444" column="12" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="32" column="14" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" />
       <jump line="305" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
-      <jump line="449" column="37" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="611" column="70" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="695" column="23" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="696" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="784" column="23" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="785" column="24" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
       <jump line="838" column="51" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="5" column="19" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/assets/ant-design/compatible/assets/ol-popup.css" />
+      <jump line="317" column="39" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="420" column="52" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="55" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="478" column="26" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="138" column="38" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="449" column="25" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="454" column="6" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/analysis/burstpipe/index.jsx" />
+      <jump line="838" column="21" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="842" column="40" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="850" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="857" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="864" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="871" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="878" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="886" column="17" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="9" column="62" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="169" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="187" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="205" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="223" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="241" column="35" filename="$USER_HOME$/workspace/shangyuan/f-webgis/src/pages/index.jsx" />
+      <jump line="464" column="8" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
+      <jump line="1299" column="49" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
+      <jump line="187" column="6" filename="$USER_HOME$/workspace/shangyuan/frontend-pesco-gis/src/components/LayersControl/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,20 +285,20 @@
       <register name="&quot;" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>that.state.</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>closer</text>
+        <text encoding="base64">XDx3aW5kb3dWaXNpYmxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZmVhdHVyZXNWZWN0b3JTb3VyY2UgfSA9IHRoaXMuc3RhdGU7Cg==</text>
+      <register name="0" type="4">
+        <text>selectClick</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFwLmNsZWFySW4K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -304,10 +307,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXNWZWN0b3JTb3VyY2UuY2xlYXIoKTsKICAgICAgZmVhdHVyZXNWZWN0b3JTb3VyY2UucmVmcmVzaCgpOy8vIOa4heepuuS5i+WJjeeUu+eahG1hcmtlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmVhdHVyZXNWZWN0b3JTb3VyY2UuY2xlYXIoKTsKICAgICAgZmVhdHVyZXNWZWN0b3JTb3VyY2UucmVmcmVzaCgpOy8vIOa4heepuuS5i+WJjeeUu+eahG1hcmtlcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -316,13 +319,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFRvZ2dsZUJ1dHRvbgogICAgICAgICAgICAgICAgICAgIG5hbWU9InF1ZXJ5IgogICAgICAgICAgICAgICAgICAgIHRvb2x0aXA9Iuafpeeci+WbvuWxguWxnuaApyIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im1hcC1pY29uLXN4IgogICAgICAgICAgICAgICAgICAgIC8vIG9uVG9nZ2xlPXtvblByb3BlcnRpZXNMaXN0V2luZG93VmlzaWJsZX0KICAgICAgICAgICAgICAgICAgICBvblRvZ2dsZT17dGhpcy5vblNob3dQcm9wZXJ0aWVzTGlzdH0KICAgICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFRvZ2dsZUJ1dHRvbgogICAgICAgICAgICAgICAgICAgIG5hbWU9InF1ZXJ5IgogICAgICAgICAgICAgICAgICAgIHRvb2x0aXA9Iuafpeeci+WbvuWxguWxnuaApyIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im1hcC1pY29uLXN4IgogICAgICAgICAgICAgICAgICAgIC8vIG9uVG9nZ2xlPXtvblByb3BlcnRpZXNMaXN0V2luZG93VmlzaWJsZX0KICAgICAgICAgICAgICAgICAgICBvblRvZ2dsZT17dGhpcy5vblNob3dQcm9wZXJ0aWVzTGlzdH0KICAgICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,9 +334,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>closer</last-search>
+      <last-search encoding="base64">XDx3aW5kb3dWaXNpYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern>closer</last-pattern>
+      <last-pattern encoding="base64">XDx3aW5kb3dWaXNpYmxlXD4=</last-pattern>
       <last-replace>pesco-webgis-ant</last-replace>
       <last-substitute>f-webgis-ant</last-substitute>
       <last-dir>1</last-dir>
