@@ -3,25 +3,25 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern="SignInScreen" type="JavaScript" />
       <mapping pattern="AuthLoadingScreen" type="JavaScript" />
+      <mapping pattern="SignInScreen" type="JavaScript" />
       <mapping pattern=".webpackrc" type="PLAIN_TEXT" />
       <mapping pattern="HomeNav.js" type="PLAIN_TEXT" />
-      <mapping pattern="BaseScreen.js" type="PLAIN_TEXT" />
-      <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
-      <mapping pattern="AtyUndo" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
-      <mapping pattern="DragAndDrop" type="PLAIN_TEXT" />
-      <mapping pattern="Utils" type="PLAIN_TEXT" />
-      <mapping pattern="SearchTree.js" type="PLAIN_TEXT" />
       <mapping pattern="TabNav.js" type="PLAIN_TEXT" />
-      <mapping ext="class" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="DragAndDrop" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="BaseScreen.js" type="PLAIN_TEXT" />
+      <mapping pattern="AtyUndo" type="PLAIN_TEXT" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern="SearchTree.js" type="PLAIN_TEXT" />
+      <mapping pattern="Utils" type="PLAIN_TEXT" />
+      <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="class" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
