@@ -4,6 +4,17 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="cocos creator" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Applications/Cocos/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/cocos2d" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Applications/Cocos/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/cocos2d" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-native-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
