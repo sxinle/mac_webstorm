@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pointer" />
       <item value="Projection" />
       <item value="get Projection" />
       <item value="one Piexl Degree Diff" />
@@ -50,12 +51,11 @@
       <item value="shift Hold" />
       <item value="easing" />
       <item value="toggle Multi Select" />
-      <item value="without Record" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="3" />
@@ -75,6 +75,7 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="222daa0325e080a8" />
