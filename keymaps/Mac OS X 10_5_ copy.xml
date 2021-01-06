@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateFundToolToolWindow">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
