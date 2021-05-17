@@ -2,8 +2,22 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.meta;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="node-which" type="AUTO_DETECTED" />
+      <mapping pattern="jsesc" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="publish-built-version" type="AUTO_DETECTED" />
+      <mapping pattern="parser" type="AUTO_DETECTED" />
+      <mapping pattern="license" type="AUTO_DETECTED" />
+      <mapping pattern="eslint" type="AUTO_DETECTED" />
+      <mapping pattern="info" type="AUTO_DETECTED" />
+      <mapping pattern="rimraf" type="AUTO_DETECTED" />
+      <mapping pattern="esparse" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE-MIT" type="AUTO_DETECTED" />
+      <mapping pattern="prepare-tests" type="AUTO_DETECTED" />
       <mapping pattern="AuthLoadingScreen" type="JavaScript" />
       <mapping pattern="SignInScreen" type="JavaScript" />
+      <mapping pattern="esvalidate" type="Native" />
+      <mapping ext="def" type="Native" />
       <mapping pattern=".webpackrc" type="PLAIN_TEXT" />
       <mapping pattern="HomeNav.js" type="PLAIN_TEXT" />
       <mapping pattern="TabNav.js" type="PLAIN_TEXT" />
@@ -20,9 +34,16 @@
       <mapping pattern=".roadhogrc" type="PLAIN_TEXT" />
       <mapping pattern="util.js" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="bsd" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="closure-compiler" type="PLAIN_TEXT" />
+      <mapping ext="nix" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="jst" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping ext="esprima" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
